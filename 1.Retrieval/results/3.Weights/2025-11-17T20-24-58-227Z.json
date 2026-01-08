@@ -1,0 +1,1991 @@
+{
+  "selectedSource": {
+    "arxivId": "2501.07572",
+    "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+  },
+  "target": {
+    "arxivId": "2403.11905",
+    "title": "Tur[k]ingBench: A Challenge Benchmark for Web Agents"
+  },
+  "scores": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 1
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 1
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 2
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 1
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 177.5
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 2
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 1
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 3
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 2
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 158
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 3
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 2
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 5
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 4
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 155.5
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 3
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 2
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 5
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 4
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 153
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 3
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 2
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 5
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 4
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 148
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 5
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 4
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 139.5
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 2
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 5
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 3
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 128
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 7
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 5
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 117.5
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 6
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 5
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 115
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 4
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 6
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 5
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 110.5
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 5
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 6
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 4
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 107.5
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 10
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 2
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 4
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 3
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 103
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 7
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 5
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 7
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 6
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 5
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 82
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 10
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 7
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 81
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 9
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 7
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 6
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 5
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 6
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 8
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 72
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 9
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 7
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 6
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 56
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 7
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 10
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 8
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 7
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 52
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 7
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 5
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 44
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 7
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 8
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 7
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 8
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 2
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 8
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 6
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 7
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 8
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 7
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 10
+            }
+          ]
+        },
+        "score": 2.5
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 4
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 10
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 9
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 8
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": 2.5
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 9
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 9
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": -8.5
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Web Agent Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "LLM Foundation and Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Architectures and Frameworks",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Domain Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Task Focus Mismatch",
+              "score": 10
+            },
+            {
+              "theme": "Benchmark Scope vs. Paper Focus",
+              "score": 9
+            },
+            {
+              "theme": "System/Methodology vs. Agent Performance",
+              "score": 8
+            },
+            {
+              "theme": "Technical Report Scope",
+              "score": 0
+            }
+          ]
+        },
+        "score": -15.5
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Web Agent Capabilities",
+            "description": "Papers focusing on core web agent functionalities like navigation, information seeking, tool use, and interaction with web environments are highly relevant. This includes research on how agents can leverage search engines, execute code for web tasks, and perform multi-turn interactions."
+          },
+          {
+            "theme": "LLM Foundation and Training",
+            "description": "Advancements in Large Language Models (LLMs) and their training methodologies are central. This includes research on LLM-based agents, reinforcement learning for LLMs, policy optimization techniques, and understanding LLM capabilities like few-shot learning and in-context reinforcement learning."
+          },
+          {
+            "theme": "Agent Architectures and Frameworks",
+            "description": "Papers introducing frameworks or architectures for agents, especially those involving multi-agent systems, distillation, or combining reasoning with action (like ReAct), are relevant for evaluating and understanding agentic behavior on the web."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "description": "Research on how agents can effectively use and integrate various tools (e.g., APIs, search engines, code execution) is crucial, as these are key components for sophisticated web agents. Benchmarks like Tur[k]ingBench would evaluate agents' ability to strategically employ these tools."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "description": "Papers directly addressing the benchmarking of LLMs or agents in web traversal or GUI agent tasks are highly relevant, as they share the same goals of evaluating agent performance in specific environments and can serve as comparative studies."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Domain Specificity vs. Generality",
+            "description": "Contrast often arises when papers focus on very general AI concepts (e.g., general policy optimization, broad task automation, or cross-domain experience) that may not be directly tailored to the specific challenges and environments of *web* agents, which is the focus of Tur[k]ingBench."
+          },
+          {
+            "theme": "Task Focus Mismatch",
+            "description": "Some papers might be too specialized in non-web domains (e.g., mathematical problem-solving, coding challenges, mobile device operations) or focus on aspects not central to web agent tasks (e.g., data synthesizing for training, theoretical in-context RL) making them less relevant to a web agent benchmark."
+          },
+          {
+            "theme": "Benchmark Scope vs. Paper Focus",
+            "description": "While a paper might be related to agents or LLMs, its specific contribution might be too narrow (e.g., a very specific training technique, a particular type of tool use) or too broad (e.g., a survey of all GUI agents) compared to the specific evaluation goals of Tur[k]ingBench for web agents."
+          },
+          {
+            "theme": "System/Methodology vs. Agent Performance",
+            "description": "Papers focusing heavily on the underlying systems or infrastructure for training (e.g., RL system scalability) rather than the resultant agent's performance on specific web tasks might be less directly cited, as a benchmark is primarily concerned with evaluating agent capabilities."
+          },
+          {
+            "theme": "Technical Report Scope",
+            "description": "Technical reports for general LLMs might not contain the specific details, benchmarks, or evaluation metrics that are relevant to *web agent* performance, even if the LLM itself has potential for such tasks. Tur[k]ingBench requires evaluations tailored to its specific domain."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Web Agent Capabilities",
+            "weight": 5,
+            "explanation": "The target paper is explicitly about a benchmark for web agents, making research on core web agent functionalities directly relevant."
+          },
+          {
+            "theme": "LLM Foundation and Training",
+            "weight": 4.5,
+            "explanation": "Web agents are often built upon LLMs, so advancements and training methodologies for LLMs are highly important for understanding and developing such agents."
+          },
+          {
+            "theme": "Agent Architectures and Frameworks",
+            "weight": 4,
+            "explanation": "Benchmarks like Tur[k]ingBench evaluate agents within specific architectural contexts. Research on agent frameworks and multi-agent systems is therefore very relevant."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "weight": 5,
+            "explanation": "The ability of agents to use tools is a key aspect of web agent performance, which Tur[k]ingBench aims to evaluate. Therefore, research on tool integration is critically important."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "weight": 5,
+            "explanation": "The target paper is a benchmark. Papers that focus on benchmarking LLMs or agents in similar domains are directly related and highly influential."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Domain Specificity vs. Generality",
+            "weight": 3.5,
+            "explanation": "While Tur[k]ingBench is specific to web agents, some general AI concepts might still inform its development or evaluation. However, papers focusing *too* broadly without web agent relevance are less likely to be cited."
+          },
+          {
+            "theme": "Task Focus Mismatch",
+            "weight": 4,
+            "explanation": "Papers focused on non-web domains or aspects not core to web agent interaction (like pure theoretical RL without application to web tasks) are less likely to be cited by a paper focused on a web agent benchmark."
+          },
+          {
+            "theme": "Benchmark Scope vs. Paper Focus",
+            "weight": 3,
+            "explanation": "A paper's contribution might be too narrow or too broad compared to the specific goals of Tur[k]ingBench, making it less directly relevant for citation. The niche focus of Tur[k]ingBench means highly specific or overly general papers are less impactful."
+          },
+          {
+            "theme": "System/Methodology vs. Agent Performance",
+            "weight": 3,
+            "explanation": "Tur[k]ingBench's primary goal is to evaluate agent performance. Papers focused solely on the underlying systems without direct relevance to agent capabilities on web tasks are less likely to be highly cited."
+          },
+          {
+            "theme": "Technical Report Scope",
+            "weight": 4,
+            "explanation": "General technical reports for LLMs often lack the specific evaluation metrics and domain focus required for a specialized web agent benchmark like Tur[k]ingBench, making them less relevant for direct citation."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.36457246836649293
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.3997193481869282
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.42729029285314557
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.4448266343427919
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.4470320975503953
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.44893643527331395
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.4576489870113376
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.483483986020665
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.5029622023546523
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.5123598888623948
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.5263076594748338
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.5274471963525957
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5599618649366259
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.5619015543073316
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.5627817635911563
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.5651453656444303
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5868072646366754
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.6104139826453132
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.6232474344717472
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.6250862871557028
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6416467318557497
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6542797750554334
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.6729395799290387
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6894217031947091
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.6980971584559396
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.70225629543585
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 4,
+    "ordered": [
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6685118319898298
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.6829352067840795
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7049138594252042
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.7193804277912142
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.7481470117877085
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7640891128725836
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.7719743383033768
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7741847986442612
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7925498594075316
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.8021863756124786
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8035235378431806
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.8246855672703778
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.8259798034584034
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.8279315215292562
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.8285283436083952
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.8545507100657016
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.8672925248087948
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.9310369051799187
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.9315527896408563
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.9737493254240852
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.0105010320246266
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1.0634915895282409
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.0727483219088225
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.0875195944838465
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.1153261128415377
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1508199423178538
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2501.07572",
+      "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+    },
+    "target": {
+      "arxivId": "2403.11905",
+      "title": "Tur[k]ingBench: A Challenge Benchmark for Web Agents"
+    }
+  }
+}

@@ -1,0 +1,1951 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2509.25140",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory"
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation"
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process"
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents"
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks"
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models"
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks"
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code"
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation"
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents"
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling"
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models"
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research"
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge"
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory"
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model"
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs"
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents"
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes"
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents"
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control"
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2503.07891",
+      "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+    },
+    "target": {
+      "arxivId": "2409.15700",
+      "title": "Making Text Embedders Few-Shot Learners"
+    }
+  },
+  "embeddings": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "distance": 0.4351694590546088
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "distance": 0.48716217150425434
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "distance": 0.5226736307927837
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "distance": 0.5244358054749446
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "distance": 0.5323533621469478
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "distance": 0.5431131849649309
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "distance": 0.5436151606169413
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.5671791830104767
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "distance": 0.5686733431451803
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "distance": 0.571327661679076
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "distance": 0.5729635952083518
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "distance": 0.5768610400448173
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "distance": 0.5810343748087607
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "distance": 0.5833042285768166
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "distance": 0.5893554142133377
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.5907077406082258
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "distance": 0.6004497043686574
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "distance": 0.6069125496475674
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "distance": 0.6088723733382636
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "distance": 0.6108758094622031
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "distance": 0.6116431516235532
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "distance": 0.6124345087315112
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "distance": 0.6151401857587286
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "distance": 0.6167157279866526
+      },
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "distance": 0.6204749783577532
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "distance": 0.620940543497559
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "distance": 0.6224125338087879
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "distance": 0.628003091673925
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "distance": 0.6308162224956139
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6330703563222841
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "distance": 0.6332322492761056
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "distance": 0.6355523100627656
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "distance": 0.6405126357374578
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "distance": 0.6445689523036597
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "distance": 0.6495778903992442
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "distance": 0.6500340072682129
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "distance": 0.6516075803196457
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "distance": 0.6531997165841501
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "distance": 0.6579513538868025
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "distance": 0.6580904647343416
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "distance": 0.6682448355939752
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.6702433305625521
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "distance": 0.6812489966234068
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "distance": 0.6847498114059161
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "distance": 0.6858745253438543
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "distance": 0.6905152209089432
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.6942045750614925
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6952101603785619
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "distance": 0.7060920486753163
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "distance": 0.7095688546114443
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.7126348773476514
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "distance": 0.7186278399121778
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "distance": 0.7209243800555671
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "distance": 0.7226327483235542
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "distance": 0.7238375485786759
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "distance": 0.7343166426357284
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "distance": 0.7347547664061918
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "distance": 0.7394718174285153
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "distance": 0.7412093005409537
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "distance": 0.7434186585867222
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "distance": 0.7691428542444261
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "distance": 0.7862953122435801
+      }
+    ]
+  },
+  "llm": {
+    "rank": 42,
+    "ordered": [
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 10,
+        "reason": "The target paper is about making text embedders few-shot learners, which heavily relies on how memory mechanisms within LLM agents are designed and utilized. This survey paper directly addresses the core concept of memory in LLM agents, making it highly relevant for understanding how to enhance few-shot learning capabilities through memory."
+      },
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 9,
+        "reason": "The target paper's focus on few-shot learning for text embedders can be directly improved by enhancing LLMs with better long-term memory. This paper introduces a method for exactly that, 'MemoryBank', making it a strong candidate for bridging to the target."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 9,
+        "reason": "The target paper aims to improve few-shot learning capabilities in text embedders, which are often used within agents. Understanding and exploring agent procedural memory, as this paper does, is crucial for how these embedders learn and adapt, thus bridging to few-shot learning."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 8,
+        "reason": "Scalable long-term memory is fundamental for agents to perform few-shot learning effectively. This paper focuses on building agents with such memory, directly supporting the goal of making text embedders few-shot learners."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 8,
+        "reason": "This paper's focus on agentic memory is highly relevant to improving few-shot learning in text embedders used by LLM agents. Better memory management can lead to more efficient learning from fewer examples."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 8,
+        "reason": "Extending LLMs with scalable long-term memory is a direct enabler for few-shot learning. This work is relevant as it addresses the core challenge of memory capacity, which is essential for few-shot performance."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 8,
+        "reason": "Evaluating long-term memory in agents is crucial for understanding their ability to learn from limited interactions, which is the essence of few-shot learning. Benchmarking this capability directly informs how to improve it."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 8,
+        "reason": "The ability of LLM agents to retain and utilize information over long conversations (memory) is key to their few-shot learning capabilities. Evaluating this long-term memory directly relates to the target's goal."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 8,
+        "reason": "MemGPT's approach of treating LLMs as operating systems with memory management is highly relevant to few-shot learning. A robust memory system is critical for enabling agents (and their embedders) to learn from few examples."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 7,
+        "reason": "Effective memory management, especially hierarchical working memory, is crucial for agents to perform complex tasks and learn efficiently. This relates to enabling few-shot learning by better organizing and utilizing information."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 7,
+        "reason": "Synergizing memory and reasoning is a key aspect of efficient learning, including few-shot learning. This paper's focus on this synergy for agents is relevant to improving text embedders' ability to learn from few examples."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 7,
+        "reason": "The target paper aims to make embedders few-shot learners. Evaluating how memory works in LLM agents through incremental interactions is directly related to understanding and improving this learning capability."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 7,
+        "reason": "Personalization often involves learning from limited user-specific data (few-shot). This paper's approach using dual-memory and personalized thought processes could offer insights into how to enable few-shot learning in embedders."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 7,
+        "reason": "Effective memory management, particularly for personalized dialogue, is essential for agents to adapt and learn from limited interactions. This aligns with the goal of making text embedders few-shot learners."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 7,
+        "reason": "Episodic memory, inspired by human cognition, can significantly enhance an agent's ability to learn from past experiences, which is core to few-shot learning. This paper's focus on improving memory for LLMs is relevant."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 7,
+        "reason": "Retrieval-augmented planning combined with contextual memory is a mechanism that can improve an agent's ability to leverage information, which is key for few-shot learning. This paper's approach is directly applicable."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 7,
+        "reason": "Agents that can plan and understand long contexts are better equipped to learn from limited data. This paper's focus on enabling such capabilities in a WebAgent is relevant to the goal of few-shot learning."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 6,
+        "reason": "Self-evolving agents that learn from experience can be seen as a form of adaptation, which is related to few-shot learning. This paper's focus on autonomous learning from experience provides a foundation for such capabilities."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 6,
+        "reason": "Self-evolving agents imply continuous improvement and adaptation, concepts that are intertwined with few-shot learning. A survey on this topic can provide a broad understanding of relevant mechanisms."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 6,
+        "reason": "Leveraging experience, especially cross-domain, is crucial for efficient learning. This paper's approach to agentic problem-solving using experience is relevant to few-shot learning."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 6,
+        "reason": "Improving LLMs with better memory management, particularly for long contexts, can enhance their ability to process and learn from limited information, relevant to few-shot learning."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 6,
+        "reason": "Self-improvement through experience replay is a learning mechanism that can be optimized for efficiency, similar to few-shot learning. This paper's approach is relevant to enhancing learning from experience."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 6,
+        "reason": "An OS-like approach to memory augmentation in LLMs could lead to more structured and efficient use of information, which is beneficial for few-shot learning. This paper's conceptualization is relevant."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 6,
+        "reason": "The ability to reason is often a prerequisite for few-shot learning. This paper investigates how RL influences reasoning, which is indirectly relevant to improving learning efficiency in LLMs."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 6,
+        "reason": "Collaborative reasoning and test-time scaling suggest methods for improving performance with limited resources or data, which aligns with the spirit of few-shot learning."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 6,
+        "reason": "This paper surveys foundation agents, which are expected to have adaptive learning capabilities. Understanding these advances is relevant to making embedders few-shot learners."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 6,
+        "reason": "Self-evolving agents with memory augmentation are inherently capable of adapting and learning from limited information, making this relevant to few-shot learning."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 6,
+        "reason": "Benchmarking continuous improvement implies agents that can learn and adapt over time, which is related to few-shot learning. This work provides a framework for evaluating such capabilities."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 6,
+        "reason": "Benchmarking agents in open-ended tasks requires them to be adaptable and learn from limited interactions. This provides a context for evaluating few-shot learning capabilities."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 6,
+        "reason": "Autonomous refinement implies agents that can learn and improve themselves, which is related to few-shot learning. This paper's focus on evaluation and refinement is relevant."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 6,
+        "reason": "Self-evolution and learning across tasks suggest adaptation capabilities, which are foundational for few-shot learning. This paper's strategy is relevant to improving learning efficiency."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 6,
+        "reason": "Agents that are experiential learners are by nature capable of learning from limited data. This paper directly addresses the learning paradigm relevant to few-shot learning."
+      },
+      {
+        "index": 60,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 6,
+        "reason": "Self-refinement implies learning from internal feedback, a process that can be optimized for efficiency, aligning with the principles of few-shot learning. This iterative improvement mechanism is relevant."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 5,
+        "reason": "Hierarchical reasoning is an advanced cognitive ability that can contribute to few-shot learning. While not directly about memory, improved reasoning can enhance how agents learn from limited data."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 5,
+        "reason": "Learning from errors and continual learning are related to efficient adaptation, a core aspect of few-shot learning. Exploiting error cases can help optimize learning from limited examples."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 5,
+        "reason": "Memory-augmented planning can lead to more efficient task completion. While specific to mobile automation, the memory augmentation aspect is relevant to improving learning efficiency."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 5,
+        "reason": "Optimizing short-term memory management is important for agents. While focused on tool calling, efficient memory use can indirectly support few-shot learning."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 5,
+        "reason": "Advanced reasoning and long context capabilities in models like Gemini 2.5 are foundational for agents that can learn from few examples. This paper highlights advancements in these areas."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 5,
+        "reason": "Scaling test-time compute can improve performance without additional training, which is related to few-shot learning's goal of efficiency. Understanding scaling strategies is relevant."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 5,
+        "reason": "Agents that reason by scaling test-time interaction are learning during inference, a concept akin to few-shot learning. This approach to agent behavior is relevant."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Training retrievers for reasoning tasks can improve an agent's ability to access and utilize relevant information, which is beneficial for few-shot learning."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 5,
+        "reason": "Generalizable embeddings are a prerequisite for effective few-shot learning. This paper introduces embeddings designed for generality, which is directly relevant."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 5,
+        "reason": "Fine-tuning that considers inference can lead to more efficient models. This indirectly relates to few-shot learning by optimizing model performance with potentially fewer resources."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 5,
+        "reason": "LLM-as-a-judge methods often rely on the LLM's ability to generalize and understand instructions with minimal examples, which is related to few-shot learning."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 5,
+        "reason": "Exploratory learning and self-reflection are mechanisms that can help agents learn more efficiently, aligning with the goals of few-shot learning."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 5,
+        "reason": "Agents that can automate tasks often need to learn quickly from context or examples. This paper's focus on agent-computer interfaces is relevant to building adaptable agents."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 5,
+        "reason": "Learning principles from mistakes is a direct form of learning from limited data, very similar to few-shot learning. This paper's approach is highly relevant."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 5,
+        "reason": "Environments like WebArena require agents to be adaptable and learn to perform tasks effectively, which relates to few-shot learning. Benchmarking in such environments informs agent capabilities."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 5,
+        "reason": "Using trajectories as exemplars in prompting is a form of few-shot learning. This paper's method of using memory to enhance this process is relevant."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 5,
+        "reason": "Generalist agents need to adapt to diverse tasks with limited specific training, which is the essence of few-shot learning. This paper's goal is highly relevant."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 4,
+        "reason": "Learning programmatic skills can enhance an agent's ability to perform tasks. This is indirectly related to few-shot learning as it pertains to efficient task execution and adaptation."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 4,
+        "reason": "Efficient test-time scaling suggests improving performance without extensive training, aligning with the goals of few-shot learning. Use of code implies a structured approach."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 4,
+        "reason": "Test-time scaling for code generation is about improving output with potentially limited adaptation. This relates to the efficiency aspect of few-shot learning."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 4,
+        "reason": "This paper discusses trade-offs in scaling test-time compute. Understanding these trade-offs is relevant to optimizing performance, which connects to few-shot learning's efficiency goals."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 4,
+        "reason": "Simple test-time scaling aims for performance improvements without full retraining, which is a characteristic of few-shot learning's efficiency focus."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 4,
+        "reason": "Learning by interaction and self-adaptation are key to agents that can learn from experience, which is related to few-shot learning. This framework focuses on practical data utilization."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "Web agent research often involves learning to perform tasks in new environments, which requires adaptability and efficient learning, core aspects of few-shot learning."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 4,
+        "reason": "Workflow memory for agents can help them manage complex tasks. Better memory management contributes to overall efficiency, which is relevant to few-shot learning."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 4,
+        "reason": "Self-evolving agents with memory augmentation inherently possess adaptive capabilities relevant to few-shot learning. Their ability to refine themselves is key."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 4,
+        "reason": "Autonomous agents need to be capable of learning and adapting. A survey on such agents provides context on current capabilities and challenges, relevant to few-shot learning."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 3,
+        "reason": "Evaluating agents on complex web tasks requires them to learn and adapt. This research environment could be used to test few-shot learning capabilities."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 3,
+        "reason": "Efficient test-time scaling aims for performance improvements without extensive training, which is related to few-shot learning's efficiency focus. The use of code indicates a structured approach."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 3,
+        "reason": "Agents that automate tasks often need to learn quickly from context or examples. This paper focuses on agent-computer interfaces, relevant to building adaptable agents."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 3,
+        "reason": "WebArena, as a benchmark, requires agents to learn and adapt to tasks. This environment can serve to test and improve few-shot learning capabilities."
+      },
+      {
+        "index": 61,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 3,
+        "reason": "Synergizing reasoning and acting can improve task performance. While not directly memory or few-shot learning, it contributes to more effective agent behavior, which can indirectly benefit learning."
+      },
+      {
+        "index": 62,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 2,
+        "reason": "Contrastive learning is a general machine learning technique. While effective for representation learning, its direct link to few-shot text embedders or agent memory is weaker compared to other papers."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 1,
+        "reason": "This paper focuses on optimizing LLMs for sampling, which is less directly related to the core mechanisms of few-shot learning in embedders or agent memory compared to other works."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 1,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 8,
+        "reason": "Focuses on generalizable embeddings from Gemini, which is relevant to creating effective representations for text, a core component of the target paper's goal of making text embedders few-shot learners."
+      },
+      {
+        "index": 44,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 7,
+        "reason": "Highlights Gemini's advanced capabilities, including reasoning and long context, which are foundational for developing sophisticated text embedding models that can learn from limited examples."
+      },
+      {
+        "index": 16,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 7,
+        "reason": "This paper aims to create a generalist agent for the web, implying strong capabilities in understanding and processing web content, which is closely related to learning from text representations."
+      },
+      {
+        "index": 26,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 7,
+        "reason": "Focuses on long context understanding and program synthesis in web agents, suggesting advancements in processing and learning from complex textual information, relevant to few-shot learning for embeddings."
+      },
+      {
+        "index": 47,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 7,
+        "reason": "Provides a realistic web environment for agent research, which often involves text-based interactions and learning, aligning with the need for effective text embedding models."
+      },
+      {
+        "index": 55,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 7,
+        "reason": "SWE-agent focuses on enabling automated software engineering, which heavily relies on understanding and generating code (textual representation), relevant to few-shot learning in text embeddings."
+      },
+      {
+        "index": 57,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 6,
+        "reason": "Discusses self-evolving agents with memory, which can lead to improved learning capabilities, potentially applicable to enhancing how text embedders learn with fewer examples."
+      },
+      {
+        "index": 58,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 6,
+        "reason": "Focuses on memory for agents, which is crucial for maintaining context and learning over time, a concept that can be extended to few-shot learning scenarios for text embeddings."
+      },
+      {
+        "index": 52,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 6,
+        "reason": "A survey on self-evolving agents could provide insights into mechanisms that enable rapid learning and adaptation, which are relevant for few-shot learning in text embeddings."
+      },
+      {
+        "index": 53,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 6,
+        "reason": "Covers foundation agents and evolutionary systems, which are relevant to developing agents that can learn and adapt efficiently, a key aspect of few-shot learning for text embeddings."
+      },
+      {
+        "index": 2,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 6,
+        "reason": "Addresses long-term memory for LLMs, which is important for agents to retain and utilize information effectively, a principle that can inform few-shot learning strategies."
+      },
+      {
+        "index": 4,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 6,
+        "reason": "Focuses on memory-augmented generation, suggesting enhanced information processing and utilization, which can be beneficial for few-shot learning in text embeddings."
+      },
+      {
+        "index": 5,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 6,
+        "reason": "Deals with scalable long-term memory for LLMs, relevant for agents that need to learn and adapt quickly from limited data, as in few-shot scenarios."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 6,
+        "reason": "Introduces a memory agent for long contexts, implying improved context utilization which can aid in few-shot learning by allowing models to better grasp nuances from limited examples."
+      },
+      {
+        "index": 9,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 6,
+        "reason": "Explores episodic memory, which is about learning from specific experiences, a concept that aligns with the idea of few-shot learning where models learn from a small set of examples."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 6,
+        "reason": "Focuses on scalable long-term memory for AI agents, which is crucial for building agents that can learn and adapt efficiently, relevant to few-shot learning."
+      },
+      {
+        "index": 14,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 6,
+        "reason": "Benchmarking long-term memory is essential for developing agents that can retain and use information over extended interactions, a capability that can benefit few-shot learners."
+      },
+      {
+        "index": 17,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 6,
+        "reason": "Uses memory with exemplar prompting for agents, suggesting a way to guide learning from limited examples, relevant to few-shot embedding learning."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 6,
+        "reason": "Evaluates long-term memory in agents, which is important for understanding how models can learn and adapt over time, a key aspect of few-shot learning."
+      },
+      {
+        "index": 19,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 6,
+        "reason": "Optimizing memory management is crucial for agents to efficiently process information, which can be applied to improving few-shot learning by better utilizing limited data."
+      },
+      {
+        "index": 20,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 6,
+        "reason": "Proposes LLMs as operating systems with memory, implying advanced data management and learning capabilities that could enhance few-shot embedding performance."
+      },
+      {
+        "index": 21,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 6,
+        "reason": "Focuses on agentic memory, which is fundamental for agents to learn and adapt efficiently, a core concept in few-shot learning."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 6,
+        "reason": "Inducing programmatic skills suggests a learning process that can be generalized, relevant to teaching text embedders to learn few-shot tasks."
+      },
+      {
+        "index": 23,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 6,
+        "reason": "Self-improvement through experience replay implies a learning mechanism that can be applied to few-shot scenarios, making models better learners from limited data."
+      },
+      {
+        "index": 24,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 6,
+        "reason": "Evaluating memory in agents relates to how they learn and adapt over time, which is key for developing few-shot learners."
+      },
+      {
+        "index": 25,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 6,
+        "reason": "Hierarchical reasoning is a complex cognitive process that LLMs can develop, and improved reasoning can aid in understanding and learning from fewer examples."
+      },
+      {
+        "index": 27,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 6,
+        "reason": "Investigates RL's role in enhancing reasoning, which is a key component for effective few-shot learning where models need to infer patterns from limited data."
+      },
+      {
+        "index": 28,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 6,
+        "reason": "Benchmarking continuous improvement is relevant to how embedders can adapt and learn over time, potentially improving few-shot performance."
+      },
+      {
+        "index": 29,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 6,
+        "reason": "Learning principles from mistakes is a direct parallel to few-shot learning, where models learn from a limited set of explicit examples and infer underlying rules."
+      },
+      {
+        "index": 30,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 6,
+        "reason": "Iterative refinement with self-feedback is a powerful learning mechanism that can enhance model performance, applicable to improving few-shot learning capabilities."
+      },
+      {
+        "index": 31,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 6,
+        "reason": "A survey on memory mechanisms provides a broad overview of how LLMs manage information, crucial for understanding and developing efficient few-shot learners."
+      },
+      {
+        "index": 32,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 6,
+        "reason": "Hierarchical memory management suggests a structured approach to learning and problem-solving, which can be beneficial for few-shot learning by organizing information efficiently."
+      },
+      {
+        "index": 33,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 6,
+        "reason": "Combines retrieval with memory for planning, indicating how external information can be leveraged for improved agent performance, relevant to few-shot learning from provided examples."
+      },
+      {
+        "index": 34,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 6,
+        "reason": "Focuses on procedural memory in agents, which implies learning sequences of actions or information, a skill that can be enhanced by few-shot learning."
+      },
+      {
+        "index": 35,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 6,
+        "reason": "Synergizing memory and reasoning for efficient agents is directly applicable to improving how text embedders learn from limited data."
+      },
+      {
+        "index": 37,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 6,
+        "reason": "Reflective memory management can lead to more adaptable learning systems, which is key for few-shot learning where models need to quickly adjust to new tasks."
+      },
+      {
+        "index": 39,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 6,
+        "reason": "Treats LLM agents as experiential learners, which means they learn from experience, aligning with the core idea of few-shot learning where a few examples constitute the 'experience'."
+      },
+      {
+        "index": 41,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 6,
+        "reason": "Memory-augmented planning suggests improved learning and decision-making based on past states, relevant for few-shot learning where models leverage provided examples."
+      },
+      {
+        "index": 42,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 6,
+        "reason": "Learning through interaction and self-adaptation is a form of learning from experience, similar to few-shot learning where models adapt to new tasks with limited data."
+      },
+      {
+        "index": 43,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 6,
+        "reason": "Scaling test-time interaction for reasoning implies that agents can learn and adapt at inference time, a concept related to few-shot learning where models quickly adapt to new tasks."
+      },
+      {
+        "index": 48,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 6,
+        "reason": "Leveraging cross-domain experience suggests a way to transfer knowledge, which can be beneficial for few-shot learning where models need to generalize from limited examples."
+      },
+      {
+        "index": 49,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 6,
+        "reason": "Autonomous refinement implies a learning process where agents improve themselves, which can be adapted for few-shot learning to enhance embedder performance."
+      },
+      {
+        "index": 50,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 6,
+        "reason": "Self-evolving agents with autonomous learning from experience are highly relevant to developing models that can quickly adapt and learn new tasks with minimal data."
+      },
+      {
+        "index": 51,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 6,
+        "reason": "Benchmarking agents in real environments for open-ended tasks requires robust learning and adaptation capabilities, relevant to few-shot embedding."
+      },
+      {
+        "index": 62,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 6,
+        "reason": "A general strategy for self-evolution of agents can inform methods for improving few-shot learning by enhancing the agent's ability to learn and adapt across tasks."
+      },
+      {
+        "index": 8,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 5,
+        "reason": "ReAct focuses on reasoning and acting, which are fundamental to agents. Improved reasoning can indirectly help in few-shot learning by enabling better understanding of context."
+      },
+      {
+        "index": 10,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Training retrievers for reasoning tasks suggests improving information retrieval for complex tasks, which can be beneficial for few-shot learning by providing relevant context."
+      },
+      {
+        "index": 13,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 5,
+        "reason": "Focuses on exploration and learning for agents, which is related to how models acquire knowledge. Improved exploration strategies can potentially lead to better few-shot learning."
+      },
+      {
+        "index": 15,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 5,
+        "reason": "Learning from errors is a form of supervised learning, and adapting this to exploit error cases for relation learning could inform few-shot strategies."
+      },
+      {
+        "index": 29,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 5,
+        "reason": "Learning principles from mistakes is a direct parallel to few-shot learning, where models learn from a limited set of explicit examples and infer underlying rules."
+      },
+      {
+        "index": 36,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 5,
+        "reason": "A survey on autonomous agents provides a broad overview of the field, which might contain relevant concepts for few-shot learning, but is less direct."
+      },
+      {
+        "index": 38,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 5,
+        "reason": "Evaluating agents on web tasks requires them to process and learn from web content, a domain where text embeddings are crucial. The focus on 'tedious' tasks implies a need for efficient learning."
+      },
+      {
+        "index": 40,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 5,
+        "reason": "A browser environment for agent research implies tasks that involve understanding web content, making it relevant to text embedding and learning."
+      },
+      {
+        "index": 45,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 5,
+        "reason": "Test-time scaling for code generation relates to adapting models to new tasks at inference time, which is similar to the goal of few-shot learning for text embeddings."
+      },
+      {
+        "index": 46,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 5,
+        "reason": "Scaling test-time compute is about improving agent performance at inference, which can be related to how few-shot learners adapt quickly to new tasks."
+      },
+      {
+        "index": 54,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 5,
+        "reason": "Efficient test-time scaling is relevant to how models can adapt and learn with limited resources or examples, akin to few-shot learning."
+      },
+      {
+        "index": 56,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 5,
+        "reason": "Simple test-time scaling focuses on improving model performance during inference, which can be related to efficient few-shot learning."
+      },
+      {
+        "index": 60,
+        "arxivId": "2502.12110",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 5,
+        "reason": "Discusses test-time scaling, relevant to how models can adapt quickly, which is a characteristic of few-shot learners."
+      },
+      {
+        "index": 61,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 5,
+        "reason": "Test-time scaling in multi-agent settings could provide insights into efficient learning and adaptation strategies relevant to few-shot learning."
+      },
+      {
+        "index": 3,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 4,
+        "reason": "While contrastive learning is a method for representation learning, its focus on visual data makes it less directly relevant to text embeddings, though the principle of learning representations is shared."
+      },
+      {
+        "index": 7,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 4,
+        "reason": "Focuses on fine-tuning for sampling, which is related to model output quality but not directly to few-shot learning of embeddings."
+      },
+      {
+        "index": 40,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "A browser environment for agent research implies tasks that involve understanding web content, making it relevant to text embedding and learning."
+      },
+      {
+        "index": 59,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 4,
+        "reason": "LLM-as-a-judge focuses on evaluation, which is a downstream task and less directly related to the core mechanism of few-shot learning for embeddings."
+      }
+    ],
+    "metrics": {
+      "completeness": 1.0161290322580645,
+      "semanticCorrelation": 0.11907203712930116,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2503.07891",
+          "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+          "score": 8,
+          "reason": "Focuses on generalizable embeddings from Gemini, which is relevant to creating effective representations for text, a core component of the target paper's goal of making text embedders few-shot learners."
+        },
+        {
+          "index": 44,
+          "arxivId": "2507.06261",
+          "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+          "score": 7,
+          "reason": "Highlights Gemini's advanced capabilities, including reasoning and long context, which are foundational for developing sophisticated text embedding models that can learn from limited examples."
+        },
+        {
+          "index": 16,
+          "arxivId": "2306.06070",
+          "title": "Mind2Web: Towards a Generalist Agent for the Web",
+          "score": 7,
+          "reason": "This paper aims to create a generalist agent for the web, implying strong capabilities in understanding and processing web content, which is closely related to learning from text representations."
+        },
+        {
+          "index": 26,
+          "arxivId": "2307.12856",
+          "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+          "score": 7,
+          "reason": "Focuses on long context understanding and program synthesis in web agents, suggesting advancements in processing and learning from complex textual information, relevant to few-shot learning for embeddings."
+        },
+        {
+          "index": 47,
+          "arxivId": "2307.13854",
+          "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "score": 7,
+          "reason": "Provides a realistic web environment for agent research, which often involves text-based interactions and learning, aligning with the need for effective text embedding models."
+        },
+        {
+          "index": 55,
+          "arxivId": "2405.15793",
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "score": 7,
+          "reason": "SWE-agent focuses on enabling automated software engineering, which heavily relies on understanding and generating code (textual representation), relevant to few-shot learning in text embeddings."
+        },
+        {
+          "index": 57,
+          "arxivId": "2409.00872",
+          "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+          "score": 6,
+          "reason": "Discusses self-evolving agents with memory, which can lead to improved learning capabilities, potentially applicable to enhancing how text embedders learn with fewer examples."
+        },
+        {
+          "index": 58,
+          "arxivId": "2409.07429",
+          "title": "Agent Workflow Memory",
+          "score": 6,
+          "reason": "Focuses on memory for agents, which is crucial for maintaining context and learning over time, a concept that can be extended to few-shot learning scenarios for text embeddings."
+        },
+        {
+          "index": 52,
+          "arxivId": "2507.21046",
+          "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+          "score": 6,
+          "reason": "A survey on self-evolving agents could provide insights into mechanisms that enable rapid learning and adaptation, which are relevant for few-shot learning in text embeddings."
+        },
+        {
+          "index": 53,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 6,
+          "reason": "Covers foundation agents and evolutionary systems, which are relevant to developing agents that can learn and adapt efficiently, a key aspect of few-shot learning for text embeddings."
+        },
+        {
+          "index": 2,
+          "arxivId": "2305.10250",
+          "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+          "score": 6,
+          "reason": "Addresses long-term memory for LLMs, which is important for agents to retain and utilize information effectively, a principle that can inform few-shot learning strategies."
+        },
+        {
+          "index": 4,
+          "arxivId": "2505.22101",
+          "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+          "score": 6,
+          "reason": "Focuses on memory-augmented generation, suggesting enhanced information processing and utilization, which can be beneficial for few-shot learning in text embeddings."
+        },
+        {
+          "index": 5,
+          "arxivId": "2502.00592",
+          "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+          "score": 6,
+          "reason": "Deals with scalable long-term memory for LLMs, relevant for agents that need to learn and adapt quickly from limited data, as in few-shot scenarios."
+        },
+        {
+          "index": 6,
+          "arxivId": "2507.02259",
+          "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+          "score": 6,
+          "reason": "Introduces a memory agent for long contexts, implying improved context utilization which can aid in few-shot learning by allowing models to better grasp nuances from limited examples."
+        },
+        {
+          "index": 9,
+          "arxivId": "2407.09450",
+          "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+          "score": 6,
+          "reason": "Explores episodic memory, which is about learning from specific experiences, a concept that aligns with the idea of few-shot learning where models learn from a small set of examples."
+        },
+        {
+          "index": 11,
+          "arxivId": "2504.19413",
+          "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+          "score": 6,
+          "reason": "Focuses on scalable long-term memory for AI agents, which is crucial for building agents that can learn and adapt efficiently, relevant to few-shot learning."
+        },
+        {
+          "index": 14,
+          "arxivId": "2410.10813",
+          "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+          "score": 6,
+          "reason": "Benchmarking long-term memory is essential for developing agents that can retain and use information over extended interactions, a capability that can benefit few-shot learners."
+        },
+        {
+          "index": 17,
+          "arxivId": "2306.07863",
+          "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+          "score": 6,
+          "reason": "Uses memory with exemplar prompting for agents, suggesting a way to guide learning from limited examples, relevant to few-shot embedding learning."
+        },
+        {
+          "index": 18,
+          "arxivId": "2402.17753",
+          "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+          "score": 6,
+          "reason": "Evaluates long-term memory in agents, which is important for understanding how models can learn and adapt over time, a key aspect of few-shot learning."
+        },
+        {
+          "index": 19,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 6,
+          "reason": "Optimizing memory management is crucial for agents to efficiently process information, which can be applied to improving few-shot learning by better utilizing limited data."
+        },
+        {
+          "index": 20,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 6,
+          "reason": "Proposes LLMs as operating systems with memory, implying advanced data management and learning capabilities that could enhance few-shot embedding performance."
+        },
+        {
+          "index": 21,
+          "arxivId": "2502.12110",
+          "title": "A-MEM: Agentic Memory for LLM Agents",
+          "score": 6,
+          "reason": "Focuses on agentic memory, which is fundamental for agents to learn and adapt efficiently, a core concept in few-shot learning."
+        },
+        {
+          "index": 22,
+          "arxivId": "2504.06821",
+          "title": "Inducing Programmatic Skills for Agentic Tasks",
+          "score": 6,
+          "reason": "Inducing programmatic skills suggests a learning process that can be generalized, relevant to teaching text embedders to learn few-shot tasks."
+        },
+        {
+          "index": 23,
+          "arxivId": "2506.06698",
+          "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+          "score": 6,
+          "reason": "Self-improvement through experience replay implies a learning mechanism that can be applied to few-shot scenarios, making models better learners from limited data."
+        },
+        {
+          "index": 24,
+          "arxivId": "2507.05257",
+          "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+          "score": 6,
+          "reason": "Evaluating memory in agents relates to how they learn and adapt over time, which is key for developing few-shot learners."
+        },
+        {
+          "index": 25,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 6,
+          "reason": "Hierarchical reasoning is a complex cognitive process that LLMs can develop, and improved reasoning can aid in understanding and learning from fewer examples."
+        },
+        {
+          "index": 27,
+          "arxivId": "2504.13837",
+          "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+          "score": 6,
+          "reason": "Investigates RL's role in enhancing reasoning, which is a key component for effective few-shot learning where models need to infer patterns from limited data."
+        },
+        {
+          "index": 28,
+          "arxivId": "2406.08747",
+          "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+          "score": 6,
+          "reason": "Benchmarking continuous improvement is relevant to how embedders can adapt and learn over time, potentially improving few-shot performance."
+        },
+        {
+          "index": 29,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 6,
+          "reason": "Learning principles from mistakes is a direct parallel to few-shot learning, where models learn from a limited set of explicit examples and infer underlying rules."
+        },
+        {
+          "index": 30,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 6,
+          "reason": "Iterative refinement with self-feedback is a powerful learning mechanism that can enhance model performance, applicable to improving few-shot learning capabilities."
+        },
+        {
+          "index": 31,
+          "arxivId": "2404.13501",
+          "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+          "score": 6,
+          "reason": "A survey on memory mechanisms provides a broad overview of how LLMs manage information, crucial for understanding and developing efficient few-shot learners."
+        },
+        {
+          "index": 32,
+          "arxivId": "2408.09559",
+          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+          "score": 6,
+          "reason": "Hierarchical memory management suggests a structured approach to learning and problem-solving, which can be beneficial for few-shot learning by organizing information efficiently."
+        },
+        {
+          "index": 33,
+          "arxivId": "2402.03610",
+          "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+          "score": 6,
+          "reason": "Combines retrieval with memory for planning, indicating how external information can be leveraged for improved agent performance, relevant to few-shot learning from provided examples."
+        },
+        {
+          "index": 34,
+          "arxivId": "2508.06433",
+          "title": "Memp: Exploring Agent Procedural Memory",
+          "score": 6,
+          "reason": "Focuses on procedural memory in agents, which implies learning sequences of actions or information, a skill that can be enhanced by few-shot learning."
+        },
+        {
+          "index": 35,
+          "arxivId": "2506.15841",
+          "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+          "score": 6,
+          "reason": "Synergizing memory and reasoning for efficient agents is directly applicable to improving how text embedders learn from limited data."
+        },
+        {
+          "index": 37,
+          "arxivId": "2503.08026",
+          "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+          "score": 6,
+          "reason": "Reflective memory management can lead to more adaptable learning systems, which is key for few-shot learning where models need to quickly adjust to new tasks."
+        },
+        {
+          "index": 39,
+          "arxivId": "2308.10144",
+          "title": "ExpeL: LLM Agents Are Experiential Learners",
+          "score": 6,
+          "reason": "Treats LLM agents as experiential learners, which means they learn from experience, aligning with the core idea of few-shot learning where a few examples constitute the 'experience'."
+        },
+        {
+          "index": 41,
+          "arxivId": "2507.21953",
+          "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+          "score": 6,
+          "reason": "Memory-augmented planning suggests improved learning and decision-making based on past states, relevant for few-shot learning where models leverage provided examples."
+        },
+        {
+          "index": 42,
+          "arxivId": "2501.10893",
+          "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+          "score": 6,
+          "reason": "Learning through interaction and self-adaptation is a form of learning from experience, similar to few-shot learning where models adapt to new tasks with limited data."
+        },
+        {
+          "index": 43,
+          "arxivId": "2506.07976",
+          "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+          "score": 6,
+          "reason": "Scaling test-time interaction for reasoning implies that agents can learn and adapt at inference time, a concept related to few-shot learning where models quickly adapt to new tasks."
+        },
+        {
+          "index": 48,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 6,
+          "reason": "Leveraging cross-domain experience suggests a way to transfer knowledge, which can be beneficial for few-shot learning where models need to generalize from limited examples."
+        },
+        {
+          "index": 49,
+          "arxivId": "2404.06474",
+          "title": "Autonomous Evaluation and Refinement of Digital Agents",
+          "score": 6,
+          "reason": "Autonomous refinement implies a learning process where agents improve themselves, which can be adapted for few-shot learning to enhance embedder performance."
+        },
+        {
+          "index": 50,
+          "arxivId": "2508.04700",
+          "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+          "score": 6,
+          "reason": "Self-evolving agents with autonomous learning from experience are highly relevant to developing models that can quickly adapt and learn new tasks with minimal data."
+        },
+        {
+          "index": 51,
+          "arxivId": "2404.07972",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "score": 6,
+          "reason": "Benchmarking agents in real environments for open-ended tasks requires robust learning and adaptation capabilities, relevant to few-shot embedding."
+        },
+        {
+          "index": 62,
+          "arxivId": "2401.13996",
+          "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+          "score": 6,
+          "reason": "A general strategy for self-evolution of agents can inform methods for improving few-shot learning by enhancing the agent's ability to learn and adapt across tasks."
+        },
+        {
+          "index": 8,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 5,
+          "reason": "ReAct focuses on reasoning and acting, which are fundamental to agents. Improved reasoning can indirectly help in few-shot learning by enabling better understanding of context."
+        },
+        {
+          "index": 10,
+          "arxivId": "2504.20595",
+          "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+          "score": 5,
+          "reason": "Training retrievers for reasoning tasks suggests improving information retrieval for complex tasks, which can be beneficial for few-shot learning by providing relevant context."
+        },
+        {
+          "index": 13,
+          "arxivId": "2410.02052",
+          "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+          "score": 5,
+          "reason": "Focuses on exploration and learning for agents, which is related to how models acquire knowledge. Improved exploration strategies can potentially lead to better few-shot learning."
+        },
+        {
+          "index": 15,
+          "arxivId": "2508.12031",
+          "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+          "score": 5,
+          "reason": "Learning from errors is a form of supervised learning, and adapting this to exploit error cases for relation learning could inform few-shot strategies."
+        },
+        {
+          "index": 29,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 5,
+          "reason": "Learning principles from mistakes is a direct parallel to few-shot learning, where models learn from a limited set of explicit examples and infer underlying rules."
+        },
+        {
+          "index": 36,
+          "arxivId": "2308.11432",
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 5,
+          "reason": "A survey on autonomous agents provides a broad overview of the field, which might contain relevant concepts for few-shot learning, but is less direct."
+        },
+        {
+          "index": 38,
+          "arxivId": "2506.01952",
+          "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+          "score": 5,
+          "reason": "Evaluating agents on web tasks requires them to process and learn from web content, a domain where text embeddings are crucial. The focus on 'tedious' tasks implies a need for efficient learning."
+        },
+        {
+          "index": 40,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 5,
+          "reason": "A browser environment for agent research implies tasks that involve understanding web content, making it relevant to text embedding and learning."
+        },
+        {
+          "index": 45,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 5,
+          "reason": "Test-time scaling for code generation relates to adapting models to new tasks at inference time, which is similar to the goal of few-shot learning for text embeddings."
+        },
+        {
+          "index": 46,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 5,
+          "reason": "Scaling test-time compute is about improving agent performance at inference, which can be related to how few-shot learners adapt quickly to new tasks."
+        },
+        {
+          "index": 54,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 5,
+          "reason": "Efficient test-time scaling is relevant to how models can adapt and learn with limited resources or examples, akin to few-shot learning."
+        },
+        {
+          "index": 56,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 5,
+          "reason": "Simple test-time scaling focuses on improving model performance during inference, which can be related to efficient few-shot learning."
+        },
+        {
+          "index": 60,
+          "arxivId": "2502.12110",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 5,
+          "reason": "Discusses test-time scaling, relevant to how models can adapt quickly, which is a characteristic of few-shot learners."
+        },
+        {
+          "index": 61,
+          "arxivId": "2504.09772",
+          "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+          "score": 5,
+          "reason": "Test-time scaling in multi-agent settings could provide insights into efficient learning and adaptation strategies relevant to few-shot learning."
+        },
+        {
+          "index": 3,
+          "arxivId": "2002.05709",
+          "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "score": 4,
+          "reason": "While contrastive learning is a method for representation learning, its focus on visual data makes it less directly relevant to text embeddings, though the principle of learning representations is shared."
+        },
+        {
+          "index": 7,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 4,
+          "reason": "Focuses on fine-tuning for sampling, which is related to model output quality but not directly to few-shot learning of embeddings."
+        },
+        {
+          "index": 40,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 4,
+          "reason": "A browser environment for agent research implies tasks that involve understanding web content, making it relevant to text embedding and learning."
+        },
+        {
+          "index": 59,
+          "arxivId": "2411.15594",
+          "title": "A Survey on LLM-as-a-Judge",
+          "score": 4,
+          "reason": "LLM-as-a-judge focuses on evaluation, which is a downstream task and less directly related to the core mechanism of few-shot learning for embeddings."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1806 @@
+{
+  "selectedSource": {
+    "arxivId": "2503.14476",
+    "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+  },
+  "target": {
+    "arxivId": "1506.02438",
+    "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation"
+  },
+  "scores": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 4
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 9
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 3
+            }
+          ]
+        },
+        "score": 190
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 9
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 6
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 8
+            }
+          ]
+        },
+        "score": 56
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 7
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 5
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 8
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 5
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 5
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 8
+            }
+          ]
+        },
+        "score": 28
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 9
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 6
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -1
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 4
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 9
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -6
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 9
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 5
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -9
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 9
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -24
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 9
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -24
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 6
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -34
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 8
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -48
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -50
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -50
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -50
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 7
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 5
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -55
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 6
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 5
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -57
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -59
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 8
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -59
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 7
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 7
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -74
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 4
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 7
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 6
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -87
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 3
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 5
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 5
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -97
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 4
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 7
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 8
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -109
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 4
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 7
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 8
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -109
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 4
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 7
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 8
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 9
+            }
+          ]
+        },
+        "score": -109
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 4
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 5
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 9
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 9
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 10
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 10
+            }
+          ]
+        },
+        "score": -148
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 3
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 5
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 9
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 9
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 10
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 10
+            }
+          ]
+        },
+        "score": -157
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Foundational Reinforcement Learning for Complex Tasks",
+              "score": 3
+            },
+            {
+              "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+              "score": 1
+            },
+            {
+              "theme": "Application in Agent Training and Decision-Making",
+              "score": 4
+            },
+            {
+              "theme": "High-Dimensional Continuous Control",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Specialization vs. Broad Application",
+              "score": 9
+            },
+            {
+              "theme": "Discrete vs. Continuous Action Spaces",
+              "score": 9
+            },
+            {
+              "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+              "score": 10
+            },
+            {
+              "theme": "Lack of Explicit Application of Continuous Control",
+              "score": 10
+            }
+          ]
+        },
+        "score": -164
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Foundational Reinforcement Learning for Complex Tasks",
+            "description": "The target paper is consistently cited as a foundational work in reinforcement learning, particularly for introducing Generalized Advantage Estimation (GAE). This makes it relevant for research papers that employ advanced RL techniques to train agents for complex, sequential decision-making, long-horizon tasks, or high-dimensional continuous control problems."
+          },
+          {
+            "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+            "description": "The specific algorithm GAE is highlighted as a significant contribution of the target paper. Papers that focus on improving policy gradient methods, enhancing sample efficiency, ensuring stability in learning, or advancing policy optimization techniques are likely to reference the target paper for its introduction of GAE."
+          },
+          {
+            "theme": "Application in Agent Training and Decision-Making",
+            "description": "Many papers that develop or benchmark agents, especially those requiring sophisticated learning capabilities, are expected to cite the target paper. This includes agents for web navigation, information retrieval, reasoning, coding, and general AI assistance, where RL is used to optimize their strategies or policies in complex environments."
+          },
+          {
+            "theme": "High-Dimensional Continuous Control",
+            "description": "The target paper's focus on 'High-Dimensional Continuous Control' is a recurring theme. Papers whose agents operate in or can be framed within such control problems, or that require robust RL algorithms for such settings, are likely to find the target paper relevant."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specialization vs. Broad Application",
+            "description": "A common contrast is between the target paper's highly specialized focus on reinforcement learning for continuous control and the broader aims of other papers (e.g., web information retrieval, LLM architecture, general reasoning, benchmarking specific LLM capabilities like RAG or mathematical reasoning). The target paper's techniques may be too low-level or specific unless explicitly integrated."
+          },
+          {
+            "theme": "Discrete vs. Continuous Action Spaces",
+            "description": "Several contrastive explanations highlight that the target paper's focus on continuous control might not align with tasks that inherently involve discrete action spaces, such as typical language model interactions, GUI navigation, or web traversal, where RL might be applied differently."
+          },
+          {
+            "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+            "description": "Many papers are focused on LLM architectures, pre-training strategies, benchmarking specific LLM tasks, or evaluating RAG systems. In these cases, the target paper, which focuses on a specific RL algorithm, is considered less directly relevant unless the LLM's application explicitly involves or benefits from continuous control RL."
+          },
+          {
+            "theme": "Lack of Explicit Application of Continuous Control",
+            "description": "Contrastive explanations often suggest that even if RL is used in another paper, it might not be specifically applied to high-dimensional continuous control problems, thus limiting the direct relevance of the target paper's core contribution (GAE in continuous control)."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Foundational Reinforcement Learning for Complex Tasks",
+            "weight": 9,
+            "explanation": "The paper is foundational in RL for complex tasks, particularly due to its introduction of GAE, making it highly relevant for subsequent research in this area."
+          },
+          {
+            "theme": "Generalized Advantage Estimation (GAE) as a Key Contribution",
+            "weight": 10,
+            "explanation": "GAE is the central algorithmic contribution of the paper. Papers focusing on improving policy gradient methods or stability in RL will almost certainly cite this work."
+          },
+          {
+            "theme": "Application in Agent Training and Decision-Making",
+            "weight": 7,
+            "explanation": "While the paper's core is RL for control, many agent training applications, especially those using advanced RL, will likely draw upon or reference GAE for their policy optimization."
+          },
+          {
+            "theme": "High-Dimensional Continuous Control",
+            "weight": 8,
+            "explanation": "This is a core focus of the paper. Research directly addressing or building upon RL for high-dimensional continuous control problems will be highly likely to cite it."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specialization vs. Broad Application",
+            "weight": 6,
+            "explanation": "The paper's specialization in RL for continuous control makes it less relevant for broader AI tasks unless RL is explicitly integrated in a way that benefits from GAE."
+          },
+          {
+            "theme": "Discrete vs. Continuous Action Spaces",
+            "weight": 7,
+            "explanation": "The paper's strong focus on continuous action spaces means it is less directly applicable to research that primarily deals with discrete action spaces, common in many LLM-related tasks."
+          },
+          {
+            "theme": "Algorithmic Focus vs. Model/Benchmark Focus",
+            "weight": 5,
+            "explanation": "Papers focused on LLM architecture, pre-training, or general benchmarking might not directly engage with a specific RL algorithm like GAE unless it's central to their methodology."
+          },
+          {
+            "theme": "Lack of Explicit Application of Continuous Control",
+            "weight": 7,
+            "explanation": "If other research uses RL but not specifically for high-dimensional continuous control, the direct relevance and likelihood of citation for this particular paper decreases significantly."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 6,
+    "ordered": [
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.5719103624877293
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.5928099451224128
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.6021975004296043
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6048961254356886
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.6512547759028124
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6647945216167368
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.6737920293565163
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.686578628737837
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.6911234387697207
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.724946718217296
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.7260067374419213
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.7382534759663502
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.7506437519889342
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.7536956976392923
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7568469680018602
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.7608367480435327
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.7636202856566615
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.7656294235387981
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.7662557618930221
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7804284878909928
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.7849982172798543
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7860184788944049
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.7889537928317483
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7992571596716733
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8294537161342094
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.8609451336785495
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.9089210911997937
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 8,
+    "ordered": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.8157736066287163
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.9195177357782927
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.932711160219377
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.9384286912446895
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.948994605343976
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.9516984129465254
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.9563810125353184
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.9599503185438185
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.981855411589536
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 1.0074066510676551
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 1.0129752544200183
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 1.0247491072233585
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1.0442384860939375
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 1.0479542544377534
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 1.0547080182471515
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 1.0695226335664463
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 1.0813710452894267
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0836215555525288
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 1.0960353414939714
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 1.1026060486672349
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 1.1047545392192726
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 1.1060172478232
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 1.118885234273489
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.1772722686924912
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.239843871142102
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2852781439922083
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.5042125009337743
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2503.14476",
+      "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+    },
+    "target": {
+      "arxivId": "1506.02438",
+      "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation"
+    }
+  }
+}

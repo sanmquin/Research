@@ -1,0 +1,468 @@
+{
+  "embeddings": {
+    "rank": 18,
+    "ordered": [
+      {
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model",
+        "distance": 0.30333120739968067
+      },
+      {
+        "arxivId": "2506.00320",
+        "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+        "distance": 0.3256062360200782
+      },
+      {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "distance": 0.32644146061331614
+      },
+      {
+        "arxivId": "2310.01798",
+        "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+        "distance": 0.34013841390295685
+      },
+      {
+        "arxivId": "2506.02918",
+        "title": "World Modelling Improves Language Model Agents",
+        "distance": 0.34518870063429796
+      },
+      {
+        "arxivId": "2309.02427",
+        "title": "Cognitive Architectures for Language Agents",
+        "distance": 0.3580605000770005
+      },
+      {
+        "arxivId": "2203.14465",
+        "title": "STaR: Bootstrapping Reasoning With Reasoning",
+        "distance": 0.36000028739523937
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.36783676950167266
+      },
+      {
+        "arxivId": "2506.01716",
+        "title": "Self-Challenging Language Model Agents",
+        "distance": 0.3737196128713114
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.374226843690156
+      },
+      {
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "distance": 0.3773204402750523
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.40181167233967374
+      },
+      {
+        "arxivId": "2402.14672",
+        "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+        "distance": 0.4160941227925192
+      },
+      {
+        "arxivId": "2403.13372",
+        "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+        "distance": 0.4299048699854541
+      },
+      {
+        "arxivId": "2402.01622",
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "distance": 0.4357200033765414
+      },
+      {
+        "arxivId": "2312.08914",
+        "title": "CogAgent: A Visual Language Model for GUI Agents",
+        "distance": 0.43757864510538524
+      },
+      {
+        "arxivId": "2410.12409",
+        "title": "Revealing the Barriers of Language Agents in Planning",
+        "distance": 0.44381178635785967
+      },
+      {
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "distance": 0.446590718927809
+      },
+      {
+        "arxivId": "2410.05080",
+        "title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+        "distance": 0.4565016051589448
+      },
+      {
+        "arxivId": "2207.01206",
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+        "distance": 0.4631776535820348
+      },
+      {
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "distance": 0.477555343234051
+      },
+      {
+        "arxivId": "2504.04736",
+        "title": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+        "distance": 0.48223033856693165
+      },
+      {
+        "arxivId": "2410.13825",
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "distance": 0.4843033203943934
+      },
+      {
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+        "distance": 0.49286760105373284
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.49955453484050216
+      },
+      {
+        "arxivId": "2411.06559",
+        "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+        "distance": 0.505759012352358
+      },
+      {
+        "arxivId": "2408.06327",
+        "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+        "distance": 0.5162675710720837
+      },
+      {
+        "arxivId": "2505.16421",
+        "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+        "distance": 0.5340960536875491
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.5354902956752867
+      },
+      {
+        "arxivId": "2406.12045",
+        "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "distance": 0.5376281051136951
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.5439101117472825
+      },
+      {
+        "arxivId": "2504.10127",
+        "title": "Breaking the Data Barrier - Building GUI Agents Through Task Generalization",
+        "distance": 0.5477799295340695
+      },
+      {
+        "arxivId": "2410.13232",
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "distance": 0.5500760584414996
+      },
+      {
+        "arxivId": "2501.17161",
+        "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+        "distance": 0.5506801233521216
+      },
+      {
+        "arxivId": "2305.11854",
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "distance": 0.5571173912174863
+      },
+      {
+        "arxivId": "1911.08265",
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "distance": 0.5624228020145811
+      },
+      {
+        "arxivId": "2412.13194",
+        "title": "Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "distance": 0.5642426233998679
+      },
+      {
+        "arxivId": "2411.15004",
+        "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+        "distance": 0.5755562246758522
+      },
+      {
+        "arxivId": "1809.01999",
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "distance": 0.58691570993837
+      },
+      {
+        "arxivId": "2401.01614",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "distance": 0.5900325096995704
+      },
+      {
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+        "distance": 0.5951050818190087
+      },
+      {
+        "arxivId": "2504.20073",
+        "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning",
+        "distance": 0.5960054262862373
+      },
+      {
+        "arxivId": "2407.18901",
+        "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+        "distance": 0.5968058994613938
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.5978515740650617
+      },
+      {
+        "arxivId": "2010.03768",
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "distance": 0.5991398726289958
+      },
+      {
+        "arxivId": "2411.02337",
+        "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+        "distance": 0.5993300622032469
+      },
+      {
+        "arxivId": "2011.01060",
+        "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+        "distance": 0.6004746700640369
+      },
+      {
+        "arxivId": "1806.11532",
+        "title": "TextWorld: A Learning Environment for Text-based Games",
+        "distance": 0.600531999219241
+      },
+      {
+        "arxivId": "2503.01861",
+        "title": "Towards Enterprise-Ready Computer Using Generalist Agent",
+        "distance": 0.6026972174302998
+      },
+      {
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "distance": 0.6049402375383621
+      },
+      {
+        "arxivId": "2502.11357",
+        "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+        "distance": 0.6053169477731515
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.6080066247216422
+      },
+      {
+        "arxivId": "1912.01603",
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "distance": 0.6116389234982101
+      },
+      {
+        "arxivId": "2108.00573",
+        "title": "♫ MuSiQue: Multihop Questions via Single-hop Question Composition",
+        "distance": 0.6276687806199419
+      },
+      {
+        "arxivId": "1312.5602",
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "distance": 0.6362658605199317
+      },
+      {
+        "arxivId": "2409.19256",
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "distance": 0.6394803520337624
+      },
+      {
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "distance": 0.6462966416339614
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.647169846477026
+      },
+      {
+        "arxivId": "2408.03314",
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "distance": 0.647366922702335
+      },
+      {
+        "arxivId": "2410.22394",
+        "title": "AAAR-1.0: Assessing AI's Potential to Assist Research",
+        "distance": 0.6576421483386155
+      },
+      {
+        "arxivId": "2402.11924",
+        "title": "CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark",
+        "distance": 0.6726353806254587
+      },
+      {
+        "arxivId": "2504.13958",
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "distance": 0.6743276685419952
+      },
+      {
+        "arxivId": "1207.4708",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "distance": 0.67608241449883
+      },
+      {
+        "arxivId": "1011.0686",
+        "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+        "distance": 0.7015592855810906
+      },
+      {
+        "arxivId": "2010.02193",
+        "title": "Mastering Atari with Discrete World Models",
+        "distance": 0.7131301485155301
+      },
+      {
+        "arxivId": "1707.01495",
+        "title": "Hindsight Experience Replay",
+        "distance": 0.7533619378231433
+      }
+    ]
+  },
+  "llm": {
+    "rank": 0,
+    "ordered": [
+      {
+        "index": 47,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 9.5,
+        "reason": "This paper introduces Reflexion, a language agent that uses verbal reinforcement learning, which is highly relevant to the target paper's focus on synergizing reasoning and acting in language models."
+      },
+      {
+        "index": 44,
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model",
+        "score": 9,
+        "reason": "The title directly connects reasoning, language models, and world models, aligning closely with the target's theme of reasoning and acting (which often implies interaction with a 'world' or environment)."
+      },
+      {
+        "index": 3,
+        "arxivId": "2506.00320",
+        "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+        "score": 8.5,
+        "reason": "This paper explicitly mentions 'synergizing reasoning, acting, and world model simulation,' which is a strong conceptual overlap with the target paper's ReAct framework."
+      },
+      {
+        "index": 22,
+        "arxivId": "2410.13232",
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "score": 8,
+        "reason": "Focuses on world models for agents, which is a component of the ReAct framework, and explores interaction with an environment (web navigation)."
+      },
+      {
+        "index": 51,
+        "arxivId": "2203.14465",
+        "title": "STaR: Bootstrapping Reasoning With Reasoning",
+        "score": 7.5,
+        "reason": "The STaR paper is a foundational work in eliciting reasoning in LLMs, which is a key part of ReAct's 'reasoning' component."
+      },
+      {
+        "index": 53,
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "score": 7,
+        "reason": "Chain of Thought is a precursor and related technique for enabling LLMs to perform reasoning, a core aspect of the target paper."
+      },
+      {
+        "index": 46,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 6.5,
+        "reason": "Iterative refinement and self-feedback can be seen as analogous to the 'acting' and learning loop in ReAct, especially in how agents improve their outputs."
+      },
+      {
+        "index": 33,
+        "arxivId": "2402.03300",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "score": 6,
+        "reason": "This paper focuses on guiding exploration in agents, which relates to the 'acting' part of ReAct, although the specific mechanism differs."
+      },
+      {
+        "index": 34,
+        "arxivId": "2402.14672",
+        "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+        "score": 5.5,
+        "reason": "This paper discusses tools for language agents, which is relevant as the 'acting' in ReAct often involves tool use."
+      },
+      {
+        "index": 29,
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "score": 5,
+        "reason": "Tree search is a planning mechanism that can be applied to agent actions, relating to the 'acting' and reasoning components of ReAct."
+      },
+      {
+        "index": 42,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 4.5,
+        "reason": "This paper provides a benchmark environment for web agents, which is where agents like ReAct operate and demonstrate their capabilities."
+      },
+      {
+        "index": 43,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 4,
+        "reason": "Focuses on generalist web agents, a domain where ReAct is applied and evaluated."
+      },
+      {
+        "index": 1,
+        "arxivId": "2506.02918",
+        "title": "World Modelling Improves Language Model Agents",
+        "score": 3.5,
+        "reason": "Discusses world modeling in the context of language model agents, which is a component relevant to the ReAct framework."
+      },
+      {
+        "index": 18,
+        "arxivId": "2411.06559",
+        "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+        "score": 3,
+        "reason": "Explores world models and planning for web agents, connecting to ReAct's functionality in interactive environments."
+      },
+      {
+        "index": 11,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 2.5,
+        "reason": "Focuses on reasoning and tool use (search engines) with RL, which touches upon the components of ReAct."
+      },
+      {
+        "index": 30,
+        "arxivId": "2406.12045",
+        "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "score": 2,
+        "reason": "This benchmark focuses on tool-agent interaction, which is relevant to the 'acting' aspect of ReAct."
+      },
+      {
+        "index": 48,
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "score": 1.5,
+        "reason": "Self-improvement is a broader concept that can be achieved through mechanisms like ReAct, but the paper itself is not as directly related to the synergy of reasoning and acting."
+      },
+      {
+        "index": 49,
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+        "score": 1,
+        "reason": "While compositionality is important for complex tasks, this paper is less directly related to the specific framework of reasoning and acting synergy presented in ReAct."
+      }
+    ]
+  }
+}

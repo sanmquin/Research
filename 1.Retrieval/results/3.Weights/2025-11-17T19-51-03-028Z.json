@@ -1,0 +1,1828 @@
+{
+  "selectedSource": {
+    "arxivId": "2409.12941",
+    "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+  },
+  "target": {
+    "arxivId": "2402.06625",
+    "title": "Understanding the Effects of Iterative Prompting on Truthfulness"
+  },
+  "scores": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 5
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 5
+            }
+          ]
+        },
+        "score": 139
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 4
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 104
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 5
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 99
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 98
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 5
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 86
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 5
+            }
+          ]
+        },
+        "score": 85
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 3
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 76
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 9
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 75
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 5
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 73
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 9
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 73
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 9
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 66
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 9
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 66
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 65
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 3
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 3
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 64
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 6
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 64
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 4
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 56
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 5
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 53
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 53
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 50
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 8
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 46
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 5
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 44
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 6
+            }
+          ]
+        },
+        "score": 44
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 32
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Truthfulness and Accuracy in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Refinement and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Indirect Relevance of Iterative Prompting",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Different Aspects of AI Development",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Explicit Mention",
+              "score": 7
+            }
+          ]
+        },
+        "score": 32
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Agentic AI and Reasoning Capabilities",
+            "description": "Many papers explore agentic AI, focusing on their reasoning abilities, learning processes (especially through reinforcement learning), and the potential for achieving general intelligence. Iterative prompting is seen as a method to enhance these capabilities, particularly in complex, long-horizon tasks, and to ensure the agents produce truthful and accurate outputs."
+          },
+          {
+            "theme": "Truthfulness and Accuracy in LLMs",
+            "description": "A recurring theme is the critical importance of truthfulness and factual accuracy in Large Language Models (LLMs), especially when they are used in agentic roles, for research, or for tasks requiring high precision like mathematical reasoning or passing comprehensive exams. Iterative prompting is frequently identified as a technique that can help improve or ensure this truthfulness."
+          },
+          {
+            "theme": "Iterative Refinement and Learning",
+            "description": "Several papers highlight the role of iterative processes in refining information, learning, and improving performance. This includes continual pre-training, multi-turn interactions, data synthesis, and information seeking, where iterative prompting is suggested as a mechanism to enhance accuracy and truthfulness over successive steps."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "description": "A significant number of papers are related to benchmarking AI systems, including web browsing agents, RAG systems, and general AI assistants. These benchmarks often evaluate truthfulness and factual accuracy, with iterative prompting being a potential technique explored or utilized to improve performance on these evaluations."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity of Focus",
+            "description": "Many papers are contrasted because their primary focus is on a specific application (e.g., GUI agents, scientific AI, mathematical reasoning, summarization, web traversal) or a particular model architecture (e.g., GLM, small LLMs) rather than the general mechanism of iterative prompting and its direct impact on truthfulness."
+          },
+          {
+            "theme": "Indirect Relevance of Iterative Prompting",
+            "description": "Several papers are considered less relevant because, while they may touch upon agent capabilities, reasoning, or truthfulness, they do not explicitly or centrally investigate iterative prompting as a core method for achieving or improving these aspects. The link is often indirect or a secondary consideration."
+          },
+          {
+            "theme": "Emphasis on Different Aspects of AI Development",
+            "description": "Some papers are contrasted because their main contribution lies in areas like environment scaling, data synthesis, structuring evidence, or benchmarking specific tasks, which may overshadow or not directly align with a detailed study of how iterative prompting specifically influences truthfulness."
+          },
+          {
+            "theme": "Lack of Explicit Mention",
+            "description": "A common reason for contrast is the absence of explicit discussion or investigation into 'iterative prompting' and 'truthfulness' as key research questions or themes within the paper, even if related concepts like long-horizon agents or reasoning are present."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Agentic AI and Reasoning Capabilities",
+            "weight": 8,
+            "explanation": "The target paper is about understanding the effects of iterative prompting on truthfulness, and agentic AI often requires truthful outputs, making this a highly relevant theme."
+          },
+          {
+            "theme": "Truthfulness and Accuracy in LLMs",
+            "weight": 10,
+            "explanation": "Truthfulness is explicitly mentioned in the target paper's title, making this the most critical theme. Iterative prompting is a method to improve truthfulness."
+          },
+          {
+            "theme": "Iterative Refinement and Learning",
+            "weight": 9,
+            "explanation": "The target paper focuses on iterative prompting, which is a direct form of iterative refinement. The paper likely explores how this process leads to more truthful outputs."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "weight": 7,
+            "explanation": "Understanding the effects of iterative prompting on truthfulness is often done through benchmarking and evaluation, especially in agentic systems. This theme supports how such effects would be measured or demonstrated."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity of Focus",
+            "weight": 6,
+            "explanation": "While the target paper focuses on iterative prompting and truthfulness, it's important to acknowledge that other papers might focus on very specific applications or models that don't directly relate to this general mechanism. Therefore, a moderate negative weight is assigned."
+          },
+          {
+            "theme": "Indirect Relevance of Iterative Prompting",
+            "weight": 7,
+            "explanation": "Papers that only indirectly touch upon iterative prompting or truthfulness without making it a core research question are less likely to be direct references. The target paper's focus is explicit."
+          },
+          {
+            "theme": "Emphasis on Different Aspects of AI Development",
+            "weight": 5,
+            "explanation": "The target paper is specifically about the mechanism of iterative prompting and its effect on truthfulness. Papers that focus on other aspects like environment scaling or data synthesis without a direct link to this mechanism are less relevant."
+          },
+          {
+            "theme": "Lack of Explicit Mention",
+            "weight": 9,
+            "explanation": "If a paper does not explicitly discuss 'iterative prompting' and 'truthfulness,' it is highly unlikely to be referencing or directly building upon the target paper's research, even if it discusses related concepts."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.5503094440337786
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.5776109349857934
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.6191834428857189
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.6306589150752091
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.637429621364733
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.639371201286373
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.6496262254396856
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.6541011431054564
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6599667371420312
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.6724005758356826
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.6737650588058961
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6855715020034945
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.6875532465270096
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.6908687638362797
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.6964713341670032
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7080402414545899
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.7111253010852596
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.7149677664737848
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7261495122473669
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.7263047392640981
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.7263842974275903
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.7272259270618635
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.7465821600235509
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.7534190540649247
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.7561210686820427
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.7818055079184336
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.7887253085770758
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 4,
+    "ordered": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.8442350212743212
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.8474133187832747
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.8866479096344818
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.9185509263183333
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9667268252935579
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.9687751474262888
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.9745311795368323
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.9753681031072821
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.9807272989305762
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.983288992462113
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.9883593875524079
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.9946347951892326
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.997233598730249
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 1.0043656944926198
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1.0135410303394443
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.0163283588282854
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 1.0208701143835697
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 1.0251726149722336
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 1.026186686433653
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 1.038940335868948
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.07412329182238
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 1.0781783359280062
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 1.0829838653755366
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 1.0897693408391373
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.1014891482682212
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2072999065523935
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.2676919855696631
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2409.12941",
+      "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+    },
+    "target": {
+      "arxivId": "2402.06625",
+      "title": "Understanding the Effects of Iterative Prompting on Truthfulness"
+    }
+  }
+}

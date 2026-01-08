@@ -1,0 +1,825 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2505.09388",
+      "title": "Qwen3 Technical Report"
+    },
+    "target": {
+      "arxivId": "2402.17463",
+      "title": "Training-Free Long-Context Scaling of Large Language Models"
+    }
+  },
+  "embeddings": {
+    "rank": 25,
+    "ordered": [
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.4014092804964523
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.4417230786551406
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.4479112765923604
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.4517153547629341
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.4720768798604795
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.4771125557868162
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.5065030348955517
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.5076584646708726
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.5344247001498885
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.5372723742059968
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.5525421990969858
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.5637492043259471
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.5691650842912843
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.5808638067965477
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.5859288559151685
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.5920921749135416
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.6287937702100567
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.6310758578136364
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.6338296597617707
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.6584573695244538
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.6901608302740407
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.7085709341964295
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.7147467576605139
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.7330687733901005
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7421076458822924
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.7448178912213771
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.8020737861899335
+      }
+    ]
+  },
+  "llm": {
+    "rank": 18,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 7,
+        "reason": "While focused on math, it touches on reasoning limits which is relevant to LLM scaling."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 7,
+        "reason": "Reinforcement learning for reasoning is a key component for improving LLM capabilities."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 6,
+        "reason": "Addresses scaling of agents, which is a precursor to scaling LLMs."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 6,
+        "reason": "Discusses environment scaling for agents, a concept related to scaling LLMs."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 6,
+        "reason": "Focuses on RL for long-horizon agents, relevant to the long-context scaling goal."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 5,
+        "reason": "Explores RL for agents, which can be a method for improving LLM performance."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "Data synthesis for agents can indirectly contribute to improving LLM capabilities through better training data."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 5,
+        "reason": "Web-scale research might involve techniques applicable to long-context understanding."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 5,
+        "reason": "Summarization for long horizons is directly relevant to managing and processing long contexts."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 5,
+        "reason": "Mentions scalable RL, a relevant technique for LLM improvement."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 5,
+        "reason": "Focuses on reasoning and long horizons for agents, aligning with LLM scaling challenges."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 4,
+        "reason": "Addresses empowering LLMs with research capabilities, which may relate to context handling."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 4,
+        "reason": "Foundation models with advanced reasoning capabilities are relevant to LLM scaling."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 4,
+        "reason": "General-purpose AI agents and foundational models are broadly related to LLM development."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 4,
+        "reason": "Tests advanced AI capabilities, potentially including long-context reasoning."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 4,
+        "reason": "While about small LLMs, it discusses agentic AI, a related field."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 4,
+        "reason": "Autonomous information seeking agents touch on capabilities LLMs aim to achieve."
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "Technical report of a large model, general relevance to LLM development."
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 3,
+        "reason": "A foundational paper on combining reasoning and acting, relevant to agentic LLMs."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 3,
+        "reason": "Benchmarking LLMs in web traversal is a specific application area."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 3,
+        "reason": "Benchmarking LLMs for web browsing, a specific capability."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 3,
+        "reason": "Benchmark for browsing agents, related to LLM capabilities."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 2,
+        "reason": "Directly mentions long-context LLMs but focuses on benchmarking RAG, not scaling training-free."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 2,
+        "reason": "Focuses on RAG evaluation, less directly on LLM scaling."
+      },
+      {
+        "arxivId": "2509.13301",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 1,
+        "reason": "While about agents and reasoning, it's less directly related to the core topic of training-free long-context scaling."
+      },
+      {
+        "arxivId": "2501.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 1,
+        "reason": "Duplicate of 2509.13301 with a different arxivId. Less relevant to the core topic."
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 1,
+        "reason": "Focuses on RL system for LLMs, but not specifically on training-free methods or long-context scaling."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 25,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 8,
+        "reason": "Directly addresses web browsing benchmarks for LLMs, relevant to the long-context scaling of LLMs for such tasks."
+      },
+      {
+        "index": 2,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 8,
+        "reason": "Explicitly mentions benchmarking long-context LLMs, a core aspect of the target paper's focus."
+      },
+      {
+        "index": 3,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 7,
+        "reason": "Focuses on pushing LLM limits, which is related to scaling capabilities. Mathematical reasoning can be a long-context task."
+      },
+      {
+        "index": 4,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 7,
+        "reason": "Deals with 'long-horizon' tasks and context summarization, directly relevant to managing long contexts efficiently."
+      },
+      {
+        "index": 5,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 7,
+        "reason": "The term 'scaling' is key. Continual pre-training could be a method to achieve the long-context scaling mentioned in the target."
+      },
+      {
+        "index": 6,
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 6,
+        "reason": "While focusing on small models, it discusses 'agentic AI', which often involves complex reasoning and potentially long contexts."
+      },
+      {
+        "index": 7,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "Connects large reasoning models with 'deep research capability', implying handling extensive information, which aligns with long-context scaling."
+      },
+      {
+        "index": 8,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 6,
+        "reason": "Introduces a paradigm for LLM interaction that could benefit from or require advanced context handling for complex tasks."
+      },
+      {
+        "index": 9,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 7,
+        "reason": "'Environment scaling' and 'agentic intelligence' suggest handling complexity and scale, relevant to LLM capabilities."
+      },
+      {
+        "index": 10,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 7,
+        "reason": "Focuses on 'long-horizon agents' and 'unbounded reasoning', which directly relates to the challenges of long contexts."
+      },
+      {
+        "index": 11,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 6,
+        "reason": "Benchmarks for AI assistants often test reasoning and multi-step processes that can involve large contexts."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 5,
+        "reason": "Reinforcement learning at scale for LLMs could be a method to improve their capabilities, including long-context handling."
+      },
+      {
+        "index": 13,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 5,
+        "reason": "Similar to DAPO, focuses on RL for reasoning, which could indirectly benefit long-context performance."
+      },
+      {
+        "index": 14,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 7,
+        "reason": "Addresses 'web-scale evidence' and 'deep research', implying the need for processing and structuring large amounts of information."
+      },
+      {
+        "index": 15,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 7,
+        "reason": "Directly links RL, 'long-horizon', and LLM agents, all relevant themes to improving LLM capabilities."
+      },
+      {
+        "index": 16,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 7,
+        "reason": "Benchmarking LLMs for web traversal tasks implies the need to handle potentially long sequences of information and actions."
+      },
+      {
+        "index": 17,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 6,
+        "reason": "Focuses on agentic and reasoning capabilities, which are enhanced by better long-context handling."
+      },
+      {
+        "index": 18,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 6,
+        "reason": "'Scalable reinforcement learning' is relevant to improving LLM performance, potentially including long-context abilities."
+      },
+      {
+        "index": 19,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 5,
+        "reason": "RAG evaluation is related, as efficient retrieval and reasoning over fetched documents is crucial for long contexts."
+      },
+      {
+        "index": 20,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 6,
+        "reason": "Focuses on 'web agents' and 'super-human reasoning', which requires robust handling of information, including long contexts."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 7,
+        "reason": "Benchmarks for browsing agents are highly relevant, as they test capabilities that benefit from long-context processing."
+      },
+      {
+        "index": 22,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 6,
+        "reason": "Autonomous information seeking implies the ability to process and act upon large amounts of retrieved information over time."
+      },
+      {
+        "index": 23,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 6,
+        "reason": "Information seeking and synthesis are core tasks where long-context capabilities are essential for performance."
+      },
+      {
+        "index": 24,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 5,
+        "reason": "Scientific AI agents and general-purpose capabilities might involve long-context reasoning, but it's not the primary focus."
+      },
+      {
+        "index": 25,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 4,
+        "reason": "General technical reports of LLMs are less likely to specifically focus on the nuances of long-context scaling unless explicitly mentioned."
+      },
+      {
+        "index": 26,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 5,
+        "reason": "GUI agents and multi-turn interactions suggest sequential processing, which can benefit from better context management."
+      },
+      {
+        "index": 27,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 4,
+        "reason": "While a challenging benchmark, it doesn't explicitly focus on the *scaling* of long contexts, but rather general AI capabilities."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.7099658689458263,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 8,
+          "reason": "Directly addresses web browsing benchmarks for LLMs, relevant to the long-context scaling of LLMs for such tasks."
+        },
+        {
+          "index": 2,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 8,
+          "reason": "Explicitly mentions benchmarking long-context LLMs, a core aspect of the target paper's focus."
+        },
+        {
+          "index": 3,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 7,
+          "reason": "Focuses on pushing LLM limits, which is related to scaling capabilities. Mathematical reasoning can be a long-context task."
+        },
+        {
+          "index": 4,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 7,
+          "reason": "Deals with 'long-horizon' tasks and context summarization, directly relevant to managing long contexts efficiently."
+        },
+        {
+          "index": 5,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 7,
+          "reason": "The term 'scaling' is key. Continual pre-training could be a method to achieve the long-context scaling mentioned in the target."
+        },
+        {
+          "index": 6,
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "score": 6,
+          "reason": "While focusing on small models, it discusses 'agentic AI', which often involves complex reasoning and potentially long contexts."
+        },
+        {
+          "index": 7,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 7,
+          "reason": "Connects large reasoning models with 'deep research capability', implying handling extensive information, which aligns with long-context scaling."
+        },
+        {
+          "index": 8,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 6,
+          "reason": "Introduces a paradigm for LLM interaction that could benefit from or require advanced context handling for complex tasks."
+        },
+        {
+          "index": 9,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 7,
+          "reason": "'Environment scaling' and 'agentic intelligence' suggest handling complexity and scale, relevant to LLM capabilities."
+        },
+        {
+          "index": 10,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 7,
+          "reason": "Focuses on 'long-horizon agents' and 'unbounded reasoning', which directly relates to the challenges of long contexts."
+        },
+        {
+          "index": 11,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 6,
+          "reason": "Benchmarks for AI assistants often test reasoning and multi-step processes that can involve large contexts."
+        },
+        {
+          "index": 12,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 5,
+          "reason": "Reinforcement learning at scale for LLMs could be a method to improve their capabilities, including long-context handling."
+        },
+        {
+          "index": 13,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 5,
+          "reason": "Similar to DAPO, focuses on RL for reasoning, which could indirectly benefit long-context performance."
+        },
+        {
+          "index": 14,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 7,
+          "reason": "Addresses 'web-scale evidence' and 'deep research', implying the need for processing and structuring large amounts of information."
+        },
+        {
+          "index": 15,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 7,
+          "reason": "Directly links RL, 'long-horizon', and LLM agents, all relevant themes to improving LLM capabilities."
+        },
+        {
+          "index": 16,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 7,
+          "reason": "Benchmarking LLMs for web traversal tasks implies the need to handle potentially long sequences of information and actions."
+        },
+        {
+          "index": 17,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 6,
+          "reason": "Focuses on agentic and reasoning capabilities, which are enhanced by better long-context handling."
+        },
+        {
+          "index": 18,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 6,
+          "reason": "'Scalable reinforcement learning' is relevant to improving LLM performance, potentially including long-context abilities."
+        },
+        {
+          "index": 19,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 5,
+          "reason": "RAG evaluation is related, as efficient retrieval and reasoning over fetched documents is crucial for long contexts."
+        },
+        {
+          "index": 20,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 6,
+          "reason": "Focuses on 'web agents' and 'super-human reasoning', which requires robust handling of information, including long contexts."
+        },
+        {
+          "index": 21,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 7,
+          "reason": "Benchmarks for browsing agents are highly relevant, as they test capabilities that benefit from long-context processing."
+        },
+        {
+          "index": 22,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 6,
+          "reason": "Autonomous information seeking implies the ability to process and act upon large amounts of retrieved information over time."
+        },
+        {
+          "index": 23,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 6,
+          "reason": "Information seeking and synthesis are core tasks where long-context capabilities are essential for performance."
+        },
+        {
+          "index": 24,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 5,
+          "reason": "Scientific AI agents and general-purpose capabilities might involve long-context reasoning, but it's not the primary focus."
+        },
+        {
+          "index": 25,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 4,
+          "reason": "General technical reports of LLMs are less likely to specifically focus on the nuances of long-context scaling unless explicitly mentioned."
+        },
+        {
+          "index": 26,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 5,
+          "reason": "GUI agents and multi-turn interactions suggest sequential processing, which can benefit from better context management."
+        },
+        {
+          "index": 27,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 4,
+          "reason": "While a challenging benchmark, it doesn't explicitly focus on the *scaling* of long contexts, but rather general AI capabilities."
+        }
+      ]
+    }
+  }
+}

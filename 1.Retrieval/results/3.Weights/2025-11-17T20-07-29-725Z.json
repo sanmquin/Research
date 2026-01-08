@@ -1,0 +1,2062 @@
+{
+  "selectedSource": {
+    "arxivId": "2507.05241",
+    "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+  },
+  "target": {
+    "arxivId": "2203.02155",
+    "title": "Training language models to follow instructions with human feedback"
+  },
+  "scores": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 7
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 208
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 9
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 9
+            }
+          ]
+        },
+        "score": 208
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 6
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 6
+            }
+          ]
+        },
+        "score": 189
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 9
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 188
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 5
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 187
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 7
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 186
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 9
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 6
+            }
+          ]
+        },
+        "score": 185
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 8
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 3
+            }
+          ]
+        },
+        "score": 181
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 7
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 6
+            }
+          ]
+        },
+        "score": 179
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 9
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 5
+            }
+          ]
+        },
+        "score": 178
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 10
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 174
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 8
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 173
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 8
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 5
+            }
+          ]
+        },
+        "score": 173
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 7
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 6
+            }
+          ]
+        },
+        "score": 168
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 6
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 6
+            }
+          ]
+        },
+        "score": 165
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 10
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 157
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 4
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 6
+            }
+          ]
+        },
+        "score": 157
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 8
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 7
+            }
+          ]
+        },
+        "score": 154
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 6
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 4
+            }
+          ]
+        },
+        "score": 139
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 8
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 3
+            }
+          ]
+        },
+        "score": 132
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 6
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 5
+            }
+          ]
+        },
+        "score": 130
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 5
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 3
+            }
+          ]
+        },
+        "score": 119
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 5
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 3
+            }
+          ]
+        },
+        "score": 110
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 5
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 3
+            }
+          ]
+        },
+        "score": 110
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 8
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 3
+            }
+          ]
+        },
+        "score": 107
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 9
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 5
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Instruction Following",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and Capabilities",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning and Deep Research",
+              "score": 6
+            },
+            {
+              "theme": "Web and Interactive Agents",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Pre-training vs. Fine-tuning",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Interaction/Process vs. Training Method",
+              "score": 3
+            }
+          ]
+        },
+        "score": 38
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Instruction Following",
+            "description": "Many papers build upon or relate to instruction-following language models, using them as a foundational concept for enhancing agent capabilities, training models to follow complex instructions, and achieving generalization across diverse tasks. The target paper is a seminal work in instruction tuning with human feedback, providing a key methodology for aligning models with human intent."
+          },
+          {
+            "theme": "Agentic AI and Capabilities",
+            "description": "A significant number of papers focus on developing agents with advanced capabilities, such as reasoning, information seeking, and interaction. Instruction following, as pioneered by the target paper, is a critical prerequisite for these agents, enabling them to perform complex tasks and achieve 'general agentic intelligence'."
+          },
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "description": "Reinforcement learning, particularly Reinforcement Learning from Human Feedback (RLHF), is a recurring theme. The target paper is foundational in applying RLHF to train models to follow instructions, making it relevant for papers that use RL systems for LLM alignment, capability enhancement, or training interactive agents."
+          },
+          {
+            "theme": "Reasoning and Deep Research",
+            "description": "Several papers aim to improve reasoning capabilities and facilitate deep research. Instruction following is presented as a key component for enabling models to reason effectively and process complex information, aligning with the goals of instruction-tuning methods."
+          },
+          {
+            "theme": "Web and Interactive Agents",
+            "description": "A notable subset of papers focuses on web agents, GUI agents, and interactive agents. The instruction-following techniques from the target paper are essential for training these agents to navigate, interact, and perform tasks within specific environments."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity vs. Generality",
+            "description": "Many papers have a more specialized focus (e.g., web agents, GUI agents, scientific AI, mathematical reasoning, long-horizon search) than the general instruction-following objective of the target paper. This narrower scope means they might not directly reference the foundational methods for teaching a model to follow *any* instruction."
+          },
+          {
+            "theme": "Focus on Pre-training vs. Fine-tuning",
+            "description": "Some papers concentrate on 'continual pre-training' or architectural aspects of foundation models rather than the fine-tuning phase that employs human feedback. The target paper's core contribution lies in the fine-tuning methodology, distinguishing it from papers primarily concerned with pre-training or model architecture."
+          },
+          {
+            "theme": "Benchmarking and Evaluation vs. Methodology",
+            "description": "Several papers introduce benchmarks or focus on evaluating specific capabilities (e.g., web browsing, RAG, long-context LLMs, general AI assistants). While these benchmarks would utilize models trained using methods like those in the target paper, the papers themselves are primarily about evaluation, not proposing the core instruction-tuning methodology."
+          },
+          {
+            "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+            "description": "While RL is a common thread, some papers emphasize the use of synthetic data or focus on proprietary agent development. This emphasis might differentiate their core contribution from the target paper's focus on general instruction tuning with human feedback."
+          },
+          {
+            "theme": "Focus on Agent Interaction/Process vs. Training Method",
+            "description": "Some papers focus on the agent's interaction, environment scaling, or internal processes (like ReAct's reasoning-acting framework) rather than the fundamental methodology of how to train a model to follow instructions. The target paper's contribution is specifically the training procedure."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Instruction Following",
+            "weight": 10,
+            "explanation": "The target paper's title explicitly mentions 'Training language models to follow instructions', making this theme directly and extremely relevant."
+          },
+          {
+            "theme": "Agentic AI and Capabilities",
+            "weight": 8,
+            "explanation": "Instruction following is a fundamental capability for advanced AI agents, as highlighted in the theme. The target paper provides a key methodology for developing these agents."
+          },
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "weight": 9,
+            "explanation": "The paper is a seminal work in Reinforcement Learning from Human Feedback (RLHF), which is a core technique for instruction tuning. Papers using RLHF for LLM alignment or agent training would likely reference it."
+          },
+          {
+            "theme": "Reasoning and Deep Research",
+            "weight": 7,
+            "explanation": "Effective reasoning in LLMs is often enabled by the ability to follow instructions. The target paper's methodology contributes to building models capable of such tasks."
+          },
+          {
+            "theme": "Web and Interactive Agents",
+            "weight": 6,
+            "explanation": "The instruction-following techniques are crucial for training agents that interact with web environments or perform complex tasks, making this theme highly relevant."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity vs. Generality",
+            "weight": 4,
+            "explanation": "While the target paper focuses on general instruction following, papers with highly specific domains might not directly reference the foundational instruction-tuning methodology, even if they benefit from it implicitly."
+          },
+          {
+            "theme": "Focus on Pre-training vs. Fine-tuning",
+            "weight": 7,
+            "explanation": "The target paper's primary contribution is in fine-tuning. Papers focused solely on pre-training or architectural innovations would have less direct incentive to cite the methodology of instruction tuning."
+          },
+          {
+            "theme": "Benchmarking and Evaluation vs. Methodology",
+            "weight": 5,
+            "explanation": "Papers focused on creating benchmarks or evaluation frameworks might use models trained via instruction following but their core contribution is not the training methodology itself."
+          },
+          {
+            "theme": "Emphasis on Synthetic Data or Proprietary Systems",
+            "weight": 3,
+            "explanation": "While RL might be a common thread, a strong emphasis on synthetic data or proprietary systems could indicate a departure from the general, human-feedback-driven approach of the target paper."
+          },
+          {
+            "theme": "Focus on Agent Interaction/Process vs. Training Method",
+            "weight": 6,
+            "explanation": "Papers concentrating on how agents interact or their internal processes (like ReAct) might not directly address the 'how-to' of training the model to follow instructions, which is the target paper's main contribution."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 16,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.4072310128116736
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.4711101558127003
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.4813460032692244
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.4843147607610315
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.5113022315463169
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5151697353329674
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.5204330028634605
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.5225569550839309
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.5357164664735947
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.5567143035728763
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.5661664892932077
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.5720984237693588
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.5768291027061407
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.5865072626294574
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.5959466168910874
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.5972153431459588
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.599349904570522
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.6099927948423428
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6110690464989541
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.6168223141175498
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.623225287246232
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.6357538400177667
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.640040901389002
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6712426594716406
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6759628463256614
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.702867124842902
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7900135200922355
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 21,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7139911009632003
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.7490165394027094
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.7511483870667057
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.7913963094232546
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7987132558222331
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8103255322600491
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.812926010769634
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.8186063302349977
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.8338125151044262
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.8589072418581435
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8591207841045988
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.8766176630850236
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.8833238397641581
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.8873149392595999
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.9018489648008722
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.9097951838484055
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9106168053383095
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.9160162149450988
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9364137293985746
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.9388840812826424
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.9425834227321375
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.9644551208229969
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.9850637964021046
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.997125681641363
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.0548615837892137
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1705023245694441
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3853049298262161
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2507.05241",
+      "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+    },
+    "target": {
+      "arxivId": "2203.02155",
+      "title": "Training language models to follow instructions with human feedback"
+    }
+  }
+}

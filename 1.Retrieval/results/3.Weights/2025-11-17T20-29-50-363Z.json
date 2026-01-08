@@ -1,0 +1,2217 @@
+{
+  "selectedSource": {
+    "arxivId": "2503.14476",
+    "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+  },
+  "target": {
+    "arxivId": "2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  "scores": {
+    "rank": 17,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 8
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 1
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 1
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 1
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 1
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 1
+            }
+          ]
+        },
+        "score": 162
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 2
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 4
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 6
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 3
+            }
+          ]
+        },
+        "score": 126
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 10
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 6
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 5
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 8
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 5
+            }
+          ]
+        },
+        "score": 87
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 7
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 5
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 5
+            }
+          ]
+        },
+        "score": 82
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 4
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 6
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 6
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 8
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 6
+            }
+          ]
+        },
+        "score": 72
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 5
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 8
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 5
+            }
+          ]
+        },
+        "score": 71
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 6
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 5
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 5
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 4
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 5
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 5
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 9
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 6
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 5
+            }
+          ]
+        },
+        "score": 55
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 6
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 10
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 5
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 6
+            }
+          ]
+        },
+        "score": 36
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 4
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 7
+            }
+          ]
+        },
+        "score": 35
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 10
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 7
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 4
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 6
+            }
+          ]
+        },
+        "score": 33
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 8
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 7
+            }
+          ]
+        },
+        "score": 31
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 8
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 7
+            }
+          ]
+        },
+        "score": 12
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 6
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 8
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 7
+            }
+          ]
+        },
+        "score": 6
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 8
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 8
+            }
+          ]
+        },
+        "score": 5
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 10
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 6
+            }
+          ]
+        },
+        "score": 4
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 8
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 6
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 8
+            }
+          ]
+        },
+        "score": 3
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 3
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 10
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 5
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 5
+            }
+          ]
+        },
+        "score": -4
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 6
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 8
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 8
+            }
+          ]
+        },
+        "score": -8
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 6
+            }
+          ]
+        },
+        "score": -13
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 7
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 6
+            }
+          ]
+        },
+        "score": -16
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 10
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 5
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 9
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 1
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 8
+            }
+          ]
+        },
+        "score": -18
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 10
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 8
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 8
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 8
+            }
+          ]
+        },
+        "score": -24
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 6
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 4
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 8
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 7
+            }
+          ]
+        },
+        "score": -40
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Training",
+              "score": 3
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Information Seeking",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Technical Reports",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Refinement and Feedback Mechanisms",
+              "score": 2
+            },
+            {
+              "theme": "Code Execution for Mathematical Problem Solving",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Core Contribution vs. Foundational Technique",
+              "score": 8
+            },
+            {
+              "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Broad Methodologies vs. Domain-Specific Application",
+              "score": 7
+            }
+          ]
+        },
+        "score": -44
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) for LLM Training",
+            "description": "Many explanations highlight the use of reinforcement learning techniques, such as policy optimization (e.g., PPO) and in-context learning from rewards, as crucial for training LLMs to perform complex tasks like mathematical reasoning. Advancements in RL algorithms and methodologies are seen as directly benefiting models like DeepSeekMath."
+          },
+          {
+            "theme": "Agent Foundation Models and Agentic Behavior",
+            "description": "Several papers discuss agent foundation models, multi-agent systems, and agentic problem-solving. The concepts of 'chain-of-agents' and how agents learn from diverse experiences are relevant to breaking down and solving complex mathematical problems."
+          },
+          {
+            "theme": "Tool Use and Integration in LLMs",
+            "description": "A significant theme is the importance of tool integration and tool use for LLMs, especially in the context of mathematical reasoning. Papers discussing how LLMs can leverage external tools, such as mathematical libraries or code execution, are highly relevant as they directly enhance problem-solving capabilities."
+          },
+          {
+            "theme": "Data Synthesis and Information Seeking",
+            "description": "The quality and synthesis of training data, particularly for mathematical problems, are identified as critical factors. The 'information-seeking' aspect is also relevant, suggesting how models might acquire and process mathematical knowledge effectively."
+          },
+          {
+            "theme": "Benchmarking and Technical Reports",
+            "description": "The relevance of technical reports and benchmarking of LLMs is noted. Comparing performance against other LLMs or using diverse benchmarks, especially those involving reasoning or logical deduction, is important for evaluating and advancing models like DeepSeekMath."
+          },
+          {
+            "theme": "Iterative Refinement and Feedback Mechanisms",
+            "description": "Methods involving iterative refinement and self-feedback, as well as verbal reinforcement learning, are seen as valuable for improving the accuracy and robustness of LLM outputs in complex reasoning tasks."
+          },
+          {
+            "theme": "Code Execution for Mathematical Problem Solving",
+            "description": "The ability for LLMs to execute code is highlighted as essential for accurate and complex mathematical reasoning, enabling them to perform calculations and logical steps effectively."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+            "description": "A key contrast is the specialization of DeepSeekMath in 'pushing the limits of mathematical reasoning' versus papers that focus on more general agent capabilities, multi-turn interactions, web traversal, or task automation without a specific emphasis on mathematical depth."
+          },
+          {
+            "theme": "Core Contribution vs. Foundational Technique",
+            "description": "Some papers are contrasted because they offer foundational techniques (like general RL algorithms or data synthesis methods) but do not specifically address or advance the *domain* of mathematical reasoning itself, unlike DeepSeekMath's specialized contribution."
+          },
+          {
+            "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+            "description": "A distinction is made between papers primarily focused on leveraging external tools or search engines for problem-solving and DeepSeekMath's aim to push the *internal* reasoning limits of LLMs, even if tools are used."
+          },
+          {
+            "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+            "description": "General technical reports for LLMs are considered less directly relevant than papers that specifically highlight innovations or limitations in mathematical reasoning capabilities, which is the core focus of DeepSeekMath."
+          },
+          {
+            "theme": "Broad Methodologies vs. Domain-Specific Application",
+            "description": "Methodologies like iterative refinement or reinforcement learning are contrasted if they are presented as general techniques rather than being specifically tailored, applied, or evaluated for the unique challenges of state-of-the-art mathematical reasoning."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) for LLM Training",
+            "weight": 4,
+            "explanation": "Reinforcement learning is a core technique for training advanced LLMs, and mathematical reasoning is a complex task that benefits greatly from RL-based optimization and learning from feedback."
+          },
+          {
+            "theme": "Agent Foundation Models and Agentic Behavior",
+            "weight": 3,
+            "explanation": "While DeepSeekMath is specialized in math, agentic approaches to problem-solving, breaking down complex tasks, and learning from experience are conceptually relevant to advanced mathematical reasoning."
+          },
+          {
+            "theme": "Tool Use and Integration in LLMs",
+            "weight": 5,
+            "explanation": "Mathematical reasoning often requires the use of precise tools (calculators, symbolic math engines). Integration and effective use of such tools are critical for pushing the limits of LLMs in this domain."
+          },
+          {
+            "theme": "Data Synthesis and Information Seeking",
+            "weight": 4,
+            "explanation": "The quality and quantity of mathematical data used for training are paramount. Effective data synthesis and the model's ability to 'seek' relevant information are crucial for achieving high performance in mathematical tasks."
+          },
+          {
+            "theme": "Benchmarking and Technical Reports",
+            "weight": 3,
+            "explanation": "Benchmarking and technical reports are important for evaluating and comparing models like DeepSeekMath, especially when it comes to assessing advancements in mathematical reasoning against established baselines."
+          },
+          {
+            "theme": "Iterative Refinement and Feedback Mechanisms",
+            "weight": 4,
+            "explanation": "Iterative refinement and feedback loops are essential for improving accuracy in complex, multi-step reasoning processes like mathematics. This aligns with the goal of pushing the limits of reasoning."
+          },
+          {
+            "theme": "Code Execution for Mathematical Problem Solving",
+            "weight": 5,
+            "explanation": "The ability to execute code is fundamental for performing accurate calculations, simulations, and logical steps in mathematical problem-solving, directly contributing to enhanced reasoning capabilities."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity of Focus (Mathematical Reasoning vs. General Tasks)",
+            "weight": 4,
+            "explanation": "DeepSeekMath's explicit focus on mathematical reasoning makes papers with a much broader scope (general agents, web traversal) less directly relevant, as they don't share the same specialized objective."
+          },
+          {
+            "theme": "Core Contribution vs. Foundational Technique",
+            "weight": 3,
+            "explanation": "While foundational techniques like RL or data synthesis are important, papers that focus *only* on these general methods without a specific application or advancement in mathematical reasoning are less indicative than those that apply them to the domain."
+          },
+          {
+            "theme": "Internal Reasoning vs. External Tool/Search Reliance",
+            "weight": 2,
+            "explanation": "DeepSeekMath aims to push *internal* reasoning, so papers heavily reliant on external search or tools without a focus on the model's internal processing might be less relevant, although tool use is still important."
+          },
+          {
+            "theme": "General LLM Reports vs. Specialized Mathematical LLMs",
+            "weight": 5,
+            "explanation": "General LLM reports lack the specificity of DeepSeekMath's focus. Papers detailing advancements or limitations in *mathematical* reasoning are far more pertinent than those covering LLMs broadly."
+          },
+          {
+            "theme": "Broad Methodologies vs. Domain-Specific Application",
+            "weight": 4,
+            "explanation": "General methodologies are less relevant than their specific application and evaluation within the challenging domain of state-of-the-art mathematical reasoning, which is DeepSeekMath's core contribution."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 8,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 2.631228568361621e-13
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.40181167233967374
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.41642897938858914
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.4738126935396555
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.4835098883165294
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.530777480533102
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.545051257590343
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5471276751382474
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5502004844178563
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5651403513768929
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5795273916528315
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.5808737063661915
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.6076964243194021
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6102133898504682
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6131551678878111
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.6270133711118366
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6275554268686185
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.6296101181921491
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.6411275874207052
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.7044828153596696
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7177261057263218
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.7209246324664104
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.7238372892435612
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.728040537761628
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.745788456028712
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.751353275779461
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 5,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.38541474486918703
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.680641666198602
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7014838163232433
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.7485315729569246
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7797156696091532
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7816931741103309
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7867549046849923
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.8212484706245513
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.8489043193888308
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.8512406245156564
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.8518331517397905
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8585058395869654
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.8640895649633428
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9094375631082946
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9199483108016142
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.940307868981677
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.945224589611694
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.9478700900463995
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 1.0102629382932924
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.0426799355978367
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0682848247521524
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.0758572684128103
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.1128250362877523
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.1261384290507654
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.1511620177592448
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2142662729887421
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2503.14476",
+      "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+    },
+    "target": {
+      "arxivId": "2402.03300",
+      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+    }
+  }
+}

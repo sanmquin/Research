@@ -1,0 +1,1991 @@
+{
+  "selectedSource": {
+    "arxivId": "2507.06229",
+    "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+  },
+  "target": {
+    "arxivId": "2505.05177",
+    "title": "MARK: Memory Augmented Refinement of Knowledge"
+  },
+  "scores": {
+    "rank": 16,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 5
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 5
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 24
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 2
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 1
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 2
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 3
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 2
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 1
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 3
+            }
+          ]
+        },
+        "score": 19
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 4
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 6
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 6
+            }
+          ]
+        },
+        "score": 17
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 4
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 2
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 5
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 6
+            }
+          ]
+        },
+        "score": 14
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 7
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 5
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 14
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 5
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 8
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 2
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 5
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 3
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 10
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 1
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 3
+            }
+          ]
+        },
+        "score": 8
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 2
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 3
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 3
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 3
+            }
+          ]
+        },
+        "score": 4
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 3
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 8
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 2
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 10
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 7
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 8
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 7
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -1
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 5
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -8
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 8
+            }
+          ]
+        },
+        "score": -11
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 10
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 8
+            }
+          ]
+        },
+        "score": -14
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 8
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 8
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 7
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 10
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -15
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 4
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 7
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 9
+            }
+          ]
+        },
+        "score": -17
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 2
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 2
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 4
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 5
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 6
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 4
+            }
+          ]
+        },
+        "score": -19
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 10
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 10
+            }
+          ]
+        },
+        "score": -21
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 6
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 9
+            }
+          ]
+        },
+        "score": -21
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 8
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 5
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 5
+            }
+          ]
+        },
+        "score": -22
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 4
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 10
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 8
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 5
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 10
+            }
+          ]
+        },
+        "score": -29
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 2
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 10
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 9
+            }
+          ]
+        },
+        "score": -37
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 2
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 6
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 5
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 5
+            }
+          ]
+        },
+        "score": -50
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 9
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 10
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 9
+            }
+          ]
+        },
+        "score": -55
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 7
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 9
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 7
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 10
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 10
+            }
+          ]
+        },
+        "score": -60
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Systems and Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Augmentation and Refinement Processes",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems and Coordination",
+              "score": 2
+            },
+            {
+              "theme": "LLM Capabilities and Training",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Focus (Broad vs. Narrow)",
+              "score": 10
+            },
+            {
+              "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+              "score": 7
+            },
+            {
+              "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Structure (Single vs. Multi-Agent)",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application (General vs. Domain-Specific)",
+              "score": 10
+            }
+          ]
+        },
+        "score": -60
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+            "description": "Several papers explore the use of Reinforcement Learning (RL) as a mechanism for refining knowledge, with some specifically mentioning its application in LLM agents, tool use, or policy optimization. This aligns with MARK's potential use of RL for 'knowledge refinement'."
+          },
+          {
+            "theme": "Agentic Systems and Tool Use",
+            "description": "A recurring theme is the involvement of agents, often LLM-based, that can interact with external tools or environments. This includes synthesizing data, seeking information, reasoning with tools, and executing code. MARK's 'memory augmentation' might involve similar agentic capabilities for acquiring or refining knowledge."
+          },
+          {
+            "theme": "Knowledge Augmentation and Refinement Processes",
+            "description": "Multiple explanations highlight techniques and concepts directly related to improving or refining knowledge, such as iterative refinement, self-feedback, synthesizing data, leveraging knowledge bases, and learning from experience. This strongly resonates with MARK's core objective of 'Memory Augmented Refinement of Knowledge'."
+          },
+          {
+            "theme": "Multi-Agent Systems and Coordination",
+            "description": "Some papers discuss multi-agent systems, group policy optimization, or workforce learning, suggesting that knowledge refinement in MARK could potentially involve coordination among multiple agents or learning within a structured group context."
+          },
+          {
+            "theme": "LLM Capabilities and Training",
+            "description": "Several papers are foundational or related to the capabilities and training of Large Language Models (LLMs), including in-context learning, scaling laws, and specific training methodologies. MARK, being a technical report likely related to LLMs, could draw upon or contribute to these areas."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity of Focus (Broad vs. Narrow)",
+            "description": "Many contrastive explanations point out that MARK's title suggests a more general 'memory augmented refinement of knowledge', whereas the cited papers often have a very specific focus (e.g., multi-turn tool reasoning, group-in-group optimization, mathematical reasoning, web traversal, GUI agents, mobile operations, code generation). This implies MARK might not be directly tied to these narrow applications or methodologies."
+          },
+          {
+            "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+            "description": "Several contrastive points highlight that the primary goal of the cited papers might differ from MARK's core objective. For instance, some focus on data synthesis, creating foundation models, strategic tool use, or agentic problem-solving across domains, rather than the internal refinement of knowledge itself."
+          },
+          {
+            "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+            "description": "While RL is a common theme, some contrastive explanations suggest MARK might not rely solely on RL or might use it differently. Some papers focus on reward-based learning or specific RL algorithms (like PPO), whereas MARK's 'memory augmentation' could involve other feedback mechanisms or knowledge manipulation strategies beyond standard RL."
+          },
+          {
+            "theme": "Agent Structure (Single vs. Multi-Agent)",
+            "description": "The contrastive explanations frequently mention that MARK's title implies a potentially singular focus, whereas many related papers deal explicitly with multi-agent systems, distillation between agents, or workforce automation. MARK might not necessarily involve multi-agent coordination or interaction."
+          },
+          {
+            "theme": "Scope of Application (General vs. Domain-Specific)",
+            "description": "A number of papers are highly specialized for particular domains like mathematics or code generation, or for specific tasks like web traversal. The contrastive view suggests that MARK's 'knowledge refinement' might be a more general mechanism applicable across various domains, and not necessarily tied to these specific applications."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) for Knowledge Refinement",
+            "weight": 4,
+            "explanation": "The mention of RL for knowledge refinement directly aligns with MARK's objective, suggesting a strong potential for overlap and influence. The weight is high but not maximal because the exact application within MARK is not fully detailed."
+          },
+          {
+            "theme": "Agentic Systems and Tool Use",
+            "weight": 3,
+            "explanation": "Memory augmentation in MARK could plausibly involve agentic capabilities for acquiring or refining knowledge, making this theme relevant. However, it's not as directly stated as RL for refinement, hence a moderately high weight."
+          },
+          {
+            "theme": "Knowledge Augmentation and Refinement Processes",
+            "weight": 5,
+            "explanation": "This theme directly mirrors the core stated purpose of MARK ('Memory Augmented Refinement of Knowledge'). The iterative refinement, self-feedback, and learning from experience aspects are highly indicative of a strong connection."
+          },
+          {
+            "theme": "Multi-Agent Systems and Coordination",
+            "weight": 2,
+            "explanation": "While some papers focus on multi-agent systems, MARK's title doesn't strongly imply this. Knowledge refinement could potentially occur in a single agent. This theme is considered less central to MARK's core concept."
+          },
+          {
+            "theme": "LLM Capabilities and Training",
+            "weight": 3,
+            "explanation": "As MARK is likely related to LLMs, understanding general LLM capabilities and training is important context. However, it's more of a foundational aspect rather than MARK's specific contribution, hence a moderate weight."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity of Focus (Broad vs. Narrow)",
+            "weight": 4,
+            "explanation": "The contrast between MARK's general title and the narrow focus of many related papers suggests that MARK is likely not a direct extension or application of those specific narrow domains. This is a strong indicator of divergence."
+          },
+          {
+            "theme": "Core Objective (Knowledge Refinement vs. Other Tasks)",
+            "weight": 4,
+            "explanation": "When the core objective of cited papers diverges significantly from 'knowledge refinement' (e.g., focusing on data synthesis or agentic problem-solving), it suggests these papers are less likely to be referencing MARK, as MARK's primary goal is distinct."
+          },
+          {
+            "theme": "Mechanism of Improvement (RL vs. Other Methods)",
+            "weight": 3,
+            "explanation": "While RL is positive, the contrast that MARK might not rely *solely* on RL or might use it differently implies that papers heavily focused on specific RL implementations might not align directly with MARK's broader 'memory augmentation' concept. This is a moderately negative indicator."
+          },
+          {
+            "theme": "Agent Structure (Single vs. Multi-Agent)",
+            "weight": 4,
+            "explanation": "The frequent emphasis on multi-agent systems in contrast to MARK's potentially singular focus implies that MARK is likely not centered around multi-agent coordination, making papers heavily focused on this aspect less relevant."
+          },
+          {
+            "theme": "Scope of Application (General vs. Domain-Specific)",
+            "weight": 4,
+            "explanation": "Similar to the 'Specificity of Focus' theme, the contrast between MARK's general applicability and the domain-specific nature of many papers indicates that these specialized papers are unlikely to be direct references to MARK, as MARK's mechanism is likely more general."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 6,
+    "ordered": [
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.41641659256529984
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.45528204952702245
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.49002610996683027
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.49113923534739357
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.4936140256593593
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.4996779033584474
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.5080288951938277
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.5090687770362722
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5301608144911196
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.5405528072663166
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.5588015652642633
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.562207648726726
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5631885289269875
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.5653893885910268
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.5719270427685511
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.5756080567387589
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.5772182011032563
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.582767300040945
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.5860978596571143
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.5940216496358282
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.6047773334727462
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6164171240167045
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6175150088846132
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.6181636043057974
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.6605744508010822
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.701327509280927
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 4,
+    "ordered": [
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.662111022185969
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7457106935562601
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.7718818934628394
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.7828937619555987
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.7855519434378869
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7908113793309631
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7957765233978932
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.8009033987502941
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8019193808284684
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.8029382926846517
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.8171788110606961
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.8213668127429171
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8347634238878525
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.8401314887621631
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.8964647756733218
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9167391821424395
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9170156081514473
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.9259675521352405
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.9373214738408525
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.9410304956035143
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.9492248689813374
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.9852001845648376
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.9958371174466327
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.0145150153058418
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.060383192780866
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1978676765433476
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2507.06229",
+      "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+    },
+    "target": {
+      "arxivId": "2505.05177",
+      "title": "MARK: Memory Augmented Refinement of Knowledge"
+    }
+  }
+}

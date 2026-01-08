@@ -1,0 +1,2062 @@
+{
+  "selectedSource": {
+    "arxivId": "2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+  },
+  "target": {
+    "arxivId": "2205.11916",
+    "title": "Large Language Models are Zero-Shot Reasoners"
+  },
+  "scores": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 4
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 6
+            }
+          ]
+        },
+        "score": 193
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 5
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 6
+            }
+          ]
+        },
+        "score": 174
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 4
+            }
+          ]
+        },
+        "score": 171
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 5
+            }
+          ]
+        },
+        "score": 162
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 10
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 3
+            }
+          ]
+        },
+        "score": 159
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 10
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 6
+            }
+          ]
+        },
+        "score": 158
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 4
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 1
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 2
+            }
+          ]
+        },
+        "score": 149
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 2
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 5
+            }
+          ]
+        },
+        "score": 143
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 5
+            }
+          ]
+        },
+        "score": 142
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 5
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 4
+            }
+          ]
+        },
+        "score": 141
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 2
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 2
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 3
+            }
+          ]
+        },
+        "score": 136
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 7
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 10
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 6
+            }
+          ]
+        },
+        "score": 126
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 10
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 2
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 4
+            }
+          ]
+        },
+        "score": 120
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 2
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 9
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 10
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 2
+            }
+          ]
+        },
+        "score": 117
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 10
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 2
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 4
+            }
+          ]
+        },
+        "score": 113
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 2
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 3
+            }
+          ]
+        },
+        "score": 110
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 4
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 6
+            }
+          ]
+        },
+        "score": 102
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 7
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 7
+            }
+          ]
+        },
+        "score": 100
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 2
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 3
+            }
+          ]
+        },
+        "score": 96
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 10
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 3
+            }
+          ]
+        },
+        "score": 96
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 3
+            }
+          ]
+        },
+        "score": 95
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 10
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 2
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 4
+            }
+          ]
+        },
+        "score": 94
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 9
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 5
+            }
+          ]
+        },
+        "score": 92
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 10
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 5
+            }
+          ]
+        },
+        "score": 88
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 5
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 3
+            }
+          ]
+        },
+        "score": 82
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 10
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 0
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 5
+            }
+          ]
+        },
+        "score": 55
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Zero-Shot Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and LLM Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation of LLMs",
+              "score": 3
+            },
+            {
+              "theme": "LLM Scaling and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Complex Task Applications of LLMs",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Agent Architecture and Training",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Different Scaling or Model Types",
+              "score": 5
+            },
+            {
+              "theme": "Tangential or Indirect Relevance",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning Covered",
+              "score": 4
+            }
+          ]
+        },
+        "score": 52
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Zero-Shot Reasoning Capabilities",
+            "description": "Many papers directly address or are concerned with the zero-shot reasoning abilities of Large Language Models (LLMs), which is the core focus of the target paper. This includes discussions on unbounded reasoning, general intelligence, and the emergent reasoning skills of LLMs without explicit task-specific training."
+          },
+          {
+            "theme": "Agentic AI and LLM Agents",
+            "description": "A significant theme is the development and evaluation of AI agents, often powered by LLMs. These agents perform various tasks like information seeking, web traversal, research, and interaction, all of which inherently rely on strong reasoning capabilities. The target paper is cited as a foundational work for the reasoning component of these agents."
+          },
+          {
+            "theme": "Benchmarking and Evaluation of LLMs",
+            "description": "Several papers focus on creating benchmarks or evaluating LLMs on complex tasks that require reasoning. The target paper is frequently mentioned as a baseline, a point of comparison, or a foundational reference for assessing the reasoning abilities of LLMs in these benchmarks."
+          },
+          {
+            "theme": "LLM Scaling and Training Methodologies",
+            "description": "Discussions around scaling LLMs, continual pre-training, reinforcement learning (RL), and synthetic data generation are present. These methodologies are often aimed at enhancing the capabilities of LLMs, including their reasoning skills, making the target paper relevant for understanding the reasoning potential that these methods aim to improve."
+          },
+          {
+            "theme": "Complex Task Applications of LLMs",
+            "description": "Papers explore the application of LLMs to complex tasks such as deep research, web-scale evidence processing, long-horizon search, summarization, and scientific AI. The target paper is cited because zero-shot reasoning is fundamental to tackling these unstructured and demanding tasks."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity of Agent Architecture and Training",
+            "description": "Some papers might not be cited because their focus is on very specific agent architectures (e.g., GUI agents, web researchers), specialized training techniques (e.g., proprietary RL, synthetic data), or particular application domains (e.g., web navigation, scientific AI) that are too distinct from the general zero-shot reasoning focus of the target paper."
+          },
+          {
+            "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+            "description": "A contrast arises when a paper's primary contribution is in system design, information structuring, data synthesis, or application-specific enhancements (like RAG or long-context handling), rather than directly advancing or evaluating the core intrinsic reasoning capabilities of LLMs as presented in the target paper."
+          },
+          {
+            "theme": "Focus on Different Scaling or Model Types",
+            "description": "Papers that focus primarily on scaling methods like 'environment scaling' or continual pre-training, or those that explore 'Small Language Models' in contrast to the 'Large Language Models' implicit in the target paper's title, might have less direct citation if the target paper does not engage with these specific aspects."
+          },
+          {
+            "theme": "Tangential or Indirect Relevance",
+            "description": "If a paper's contribution is largely tangential, such as specific benchmarks ('Humanity's Last Exam', GAIA), specific tasks ('mathematical reasoning', 'web traversal'), or focuses on aspects like 'incentivizing' reasoning via RL rather than demonstrating emergent zero-shot capabilities, the citation might be less direct or absent."
+          },
+          {
+            "theme": "Scope of Reasoning Covered",
+            "description": "While both discuss reasoning, potential divergence exists if the target paper's unique contribution is strictly zero-shot reasoning, and the other paper covers a broader spectrum of reasoning (few-shot, supervised) or specific sub-types (e.g., mathematical, RAG components) where the target paper's specific zero-shot insight is not directly foundational or comparable."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Zero-Shot Reasoning Capabilities",
+            "weight": 10,
+            "explanation": "This theme directly aligns with the core focus of the target paper, making it highly influential for predicting citations."
+          },
+          {
+            "theme": "Agentic AI and LLM Agents",
+            "weight": 9,
+            "explanation": "The target paper is often cited as a foundational work for the reasoning component of LLM agents, indicating strong relevance."
+          },
+          {
+            "theme": "Benchmarking and Evaluation of LLMs",
+            "weight": 8,
+            "explanation": "The target paper serves as a key reference point for evaluating LLM reasoning in benchmarks, suggesting a high degree of connection."
+          },
+          {
+            "theme": "LLM Scaling and Training Methodologies",
+            "weight": 7,
+            "explanation": "Methodologies aimed at enhancing LLM capabilities, including reasoning, make the target paper relevant for understanding the potential being improved."
+          },
+          {
+            "theme": "Complex Task Applications of LLMs",
+            "weight": 8,
+            "explanation": "The zero-shot reasoning capabilities discussed in the target paper are fundamental to tackling many complex LLM applications."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity of Agent Architecture and Training",
+            "weight": 7,
+            "explanation": "Papers focusing on highly specific architectures or training methods may not directly engage with the general zero-shot reasoning focus of the target paper."
+          },
+          {
+            "theme": "Emphasis on System Design vs. Intrinsic Reasoning",
+            "weight": 8,
+            "explanation": "Contributions primarily in system design or application-specific enhancements rather than core reasoning capabilities reduce the direct relevance to the target paper."
+          },
+          {
+            "theme": "Focus on Different Scaling or Model Types",
+            "weight": 6,
+            "explanation": "Papers focused on different scaling paradigms or smaller models may have less direct citation if the target paper does not address these specific aspects."
+          },
+          {
+            "theme": "Tangential or Indirect Relevance",
+            "weight": 7,
+            "explanation": "Tangential contributions or focus on specific tasks/benchmarks may lead to less direct citation compared to papers on core reasoning."
+          },
+          {
+            "theme": "Scope of Reasoning Covered",
+            "weight": 7,
+            "explanation": "If a paper covers a broader or different scope of reasoning than the target paper's specific zero-shot focus, its relevance might be reduced."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.34086701760895455
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.40683692972604946
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.4142141267415915
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.4192740139173815
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.43238441132223804
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.44496613899428905
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.44988483915158994
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.5111876221749865
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.5245171119108794
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.5427191574328458
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.5542275241135322
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5678436363351127
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.5749531214414716
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5957961545561632
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6025854635679013
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.6037757195406221
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.6155096586872177
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.616577761758341
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6178949444789194
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.6315345460582213
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6538373506531168
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.6605486494674696
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.6705932881001115
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.6810963182134095
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.693420423462745
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.6991649950137144
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7677535998796275
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.6393836962550749
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6476271057604812
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.663460945350702
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.7021867951197194
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.7263555625796045
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.7620326792998734
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.7813164257685017
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.7960047516423892
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.8109900111810492
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.8532183927161096
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8629994332621944
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.8788397985331902
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.8816821031306312
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.8921689825657357
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.9109606397174006
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.9188709126172115
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9412288687451942
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.9457099792626077
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.9548072062659305
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.9641851350489044
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.9716943189087809
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.9814842010314537
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.9869986661231943
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0159613676862902
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 1.029765630700438
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1926800885605484
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3630450096136082
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2210.03629",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+    },
+    "target": {
+      "arxivId": "2205.11916",
+      "title": "Large Language Models are Zero-Shot Reasoners"
+    }
+  }
+}

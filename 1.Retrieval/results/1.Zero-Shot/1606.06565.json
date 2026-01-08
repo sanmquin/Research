@@ -1,0 +1,822 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2503.14476",
+      "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+    },
+    "target": {
+      "arxivId": "1606.06565",
+      "title": "Concrete Problems in AI Safety"
+    }
+  },
+  "embeddings": {
+    "rank": 9,
+    "ordered": [
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.5970467671197477
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "distance": 0.6244939110884444
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "distance": 0.6387254310415545
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "distance": 0.6453962660049044
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "distance": 0.6469444820222997
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "distance": 0.6506631096980687
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "distance": 0.6680130166932972
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "distance": 0.6740457133128075
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.6754005078831361
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6809188143519536
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "distance": 0.6841526258304497
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.6852951168942378
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.6936826188211798
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "distance": 0.6949434576596468
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "distance": 0.7004671725816568
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7020607457634761
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.7025380085582758
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "distance": 0.7101023386116813
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "distance": 0.7165102219179219
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "distance": 0.7201720676613392
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.7252694871741342
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.7283524886269375
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.7306707150391543
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "distance": 0.7335023283286883
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "distance": 0.7374049293899552
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.7475911719976702
+      }
+    ]
+  },
+  "llm": {
+    "rank": 13,
+    "ordered": [
+      {
+        "index": 1,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 7,
+        "reason": "Focuses on Reinforcement Learning and tool integration for reasoning, aligning with the target's theme of AI safety concerns in complex systems."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 6,
+        "reason": "Emphasizes multi-agent systems and reinforcement learning, which can have implications for AI safety when agents interact."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 8,
+        "reason": "Directly related to policy optimization, a core concept in RL that has safety implications, and 'group' suggests multi-agent interactions."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "Deals with agents and data synthesis, which could be relevant to how AI systems learn and potentially encounter safety issues."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 5,
+        "reason": "Focuses on agentic problem solving, which touches on the capabilities and potential risks of advanced AI agents."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 6,
+        "reason": "Addresses multi-agent assistance and learning, key areas for understanding the safety and robustness of AI systems."
+      },
+      {
+        "index": 7,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 7,
+        "reason": "Connects LLMs directly to reinforcement learning, a field where AI safety is a major concern, and the 'reward is enough' framing can have safety implications."
+      },
+      {
+        "index": 8,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 8,
+        "reason": "Highly relevant due to 'Policy Optimization' and 'LLM Agent Training', directly intersecting with the target's focus on AI safety in complex agent systems."
+      },
+      {
+        "index": 9,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "A general technical report on an LLM; less directly related to specific AI safety problems unless it details safety measures."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 6,
+        "reason": "Discusses scaling laws in agent RL and code execution, which are areas with potential safety risks if not managed properly."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 7,
+        "reason": "Focuses on strategic tool use via RL in LLMs, a critical area for AI safety and control."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 5,
+        "reason": "A 'critical perspective' on training methods could touch upon safety, but it's less direct than papers focusing on RL or agent behavior."
+      },
+      {
+        "index": 13,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 8,
+        "reason": "Directly involves 'Reinforcement Learning' and 'LLM systems at scale', areas highly pertinent to AI safety concerns."
+      },
+      {
+        "index": 14,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 7,
+        "reason": "Combines reasoning, search engines, and RL for LLMs, all of which require careful consideration for safety and reliability."
+      },
+      {
+        "index": 15,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 4,
+        "reason": "Benchmarking LLMs for web traversal might reveal safety issues related to navigation and interaction with external systems."
+      },
+      {
+        "index": 16,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 4,
+        "reason": "A survey on GUI agents could cover safety aspects related to user interaction and task execution in complex interfaces."
+      },
+      {
+        "index": 17,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 5,
+        "reason": "Focuses on multi-agent collaboration for task execution, which can involve safety considerations regarding system control and errors."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Primarily about mathematical reasoning capabilities, less directly about AI safety unless safety is discussed in the context of reliability."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 6,
+        "reason": "Executable code actions by LLM agents raise significant safety concerns about unintended consequences and control."
+      },
+      {
+        "index": 20,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 5,
+        "reason": "Tool-integrated agent systems for code generation have safety implications related to code quality, security, and task completion."
+      },
+      {
+        "index": 21,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 4,
+        "reason": "Self-refinement processes could potentially lead to emergent behaviors, which are relevant to understanding AI safety."
+      },
+      {
+        "index": 22,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 7,
+        "reason": "Directly combines 'language agents' and 'reinforcement learning', a potent combination for exploring AI safety issues."
+      },
+      {
+        "index": 23,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 6,
+        "reason": "Self-taught tool use by LMs can lead to unexpected behaviors and safety risks if not carefully controlled and audited."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "Synergizing reasoning and acting is a core challenge in AI safety, as it involves making AI agents more capable and autonomous."
+      },
+      {
+        "index": 25,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 2,
+        "reason": "A foundational paper on few-shot learning; safety implications are indirect and related to the general capabilities of LMs."
+      },
+      {
+        "index": 26,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 8,
+        "reason": "PPO is a fundamental RL algorithm, and advances or analyses in its application are highly relevant to AI safety research."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 9,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 7,
+        "reason": "Focuses on agent problem solving and leveraging experience, which is relevant to safety by improving agent reliability."
+      },
+      {
+        "index": 2,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 7,
+        "reason": "Deals with multi-agent systems and task automation, relevant to understanding complex interactions and potential failure modes in AI."
+      },
+      {
+        "index": 3,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 6,
+        "reason": "Improvements in LLM agent capabilities through code execution can lead to more robust and predictable behavior, indirectly related to safety."
+      },
+      {
+        "index": 4,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 6,
+        "reason": "Focuses on tool-integrated reasoning and RL, which are key components for developing safer and more controllable AI agents."
+      },
+      {
+        "index": 5,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 6,
+        "reason": "Investigates RL for agents, especially with code execution, relevant to understanding how agents learn and behave, a prerequisite for safety."
+      },
+      {
+        "index": 6,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 6,
+        "reason": "Explores multi-agent distillation and RL for agent foundation models, touching on how complex agent systems are trained and could be made safer."
+      },
+      {
+        "index": 7,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 6,
+        "reason": "Focuses on tool-integrated agent systems and code generation, which relates to agent capabilities and potential for unintended consequences."
+      },
+      {
+        "index": 8,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 5,
+        "reason": "Surveys GUI agents, which are a form of AI agent interaction that could have safety implications if not well-controlled."
+      },
+      {
+        "index": 9,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 5,
+        "reason": "Discusses LLM reinforcement learning systems, relevant to the training methods used for agents, which can impact their safety."
+      },
+      {
+        "index": 10,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Focuses on self-improvement mechanisms for LLMs, which could be applied to enhance safety, but the paper itself doesn't directly address AI safety."
+      },
+      {
+        "index": 11,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 5,
+        "reason": "Critically examines training methods, which is indirectly relevant to understanding and improving AI safety through better training paradigms."
+      },
+      {
+        "index": 12,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 5,
+        "reason": "Focuses on policy optimization for LLM agent training, relevant to controlling agent behavior and thus safety."
+      },
+      {
+        "index": 13,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 5,
+        "reason": "Investigates training LLMs to use search engines with RL, relevant to agent capabilities and potential for misinformation or misuse."
+      },
+      {
+        "index": 14,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 5,
+        "reason": "Deals with multi-agent collaboration for task assistance, which relates to agent interaction and potential for emergent unsafe behaviors."
+      },
+      {
+        "index": 15,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 4,
+        "reason": "A foundational RL paper, relevant as many agent training methods use RL, but not directly about AI safety."
+      },
+      {
+        "index": 16,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 4,
+        "reason": "A technical report on a large language model, potentially containing insights into model capabilities relevant to safety, but not focused on it."
+      },
+      {
+        "index": 17,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 4,
+        "reason": "Focuses on agentic data synthesis, which could have indirect implications for AI safety if the synthesized data is biased or misleading."
+      },
+      {
+        "index": 18,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 4,
+        "reason": "Discusses LLMs as in-context RL learners, relevant to agent training but not directly about safety concerns."
+      },
+      {
+        "index": 19,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 4,
+        "reason": "Focuses on LLMs learning to use tools, which is relevant to agent capabilities and potential for misuse, but not explicitly about safety alignment."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 4,
+        "reason": "Applies RL to strategic tool use in LLMs, relevant to agent behavior control and safety, but not the primary focus."
+      },
+      {
+        "index": 21,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focuses on mathematical reasoning, which is a capability but not directly related to AI safety research."
+      },
+      {
+        "index": 22,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 3,
+        "reason": "Introduces a framework for LLMs to combine reasoning and acting, relevant to agent behavior but not directly addressing safety alignment."
+      },
+      {
+        "index": 23,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 3,
+        "reason": "The TARGET paper's sibling, focusing on agent learning with verbal feedback, which is highly relevant but likely has already been explored in the path to the TARGET."
+      },
+      {
+        "index": 24,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 3,
+        "reason": "A foundational paper on few-shot learning, important for LLM capabilities but not directly related to AI safety."
+      },
+      {
+        "index": 25,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 3,
+        "reason": "Focuses on policy optimization, which is related to controlling agent behavior, but the 'group sequence' aspect makes it less directly relevant to single-agent safety."
+      },
+      {
+        "index": 26,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 2,
+        "reason": "Benchmarks LLMs for web traversal, a specific capability that could have safety implications if misused, but the paper's focus is on capability, not safety itself."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.9526562613369295,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 7,
+          "reason": "Focuses on agent problem solving and leveraging experience, which is relevant to safety by improving agent reliability."
+        },
+        {
+          "index": 2,
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "score": 7,
+          "reason": "Deals with multi-agent systems and task automation, relevant to understanding complex interactions and potential failure modes in AI."
+        },
+        {
+          "index": 3,
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "score": 6,
+          "reason": "Improvements in LLM agent capabilities through code execution can lead to more robust and predictable behavior, indirectly related to safety."
+        },
+        {
+          "index": 4,
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "score": 6,
+          "reason": "Focuses on tool-integrated reasoning and RL, which are key components for developing safer and more controllable AI agents."
+        },
+        {
+          "index": 5,
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "score": 6,
+          "reason": "Investigates RL for agents, especially with code execution, relevant to understanding how agents learn and behave, a prerequisite for safety."
+        },
+        {
+          "index": 6,
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "score": 6,
+          "reason": "Explores multi-agent distillation and RL for agent foundation models, touching on how complex agent systems are trained and could be made safer."
+        },
+        {
+          "index": 7,
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "score": 6,
+          "reason": "Focuses on tool-integrated agent systems and code generation, which relates to agent capabilities and potential for unintended consequences."
+        },
+        {
+          "index": 8,
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "score": 5,
+          "reason": "Surveys GUI agents, which are a form of AI agent interaction that could have safety implications if not well-controlled."
+        },
+        {
+          "index": 9,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 5,
+          "reason": "Discusses LLM reinforcement learning systems, relevant to the training methods used for agents, which can impact their safety."
+        },
+        {
+          "index": 10,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 5,
+          "reason": "Focuses on self-improvement mechanisms for LLMs, which could be applied to enhance safety, but the paper itself doesn't directly address AI safety."
+        },
+        {
+          "index": 11,
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "score": 5,
+          "reason": "Critically examines training methods, which is indirectly relevant to understanding and improving AI safety through better training paradigms."
+        },
+        {
+          "index": 12,
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "score": 5,
+          "reason": "Focuses on policy optimization for LLM agent training, relevant to controlling agent behavior and thus safety."
+        },
+        {
+          "index": 13,
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "score": 5,
+          "reason": "Investigates training LLMs to use search engines with RL, relevant to agent capabilities and potential for misinformation or misuse."
+        },
+        {
+          "index": 14,
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "score": 5,
+          "reason": "Deals with multi-agent collaboration for task assistance, which relates to agent interaction and potential for emergent unsafe behaviors."
+        },
+        {
+          "index": 15,
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "score": 4,
+          "reason": "A foundational RL paper, relevant as many agent training methods use RL, but not directly about AI safety."
+        },
+        {
+          "index": 16,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 4,
+          "reason": "A technical report on a large language model, potentially containing insights into model capabilities relevant to safety, but not focused on it."
+        },
+        {
+          "index": 17,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 4,
+          "reason": "Focuses on agentic data synthesis, which could have indirect implications for AI safety if the synthesized data is biased or misleading."
+        },
+        {
+          "index": 18,
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "score": 4,
+          "reason": "Discusses LLMs as in-context RL learners, relevant to agent training but not directly about safety concerns."
+        },
+        {
+          "index": 19,
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "score": 4,
+          "reason": "Focuses on LLMs learning to use tools, which is relevant to agent capabilities and potential for misuse, but not explicitly about safety alignment."
+        },
+        {
+          "index": 20,
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "score": 4,
+          "reason": "Applies RL to strategic tool use in LLMs, relevant to agent behavior control and safety, but not the primary focus."
+        },
+        {
+          "index": 21,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 3,
+          "reason": "Focuses on mathematical reasoning, which is a capability but not directly related to AI safety research."
+        },
+        {
+          "index": 22,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 3,
+          "reason": "Introduces a framework for LLMs to combine reasoning and acting, relevant to agent behavior but not directly addressing safety alignment."
+        },
+        {
+          "index": 23,
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "score": 3,
+          "reason": "The TARGET paper's sibling, focusing on agent learning with verbal feedback, which is highly relevant but likely has already been explored in the path to the TARGET."
+        },
+        {
+          "index": 24,
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "score": 3,
+          "reason": "A foundational paper on few-shot learning, important for LLM capabilities but not directly related to AI safety."
+        },
+        {
+          "index": 25,
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "score": 3,
+          "reason": "Focuses on policy optimization, which is related to controlling agent behavior, but the 'group sequence' aspect makes it less directly relevant to single-agent safety."
+        },
+        {
+          "index": 26,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 2,
+          "reason": "Benchmarks LLMs for web traversal, a specific capability that could have safety implications if misused, but the paper's focus is on capability, not safety itself."
+        }
+      ]
+    }
+  }
+}

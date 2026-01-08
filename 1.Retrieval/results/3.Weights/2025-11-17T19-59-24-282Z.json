@@ -1,0 +1,2036 @@
+{
+  "selectedSource": {
+    "arxivId": "2504.21776",
+    "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+  },
+  "target": {
+    "arxivId": "2407.21783",
+    "title": "The Llama 3 Herd of Models"
+  },
+  "scores": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 6
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 1
+            }
+          ]
+        },
+        "score": 234
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 9
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 1
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 218.5
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 4
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "score": 218
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 6
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 3
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 2
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 8
+            }
+          ]
+        },
+        "score": 217.5
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 1
+            }
+          ]
+        },
+        "score": 206
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 3
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 1
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 7
+            }
+          ]
+        },
+        "score": 200.5
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 4
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 1
+            }
+          ]
+        },
+        "score": 199
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 3
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 5
+            }
+          ]
+        },
+        "score": 198
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 4
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 7
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 2
+            }
+          ]
+        },
+        "score": 197
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 6
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 2
+            }
+          ]
+        },
+        "score": 196
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 195
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 6
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 2
+            }
+          ]
+        },
+        "score": 194.5
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 8
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 1
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 193.5
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 8
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 3
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 6
+            }
+          ]
+        },
+        "score": 193
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 1
+            }
+          ]
+        },
+        "score": 193
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 192
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 10
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 1
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 189.5
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 9
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 7
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 3
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 2
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 7
+            }
+          ]
+        },
+        "score": 188
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 7
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 1
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 186.5
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 10
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 1
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 184
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 6
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 8
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 1
+            }
+          ]
+        },
+        "score": 183.5
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 5
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 4
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 9
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 1
+            }
+          ]
+        },
+        "score": 182
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 2
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 5
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 2
+            }
+          ]
+        },
+        "score": 179.5
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 7
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 1
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 169
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 7
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 1
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 4
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 3
+            }
+          ]
+        },
+        "score": 161.5
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 5
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 9
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 2
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 4
+            }
+          ]
+        },
+        "score": 154
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Foundation Model for Advanced Agents",
+              "score": 5
+            },
+            {
+              "theme": "Benchmark and Comparison",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Fine-tuning",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Information Processing",
+              "score": 3
+            },
+            {
+              "theme": "Comparison with Other State-of-the-Art Models",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Model-Agnostic Frameworks and Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Proprietary or Alternative Models",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Efficiency or Specialized Models",
+              "score": 8
+            },
+            {
+              "theme": "Contribution is the Benchmark or System, Not the LLM",
+              "score": 3
+            },
+            {
+              "theme": "Lack of Specific Disclosure or Optimization for Task",
+              "score": 2
+            }
+          ]
+        },
+        "score": 102
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Foundation Model for Advanced Agents",
+            "description": "Llama 3 is frequently cited as the underlying foundation model or a strong candidate for powering sophisticated agents, enabling them to perform tasks requiring reasoning, information processing, and interaction across various domains like long-horizon tasks, web navigation, and scientific research."
+          },
+          {
+            "theme": "Benchmark and Comparison",
+            "description": "Llama 3 serves as a prominent benchmark or a point of comparison in research papers evaluating LLM performance, especially in areas such as web browsing, agentic capabilities, long-context understanding, and general AI intelligence."
+          },
+          {
+            "theme": "Reinforcement Learning and Fine-tuning",
+            "description": "Llama 3 is identified as a suitable model for reinforcement learning (RL) applications, either as a base model to be further trained or fine-tuned for specific agentic tasks, or as a component within systems designed to enhance LLM reasoning and capabilities."
+          },
+          {
+            "theme": "Data Synthesis and Information Processing",
+            "description": "The advanced comprehension and generation capabilities of Llama 3 make it a valuable tool for synthesizing data, structuring web-scale evidence, and performing deep research, often acting as the engine for information seeking and processing agents."
+          },
+          {
+            "theme": "Comparison with Other State-of-the-Art Models",
+            "description": "Llama 3 is often discussed and compared with other leading foundation models like GLM-4.5 and Qwen3, highlighting its position within the current landscape of advanced LLMs and its competitive capabilities."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Model-Agnostic Frameworks and Methodologies",
+            "description": "Several papers focus on developing general frameworks, methodologies, or benchmarks for agents, summarization, or RL that are designed to be model-agnostic, meaning they can be applied to various LLMs, not specifically tied to Llama 3. The contribution lies in the method, not the specific LLM."
+          },
+          {
+            "theme": "Focus on Proprietary or Alternative Models",
+            "description": "Some research papers highlight their own proprietary models (e.g., 'X-Master', GLM-4.5, Qwen3, DeepSeekMath) or focus on specific architectures and training techniques. In these cases, Llama 3 might be mentioned only as a general competitor or a known entity, not as a direct dependency or subject of integration."
+          },
+          {
+            "theme": "Emphasis on Efficiency or Specialized Models",
+            "description": "Research focused on smaller, more efficient models (SLMs) or highly specialized models (e.g., for mathematical reasoning) may reference Llama 3 primarily as a large, general-purpose model to contrast their specific advancements or to demonstrate the limitations of general models in niche tasks."
+          },
+          {
+            "theme": "Contribution is the Benchmark or System, Not the LLM",
+            "description": "Papers introducing new benchmarks (e.g., for web browsing, agentic tasks, RAG evaluation) or specific RL systems (e.g., DAPO) might evaluate Llama 3 as one of many models, but their core contribution is the benchmark or system itself, rather than a deep linkage or reliance on Llama 3."
+          },
+          {
+            "theme": "Lack of Specific Disclosure or Optimization for Task",
+            "description": "In cases involving proprietary agents, specific training data, or tasks where other LLMs might be better optimized or available, papers may not explicitly link to Llama 3. The focus might be on the novel training techniques, the agent's architecture, or the specific LLM chosen for implementation reasons not solely tied to Llama 3's general capabilities."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Foundation Model for Advanced Agents",
+            "weight": 9.5,
+            "explanation": "The paper title directly mentions 'Llama 3 Herd of Models', strongly implying its use as a foundational model for various applications, including advanced agents."
+          },
+          {
+            "theme": "Benchmark and Comparison",
+            "weight": 8,
+            "explanation": "As a recent, high-performing model, Llama 3 is likely to be used as a benchmark or comparison point in many new research papers, especially those evaluating agentic capabilities or LLM performance."
+          },
+          {
+            "theme": "Reinforcement Learning and Fine-tuning",
+            "weight": 7.5,
+            "explanation": "The 'herd of models' suggests a collection that could be fine-tuned or used in RL scenarios for specific agentic tasks or research."
+          },
+          {
+            "theme": "Data Synthesis and Information Processing",
+            "weight": 7,
+            "explanation": "Llama 3's advanced capabilities make it a prime candidate for tasks involving data synthesis and complex information processing, often seen in agent-based research."
+          },
+          {
+            "theme": "Comparison with Other State-of-the-Art Models",
+            "weight": 8.5,
+            "explanation": "The existence of a 'herd' implies Llama 3's competitiveness and likely discussion alongside other leading models like GLM-4.5 and Qwen3."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Model-Agnostic Frameworks and Methodologies",
+            "weight": 2,
+            "explanation": "While Llama 3 might be evaluated within these frameworks, the primary focus of such papers is the methodology itself, not Llama 3 specifically."
+          },
+          {
+            "theme": "Focus on Proprietary or Alternative Models",
+            "weight": 3,
+            "explanation": "Papers focusing heavily on their own proprietary models might mention Llama 3 only as a general point of reference, not as a core component."
+          },
+          {
+            "theme": "Emphasis on Efficiency or Specialized Models",
+            "weight": 1.5,
+            "explanation": "Research focused on smaller or highly specialized models would likely contrast with, rather than rely on, Llama 3."
+          },
+          {
+            "theme": "Contribution is the Benchmark or System, Not the LLM",
+            "weight": 2.5,
+            "explanation": "Similar to model-agnostic frameworks, if the paper's contribution is a new benchmark or system, Llama 3 is likely just one of several models tested, not the central subject."
+          },
+          {
+            "theme": "Lack of Specific Disclosure or Optimization for Task",
+            "weight": 3.5,
+            "explanation": "If a paper uses a different LLM for optimization or proprietary reasons, Llama 3 might be omitted or only peripherally mentioned."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 11,
+    "ordered": [
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.6294876269831641
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6451907619074202
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.656245898416135
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.6591600471696648
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.6605189304110545
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.663837292154737
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.6803195496383672
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6803638058815595
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.6848750149925331
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.6951010797214217
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.6957845842376922
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.6987663949318572
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7002949382134634
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.7049668126394866
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.7139523463153762
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.714752288066621
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.7151327560212357
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.7229919754129246
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.7257778587592665
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.7274185753869669
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.7292888998214241
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.7419375166394333
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7442020123980624
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.7542327712496247
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.7620365971219136
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.7653569187570312
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7733421699686548
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.9283313507667176
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.9287088622203478
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9555328751792374
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.9647692029417816
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.97091884081696
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.9730074633114307
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.973405418158904
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.9755196028086413
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.9765941522963929
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.979133571790994
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.9862218975481519
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9876864563055409
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.9892202112162847
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.9972209591844482
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 1.012430558637698
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 1.013754735321439
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 1.0463737682224206
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0503348922256652
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 1.050962100549589
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 1.0535928935429548
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 1.0829937703511758
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.089756069197715
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 1.0926372328086371
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 1.1017072055312438
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.133131508713177
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1444504270052236
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3686335797026352
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2504.21776",
+      "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+    },
+    "target": {
+      "arxivId": "2407.21783",
+      "title": "The Llama 3 Herd of Models"
+    }
+  }
+}

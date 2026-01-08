@@ -1,0 +1,2443 @@
+{
+  "selectedSource": {
+    "arxivId": "2507.15061",
+    "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+  },
+  "target": {
+    "arxivId": "2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  "scores": {
+    "rank": 18,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 8
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 8
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 1
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 1
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 1
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 1
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 1
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 1
+            }
+          ]
+        },
+        "score": 184.5
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 9
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 5
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 4
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 3
+            }
+          ]
+        },
+        "score": 144
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 8
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 4
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 5
+            }
+          ]
+        },
+        "score": 131
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 7
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 8
+            }
+          ]
+        },
+        "score": 127
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 5
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 5
+            }
+          ]
+        },
+        "score": 126.5
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 9
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 3
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 4
+            }
+          ]
+        },
+        "score": 117
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 5
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 5
+            }
+          ]
+        },
+        "score": 115
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 8
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 6
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 3
+            }
+          ]
+        },
+        "score": 114.5
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 10
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 7
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 2
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 3
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 9
+            }
+          ]
+        },
+        "score": 113.5
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 5
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 5
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 2
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 3
+            }
+          ]
+        },
+        "score": 113.5
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 5
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 4
+            }
+          ]
+        },
+        "score": 102.5
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 4
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 7
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 2
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 1
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 1
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 2
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 6
+            }
+          ]
+        },
+        "score": 102
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 4
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 5
+            }
+          ]
+        },
+        "score": 100.5
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 5
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 6
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 2
+            }
+          ]
+        },
+        "score": 98.5
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 7
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 3
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 3
+            }
+          ]
+        },
+        "score": 98
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 7
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 3
+            }
+          ]
+        },
+        "score": 94.5
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 5
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 2
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 2
+            }
+          ]
+        },
+        "score": 92
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 10
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 5
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 3
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 7
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 7
+            }
+          ]
+        },
+        "score": 85.5
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 10
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 2
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 2
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 2
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 1
+            }
+          ]
+        },
+        "score": 85
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 3
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 5
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 6
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 5
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 10
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 2
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 4
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 1
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 2
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 4
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 8
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 1
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 1
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 1
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 1
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 10
+            }
+          ]
+        },
+        "score": 72
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 3
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 7
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 2
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 1
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 1
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 2
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 6
+            }
+          ]
+        },
+        "score": 69
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 4
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 5
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 10
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 2
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 4
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 6
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 4
+            }
+          ]
+        },
+        "score": 65
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Agent Foundation Models and Agentic Approaches",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Quality for Training",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Learning Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and Large-Scale Training",
+              "score": 6
+            },
+            {
+              "theme": "Code Generation and Execution",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specific vs. General Reasoning Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems vs. Single Model Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+              "score": 3
+            },
+            {
+              "theme": "External Knowledge Reliance vs. Internal Capabilities",
+              "score": 2
+            },
+            {
+              "theme": "Methodology Specificity vs. Foundational Advancements",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Problem Solving",
+              "score": 3
+            },
+            {
+              "theme": "Specific RL Algorithms or Paradigms",
+              "score": 4
+            }
+          ]
+        },
+        "score": 62
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) and Policy Optimization",
+            "description": "Many explanations highlight the use of RL, policy optimization, and agentic RL techniques as crucial for enhancing LLM reasoning, particularly in complex tasks like mathematical problem-solving. This suggests DeepSeekMath might leverage or build upon RL advancements for its training."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "description": "Several explanations point to the importance of LLMs learning to use tools, including calculators, symbolic solvers, or code execution. This is seen as directly applicable to improving mathematical reasoning capabilities, implying DeepSeekMath may involve tool integration."
+          },
+          {
+            "theme": "Agent Foundation Models and Agentic Approaches",
+            "description": "The concept of 'agent foundation models,' 'agentic RL,' and 'multi-agent systems' appears frequently. This suggests a trend towards developing more autonomous and capable AI agents, where advanced mathematical reasoning is a key component for general intelligence or task automation."
+          },
+          {
+            "theme": "Data Synthesis and Quality for Training",
+            "description": "The necessity of high-quality and diverse data for training sophisticated models is mentioned. Agentic approaches for data synthesis are noted as potentially crucial for pushing the limits of reasoning, including mathematical reasoning."
+          },
+          {
+            "theme": "In-Context Learning and Learning Paradigms",
+            "description": "The idea that LLMs can act as in-context reinforcement learners is highlighted as relevant. Foundational papers on few-shot learning also suggest that DeepSeekMath might build upon or demonstrate improvements beyond current few-shot capabilities."
+          },
+          {
+            "theme": "Scalability and Large-Scale Training",
+            "description": "The relevance of large-scale RL training systems and scaling laws is noted. Advancements in mathematical reasoning often require extensive training, making scalable infrastructure and methodologies important for pushing performance limits."
+          },
+          {
+            "theme": "Code Generation and Execution",
+            "description": "Several explanations connect mathematical reasoning to code generation and the ability of LLMs to execute code. This suggests that DeepSeekMath might leverage code execution as a mechanism for solving mathematical problems or that its advancements could benefit code-focused models."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specific vs. General Reasoning Focus",
+            "description": "Some papers focus on very specific types of reasoning (e.g., web traversal, GUI agents, mobile device operation) or tool usage (e.g., spontaneous code execution, search engines) that may not directly align with DeepSeekMath's broader goal of pushing mathematical reasoning limits."
+          },
+          {
+            "theme": "Multi-Agent Systems vs. Single Model Improvement",
+            "description": "Several contrastive explanations point out that papers focusing on multi-agent systems, multi-agent distillation, or group structures might employ different architectures or paradigms than DeepSeekMath, which could be focused on improving a single, powerful model."
+          },
+          {
+            "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+            "description": "A distinction is made between papers primarily focused on methods for data synthesis and those directly aiming to enhance the model's reasoning capabilities. DeepSeekMath is likely focused on the latter."
+          },
+          {
+            "theme": "External Knowledge Reliance vs. Internal Capabilities",
+            "description": "Some papers emphasize heavy reliance on external knowledge bases or cross-domain experience. This contrasts with approaches that might focus on improving the internal logical and analytical capabilities of the LLM for mathematical reasoning."
+          },
+          {
+            "theme": "Methodology Specificity vs. Foundational Advancements",
+            "description": "Papers offering a critical perspective on specific training methodologies or introducing very niche optimization techniques might be less relevant if DeepSeekMath focuses on fundamental advancements in mathematical reasoning rather than a particular training setup."
+          },
+          {
+            "theme": "Scope of Problem Solving",
+            "description": "The scope of problems addressed by some papers (e.g., real-world task automation, workforce learning) may be significantly broader than DeepSeekMath's specific aim to advance mathematical reasoning, suggesting different priorities or methodologies."
+          },
+          {
+            "theme": "Specific RL Algorithms or Paradigms",
+            "description": "While RL is a common theme, the use of specific algorithms (like PPO) or distinct RL paradigms (like 'verbal reinforcement learning' or 'Reward Is Enough') could be a point of contrast if DeepSeekMath employs different RL approaches or relies on non-RL methods."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) and Policy Optimization",
+            "weight": 4.5,
+            "explanation": "Mathematical reasoning in LLMs often benefits from RL techniques to refine strategies and improve performance on complex tasks. This is highly relevant to DeepSeekMath's goal of pushing mathematical reasoning limits."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "weight": 4,
+            "explanation": "The ability to use tools like calculators or symbolic solvers is crucial for mathematical reasoning. DeepSeekMath may incorporate such functionalities to enhance its mathematical capabilities."
+          },
+          {
+            "theme": "Agent Foundation Models and Agentic Approaches",
+            "weight": 3.5,
+            "explanation": "The trend towards agentic AI suggests that models with strong reasoning capabilities are foundational. DeepSeekMath's focus on advanced mathematical reasoning aligns with this broader trend in AI agent development."
+          },
+          {
+            "theme": "Data Synthesis and Quality for Training",
+            "weight": 4,
+            "explanation": "High-quality and diverse data, especially synthesized data, is critical for training advanced reasoning models. This is likely a key component in developing a model like DeepSeekMath."
+          },
+          {
+            "theme": "In-Context Learning and Learning Paradigms",
+            "weight": 3,
+            "explanation": "Improvements in in-context learning and few-shot capabilities are often demonstrated by models that push reasoning boundaries. DeepSeekMath might showcase advancements in this area."
+          },
+          {
+            "theme": "Scalability and Large-Scale Training",
+            "weight": 4,
+            "explanation": "Achieving state-of-the-art mathematical reasoning requires massive datasets and computational resources. Scalability is thus a critical factor in the development of models like DeepSeekMath."
+          },
+          {
+            "theme": "Code Generation and Execution",
+            "weight": 3.5,
+            "explanation": "Mathematical problems can often be solved or verified through code. DeepSeekMath may leverage code generation and execution as part of its reasoning process or as a demonstration of its capabilities."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specific vs. General Reasoning Focus",
+            "weight": 2,
+            "explanation": "DeepSeekMath aims for broad mathematical reasoning, so papers focused on highly specialized or niche reasoning tasks (e.g., web traversal) are likely less relevant."
+          },
+          {
+            "theme": "Multi-Agent Systems vs. Single Model Improvement",
+            "weight": 3,
+            "explanation": "While multi-agent systems use reasoning, DeepSeekMath is likely focused on enhancing a single model's core mathematical capabilities, making multi-agent specific research less directly applicable."
+          },
+          {
+            "theme": "Data Synthesis vs. Direct Reasoning Enhancement",
+            "weight": 1.5,
+            "explanation": "DeepSeekMath's core goal is to enhance reasoning itself, not just the methods of data synthesis. Therefore, papers solely focused on data synthesis techniques are less relevant."
+          },
+          {
+            "theme": "External Knowledge Reliance vs. Internal Capabilities",
+            "weight": 2.5,
+            "explanation": "DeepSeekMath likely emphasizes improving internal logical and analytical capabilities for math, rather than relying heavily on external knowledge bases, making such papers less relevant."
+          },
+          {
+            "theme": "Methodology Specificity vs. Foundational Advancements",
+            "weight": 2,
+            "explanation": "Papers focusing on very specific training methodologies or niche optimizations are less likely to be precursors or direct references to foundational advancements in mathematical reasoning like those DeepSeekMath aims for."
+          },
+          {
+            "theme": "Scope of Problem Solving",
+            "weight": 3,
+            "explanation": "DeepSeekMath's specific focus on mathematical reasoning makes papers targeting broad real-world task automation or workforce learning less directly related."
+          },
+          {
+            "theme": "Specific RL Algorithms or Paradigms",
+            "weight": 2.5,
+            "explanation": "While RL is relevant, the use of highly specific RL algorithms or paradigms not aligned with common LLM training for reasoning might indicate a divergence in approach from DeepSeekMath."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.9473311851925246e-13
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.4018115698623087
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.41642888780804854
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.4738126238063659
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.48350977862861455
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.5307775313329799
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.5450511955552758
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5471276196901277
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5502004754486511
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.565140265372249
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5795273101304583
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.5808737086754447
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.6076963645190561
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6102134170542679
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6131552132935798
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.627013389081585
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6275553721149839
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.6296101133320862
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.6411275857864842
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.7044827769509354
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7177261008288003
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.7209246508243092
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.723837269040696
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.7280405017694223
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.7457884409373885
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.7513532220783832
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 16,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.38541474486911864
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.6806415964653124
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7014837138458783
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.748531481376384
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7797156141610334
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7816931120752637
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7867549554848702
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.8212483891021781
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.848904209700916
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.8512405697620218
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.8518330919394445
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8585058306177602
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.864089567272596
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9094375903120943
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9199482247969704
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9403079143874457
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.9452245512029598
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.9478701080161479
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 1.0102629366590712
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.0426799307377739
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0682848045492872
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.0758572867707092
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.1128250211964286
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.1261383930585596
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.151161964058167
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2142662680912206
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2507.15061",
+      "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+    },
+    "target": {
+      "arxivId": "2402.03300",
+      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+    }
+  }
+}

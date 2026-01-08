@@ -1,0 +1,1991 @@
+{
+  "selectedSource": {
+    "arxivId": "1707.06347",
+    "title": "Proximal Policy Optimization Algorithms"
+  },
+  "target": {
+    "arxivId": "1506.02438",
+    "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation"
+  },
+  "scores": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 9
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 1
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 114
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 10
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 1
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 1
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 112
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 9
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 81
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 10
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 75
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 1
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 73
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 10
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 7
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 6
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 10
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 56
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 10
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 9
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 53
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 9
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 53
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 49
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 6
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 10
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 10
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 45
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 42
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 6
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 0
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 41
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 7
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 37
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 5
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 28
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 4
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 8
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 26
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 4
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 4
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 10
+            }
+          ]
+        },
+        "score": 19
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 3
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 5
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 8
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 3
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": 13
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 4
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 2
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 3
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": -1
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 3
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 4
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": -2
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 2
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 3
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 1
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 9
+            }
+          ]
+        },
+        "score": -11
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Core Concepts",
+              "score": 1
+            },
+            {
+              "theme": "RL for Agents and Decision Making",
+              "score": 2
+            },
+            {
+              "theme": "LLMs and RL Integration",
+              "score": 4
+            },
+            {
+              "theme": "Continuous Control and Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Reasoning in RL",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. Core Algorithms",
+              "score": 5
+            },
+            {
+              "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+              "score": 2
+            },
+            {
+              "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+              "score": 2
+            },
+            {
+              "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+              "score": 1
+            }
+          ]
+        },
+        "score": -31
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) Core Concepts",
+            "description": "Many papers explore fundamental RL concepts such as policy optimization, advantage estimation, and agent training, directly aligning with the target paper's focus on Generalized Advantage Estimation (GAE) for continuous control."
+          },
+          {
+            "theme": "RL for Agents and Decision Making",
+            "description": "A significant number of papers discuss the application of RL to agents, decision-making, control, and problem-solving, indicating a broad interest in using RL techniques like GAE to train intelligent agents in various domains."
+          },
+          {
+            "theme": "LLMs and RL Integration",
+            "description": "Several papers investigate the intersection of Large Language Models (LLMs) with RL, exploring how LLMs can act as RL learners, be trained using RL, or utilize RL for tasks like tool use and reasoning. GAE is identified as a relevant technique for enhancing these RL capabilities in LLMs."
+          },
+          {
+            "theme": "Continuous Control and Policy Optimization",
+            "description": "The theme of continuous control and policy optimization is recurring, with papers either employing RL for control tasks or discussing policy optimization methods, where GAE is a crucial component for stable and efficient training."
+          },
+          {
+            "theme": "Tool Use and Reasoning in RL",
+            "description": "Some explanations highlight the application of RL to tool use and reasoning within agents, suggesting that GAE could be relevant for training agents that strategically select and use tools or engage in complex reasoning processes."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specific Application Domains vs. Core Algorithms",
+            "description": "Many papers are contrasted because they focus on specific application domains (e.g., tool use, multi-turn reasoning, mathematical reasoning, web traversal, GUI agents, code generation) or specialized LLM capabilities (e.g., few-shot learning, verbal RL), whereas the target paper is a core RL algorithm (GAE) for high-dimensional continuous control, not tied to these specific applications."
+          },
+          {
+            "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+            "description": "Papers focused on creating agent foundation models, distillation techniques, or optimizing agent workforces are distinguished from the target paper, which is a fundamental RL algorithm rather than a system for creating agents or managing them in a workforce."
+          },
+          {
+            "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+            "description": "Contrast is drawn between papers that propose novel LLM training paradigms (e.g., in-context learning, group sequence policy optimization, verbal RL) and the target paper's general RL algorithm (GAE). GAE is a component, not a specific LLM training method."
+          },
+          {
+            "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+            "description": "Papers focused on data synthesis for agents or leveraging knowledge bases for problem-solving are differentiated from the target paper, which is an algorithm for control, not for data generation or knowledge management."
+          },
+          {
+            "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+            "description": "Survey papers covering broad areas like GUI agents, or technical reports detailing specific LLMs (like Qwen3), are contrasted with the target paper's focused algorithmic contribution (GAE) to RL."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) Core Concepts",
+            "weight": 5,
+            "explanation": "The target paper is directly about Generalized Advantage Estimation (GAE), a core concept in reinforcement learning, specifically for policy optimization in continuous control."
+          },
+          {
+            "theme": "RL for Agents and Decision Making",
+            "weight": 4,
+            "explanation": "GAE is a fundamental algorithm used for training agents to make decisions and control systems, which is a broad application area for RL papers that would likely reference GAE."
+          },
+          {
+            "theme": "LLMs and RL Integration",
+            "weight": 3,
+            "explanation": "While GAE is a general RL algorithm, its application in enhancing RL capabilities for LLMs is a growing area. Papers exploring this intersection might reference GAE as a foundational technique."
+          },
+          {
+            "theme": "Continuous Control and Policy Optimization",
+            "weight": 5,
+            "explanation": "The title explicitly mentions 'High-Dimensional Continuous Control' and GAE is a key algorithm for policy optimization in such settings. This theme is highly relevant."
+          },
+          {
+            "theme": "Tool Use and Reasoning in RL",
+            "weight": 2,
+            "explanation": "While GAE could be used to train agents for tool use or reasoning, this is a more specific application. The core contribution of GAE is broader than just these specific tasks."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specific Application Domains vs. Core Algorithms",
+            "weight": 4,
+            "explanation": "The target paper is a core RL algorithm, not focused on specific applications like tool use or mathematical reasoning. Papers focused solely on these applications are less likely to directly reference GAE as their primary contribution."
+          },
+          {
+            "theme": "Agent Foundation Models and Workforce Optimization vs. GAE",
+            "weight": 4,
+            "explanation": "The target paper is a foundational RL algorithm, distinct from research focused on building agent foundation models or optimizing agent workforces. These higher-level system designs are unlikely to directly cite GAE unless they are implementing the control aspects."
+          },
+          {
+            "theme": "LLM-Specific Training Paradigms vs. General RL Algorithms",
+            "weight": 3,
+            "explanation": "While GAE can be applied to LLM training, the target paper is a general RL algorithm, not an LLM-specific training paradigm. Papers proposing novel LLM training methods might not see GAE as directly relevant to their core contribution."
+          },
+          {
+            "theme": "Data Synthesis and Knowledge Bases vs. Control Algorithms",
+            "weight": 3,
+            "explanation": "The target paper is about control algorithms. Research focused on data synthesis or knowledge bases for agents operates on a different aspect of AI and is less likely to directly reference GAE."
+          },
+          {
+            "theme": "Survey Papers and Technical Reports vs. Algorithmic Contributions",
+            "weight": 2,
+            "explanation": "Survey papers or technical reports on specific LLMs are broad or descriptive, rather than focused on core algorithmic contributions like GAE. They are less likely to be directly referencing GAE compared to papers presenting new RL algorithms."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.5879975134618747
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.599095694988669
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.6007690177855656
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.631456968893062
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.6366519999698951
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.6471130862376664
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.6641033540180294
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6647945582652741
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.6725071722680138
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.678995417751896
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.6877464999512564
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6953685757698198
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.7002662129337764
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.702484214572024
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.7044721453627025
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.727453214989089
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.746519990781956
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.7522197655151205
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7568469776673028
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.7639925807290987
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.7833503391336123
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.7849982635371604
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7860184643441068
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7992572029314682
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.8019562702195304
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8294537392741886
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 10,
+    "ordered": [
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8415107920375899
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.8807887273902835
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8973825527361798
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.9030905103895567
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.9058244329897492
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.907095185592723
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.9091490887880017
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.9281573430097404
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.9857000731691753
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.9878062554416585
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9945927490276462
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.9960518551203654
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.9971935862778064
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.0445267862987497
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 1.0481307686244832
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0719007504976803
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1.0839996787611685
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 1.0989293469150376
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.101452626728356
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 1.1042070580681753
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1.117614196587422
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.1310291609881389
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 1.134058863787866
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 1.1398062229618817
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.2148684841431125
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2825586316065274
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "1707.06347",
+      "title": "Proximal Policy Optimization Algorithms"
+    },
+    "target": {
+      "arxivId": "1506.02438",
+      "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation"
+    }
+  }
+}

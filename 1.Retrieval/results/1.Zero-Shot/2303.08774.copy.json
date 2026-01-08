@@ -1,0 +1,1350 @@
+{
+  "embeddings": {
+    "rank": 5,
+    "ordered": [
+      {
+        "arxivId": "2401.01614",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "distance": 0.4935779574656929
+      },
+      {
+        "arxivId": "2503.01861",
+        "title": "Towards Enterprise-Ready Computer Using Generalist Agent",
+        "distance": 0.6071377403080526
+      },
+      {
+        "arxivId": "2408.03314",
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "distance": 0.6263256855003216
+      },
+      {
+        "arxivId": "2409.19256",
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "distance": 0.6343016032390226
+      },
+      {
+        "arxivId": "2410.22394",
+        "title": "AAAR-1.0: Assessing AI's Potential to Assist Research",
+        "distance": 0.6371893160715865
+      },
+      {
+        "arxivId": "2011.01060",
+        "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+        "distance": 0.6459699063820759
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.6505229900606483
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6548339082482657
+      },
+      {
+        "arxivId": "2010.02193",
+        "title": "Mastering Atari with Discrete World Models",
+        "distance": 0.6564377683807742
+      },
+      {
+        "arxivId": "2504.04736",
+        "title": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+        "distance": 0.6629687144184817
+      },
+      {
+        "arxivId": "2410.05080",
+        "title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+        "distance": 0.6669665301648302
+      },
+      {
+        "arxivId": "2504.10127",
+        "title": "Breaking the Data Barrier - Building GUI Agents Through Task Generalization",
+        "distance": 0.6738551134805122
+      },
+      {
+        "arxivId": "2411.15004",
+        "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+        "distance": 0.6740887886968863
+      },
+      {
+        "arxivId": "1312.5602",
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "distance": 0.6764825873107514
+      },
+      {
+        "arxivId": "2501.17161",
+        "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+        "distance": 0.6791021881671917
+      },
+      {
+        "arxivId": "2312.08914",
+        "title": "CogAgent: A Visual Language Model for GUI Agents",
+        "distance": 0.679805649557145
+      },
+      {
+        "arxivId": "1806.11532",
+        "title": "TextWorld: A Learning Environment for Text-based Games",
+        "distance": 0.682459367622789
+      },
+      {
+        "arxivId": "2402.11924",
+        "title": "CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark",
+        "distance": 0.6843225890039739
+      },
+      {
+        "arxivId": "2305.11854",
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "distance": 0.6846994332760906
+      },
+      {
+        "arxivId": "2203.14465",
+        "title": "STaR: Bootstrapping Reasoning With Reasoning",
+        "distance": 0.6886325826521783
+      },
+      {
+        "arxivId": "2108.00573",
+        "title": "♫ MuSiQue: Multihop Questions via Single-hop Question Composition",
+        "distance": 0.6888706659557698
+      },
+      {
+        "arxivId": "2402.14672",
+        "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+        "distance": 0.6913742945779271
+      },
+      {
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "distance": 0.6939803245301445
+      },
+      {
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+        "distance": 0.6967592954665752
+      },
+      {
+        "arxivId": "2410.12409",
+        "title": "Revealing the Barriers of Language Agents in Planning",
+        "distance": 0.698650185356586
+      },
+      {
+        "arxivId": "2403.13372",
+        "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+        "distance": 0.7011669581880278
+      },
+      {
+        "arxivId": "2309.02427",
+        "title": "Cognitive Architectures for Language Agents",
+        "distance": 0.7019519165981674
+      },
+      {
+        "arxivId": "2408.06327",
+        "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+        "distance": 0.7035193106223983
+      },
+      {
+        "arxivId": "1911.08265",
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "distance": 0.704267421463458
+      },
+      {
+        "arxivId": "2410.13825",
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "distance": 0.7048632232938573
+      },
+      {
+        "arxivId": "2506.01716",
+        "title": "Self-Challenging Language Model Agents",
+        "distance": 0.7125031606019117
+      },
+      {
+        "arxivId": "2407.18901",
+        "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+        "distance": 0.7129926142635098
+      },
+      {
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+        "distance": 0.7147953309480026
+      },
+      {
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model",
+        "distance": 0.71578255347829
+      },
+      {
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "distance": 0.7158432741851963
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.7162736213207761
+      },
+      {
+        "arxivId": "1707.01495",
+        "title": "Hindsight Experience Replay",
+        "distance": 0.7168048008783288
+      },
+      {
+        "arxivId": "2412.13194",
+        "title": "Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "distance": 0.7168500170213359
+      },
+      {
+        "arxivId": "2505.16421",
+        "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+        "distance": 0.7169196993465502
+      },
+      {
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "distance": 0.7182089301666505
+      },
+      {
+        "arxivId": "2207.01206",
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+        "distance": 0.7215275964316157
+      },
+      {
+        "arxivId": "1207.4708",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "distance": 0.722748190642797
+      },
+      {
+        "arxivId": "2502.11357",
+        "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+        "distance": 0.7258615276218376
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.7261118386319978
+      },
+      {
+        "arxivId": "2010.03768",
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "distance": 0.7297228126052779
+      },
+      {
+        "arxivId": "2402.01622",
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "distance": 0.7311209031171141
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.7319009493562709
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.7364852174467608
+      },
+      {
+        "arxivId": "2406.12045",
+        "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "distance": 0.7388877678996553
+      },
+      {
+        "arxivId": "2506.02918",
+        "title": "World Modelling Improves Language Model Agents",
+        "distance": 0.7433653357359508
+      },
+      {
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "distance": 0.7440637586535381
+      },
+      {
+        "arxivId": "2411.06559",
+        "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+        "distance": 0.7453973562468386
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.7472429715427797
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.7491558973144465
+      },
+      {
+        "arxivId": "2506.00320",
+        "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+        "distance": 0.7511174449095344
+      },
+      {
+        "arxivId": "2310.01798",
+        "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+        "distance": 0.7522847456297301
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.754793188224387
+      },
+      {
+        "arxivId": "1912.01603",
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "distance": 0.7615004246739123
+      },
+      {
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "distance": 0.7623078551909491
+      },
+      {
+        "arxivId": "1809.01999",
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "distance": 0.7635798917424654
+      },
+      {
+        "arxivId": "2504.20073",
+        "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning",
+        "distance": 0.7665077315244242
+      },
+      {
+        "arxivId": "2411.02337",
+        "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+        "distance": 0.7709356857029276
+      },
+      {
+        "arxivId": "2410.13232",
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "distance": 0.780376983388091
+      },
+      {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "distance": 0.7856715778110092
+      },
+      {
+        "arxivId": "2504.13958",
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "distance": 0.7905512356403906
+      },
+      {
+        "arxivId": "1011.0686",
+        "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+        "distance": 0.8377253410818513
+      }
+    ]
+  },
+  "llm": {
+    "rank": 10,
+    "ordered": [
+      {
+        "index": 1,
+        "arxivId": "2506.02918",
+        "title": "World Modelling Improves Language Model Agents",
+        "score": 9,
+        "reason": "Directly discusses world modeling for language model agents, a key component in the target paper's exploration of GPT-4 capabilities."
+      },
+      {
+        "index": 2,
+        "arxivId": "2506.01716",
+        "title": "Self-Challenging Language Model Agents",
+        "score": 8,
+        "reason": "Focuses on improving language model agents through self-challenging, which relates to the iterative refinement and self-improvement aspects often explored with powerful models like GPT-4."
+      },
+      {
+        "index": 3,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 8,
+        "reason": "Addresses LLM agent training, a core area relevant to understanding how agents like GPT-4 are developed and evaluated."
+      },
+      {
+        "index": 4,
+        "arxivId": "2504.20073",
+        "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning",
+        "score": 8,
+        "reason": "Investigates self-evolution in LLM agents, a concept aligned with understanding the advanced capabilities and potential of models like GPT-4."
+      },
+      {
+        "index": 5,
+        "arxivId": "2504.04736",
+        "title": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+        "score": 7,
+        "reason": "Connects synthetic data, RL, and reasoning, all of which are important aspects for developing and evaluating advanced language models and agents."
+      },
+      {
+        "index": 6,
+        "arxivId": "2504.10127",
+        "title": "Breaking the Data Barrier - Building GUI Agents Through Task Generalization",
+        "score": 7,
+        "reason": "Focuses on generalization in GUI agents, which is a capability that large models like GPT-4 aim to achieve in various domains."
+      },
+      {
+        "index": 7,
+        "arxivId": "2503.01861",
+        "title": "Towards Enterprise-Ready Computer Using Generalist Agent",
+        "score": 7,
+        "reason": "Discusses generalist agents for real-world applications, a direction that GPT-4's broad capabilities are often assessed against."
+      },
+      {
+        "index": 8,
+        "arxivId": "2501.17161",
+        "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+        "score": 7,
+        "reason": "Compares SFT and RL for foundation models, directly relevant to how models like GPT-4 are trained and their generalization abilities."
+      },
+      {
+        "index": 9,
+        "arxivId": "2411.06559",
+        "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+        "score": 7,
+        "reason": "Explores world models and planning in LLMs, which are fundamental to understanding agent behavior, as discussed in the GPT-4 report."
+      },
+      {
+        "index": 10,
+        "arxivId": "2410.22394",
+        "title": "AAAR-1.0: Assessing AI's Potential to Assist Research",
+        "score": 7,
+        "reason": "Focuses on assessing AI for research assistance, a direct application area where GPT-4's capabilities would be relevant."
+      },
+      {
+        "index": 11,
+        "arxivId": "2410.05080",
+        "title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+        "score": 7,
+        "reason": "Introduces a benchmark for assessing language agents in scientific discovery, a domain where GPT-4 is frequently applied and evaluated."
+      },
+      {
+        "index": 12,
+        "arxivId": "2408.06327",
+        "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+        "score": 6,
+        "reason": "Benchmarks multimodal agents, touching upon broader capabilities that might be considered in the context of advanced LLMs like GPT-4."
+      },
+      {
+        "index": 13,
+        "arxivId": "2408.03314",
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "score": 6,
+        "reason": "Discusses scaling compute for LLMs, a factor relevant to the performance and efficiency of large models like GPT-4."
+      },
+      {
+        "index": 14,
+        "arxivId": "2407.18901",
+        "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+        "score": 6,
+        "reason": "Benchmarks interactive coding agents, a specific application where advanced LLMs could be utilized."
+      },
+      {
+        "index": 15,
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "score": 6,
+        "reason": "Explores guiding exploration for agents using language, a technique relevant to LLM agent development."
+      },
+      {
+        "index": 16,
+        "arxivId": "2402.14672",
+        "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+        "score": 6,
+        "reason": "Highlights the importance of tools for LLM agents, a concept often discussed when evaluating the practical utility of models like GPT-4."
+      },
+      {
+        "index": 17,
+        "arxivId": "2401.01614",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "score": 6,
+        "reason": "Directly mentions GPT-4 (though a vision variant) and its potential as a web agent, indicating a relevant discussion point."
+      },
+      {
+        "index": 18,
+        "arxivId": "2312.08914",
+        "title": "CogAgent: A Visual Language Model for GUI Agents",
+        "score": 6,
+        "reason": "Focuses on visual language models for agents, broadening the scope of agent capabilities that LLMs are being extended to."
+      },
+      {
+        "index": 19,
+        "arxivId": "2309.02427",
+        "title": "Cognitive Architectures for Language Agents",
+        "score": 6,
+        "reason": "Discusses cognitive architectures for language agents, relevant to the underlying mechanisms of advanced LLMs."
+      },
+      {
+        "index": 20,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 6,
+        "reason": "Aims for a generalist agent for the web, aligning with the broad applicability and agent-like capabilities demonstrated by GPT-4."
+      },
+      {
+        "index": 21,
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model",
+        "score": 6,
+        "reason": "Connects reasoning, LLMs, planning, and world models, all relevant to the capabilities assessed in the GPT-4 report."
+      },
+      {
+        "index": 22,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 6,
+        "reason": "Focuses on iterative refinement and self-feedback, techniques that can improve LLM performance and are akin to self-correction."
+      },
+      {
+        "index": 23,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 6,
+        "reason": "Introduces verbal reinforcement learning for language agents, a method for improving agent behavior."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "score": 6,
+        "reason": "Suggests self-improvement in LLMs, a concept that is foundational to understanding how models like GPT-4 might evolve."
+      },
+      {
+        "index": 25,
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "score": 5,
+        "reason": "A benchmark for evaluating agent intelligence, relevant for comparing capabilities against sophisticated models."
+      },
+      {
+        "index": 26,
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "score": 5,
+        "reason": "Discusses chain-of-thought prompting, a technique often used to improve reasoning in LLMs and relevant to evaluating GPT-4's reasoning."
+      },
+      {
+        "index": 27,
+        "arxivId": "2303.08774",
+        "title": "GPT-4 Technical Report",
+        "score": 10,
+        "reason": "This is the TARGET paper. Its own citations would be the most relevant context."
+      },
+      {
+        "index": 28,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Focuses on iterative refinement and self-feedback, techniques that can improve LLM performance and are akin to self-correction."
+      },
+      {
+        "index": 29,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 5,
+        "reason": "Introduces verbal reinforcement learning for language agents, a method for improving agent behavior."
+      },
+      {
+        "index": 30,
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "score": 5,
+        "reason": "Suggests self-improvement in LLMs, a concept that is foundational to understanding how models like GPT-4 might evolve."
+      },
+      {
+        "index": 31,
+        "arxivId": "2410.13232",
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "score": 8,
+        "reason": "Combines world models and web agents, highly relevant to assessing the environmental interaction capabilities of large models like GPT-4."
+      },
+      {
+        "index": 32,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 6,
+        "reason": "Focuses on mathematical reasoning, a specific capability area that GPT-4's performance is often benchmarked against."
+      },
+      {
+        "index": 33,
+        "arxivId": "2403.13372",
+        "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+        "score": 5,
+        "reason": "Discusses fine-tuning of language models, a relevant training methodology for LLMs."
+      },
+      {
+        "index": 34,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 7,
+        "reason": "A realistic web environment for autonomous agents, directly applicable to evaluating the agent capabilities of GPT-4."
+      },
+      {
+        "index": 35,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 6,
+        "reason": "Benchmarks agents in real computer environments, assessing their ability to interact with complex systems, similar to GPT-4's potential."
+      },
+      {
+        "index": 36,
+        "arxivId": "2406.12045",
+        "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "score": 7,
+        "reason": "Benchmarks tool-agent-user interaction, a key aspect of practical LLM agent deployment and evaluation."
+      },
+      {
+        "index": 37,
+        "arxivId": "2402.01622",
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "score": 7,
+        "reason": "A benchmark for real-world planning with language agents, directly testing complex reasoning and task completion abilities."
+      },
+      {
+        "index": 38,
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "score": 6,
+        "reason": "Explores guiding exploration for agents using language, a technique relevant to LLM agent development."
+      },
+      {
+        "index": 39,
+        "arxivId": "2505.16421",
+        "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on training web agents using RL, a common methodology for developing and assessing agent capabilities."
+      },
+      {
+        "index": 40,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 8,
+        "reason": "Addresses LLM agent training, a core area relevant to understanding how agents like GPT-4 are developed and evaluated."
+      },
+      {
+        "index": 41,
+        "arxivId": "2504.13958",
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "score": 7,
+        "reason": "Investigates tool learning via RL, a critical aspect for enhancing LLM agent capabilities in practical tasks."
+      },
+      {
+        "index": 42,
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "score": 7,
+        "reason": "Critically assesses web agents, providing context for the evaluation of advanced models like GPT-4 in this domain."
+      },
+      {
+        "index": 43,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 7,
+        "reason": "Focuses on LLM reasoning and leveraging search engines with RL, directly relevant to agent capabilities."
+      },
+      {
+        "index": 44,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 7,
+        "reason": "Proposes a framework for self-adaptive agents in realistic environments, relevant to the robustness and adaptability of LLM agents."
+      },
+      {
+        "index": 45,
+        "arxivId": "2412.13194",
+        "title": "Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "score": 7,
+        "reason": "Introduces a framework for autonomous skill discovery in foundation model agents, relevant to GPT-4's versatility."
+      },
+      {
+        "index": 46,
+        "arxivId": "2411.15004",
+        "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+        "score": 7,
+        "reason": "Focuses on specialized web agents using real-world data, relevant to the practical application and performance evaluation of LLMs."
+      },
+      {
+        "index": 47,
+        "arxivId": "2411.02337",
+        "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on training LLM web agents with RL and self-evolving curricula, directly applicable to understanding agent development."
+      },
+      {
+        "index": 48,
+        "arxivId": "2410.13825",
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "score": 7,
+        "reason": "Proposes a baseline for LLM-based web agents, offering a point of comparison for evaluating GPT-4's web agent capabilities."
+      },
+      {
+        "index": 49,
+        "arxivId": "2409.19256",
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "score": 5,
+        "reason": "Discusses RLHF, a training paradigm relevant to advanced LLMs, including methods for aligning their behavior."
+      },
+      {
+        "index": 50,
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "score": 6,
+        "reason": "Applies tree search to language model agents, a technique that enhances planning and decision-making."
+      },
+      {
+        "index": 51,
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "score": 5,
+        "reason": "A benchmark for evaluating agent intelligence, relevant for comparing capabilities against sophisticated models."
+      },
+      {
+        "index": 52,
+        "arxivId": "2010.02193",
+        "title": "Mastering Atari with Discrete World Models",
+        "score": 5,
+        "reason": "Explores world models for game playing, a foundational concept in reinforcement learning and agent development."
+      },
+      {
+        "index": 53,
+        "arxivId": "1912.01603",
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "score": 5,
+        "reason": "Discusses learning behaviors through latent imagination, related to world modeling and internal simulation capabilities."
+      },
+      {
+        "index": 54,
+        "arxivId": "1911.08265",
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "score": 5,
+        "reason": "Highlights planning with learned models for complex games, a precursor to modern agent capabilities."
+      },
+      {
+        "index": 55,
+        "arxivId": "1809.01999",
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "score": 5,
+        "reason": "Shows how recurrent world models can aid policy evolution, a foundational concept for agent learning."
+      },
+      {
+        "index": 56,
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+        "score": 4,
+        "reason": "Addresses compositionality in LLMs, a key aspect of their understanding and reasoning capabilities."
+      },
+      {
+        "index": 57,
+        "arxivId": "2207.01206",
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+        "score": 6,
+        "reason": "Focuses on web interaction with grounded language agents, a practical application domain for LLMs."
+      },
+      {
+        "index": 58,
+        "arxivId": "2203.14465",
+        "title": "STaR: Bootstrapping Reasoning With Reasoning",
+        "score": 5,
+        "reason": "Introduces a method for bootstrapping reasoning in LLMs, directly relevant to their problem-solving abilities."
+      },
+      {
+        "index": 59,
+        "arxivId": "2108.00573",
+        "title": "♫ MuSiQue: Multihop Questions via Single-hop Question Composition",
+        "score": 4,
+        "reason": "Deals with multi-hop questions and compositionality, relevant to complex reasoning tasks LLMs are expected to handle."
+      },
+      {
+        "index": 60,
+        "arxivId": "2011.01060",
+        "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+        "score": 4,
+        "reason": "Focuses on evaluating reasoning steps in multi-hop QA, a task LLMs are often tested on."
+      },
+      {
+        "index": 61,
+        "arxivId": "2010.03768",
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "score": 5,
+        "reason": "Aligns text and embodied environments for interactive learning, relevant to agent interaction with dynamic settings."
+      },
+      {
+        "index": 62,
+        "arxivId": "1806.11532",
+        "title": "TextWorld: A Learning Environment for Text-based Games",
+        "score": 4,
+        "reason": "A text-based game environment for learning, providing a context for agent development in text-based interactions."
+      },
+      {
+        "index": 63,
+        "arxivId": "1707.01495",
+        "title": "Hindsight Experience Replay",
+        "score": 4,
+        "reason": "A core RL technique that underpins many agent learning advancements, including those that might benefit LLMs."
+      },
+      {
+        "index": 64,
+        "arxivId": "1312.5602",
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "score": 3,
+        "reason": "A foundational paper in deep RL for game playing, demonstrating early success in creating agents."
+      },
+      {
+        "index": 65,
+        "arxivId": "1207.4708",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "score": 3,
+        "reason": "An evaluation platform for general agents, providing a historical context for agent development benchmarks."
+      },
+      {
+        "index": 66,
+        "arxivId": "1011.0686",
+        "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+        "score": 2,
+        "reason": "A theoretical paper on learning paradigms, less directly related to specific agent capabilities but broadly relevant to AI learning."
+      },
+      {
+        "index": 67,
+        "arxivId": "2506.00320",
+        "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+        "score": 8,
+        "reason": "Integrates reasoning, acting, and world models for AI agents, highly relevant to advanced LLM agent capabilities."
+      },
+      {
+        "index": 68,
+        "arxivId": "2506.01716",
+        "title": "Self-Challenging Language Model Agents",
+        "score": 8,
+        "reason": "Focuses on improving language model agents through self-challenging, which relates to the iterative refinement and self-improvement aspects often explored with powerful models like GPT-4."
+      },
+      {
+        "index": 69,
+        "arxivId": "2504.13958",
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "score": 7,
+        "reason": "Investigates tool learning via RL, a critical aspect for enhancing LLM agent capabilities in practical tasks."
+      },
+      {
+        "index": 70,
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "score": 7,
+        "reason": "Critically assesses web agents, providing context for the evaluation of advanced models like GPT-4 in this domain."
+      },
+      {
+        "index": 71,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 7,
+        "reason": "Focuses on LLM reasoning and leveraging search engines with RL, directly relevant to agent capabilities."
+      },
+      {
+        "index": 72,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 7,
+        "reason": "Proposes a framework for self-adaptive agents in realistic environments, relevant to the robustness and adaptability of LLM agents."
+      },
+      {
+        "index": 73,
+        "arxivId": "2412.13194",
+        "title": "Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "score": 7,
+        "reason": "Introduces a framework for autonomous skill discovery in foundation model agents, relevant to GPT-4's versatility."
+      },
+      {
+        "index": 74,
+        "arxivId": "2411.15004",
+        "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+        "score": 7,
+        "reason": "Focuses on specialized web agents using real-world data, relevant to the practical application and performance evaluation of LLMs."
+      },
+      {
+        "index": 75,
+        "arxivId": "2411.02337",
+        "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on training LLM web agents with RL and self-evolving curricula, directly applicable to understanding agent development."
+      },
+      {
+        "index": 76,
+        "arxivId": "2410.13825",
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "score": 7,
+        "reason": "Proposes a baseline for LLM-based web agents, offering a point of comparison for evaluating GPT-4's web agent capabilities."
+      },
+      {
+        "index": 77,
+        "arxivId": "2409.19256",
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "score": 5,
+        "reason": "Discusses RLHF, a training paradigm relevant to advanced LLMs, including methods for aligning their behavior."
+      },
+      {
+        "index": 78,
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "score": 6,
+        "reason": "Applies tree search to language model agents, a technique that enhances planning and decision-making."
+      },
+      {
+        "index": 79,
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "score": 6,
+        "reason": "Explores guiding exploration for agents using language, a technique relevant to LLM agent development."
+      },
+      {
+        "index": 80,
+        "arxivId": "2310.01798",
+        "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+        "score": 5,
+        "reason": "Discusses limitations in LLM self-correction, a relevant point when evaluating advanced models and their potential for error reduction."
+      },
+      {
+        "index": 81,
+        "arxivId": "2305.11854",
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "score": 5,
+        "reason": "Focuses on multimodal navigation, relevant to extending LLM capabilities beyond text."
+      },
+      {
+        "index": 82,
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "score": 5,
+        "reason": "A benchmark for evaluating agent intelligence, relevant for comparing capabilities against sophisticated models."
+      },
+      {
+        "index": 83,
+        "arxivId": "2010.02193",
+        "title": "Mastering Atari with Discrete World Models",
+        "score": 5,
+        "reason": "Explores world models for game playing, a foundational concept in reinforcement learning and agent development."
+      },
+      {
+        "index": 84,
+        "arxivId": "1912.01603",
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "score": 5,
+        "reason": "Discusses learning behaviors through latent imagination, related to world modeling and internal simulation capabilities."
+      },
+      {
+        "index": 85,
+        "arxivId": "1911.08265",
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "score": 5,
+        "reason": "Highlights planning with learned models for complex games, a precursor to modern agent capabilities."
+      },
+      {
+        "index": 86,
+        "arxivId": "1809.01999",
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "score": 5,
+        "reason": "Shows how recurrent world models can aid policy evolution, a foundational concept for agent learning."
+      },
+      {
+        "index": 87,
+        "arxivId": "2506.02918",
+        "title": "World Modelling Improves Language Model Agents",
+        "score": 9,
+        "reason": "Directly discusses world modeling for language model agents, a key component in the target paper's exploration of GPT-4 capabilities."
+      },
+      {
+        "index": 88,
+        "arxivId": "2506.00320",
+        "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+        "score": 8,
+        "reason": "Integrates reasoning, acting, and world models for AI agents, highly relevant to advanced LLM agent capabilities."
+      },
+      {
+        "index": 89,
+        "arxivId": "2504.20073",
+        "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning",
+        "score": 8,
+        "reason": "Investigates self-evolution in LLM agents, a concept aligned with understanding the advanced capabilities and potential of models like GPT-4."
+      },
+      {
+        "index": 90,
+        "arxivId": "2410.13232",
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "score": 8,
+        "reason": "Combines world models and web agents, highly relevant to assessing the environmental interaction capabilities of large models like GPT-4."
+      },
+      {
+        "index": 91,
+        "arxivId": "2411.02337",
+        "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on training LLM web agents with RL and self-evolving curricula, directly applicable to understanding agent development."
+      },
+      {
+        "index": 92,
+        "arxivId": "2505.010978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 8,
+        "reason": "Addresses LLM agent training, a core area relevant to understanding how agents like GPT-4 are developed and evaluated."
+      },
+      {
+        "index": 93,
+        "arxivId": "2505.16421",
+        "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on training web agents using RL, a common methodology for developing and assessing agent capabilities."
+      },
+      {
+        "index": 94,
+        "arxivId": "2406.12045",
+        "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "score": 7,
+        "reason": "Benchmarks tool-agent-user interaction, a key aspect of practical LLM agent deployment and evaluation."
+      },
+      {
+        "index": 95,
+        "arxivId": "2402.01622",
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "score": 7,
+        "reason": "A benchmark for real-world planning with language agents, directly testing complex reasoning and task completion abilities."
+      },
+      {
+        "index": 96,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 7,
+        "reason": "A realistic web environment for autonomous agents, directly applicable to evaluating the agent capabilities of GPT-4."
+      },
+      {
+        "index": 97,
+        "arxivId": "2504.04736",
+        "title": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+        "score": 7,
+        "reason": "Connects synthetic data, RL, and reasoning, all of which are important aspects for developing and evaluating advanced language models and agents."
+      },
+      {
+        "index": 98,
+        "arxivId": "2410.05080",
+        "title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+        "score": 7,
+        "reason": "Introduces a benchmark for assessing language agents in scientific discovery, a domain where GPT-4 is frequently applied and evaluated."
+      },
+      {
+        "index": 99,
+        "arxivId": "2504.10127",
+        "title": "Breaking the Data Barrier - Building GUI Agents Through Task Generalization",
+        "score": 7,
+        "reason": "Focuses on generalization in GUI agents, which is a capability that large models like GPT-4 aim to achieve in various domains."
+      },
+      {
+        "index": 100,
+        "arxivId": "2501.17161",
+        "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+        "score": 7,
+        "reason": "Compares SFT and RL for foundation models, directly relevant to how models like GPT-4 are trained and their generalization abilities."
+      },
+      {
+        "index": 101,
+        "arxivId": "2503.01861",
+        "title": "Towards Enterprise-Ready Computer Using Generalist Agent",
+        "score": 7,
+        "reason": "Discusses generalist agents for real-world applications, a direction that GPT-4's broad capabilities are often assessed against."
+      },
+      {
+        "index": 102,
+        "arxivId": "2410.13825",
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "score": 7,
+        "reason": "Proposes a baseline for LLM-based web agents, offering a point of comparison for evaluating GPT-4's web agent capabilities."
+      },
+      {
+        "index": 103,
+        "arxivId": "2410.22394",
+        "title": "AAAR-1.0: Assessing AI's Potential to Assist Research",
+        "score": 7,
+        "reason": "Focuses on assessing AI for research assistance, a direct application area where GPT-4's capabilities would be relevant."
+      },
+      {
+        "index": 104,
+        "arxivId": "2504.13958",
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "score": 7,
+        "reason": "Investigates tool learning via RL, a critical aspect for enhancing LLM agent capabilities in practical tasks."
+      },
+      {
+        "index": 105,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 7,
+        "reason": "Proposes a framework for self-adaptive agents in realistic environments, relevant to the robustness and adaptability of LLM agents."
+      },
+      {
+        "index": 106,
+        "arxivId": "2411.15004",
+        "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+        "score": 7,
+        "reason": "Focuses on specialized web agents using real-world data, relevant to the practical application and performance evaluation of LLMs."
+      },
+      {
+        "index": 107,
+        "arxivId": "2411.06559",
+        "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+        "score": 7,
+        "reason": "Explores world models and planning in LLMs, which are fundamental to understanding agent behavior, as discussed in the GPT-4 report."
+      },
+      {
+        "index": 108,
+        "arxivId": "2412.13194",
+        "title": "Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "score": 7,
+        "reason": "Introduces a framework for autonomous skill discovery in foundation model agents, relevant to GPT-4's versatility."
+      },
+      {
+        "index": 109,
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "score": 7,
+        "reason": "Critically assesses web agents, providing context for the evaluation of advanced models like GPT-4 in this domain."
+      },
+      {
+        "index": 110,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 7,
+        "reason": "Focuses on LLM reasoning and leveraging search engines with RL, directly relevant to agent capabilities."
+      },
+      {
+        "index": 111,
+        "arxivId": "2408.03314",
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "score": 6,
+        "reason": "Discusses scaling compute for LLMs, a factor relevant to the performance and efficiency of large models like GPT-4."
+      },
+      {
+        "index": 112,
+        "arxivId": "2408.06327",
+        "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+        "score": 6,
+        "reason": "Benchmarks multimodal agents, touching upon broader capabilities that might be considered in the context of advanced LLMs like GPT-4."
+      },
+      {
+        "index": 113,
+        "arxivId": "2407.18901",
+        "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+        "score": 6,
+        "reason": "Benchmarks interactive coding agents, a specific application where advanced LLMs could be utilized."
+      },
+      {
+        "index": 114,
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "score": 6,
+        "reason": "Applies tree search to language model agents, a technique that enhances planning and decision-making."
+      },
+      {
+        "index": 115,
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "score": 6,
+        "reason": "Explores guiding exploration for agents using language, a technique relevant to LLM agent development."
+      },
+      {
+        "index": 116,
+        "arxivId": "2402.14672",
+        "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+        "score": 6,
+        "reason": "Highlights the importance of tools for LLM agents, a concept often discussed when evaluating the practical utility of models like GPT-4."
+      },
+      {
+        "index": 117,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 6,
+        "reason": "Focuses on mathematical reasoning, a specific capability area that GPT-4's performance is often benchmarked against."
+      },
+      {
+        "index": 118,
+        "arxivId": "2401.01614",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "score": 6,
+        "reason": "Directly mentions GPT-4 (though a vision variant) and its potential as a web agent, indicating a relevant discussion point."
+      },
+      {
+        "index": 119,
+        "arxivId": "2312.08914",
+        "title": "CogAgent: A Visual Language Model for GUI Agents",
+        "score": 6,
+        "reason": "Focuses on visual language models for agents, broadening the scope of agent capabilities that LLMs are being extended to."
+      },
+      {
+        "index": 120,
+        "arxivId": "2309.02427",
+        "title": "Cognitive Architectures for Language Agents",
+        "score": 6,
+        "reason": "Discusses cognitive architectures for language agents, relevant to the underlying mechanisms of advanced LLMs."
+      },
+      {
+        "index": 121,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 6,
+        "reason": "Aims for a generalist agent for the web, aligning with the broad applicability and agent-like capabilities demonstrated by GPT-4."
+      },
+      {
+        "index": 122,
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model",
+        "score": 6,
+        "reason": "Connects reasoning, LLMs, planning, and world models, all relevant to the capabilities assessed in the GPT-4 report."
+      },
+      {
+        "index": 123,
+        "arxivId": "2305.11854",
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "score": 5,
+        "reason": "Focuses on multimodal navigation, relevant to extending LLM capabilities beyond text."
+      },
+      {
+        "index": 124,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Focuses on iterative refinement and self-feedback, techniques that can improve LLM performance and are akin to self-correction."
+      },
+      {
+        "index": 125,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 5,
+        "reason": "Introduces verbal reinforcement learning for language agents, a method for improving agent behavior."
+      },
+      {
+        "index": 126,
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "score": 5,
+        "reason": "Suggests self-improvement in LLMs, a concept that is foundational to understanding how models like GPT-4 might evolve."
+      },
+      {
+        "index": 127,
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+        "score": 4,
+        "reason": "Addresses compositionality in LLMs, a key aspect of their understanding and reasoning capabilities."
+      },
+      {
+        "index": 128,
+        "arxivId": "2207.01206",
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+        "score": 6,
+        "reason": "Focuses on web interaction with grounded language agents, a practical application domain for LLMs."
+      },
+      {
+        "index": 129,
+        "arxivId": "2203.14465",
+        "title": "STaR: Bootstrapping Reasoning With Reasoning",
+        "score": 5,
+        "reason": "Introduces a method for bootstrapping reasoning in LLMs, directly relevant to their problem-solving abilities."
+      },
+      {
+        "index": 130,
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "score": 5,
+        "reason": "A benchmark for evaluating agent intelligence, relevant for comparing capabilities against sophisticated models."
+      },
+      {
+        "index": 131,
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "score": 5,
+        "reason": "Discusses chain-of-thought prompting, a technique often used to improve reasoning in LLMs and relevant to evaluating GPT-4's reasoning."
+      },
+      {
+        "index": 132,
+        "arxivId": "2108.00573",
+        "title": "♫ MuSiQue: Multihop Questions via Single-hop Question Composition",
+        "score": 4,
+        "reason": "Deals with multi-hop questions and compositionality, relevant to complex reasoning tasks LLMs are expected to handle."
+      },
+      {
+        "index": 133,
+        "arxivId": "2011.01060",
+        "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+        "score": 4,
+        "reason": "Focuses on evaluating reasoning steps in multi-hop QA, a task LLMs are often tested on."
+      },
+      {
+        "index": 134,
+        "arxivId": "2010.03768",
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "score": 5,
+        "reason": "Aligns text and embodied environments for interactive learning, relevant to agent interaction with dynamic settings."
+      },
+      {
+        "index": 135,
+        "arxivId": "2010.02193",
+        "title": "Mastering Atari with Discrete World Models",
+        "score": 5,
+        "reason": "Explores world models for game playing, a foundational concept in reinforcement learning and agent development."
+      },
+      {
+        "index": 136,
+        "arxivId": "1912.01603",
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "score": 5,
+        "reason": "Discusses learning behaviors through latent imagination, related to world modeling and internal simulation capabilities."
+      },
+      {
+        "index": 137,
+        "arxivId": "1911.08265",
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "score": 5,
+        "reason": "Highlights planning with learned models for complex games, a precursor to modern agent capabilities."
+      },
+      {
+        "index": 138,
+        "arxivId": "1809.01999",
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "score": 5,
+        "reason": "Shows how recurrent world models can aid policy evolution, a foundational concept for agent learning."
+      },
+      {
+        "index": 139,
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+        "score": 4,
+        "reason": "Dataset for multi-hop QA, relevant for testing complex reasoning skills of LLMs."
+      },
+      {
+        "index": 140,
+        "arxivId": "1806.11532",
+        "title": "TextWorld: A Learning Environment for Text-based Games",
+        "score": 4,
+        "reason": "A text-based game environment for learning, providing a context for agent development in text-based interactions."
+      },
+      {
+        "index": 141,
+        "arxivId": "1707.01495",
+        "title": "Hindsight Experience Replay",
+        "score": 4,
+        "reason": "A core RL technique that underpins many agent learning advancements, including those that might benefit LLMs."
+      },
+      {
+        "index": 142,
+        "arxivId": "1312.5602",
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "score": 3,
+        "reason": "A foundational paper in deep RL for game playing, demonstrating early success in creating agents."
+      },
+      {
+        "index": 143,
+        "arxivId": "1207.4708",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "score": 3,
+        "reason": "An evaluation platform for general agents, providing a historical context for agent development benchmarks."
+      },
+      {
+        "index": 144,
+        "arxivId": "1011.0686",
+        "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+        "score": 2,
+        "reason": "A theoretical paper on learning paradigms, less directly related to specific agent capabilities but broadly relevant to AI learning."
+      }
+    ]
+  }
+}

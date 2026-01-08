@@ -1,0 +1,825 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2210.03629",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+    },
+    "target": {
+      "arxivId": "2012.05672",
+      "title": "Imitating Interactive Intelligence"
+    }
+  },
+  "embeddings": {
+    "rank": 12,
+    "ordered": [
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.45421192321401915
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.4701840148854206
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.5120643304740684
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.5227273856212034
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.5275499884112279
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.5335638201170956
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.5353817143486388
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.5449722004665181
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.5494126729283829
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.5520222928285508
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.5572764945555478
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.562194661507461
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.5853772525461293
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.5855941537848783
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.5880302122787489
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.5939476409594454
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.594988050263286
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.607484852253288
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.6101418576778198
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.6103913769284947
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.6242255931917962
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.6430211617888864
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.6513259880014677
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.6845691031826115
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.68585282090808
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.6896118476123735
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.7077583899287684
+      }
+    ]
+  },
+  "llm": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 10,
+        "reason": "This paper introduces the ReAct framework, which directly combines reasoning and acting, a core concept in the target paper 'Imitating Interactive Intelligence'."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 9,
+        "reason": "Focuses on improving reasoning capabilities in LLMs using reinforcement learning, which is highly relevant to achieving interactive intelligence."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 9,
+        "reason": "Directly addresses interactive LLM agents and uses reinforcement learning, aligning closely with the target's themes."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on GUI agents and multi-turn interaction, which are important aspects of imitating interactive intelligence."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 8,
+        "reason": "Deals with advanced reasoning for web agents, a key component for interactive intelligence in web environments."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 8,
+        "reason": "An advancement of WebSailor, focusing on scalable RL for agents, relevant to developing interactive capabilities."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 7,
+        "reason": "Addresses deep research and structuring information, which are foundational for intelligent agents that interact with complex environments."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 7,
+        "reason": "Focuses on long-horizon search and summarization, contributing to the agent's ability to process and act on information over time."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 7,
+        "reason": "Focuses on unbounded reasoning for agents, a prerequisite for sophisticated interactive intelligence."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "Enhances reasoning models with deep research capabilities, relevant for agents that need to understand and interact with information."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 6,
+        "reason": "Focuses on data synthesis and information seeking for agents, related to how agents gather knowledge for interaction."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 6,
+        "reason": "Addresses scaling agents, which is important for developing more general and robust interactive capabilities."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 6,
+        "reason": "Explores general agentic intelligence and environment scaling, which is a broader goal that includes interactive intelligence."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 6,
+        "reason": "Focuses on autonomous information seeking, a key aspect of agents that need to interact intelligently."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 5,
+        "reason": "A general foundation model with agentic and reasoning capabilities, providing a basis for interactive intelligence."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 5,
+        "reason": "Aims for general-purpose scientific AI agents, which may require interactive intelligence for specific tasks."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 5,
+        "reason": "Evaluates RAG systems, which are important for agents that need to retrieve and reason over information to interact."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 4,
+        "reason": "While related to agent capabilities, it's more of a benchmark than a direct method for interactive intelligence."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 4,
+        "reason": "Benchmarks web traversal, a specific skill for web agents but not the full scope of interactive intelligence."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 4,
+        "reason": "Focuses on web browsing benchmarks, a component of interactive agents."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 4,
+        "reason": "Focuses on web browsing benchmarks, a component of interactive agents."
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 4,
+        "reason": "A system for LLM RL, which can be a tool for building interactive agents but is not specific to the core concept."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 3,
+        "reason": "Focuses on RAG and long context, which are relevant for agents but not directly on interaction imitation."
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "A general LLM report; its relevance depends on the specific agentic capabilities discussed within."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 2,
+        "reason": "Focuses on mathematical reasoning, a specific domain that may not be central to general interactive intelligence."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 2,
+        "reason": "Discusses agentic AI in general but focuses on model size rather than interactive intelligence mechanisms."
+      },
+      {
+        "arxivId": "2510.24701",
+        "title": "Tongyi DeepResearch Technical Report",
+        "score": 1,
+        "reason": "This is the START paper, so it cannot be a 1-hop citation to itself."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 5,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 9,
+        "reason": "Directly discusses agents, reinforcement learning, and web navigation, aligning with the target's focus on interactive intelligence and agents."
+      },
+      {
+        "index": 2,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 9,
+        "reason": "Focuses on GUI agents and multi-turn reinforcement learning, which are highly relevant to interactive intelligence."
+      },
+      {
+        "index": 3,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 9,
+        "reason": "Emphasizes autonomous information seeking agency, a key aspect of intelligent agents interacting with environments."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 8,
+        "reason": "Discusses web agents and super-human reasoning, which are core components of achieving advanced interactive intelligence."
+      },
+      {
+        "index": 12,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 8,
+        "reason": "Introduces a framework for integrating reasoning and acting, directly relevant to interactive intelligence."
+      },
+      {
+        "index": 5,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 8,
+        "reason": "GAIA benchmark focuses on evaluating general AI assistants, which requires interactive intelligence capabilities."
+      },
+      {
+        "index": 7,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 8,
+        "reason": "Addresses interactive LLM agents and reinforcement learning, directly related to the target's themes."
+      },
+      {
+        "index": 8,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 8,
+        "reason": "Focuses on general agentic intelligence, which is the overarching goal of interactive intelligence research."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 7,
+        "reason": "Discusses agentic data synthesis and information seeking, relevant to agent capabilities and interaction."
+      },
+      {
+        "index": 14,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "Focuses on deep research capabilities, which often involve interactive agents gathering information."
+      },
+      {
+        "index": 15,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 7,
+        "reason": "Deals with long-horizon agents and their reasoning capabilities, which are part of interactive intelligence."
+      },
+      {
+        "index": 19,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 7,
+        "reason": "Focuses on deep research, which can be a component of interactive intelligence, particularly in information gathering."
+      },
+      {
+        "index": 23,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 7,
+        "reason": "Addresses long-horizon search intelligence, which requires sophisticated interaction and understanding."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 6,
+        "reason": "Discusses general-purpose AI agents and a challenging exam, hinting at broad intelligence and interaction."
+      },
+      {
+        "index": 13,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 6,
+        "reason": "Mentions agentic capabilities and reasoning, relevant but broader than the specific interactive intelligence focus."
+      },
+      {
+        "index": 16,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 6,
+        "reason": "Focuses on reasoning capabilities and RL, which are important for intelligent agents, but less emphasis on interaction."
+      },
+      {
+        "index": 11,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 6,
+        "reason": "Addresses scaling agents, a general theme relevant to developing advanced AI, but less specific on interaction."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 6,
+        "reason": "Discusses agentic AI, a related field, but the focus on small models might differ from the target's context."
+      },
+      {
+        "index": 18,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 5,
+        "reason": "Focuses on RL systems for LLMs, which can be used for agents, but the paper itself is more system-oriented."
+      },
+      {
+        "index": 24,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 5,
+        "reason": "Discusses RAG and long-context LLMs, which are relevant to agent capabilities, but not directly interactive intelligence."
+      },
+      {
+        "index": 9,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 5,
+        "reason": "Evaluates RAG systems, which are tools agents might use, but doesn't focus on the agent's interactive intelligence itself."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 4,
+        "reason": "Focuses on web browsing, a specific interaction skill, but limited to Chinese and doesn't cover the broader intelligence aspect."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 4,
+        "reason": "Benchmarks web browsing, which is a component of interactive agents, but less about the intelligence itself."
+      },
+      {
+        "index": 25,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 4,
+        "reason": "Benchmarks web traversal, a specific agent capability, but not the core of interactive intelligence."
+      },
+      {
+        "index": 22,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focuses on mathematical reasoning, which is a specific skill and not directly related to interactive intelligence in a general sense."
+      },
+      {
+        "index": 27,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 3,
+        "reason": "A challenging exam for LLMs, but its content is not specified as requiring interactive intelligence."
+      },
+      {
+        "index": 26,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 2,
+        "reason": "A general technical report for a model; not specific enough to interactive intelligence."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.8180531504170042,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 9,
+          "reason": "Directly discusses agents, reinforcement learning, and web navigation, aligning with the target's focus on interactive intelligence and agents."
+        },
+        {
+          "index": 2,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 9,
+          "reason": "Focuses on GUI agents and multi-turn reinforcement learning, which are highly relevant to interactive intelligence."
+        },
+        {
+          "index": 3,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 9,
+          "reason": "Emphasizes autonomous information seeking agency, a key aspect of intelligent agents interacting with environments."
+        },
+        {
+          "index": 4,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 8,
+          "reason": "Discusses web agents and super-human reasoning, which are core components of achieving advanced interactive intelligence."
+        },
+        {
+          "index": 12,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 8,
+          "reason": "Introduces a framework for integrating reasoning and acting, directly relevant to interactive intelligence."
+        },
+        {
+          "index": 5,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 8,
+          "reason": "GAIA benchmark focuses on evaluating general AI assistants, which requires interactive intelligence capabilities."
+        },
+        {
+          "index": 7,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 8,
+          "reason": "Addresses interactive LLM agents and reinforcement learning, directly related to the target's themes."
+        },
+        {
+          "index": 8,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 8,
+          "reason": "Focuses on general agentic intelligence, which is the overarching goal of interactive intelligence research."
+        },
+        {
+          "index": 6,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 7,
+          "reason": "Discusses agentic data synthesis and information seeking, relevant to agent capabilities and interaction."
+        },
+        {
+          "index": 14,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 7,
+          "reason": "Focuses on deep research capabilities, which often involve interactive agents gathering information."
+        },
+        {
+          "index": 15,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 7,
+          "reason": "Deals with long-horizon agents and their reasoning capabilities, which are part of interactive intelligence."
+        },
+        {
+          "index": 19,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 7,
+          "reason": "Focuses on deep research, which can be a component of interactive intelligence, particularly in information gathering."
+        },
+        {
+          "index": 23,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 7,
+          "reason": "Addresses long-horizon search intelligence, which requires sophisticated interaction and understanding."
+        },
+        {
+          "index": 10,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 6,
+          "reason": "Discusses general-purpose AI agents and a challenging exam, hinting at broad intelligence and interaction."
+        },
+        {
+          "index": 13,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 6,
+          "reason": "Mentions agentic capabilities and reasoning, relevant but broader than the specific interactive intelligence focus."
+        },
+        {
+          "index": 16,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 6,
+          "reason": "Focuses on reasoning capabilities and RL, which are important for intelligent agents, but less emphasis on interaction."
+        },
+        {
+          "index": 11,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 6,
+          "reason": "Addresses scaling agents, a general theme relevant to developing advanced AI, but less specific on interaction."
+        },
+        {
+          "index": 17,
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "score": 6,
+          "reason": "Discusses agentic AI, a related field, but the focus on small models might differ from the target's context."
+        },
+        {
+          "index": 18,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 5,
+          "reason": "Focuses on RL systems for LLMs, which can be used for agents, but the paper itself is more system-oriented."
+        },
+        {
+          "index": 24,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 5,
+          "reason": "Discusses RAG and long-context LLMs, which are relevant to agent capabilities, but not directly interactive intelligence."
+        },
+        {
+          "index": 9,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 5,
+          "reason": "Evaluates RAG systems, which are tools agents might use, but doesn't focus on the agent's interactive intelligence itself."
+        },
+        {
+          "index": 20,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 4,
+          "reason": "Focuses on web browsing, a specific interaction skill, but limited to Chinese and doesn't cover the broader intelligence aspect."
+        },
+        {
+          "index": 21,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 4,
+          "reason": "Benchmarks web browsing, which is a component of interactive agents, but less about the intelligence itself."
+        },
+        {
+          "index": 25,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 4,
+          "reason": "Benchmarks web traversal, a specific agent capability, but not the core of interactive intelligence."
+        },
+        {
+          "index": 22,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 3,
+          "reason": "Focuses on mathematical reasoning, which is a specific skill and not directly related to interactive intelligence in a general sense."
+        },
+        {
+          "index": 27,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 3,
+          "reason": "A challenging exam for LLMs, but its content is not specified as requiring interactive intelligence."
+        },
+        {
+          "index": 26,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 2,
+          "reason": "A general technical report for a model; not specific enough to interactive intelligence."
+        }
+      ]
+    }
+  }
+}

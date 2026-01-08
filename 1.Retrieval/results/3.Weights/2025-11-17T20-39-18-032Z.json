@@ -1,0 +1,1991 @@
+{
+  "selectedSource": {
+    "arxivId": "2505.10978",
+    "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+  },
+  "target": {
+    "arxivId": "2503.22342",
+    "title": "CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models"
+  },
+  "scores": {
+    "rank": 16,
+    "ordered": [
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 9
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 7
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 5
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 7
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 5
+            }
+          ]
+        },
+        "score": 77
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 7
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 76
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 5
+            }
+          ]
+        },
+        "score": 73
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 6
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 3
+            }
+          ]
+        },
+        "score": 72
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 3
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 7
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 3
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 3
+            }
+          ]
+        },
+        "score": 69
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 7
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 5
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 5
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 8
+            }
+          ]
+        },
+        "score": 66
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 61
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 6
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 2
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 5
+            }
+          ]
+        },
+        "score": 53
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 51
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 51
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 8
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 51
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 6
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 6
+            }
+          ]
+        },
+        "score": 49
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 7
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 10
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 2
+            }
+          ]
+        },
+        "score": 44
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 6
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": 43
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 4
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 3
+            }
+          ]
+        },
+        "score": 29
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 8
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 2
+            }
+          ]
+        },
+        "score": 24
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 4
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 3
+            }
+          ]
+        },
+        "score": 21
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 10
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 2
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 4
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 4
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 2
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 2
+            }
+          ]
+        },
+        "score": 18
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 1
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 9
+            }
+          ]
+        },
+        "score": 13
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Acceleration",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning Models and LLMs",
+              "score": 2
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Group Policy Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Agentic Behavior",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specificity of Optimization Technique",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Application vs. Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Hierarchical vs. Relative Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Learning Paradigms vs. Training Acceleration",
+              "score": 4
+            }
+          ]
+        },
+        "score": -19
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) Acceleration",
+            "description": "Many papers focus on accelerating the training of models, particularly using RL. CPPO's goal of accelerating RL training is directly relevant to these papers, suggesting it could be a complementary technique to improve their performance or efficiency."
+          },
+          {
+            "theme": "Reasoning Models and LLMs",
+            "description": "A significant number of papers deal with training or utilizing Large Language Models (LLMs) for various reasoning tasks. CPPO, by aiming to accelerate training for reasoning models, is inherently connected to this domain."
+          },
+          {
+            "theme": "Agent Training and Development",
+            "description": "Several papers discuss the training and development of AI agents, often involving RL and reasoning capabilities. CPPO's contribution to efficient training could be beneficial for these agent development efforts."
+          },
+          {
+            "theme": "Group Policy Optimization",
+            "description": "Direct keyword overlap exists with 'Group Policy Optimization' and 'Group Relative Policy Optimization' in both the target paper and some explanations, indicating a strong methodological connection."
+          },
+          {
+            "theme": "Tool Use and Agentic Behavior",
+            "description": "The application of RL and reasoning models in scenarios involving tool use or agentic actions is a recurring theme. CPPO could enhance the training of agents that need to learn strategic tool utilization or perform complex actions."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity of Optimization Technique",
+            "description": "While RL is common, the target paper's 'Group Relative Policy Optimization' is a specific method. Other papers might focus on different RL algorithms, general foundation model creation, or different aspects of agent development that don't directly align with CPPO's specific optimization approach."
+          },
+          {
+            "theme": "Focus on Application vs. Methodology",
+            "description": "Many contrastive explanations highlight that the other papers focus on specific applications (e.g., web traversal, mathematical reasoning, code generation, tool use) or broader concepts (e.g., scaling laws, data synthesis, knowledge bases) rather than the core methodological contribution of accelerating training via a specific policy optimization technique like CPPO."
+          },
+          {
+            "theme": "Scope of Contribution",
+            "description": "Some papers are surveys, critical analyses, or general technical reports whose scope is much broader than CPPO's specific contribution to RL training acceleration. CPPO might be a component or a point of comparison within these broader works, but not their central theme."
+          },
+          {
+            "theme": "Hierarchical vs. Relative Optimization",
+            "description": "A subtle distinction arises with terms like 'Group-in-Group Policy Optimization' where the hierarchical structure might differ from CPPO's 'Group Relative Policy Optimization', suggesting a divergence in the specific optimization strategy."
+          },
+          {
+            "theme": "Learning Paradigms vs. Training Acceleration",
+            "description": "Some papers focus on fundamental learning paradigms (e.g., in-context learning, reward sufficiency, few-shot learning) rather than the direct acceleration of the training process using specific RL optimization techniques, creating a thematic difference."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) Acceleration",
+            "weight": 5,
+            "explanation": "The target paper explicitly aims to accelerate the training of models using RL, making this theme directly and highly relevant."
+          },
+          {
+            "theme": "Reasoning Models and LLMs",
+            "weight": 5,
+            "explanation": "CPPO focuses on accelerating training for reasoning models, which are often LLMs, creating a strong thematic overlap."
+          },
+          {
+            "theme": "Agent Training and Development",
+            "weight": 4,
+            "explanation": "The paper's contribution to efficient training is highly beneficial for AI agents that rely on RL and reasoning, making this a significant positive theme."
+          },
+          {
+            "theme": "Group Policy Optimization",
+            "weight": 5,
+            "explanation": "There is a direct keyword overlap with 'Group Policy Optimization' and 'Group Relative Policy Optimization,' indicating a strong methodological connection."
+          },
+          {
+            "theme": "Tool Use and Agentic Behavior",
+            "weight": 3,
+            "explanation": "CPPO can enhance the training of agents that use tools or exhibit complex actions, suggesting a relevant but not central connection."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity of Optimization Technique",
+            "weight": 4,
+            "explanation": "While RL is related, CPPO's specific 'Group Relative Policy Optimization' may not align with papers using different RL methods or focusing on other aspects of AI development."
+          },
+          {
+            "theme": "Focus on Application vs. Methodology",
+            "weight": 4,
+            "explanation": "Many papers focus on specific applications or broader concepts, rather than the core methodological contribution of CPPO, creating a thematic divergence."
+          },
+          {
+            "theme": "Scope of Contribution",
+            "weight": 3,
+            "explanation": "Surveys, critical analyses, or broad technical reports may mention CPPO but do not focus on its specific contribution to RL training acceleration, thus having a lesser predictive power."
+          },
+          {
+            "theme": "Hierarchical vs. Relative Optimization",
+            "weight": 3,
+            "explanation": "Subtle differences in optimization strategies, like 'Group-in-Group' versus 'Group Relative,' can lead to papers that are related but not directly aligned with CPPO's specific method."
+          },
+          {
+            "theme": "Learning Paradigms vs. Training Acceleration",
+            "weight": 4,
+            "explanation": "Papers focused on fundamental learning paradigms (e.g., in-context learning) rather than direct training acceleration via specific RL optimization techniques represent a thematic difference."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.2833719451865745
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.3062645088600635
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.4350181425348797
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.458314157658981
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.4588492468565494
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.46587169739821566
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.4694996470031567
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.4717673753702166
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.47528873346683265
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.4872599412826736
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.4941798705013689
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.5017453758181558
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5067184436273399
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.5275621704851916
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.5335102438450315
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.562906819462731
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.5695571999110378
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.5696861840602006
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.5709586441119208
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.5725618060573255
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.5806887040644593
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.5876166166766187
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.5920929428015614
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6211917956481676
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.6415300198000536
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.698976644656826
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.5241137194385989
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.6418471151938262
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7020876414740624
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7025136139182035
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.7043624001492009
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.7178650681484068
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.731396668703062
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.7415300162561322
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.7484395225990597
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7749608774504022
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.7800727305393257
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7835395946370819
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.8009695490759822
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.8586579888363332
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.8779577793536227
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.8837635383972939
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.8997145071511914
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.9244898358574378
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.9367227643192407
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.9460831351367607
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.9532943892165031
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.9563733889808447
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.9612282936741485
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.996337979224775
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.0006864340823065
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1955168119192465
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2505.10978",
+      "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+    },
+    "target": {
+      "arxivId": "2503.22342",
+      "title": "CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models"
+    }
+  }
+}

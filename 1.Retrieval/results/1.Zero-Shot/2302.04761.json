@@ -1,0 +1,822 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2401.07339",
+      "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+    },
+    "target": {
+      "arxivId": "2302.04761",
+      "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+    }
+  },
+  "embeddings": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "distance": 2.220446049250313e-16
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "distance": 0.3555207369886946
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.3844566406144977
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.41642891006535754
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.43592886312826173
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.44400459219318267
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "distance": 0.4779727961803075
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "distance": 0.4971734906501334
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "distance": 0.5041525319871762
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "distance": 0.5280915785059257
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.5292833099760647
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "distance": 0.5617204764119249
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "distance": 0.5688315636345757
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.5827842073284133
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "distance": 0.5870856083424472
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "distance": 0.588933712502163
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.5956553288988284
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.5957637071569444
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.5978426207104248
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6021155647799727
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.6856606833243739
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "distance": 0.6946106594757762
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "distance": 0.7182879585839523
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "distance": 0.7292853257836591
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "distance": 0.7379272298797341
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "distance": 0.7597240459441154
+      }
+    ]
+  },
+  "llm": {
+    "rank": 20,
+    "ordered": [
+      {
+        "index": 1,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 7,
+        "reason": "Focuses on tool-integrated reasoning and RL, highly relevant to Toolformer's self-tool use."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 6,
+        "reason": "Discusses agent foundation models and RL, which are core concepts in Toolformer."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 6,
+        "reason": "Policy optimization is a key RL technique, relevant to how Toolformer might learn tool use."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 6,
+        "reason": "Involves agents seeking information and formalization, which aligns with Toolformer's approach to learning."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 6,
+        "reason": "Agent problem-solving and leveraging experience are relevant to Toolformer's ability to learn tools."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 5,
+        "reason": "Focuses on learning for multi-agent assistance and task automation, relating to tool use in LLMs."
+      },
+      {
+        "index": 7,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 7,
+        "reason": "Discusses LLMs as in-context RL learners, a foundational concept for Toolformer's self-teaching."
+      },
+      {
+        "index": 8,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 6,
+        "reason": "Policy optimization and LLM agent training are directly relevant to Toolformer's learning mechanism."
+      },
+      {
+        "index": 9,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "General LLM technical report; might contain relevant methods but not specific to tool use."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 6,
+        "reason": "Combines agent RL and code execution, similar to Toolformer's interaction with tools."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 9,
+        "reason": "Directly addresses RL for strategic tool use in LLMs, very similar to Toolformer."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 4,
+        "reason": "Focuses on training methodologies, potentially related but not directly about tool use."
+      },
+      {
+        "index": 13,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 7,
+        "reason": "Highlights LLM RL systems at scale, a broader context for Toolformer's capabilities."
+      },
+      {
+        "index": 14,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 7,
+        "reason": "Focuses on training LLMs to leverage search engines with RL, similar to tool use."
+      },
+      {
+        "index": 15,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 6,
+        "reason": "Involves LLMs interacting with web environments, which often requires tool-like capabilities."
+      },
+      {
+        "index": 16,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 5,
+        "reason": "Surveys GUI agents, which rely on tool use, but is a broader survey."
+      },
+      {
+        "index": 17,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 5,
+        "reason": "Focuses on agents for device operation, implying tool use, but specific to mobile devices."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 4,
+        "reason": "Focuses on mathematical reasoning, which might involve tools, but is domain-specific."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 8,
+        "reason": "Discusses executable code actions for LLM agents, directly related to tool use."
+      },
+      {
+        "index": 20,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 8,
+        "reason": "Focuses on tool-integrated agent systems for coding, aligning with Toolformer's concept of using tools."
+      },
+      {
+        "index": 21,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 6,
+        "reason": "Self-refinement is a form of self-teaching, similar to how Toolformer learns to use tools."
+      },
+      {
+        "index": 22,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 7,
+        "reason": "Introduces verbal RL for language agents, a related approach to how Toolformer learns."
+      },
+      {
+        "index": 23,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 10,
+        "reason": "This is the target paper itself, hence it's the most relevant."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 8,
+        "reason": "A foundational paper on combining reasoning and acting, which is key to tool use in LLMs."
+      },
+      {
+        "index": 25,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 4,
+        "reason": "Early work on few-shot learning, less direct relevance to tool use compared to later RL/agent papers."
+      },
+      {
+        "index": 26,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 5,
+        "reason": "A foundational RL algorithm paper, relevant but not specific to LLM tool use."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 11,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 10,
+        "reason": "This is the TARGET paper. It's the most direct connection."
+      },
+      {
+        "index": 5,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 9,
+        "reason": "Reflexion is a highly influential agentic learning framework, similar in spirit to the self-improvement aspect of Toolformer."
+      },
+      {
+        "index": 3,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 8,
+        "reason": "ReAct introduced a powerful framework for combining reasoning and action, which is foundational for tool use."
+      },
+      {
+        "index": 11,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 7,
+        "reason": "Self-Refine focuses on iterative improvement using self-feedback, a key concept related to how agents can learn and adapt."
+      },
+      {
+        "index": 2,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 6,
+        "reason": "This paper established the in-context learning paradigm, which is a prerequisite for many advanced LLM agent capabilities, including tool use."
+      },
+      {
+        "index": 6,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 6,
+        "reason": "Focuses on leveraging search engines, a type of tool, using RL, which aligns with Toolformer's goals."
+      },
+      {
+        "index": 7,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 6,
+        "reason": "Directly addresses RL for strategic tool use in LLMs, a core theme of Toolformer."
+      },
+      {
+        "index": 10,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 5,
+        "reason": "Explores using executable code as actions for LLM agents, a form of tool use."
+      },
+      {
+        "index": 8,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 5,
+        "reason": "Focuses on tool-integrated reasoning using RL, highly relevant to Toolformer."
+      },
+      {
+        "index": 16,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 5,
+        "reason": "Involves code execution and RL for agents, touching on tool use and learning."
+      },
+      {
+        "index": 15,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 5,
+        "reason": "Specifically discusses tool-integrated agent systems for coding, a practical application of tool use."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 4,
+        "reason": "Likely related to Reinforcement Learning training, which is relevant to agentic tool use."
+      },
+      {
+        "index": 19,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 4,
+        "reason": "Focuses on policy optimization for LLM agents, a general training technique applicable to tool use."
+      },
+      {
+        "index": 26,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 4,
+        "reason": "Similar to paper 19, focuses on policy optimization for agents."
+      },
+      {
+        "index": 14,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 4,
+        "reason": "A system for LLM reinforcement learning, which is a broad technique relevant to training agents to use tools."
+      },
+      {
+        "index": 25,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 4,
+        "reason": "A foundational RL algorithm, relevant for training agents that might use tools."
+      },
+      {
+        "index": 9,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 4,
+        "reason": "Suggests LLMs can perform RL in-context, which could enable tool learning."
+      },
+      {
+        "index": 13,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 3,
+        "reason": "Deals with multi-agent systems and task automation, broader than specific tool use."
+      },
+      {
+        "index": 24,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 3,
+        "reason": "Focuses on multi-agent distillation and RL for agent foundation models, a related but broader topic."
+      },
+      {
+        "index": 4,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focuses on mathematical reasoning, which could involve tool use but is not the primary focus."
+      },
+      {
+        "index": 22,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 3,
+        "reason": "A survey of GUI agents; tool use is a part of this, but it's a survey not a specific method."
+      },
+      {
+        "index": 23,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 3,
+        "reason": "Focuses on mobile agents and collaboration, which can involve tool-like interactions but is specific to mobile GUIs."
+      },
+      {
+        "index": 17,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 2,
+        "reason": "Focuses on data synthesis via information seeking, which might involve web tools but is not directly about LLM tool use."
+      },
+      {
+        "index": 18,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 2,
+        "reason": "Benchmarks web traversal, which is a form of tool use (the web browser) but specific to navigation."
+      },
+      {
+        "index": 20,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 2,
+        "reason": "Focuses on leveraging experience for agentic problem solving, more general than tool use."
+      },
+      {
+        "index": 21,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "A technical report for a specific LLM, likely covers general capabilities rather than focused tool use research."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.5074665998232234,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "score": 10,
+          "reason": "This is the TARGET paper. It's the most direct connection."
+        },
+        {
+          "index": 5,
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "score": 9,
+          "reason": "Reflexion is a highly influential agentic learning framework, similar in spirit to the self-improvement aspect of Toolformer."
+        },
+        {
+          "index": 3,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 8,
+          "reason": "ReAct introduced a powerful framework for combining reasoning and action, which is foundational for tool use."
+        },
+        {
+          "index": 11,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 7,
+          "reason": "Self-Refine focuses on iterative improvement using self-feedback, a key concept related to how agents can learn and adapt."
+        },
+        {
+          "index": 2,
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "score": 6,
+          "reason": "This paper established the in-context learning paradigm, which is a prerequisite for many advanced LLM agent capabilities, including tool use."
+        },
+        {
+          "index": 6,
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "score": 6,
+          "reason": "Focuses on leveraging search engines, a type of tool, using RL, which aligns with Toolformer's goals."
+        },
+        {
+          "index": 7,
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "score": 6,
+          "reason": "Directly addresses RL for strategic tool use in LLMs, a core theme of Toolformer."
+        },
+        {
+          "index": 10,
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "score": 5,
+          "reason": "Explores using executable code as actions for LLM agents, a form of tool use."
+        },
+        {
+          "index": 8,
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "score": 5,
+          "reason": "Focuses on tool-integrated reasoning using RL, highly relevant to Toolformer."
+        },
+        {
+          "index": 16,
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "score": 5,
+          "reason": "Involves code execution and RL for agents, touching on tool use and learning."
+        },
+        {
+          "index": 15,
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "score": 5,
+          "reason": "Specifically discusses tool-integrated agent systems for coding, a practical application of tool use."
+        },
+        {
+          "index": 12,
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "score": 4,
+          "reason": "Likely related to Reinforcement Learning training, which is relevant to agentic tool use."
+        },
+        {
+          "index": 19,
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "score": 4,
+          "reason": "Focuses on policy optimization for LLM agents, a general training technique applicable to tool use."
+        },
+        {
+          "index": 26,
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "score": 4,
+          "reason": "Similar to paper 19, focuses on policy optimization for agents."
+        },
+        {
+          "index": 14,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 4,
+          "reason": "A system for LLM reinforcement learning, which is a broad technique relevant to training agents to use tools."
+        },
+        {
+          "index": 25,
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "score": 4,
+          "reason": "A foundational RL algorithm, relevant for training agents that might use tools."
+        },
+        {
+          "index": 9,
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "score": 4,
+          "reason": "Suggests LLMs can perform RL in-context, which could enable tool learning."
+        },
+        {
+          "index": 13,
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "score": 3,
+          "reason": "Deals with multi-agent systems and task automation, broader than specific tool use."
+        },
+        {
+          "index": 24,
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "score": 3,
+          "reason": "Focuses on multi-agent distillation and RL for agent foundation models, a related but broader topic."
+        },
+        {
+          "index": 4,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 3,
+          "reason": "Focuses on mathematical reasoning, which could involve tool use but is not the primary focus."
+        },
+        {
+          "index": 22,
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "score": 3,
+          "reason": "A survey of GUI agents; tool use is a part of this, but it's a survey not a specific method."
+        },
+        {
+          "index": 23,
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "score": 3,
+          "reason": "Focuses on mobile agents and collaboration, which can involve tool-like interactions but is specific to mobile GUIs."
+        },
+        {
+          "index": 17,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 2,
+          "reason": "Focuses on data synthesis via information seeking, which might involve web tools but is not directly about LLM tool use."
+        },
+        {
+          "index": 18,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 2,
+          "reason": "Benchmarks web traversal, which is a form of tool use (the web browser) but specific to navigation."
+        },
+        {
+          "index": 20,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 2,
+          "reason": "Focuses on leveraging experience for agentic problem solving, more general than tool use."
+        },
+        {
+          "index": 21,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 1,
+          "reason": "A technical report for a specific LLM, likely covers general capabilities rather than focused tool use research."
+        }
+      ]
+    }
+  }
+}

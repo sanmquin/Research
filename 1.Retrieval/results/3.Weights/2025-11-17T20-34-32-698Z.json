@@ -1,0 +1,1765 @@
+{
+  "selectedSource": {
+    "arxivId": "2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+  },
+  "target": {
+    "arxivId": "2005.14165",
+    "title": "Language Models are Few-Shot Learners"
+  },
+  "scores": {
+    "rank": 4,
+    "ordered": [
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 10
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 8
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 2
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 3
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 1
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 9
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 4
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 2
+            }
+          ]
+        },
+        "score": 89
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 9
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 6
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 5
+            }
+          ]
+        },
+        "score": 41
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 9
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 6
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 5
+            }
+          ]
+        },
+        "score": 41
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 7
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 5
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 5
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 4
+            }
+          ]
+        },
+        "score": 31
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 8
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 6
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 5
+            }
+          ]
+        },
+        "score": 26
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 8
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 5
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 6
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 5
+            }
+          ]
+        },
+        "score": 25
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 7
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 6
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 5
+            }
+          ]
+        },
+        "score": 25
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 24
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 24
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 21
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 20
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 16
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 16
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 8
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 15
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 13
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 13
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 13
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 8
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 7
+            }
+          ]
+        },
+        "score": 11
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 8
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 6
+            }
+          ]
+        },
+        "score": 11
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 9
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 7
+            }
+          ]
+        },
+        "score": 4
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 7
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 7
+            }
+          ]
+        },
+        "score": -1
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 8
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 9
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 9
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 7
+            }
+          ]
+        },
+        "score": -10
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 7
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 6
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 8
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 7
+            }
+          ]
+        },
+        "score": -17
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 6
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 6
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 9
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 9
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 7
+            }
+          ]
+        },
+        "score": -29
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Few-Shot Learning as a Foundation",
+              "score": 3
+            },
+            {
+              "theme": "LLMs as Capable Learners and Agents",
+              "score": 2
+            },
+            {
+              "theme": "Application in Specific Domains",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning and LLM Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Focus on Specific Techniques vs. General Capability",
+              "score": 10
+            },
+            {
+              "theme": "Application vs. Foundational Insight",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Contribution",
+              "score": 10
+            },
+            {
+              "theme": "LLMs as a Component vs. Subject of Study",
+              "score": 9
+            }
+          ]
+        },
+        "score": -89
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Few-Shot Learning as a Foundation",
+            "description": "The target paper establishes few-shot learning as a core capability of LLMs, enabling them to perform tasks with minimal examples. Many cited papers build upon or leverage this foundational ability for tasks like tool use, agentic problem-solving, and specialized RL applications."
+          },
+          {
+            "theme": "LLMs as Capable Learners and Agents",
+            "description": "The explanations highlight that LLMs, due to their few-shot learning capabilities, are suitable for various agentic roles, including multi-agent systems, problem-solving agents, and assistants. These papers often explore how this learning ability translates into practical applications."
+          },
+          {
+            "theme": "Application in Specific Domains",
+            "description": "Several papers apply few-shot learning principles to specific domains such as mathematical reasoning, code generation, tool integration, and web traversal. The target paper provides the underlying LLM capability that makes these domain-specific applications feasible."
+          },
+          {
+            "theme": "Reinforcement Learning and LLM Agents",
+            "description": "A significant number of papers explore the intersection of reinforcement learning (RL) and LLMs, particularly in the context of training LLM agents. The few-shot learning ability of LLMs, as demonstrated in the target paper, facilitates more efficient and effective RL training for these agents."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Focus on Specific Techniques vs. General Capability",
+            "description": "Many contrastive explanations indicate that while the cited papers might utilize or benefit from few-shot learning, their primary contribution lies in specialized techniques (e.g., specific RL algorithms, distillation methods, agent architectures, policy optimization) rather than the fundamental phenomenon of few-shot learning itself, which is the focus of the target paper."
+          },
+          {
+            "theme": "Application vs. Foundational Insight",
+            "description": "A recurring contrast is that the cited papers focus on applying LLM capabilities to particular tasks (e.g., tool use, data synthesis, web traversal, mathematical reasoning) or demonstrating a specific model's performance, whereas the target paper is foundational in *demonstrating* and *explaining* the few-shot learning ability of LLMs."
+          },
+          {
+            "theme": "Scope of Contribution",
+            "description": "The target paper's contribution is broad, establishing a general paradigm for LLMs. Contrastive explanations often point out that the cited papers have a narrower scope, focusing on specific aspects of agent systems, multi-agent collaboration, or specialized training methodologies, rather than the overarching few-shot learning capability."
+          },
+          {
+            "theme": "LLMs as a Component vs. Subject of Study",
+            "description": "In some cases, LLMs and their few-shot abilities are a prerequisite or a tool within the cited papers (e.g., RL algorithms, survey papers on agents). However, the target paper's primary subject is the study and demonstration of the few-shot learning capabilities of LLMs themselves."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Few-Shot Learning as a Foundation",
+            "weight": 5,
+            "explanation": "This is the core concept of the target paper, so papers building directly on this foundation are highly relevant."
+          },
+          {
+            "theme": "LLMs as Capable Learners and Agents",
+            "weight": 4,
+            "explanation": "The target paper's demonstration of few-shot learning directly enables LLMs to act as agents, making papers exploring this a strong positive indicator."
+          },
+          {
+            "theme": "Application in Specific Domains",
+            "weight": 3,
+            "explanation": "While these papers apply the core concept to specific areas, the connection is strong as they rely on the foundational capability described in the target paper."
+          },
+          {
+            "theme": "Reinforcement Learning and LLM Agents",
+            "weight": 3,
+            "explanation": "This theme leverages the few-shot learning ability for RL training, indicating a strong connection to the target paper's concepts, albeit with a focus on RL methodology."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Focus on Specific Techniques vs. General Capability",
+            "weight": 4,
+            "explanation": "Papers that focus on specialized techniques, even if they use few-shot learning, deviate from the target paper's focus on the general capability itself."
+          },
+          {
+            "theme": "Application vs. Foundational Insight",
+            "weight": 3,
+            "explanation": "While related, papers focused on application rather than the foundational insight of few-shot learning have a weaker, though still present, connection."
+          },
+          {
+            "theme": "Scope of Contribution",
+            "weight": 3,
+            "explanation": "Papers with a narrower scope that don't directly address the overarching few-shot learning paradigm are less directly relevant than those that do."
+          },
+          {
+            "theme": "LLMs as a Component vs. Subject of Study",
+            "weight": 5,
+            "explanation": "If LLMs are merely a tool or prerequisite in a cited paper, rather than the subject of study for their few-shot abilities, the connection to the target paper is weakened considerably."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.3555207369886946
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.4135285340551391
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.43659948238483726
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.44971881490424437
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.47669410368069787
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.48350982080619487
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5027172332774312
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.532252361076895
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.5428263669314941
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5444095037704366
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.5633937149396488
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5661850734729468
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.598838974983563
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.6097490148740321
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.622864744776272
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.6392492157100529
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6672311192890334
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.6940046324185043
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6946338634377819
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.7002830538397958
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7042709748987592
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.7075632844184883
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.7198069760775503
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.763760030090731
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.7788448877426933
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 6,
+    "ordered": [
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.3653944310723014
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.6732413989048252
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.6835230763396444
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6876233305570301
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.6938555423246328
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7132006780387087
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.744438312249151
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.766511564578532
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7769974982413423
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8041354891916732
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8689245656751188
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8744904286420558
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.8952266398619432
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9220889180340983
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.9453221784825827
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9536469344082843
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.9772204910156556
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.9788843657466192
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1.0217865645316477
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 1.040663695012113
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0520108199270795
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.065329010578171
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.1000917958195795
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.1307966103497713
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.1337775236890932
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2008111421611796
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2210.03629",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+    },
+    "target": {
+      "arxivId": "2005.14165",
+      "title": "Language Models are Few-Shot Learners"
+    }
+  }
+}

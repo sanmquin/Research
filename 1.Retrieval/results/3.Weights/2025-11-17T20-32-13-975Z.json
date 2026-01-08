@@ -1,0 +1,1633 @@
+{
+  "selectedSource": {
+    "arxivId": "2509.02479",
+    "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+  },
+  "target": {
+    "arxivId": "2506.13585",
+    "title": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention"
+  },
+  "scores": {
+    "rank": 10,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 4
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 68.5
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 4
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 2
+            }
+          ]
+        },
+        "score": 61.5
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 7
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 6
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 57.5
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 10
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 56
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 10
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 5
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 55.5
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 5
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 7
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 52.5
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 7
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 5
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 52
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 8
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 7
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 6
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 44.5
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 42.5
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 3
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 40.5
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 40
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 39
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 8
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 39
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 4
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 3
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 7
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 3
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 2
+            }
+          ]
+        },
+        "score": 38
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 33
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 10
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 7
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 29
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 9
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 8
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": 24.5
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 3
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 2
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 3
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 8
+            }
+          ]
+        },
+        "score": 20
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Computational Efficiency and Scaling",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Agents",
+              "score": 10
+            },
+            {
+              "theme": "LLM Optimization and Performance",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 10
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 1
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 9
+            }
+          ]
+        },
+        "score": 18
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 2
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 2
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 9
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 2
+            }
+          ]
+        },
+        "score": -51
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 5
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 3
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": -62
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 3
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 3
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 10
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 2
+            }
+          ]
+        },
+        "score": -62.5
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 3
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": -66
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 9
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": -81
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specific RL Algorithms vs. General Compute Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+              "score": 9
+            },
+            {
+              "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+              "score": 2
+            },
+            {
+              "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+              "score": 3
+            }
+          ]
+        },
+        "score": -81
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Computational Efficiency and Scaling",
+            "description": "Many papers discuss the critical need for efficient computation and scaling, especially for large language models (LLMs), reinforcement learning (RL) agents, and multi-agent systems. The target paper's focus on 'scaling test-time compute efficiently' directly addresses this overarching theme."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) and Agents",
+            "description": "A significant portion of the related papers involve reinforcement learning, agent foundation models, agentic behavior, and multi-agent systems. These areas often require substantial computational resources, making techniques for efficient computation, like those in the target paper, highly relevant."
+          },
+          {
+            "theme": "LLM Optimization and Performance",
+            "description": "Several papers touch upon optimizing LLM performance, whether for specific tasks like mathematical reasoning, tool use, or general improvements. Efficient computation, particularly for attention mechanisms, is a key factor in achieving better LLM performance and inference speed, aligning with the target paper's contribution."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "description": "The integration of tools into LLMs and agent systems is a recurring theme. Efficiently running these complex systems, which often involve multiple inference steps or external tool calls, benefits directly from optimized compute strategies like MiniMax-M1."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specific RL Algorithms vs. General Compute Optimization",
+            "description": "Many contrastive explanations highlight that while papers might focus on specific RL algorithms (e.g., PPO, policy optimization, group sequence policy optimization) or agent training paradigms, they do not directly address the core problem of optimizing attention computation efficiency, which is the specific focus of MiniMax-M1."
+          },
+          {
+            "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+            "description": "Several papers are centered on particular applications or behaviors (e.g., data synthesis, mathematical reasoning, web traversal, code generation, tool use, multi-turn reasoning) rather than directly optimizing the computational efficiency of the underlying transformer architecture's attention mechanism. MiniMax-M1's contribution is specifically to the latter."
+          },
+          {
+            "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+            "description": "Some papers are broad surveys of existing work or technical reports for specific models. While they might contain incidental optimizations, they are not dedicated to proposing novel methods for scaling attention compute efficiently, as MiniMax-M1 is."
+          },
+          {
+            "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+            "description": "Certain papers represent foundational concepts (e.g., few-shot learning) that predate the current scale of LLMs and the specific computational challenges related to their attention mechanisms that MiniMax-M1 aims to solve."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Computational Efficiency and Scaling",
+            "weight": 5,
+            "explanation": "The target paper's title explicitly mentions 'scaling test-time compute efficiently,' which is the core of this theme. This is a direct and primary alignment."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) and Agents",
+            "weight": 4,
+            "explanation": "Many related papers focus on RL and agents, which are computationally intensive. The paper's contribution to efficient computation is highly relevant for these domains, though not exclusively focused on RL algorithms themselves."
+          },
+          {
+            "theme": "LLM Optimization and Performance",
+            "weight": 4.5,
+            "explanation": "Efficient attention mechanisms are crucial for LLM performance and inference speed. The paper's optimization directly contributes to improving LLMs, making this theme highly relevant."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "weight": 3.5,
+            "explanation": "Efficiently running systems that involve tool use and integration is a relevant application area. While not the primary focus, the compute efficiency offered by MiniMax-M1 would benefit such systems."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specific RL Algorithms vs. General Compute Optimization",
+            "weight": 4,
+            "explanation": "This theme highlights a key distinction: the target paper focuses on general compute optimization (attention efficiency) rather than specific RL algorithm details, which many other papers do. Therefore, papers solely focused on specific RL algorithms would be less likely to reference a paper about general compute optimization."
+          },
+          {
+            "theme": "Task-Specific Focus vs. Underlying Mechanism Optimization",
+            "weight": 4.5,
+            "explanation": "The target paper optimizes an underlying mechanism (attention) rather than a specific task. Papers focused solely on applications without addressing underlying efficiency are less likely to be highly relevant to MiniMax-M1."
+          },
+          {
+            "theme": "General Surveys or Technical Reports vs. Dedicated Optimization Methods",
+            "weight": 3,
+            "explanation": "While surveys and technical reports might mention optimization, they are not dedicated to proposing novel methods. The target paper is a dedicated optimization method, so papers that are not focused on novel methods would have lower relevance."
+          },
+          {
+            "theme": "Early Foundational Work vs. Modern Scaling Challenges",
+            "weight": 3.5,
+            "explanation": "The target paper addresses modern scaling challenges. Foundational work that predates these specific challenges is less directly related to the technical contributions of MiniMax-M1, though it might provide context."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.552937990467081
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5559660563234076
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.5657536197771282
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.575982051373356
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.579349175405252
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.5845818148238862
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5851800924796497
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.599851243023052
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.6142144124907103
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.6181416884751685
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6215121295892282
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.6248498985474211
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.6346637174772221
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6387570726376809
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.6472216109478861
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.6487606450600798
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.661425058248688
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6670062191521546
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.6708934829917931
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6852151122469659
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.6854263014710429
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6876740038773327
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.6925985753803714
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7042603524433892
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.7048563303316101
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.715520076289831
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.7725825924360747
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.808267012470924
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8085700458442617
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.8089154146189713
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.8269011714513695
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.8439879704434404
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8588834627271928
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.883863527467874
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9107740157481289
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9211842735727978
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.9350711314252732
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9379812458955072
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.9429690726463311
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.9484845262778391
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.9686421600681941
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.9902443296197225
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 1.0173177058153013
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1.0314130535372552
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0370461108889626
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.056308227860717
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.0612338002284718
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.0618304624657675
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.065104110441292
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.070452712236231
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.0718929105906503
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1842141711397531
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2509.02479",
+      "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+    },
+    "target": {
+      "arxivId": "2506.13585",
+      "title": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention"
+    }
+  }
+}

@@ -1,0 +1,2062 @@
+{
+  "selectedSource": {
+    "arxivId": "2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+  },
+  "target": {
+    "arxivId": "2309.17179",
+    "title": "Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training"
+  },
+  "scores": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 10
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 8
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 10
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 7
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 5
+            }
+          ]
+        },
+        "score": 204
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 9
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 7
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 7
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 4
+            }
+          ]
+        },
+        "score": 170
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 7
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 8
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 5
+            }
+          ]
+        },
+        "score": 157
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 7
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 10
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 7
+            }
+          ]
+        },
+        "score": 145
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 5
+            }
+          ]
+        },
+        "score": 145
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 8
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 8
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 7
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 5
+            }
+          ]
+        },
+        "score": 144
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 7
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 8
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 7
+            }
+          ]
+        },
+        "score": 135
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 10
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 8
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 6
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 7
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 4
+            }
+          ]
+        },
+        "score": 132
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 7
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 8
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 8
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 7
+            }
+          ]
+        },
+        "score": 130
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 9
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": 125
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 7
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 8
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": 120
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 4
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 5
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 2
+            }
+          ]
+        },
+        "score": 115
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 10
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 9
+            }
+          ]
+        },
+        "score": 112
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 9
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 7
+            }
+          ]
+        },
+        "score": 108
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 9
+            }
+          ]
+        },
+        "score": 107
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 5
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 6
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 9
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 4
+            }
+          ]
+        },
+        "score": 104
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 8
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": 93
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 7
+            }
+          ]
+        },
+        "score": 85
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 1
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 5
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 6
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 3
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 7
+            }
+          ]
+        },
+        "score": 79
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 6
+            }
+          ]
+        },
+        "score": 79
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 5
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 6
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 9
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 3
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": 59
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 5
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 8
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 6
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": 54
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 6
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 7
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 6
+            }
+          ]
+        },
+        "score": 45
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 5
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 6
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": 15
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 5
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 6
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": 15
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for LLM Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Guiding LLM Decoding and Training",
+              "score": 4
+            },
+            {
+              "theme": "Long-Horizon and Complex Task Performance",
+              "score": 5
+            },
+            {
+              "theme": "Information Processing and Synthesis",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Specific Application Domains vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+              "score": 2
+            },
+            {
+              "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Models (Large vs. Small LLMs)",
+              "score": 7
+            },
+            {
+              "theme": "Specific NLP Tasks vs. General LLM Guidance",
+              "score": 8
+            }
+          ]
+        },
+        "score": -12
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Agentic AI and Reasoning Capabilities",
+            "description": "Many explanations highlight the focus on developing AI agents with enhanced reasoning, decision-making, and problem-solving skills. This aligns with the target paper's aim to guide LLM decoding and training to improve these agentic capabilities."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) for LLM Improvement",
+            "description": "A recurring theme is the application of Reinforcement Learning techniques, such as the AlphaZero-like approach in the target paper, to improve LLM performance in training and decoding, especially for long-horizon or complex tasks."
+          },
+          {
+            "theme": "Guiding LLM Decoding and Training",
+            "description": "The core of the target paper is about guiding LLM processes. Explanations frequently mention how advanced techniques, including tree-search, can be instrumental in optimizing how LLMs generate outputs and how they are trained."
+          },
+          {
+            "theme": "Long-Horizon and Complex Task Performance",
+            "description": "Several papers are noted for their work on agents or models capable of handling long-horizon tasks, complex reasoning, or intricate decision-making processes. The target paper's method is seen as a way to enhance performance in these demanding scenarios."
+          },
+          {
+            "theme": "Information Processing and Synthesis",
+            "description": "Some explanations point to papers that deal with structuring information, synthesizing evidence, or performing deep research. The target paper's methods are suggested to be beneficial for LLMs in these information-intensive tasks."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specific Application Domains vs. General Methodology",
+            "description": "Contrastive explanations often differentiate by highlighting that other papers focus on very specific applications (e.g., GUI agents, web browsing, mathematical reasoning, scientific AI) or benchmarks, whereas the target paper offers a more general algorithmic technique applicable across various LLM tasks."
+          },
+          {
+            "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+            "description": "Some papers emphasize foundational training methods like continual pre-training or data synthesis, which are distinct from the target paper's focus on a specific, advanced technique (tree-search) for guiding the decoding and training processes."
+          },
+          {
+            "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+            "description": "A common contrast is that some cited papers are primarily evaluation benchmarks or reports on existing models, rather than papers that introduce novel methodologies for LLM training or decoding guidance, such as the tree-search approach in the target paper."
+          },
+          {
+            "theme": "Scope of Models (Large vs. Small LLMs)",
+            "description": "One contrastive explanation notes a potential difference in the intended scale of models, with some papers focusing on small language models, which might imply different applicability or effectiveness compared to the target paper's approach, potentially geared towards larger models."
+          },
+          {
+            "theme": "Specific NLP Tasks vs. General LLM Guidance",
+            "description": "Some papers focus on specific NLP tasks like context summarization or information seeking agency. These are differentiated from the target paper's broader goal of guiding the internal generation and training mechanisms of LLMs using tree-search."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Agentic AI and Reasoning Capabilities",
+            "weight": 9,
+            "explanation": "The target paper directly addresses guiding LLM decoding and training, which is fundamental to enhancing agentic AI and reasoning. The 'Alphazero-like' aspect implies a strong focus on decision-making and strategic planning, core to agent capabilities."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) for LLM Improvement",
+            "weight": 10,
+            "explanation": "The paper's title explicitly mentions 'Alphazero-like Tree-Search', which is a direct application of RL principles to guide LLM training and decoding. This is a core component of the paper's proposed methodology."
+          },
+          {
+            "theme": "Guiding LLM Decoding and Training",
+            "weight": 10,
+            "explanation": "This theme is central to the paper's contribution, as stated in the title itself. The entire paper is about developing a method to guide these processes using tree-search, making it highly relevant."
+          },
+          {
+            "theme": "Long-Horizon and Complex Task Performance",
+            "weight": 8,
+            "explanation": "Tree-search methods, particularly those inspired by AlphaZero, are well-suited for tackling long-horizon planning and complex decision-making problems. Guiding LLMs with such methods is likely aimed at improving their performance on these challenging tasks."
+          },
+          {
+            "theme": "Information Processing and Synthesis",
+            "weight": 7,
+            "explanation": "While not the primary focus, guiding LLM output via sophisticated search methods can indirectly enhance their ability to process and synthesize information effectively, especially in complex generative tasks."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specific Application Domains vs. General Methodology",
+            "weight": 6,
+            "explanation": "The paper presents a general algorithmic technique (tree-search for guiding LLMs) rather than focusing on a niche application domain. Therefore, papers focusing on specific applications are less likely to be direct references unless they use a similar general methodology."
+          },
+          {
+            "theme": "Focus on Foundational Training vs. Advanced Decoding/Training Guidance",
+            "weight": 7,
+            "explanation": "The target paper is about advanced guidance during decoding and training, not foundational pre-training. Papers focused solely on the latter would be less relevant as they address a different stage of LLM development."
+          },
+          {
+            "theme": "Evaluation Benchmarks vs. Methodological Innovation",
+            "weight": 8,
+            "explanation": "The target paper introduces a novel methodology (tree-search guidance). Papers that are primarily evaluation benchmarks or simply report on existing models without significant methodological contribution are less likely to be directly referencing this innovation."
+          },
+          {
+            "theme": "Scope of Models (Large vs. Small LLMs)",
+            "weight": 3,
+            "explanation": "While the paper doesn't explicitly state 'large LLMs,' AlphaZero-like approaches are often applied to complex, large-scale problems. Papers focused exclusively on very small LLMs might represent a different research trajectory, though the method could potentially be adapted."
+          },
+          {
+            "theme": "Specific NLP Tasks vs. General LLM Guidance",
+            "weight": 7,
+            "explanation": "The paper's focus is on a general method for guiding the LLM's core generation and training processes, not on optimizing performance for narrowly defined NLP tasks. Therefore, papers concentrating on specific tasks are less likely to be direct references."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 7,
+    "ordered": [
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.42853572100333115
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.4714639174035684
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.47898039451969854
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.5115460151832661
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.5379177886683133
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.538190166912675
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.5467372732862095
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.5497630465068937
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.5758014462412768
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5853169626393012
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5925676781039392
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.6106129002252433
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.6132763568466765
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.6155123558592439
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.6224841349032071
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6285094041350636
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.6384403928377307
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.6447276851814094
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.668640167161215
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.6703620693853511
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6724279386986791
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.6759541222335568
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.6812563530133433
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.6879322709770812
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6929251951102822
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7002137157431874
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.8251348249647285
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 5,
+    "ordered": [
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.7648860077775438
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.7787827835257612
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7823098130359191
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.7893775524403889
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.8165396570836908
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.8186275638454892
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8192824699618503
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.8449502550642016
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.8666190694735435
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.8816897906488738
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.8857456453126995
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8877234750310209
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.910417394690072
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.9226340687714185
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.9631197291498073
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.966401926078947
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.9694610170682396
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.9702126790320177
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.9762644172951359
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.9788543825097981
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9803167132023596
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 1.0002429734823675
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.007408141598616
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 1.011856988700067
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0333003505632599
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.199473380840991
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.4204262346987089
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2501.12948",
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+    },
+    "target": {
+      "arxivId": "2309.17179",
+      "title": "Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training"
+    }
+  }
+}

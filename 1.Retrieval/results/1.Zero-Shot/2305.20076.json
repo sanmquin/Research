@@ -1,0 +1,804 @@
+{
+  "embeddings": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2506.00320",
+        "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+        "distance": 0.4728660222398098
+      },
+      {
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "distance": 0.47867399045162373
+      },
+      {
+        "arxivId": "2410.12409",
+        "title": "Revealing the Barriers of Language Agents in Planning",
+        "distance": 0.49573963496236684
+      },
+      {
+        "arxivId": "2410.22394",
+        "title": "AAAR-1.0: Assessing AI's Potential to Assist Research",
+        "distance": 0.500978150942633
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.5050270778622064
+      },
+      {
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model",
+        "distance": 0.5091962559287684
+      },
+      {
+        "arxivId": "2203.14465",
+        "title": "STaR: Bootstrapping Reasoning With Reasoning",
+        "distance": 0.5116847626096075
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.5158773038182586
+      },
+      {
+        "arxivId": "2402.14672",
+        "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+        "distance": 0.5266488270912729
+      },
+      {
+        "arxivId": "2411.15004",
+        "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+        "distance": 0.5284947092692645
+      },
+      {
+        "arxivId": "2410.05080",
+        "title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+        "distance": 0.5297065429685475
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.5310066421291922
+      },
+      {
+        "arxivId": "2402.01622",
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "distance": 0.5333141703385851
+      },
+      {
+        "arxivId": "2309.02427",
+        "title": "Cognitive Architectures for Language Agents",
+        "distance": 0.5366713345106937
+      },
+      {
+        "arxivId": "2406.12045",
+        "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "distance": 0.5440480225234656
+      },
+      {
+        "arxivId": "2011.01060",
+        "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+        "distance": 0.5496433607673222
+      },
+      {
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "distance": 0.5548404391097821
+      },
+      {
+        "arxivId": "2207.01206",
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+        "distance": 0.5619885079088853
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.5621030287529887
+      },
+      {
+        "arxivId": "2504.04736",
+        "title": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+        "distance": 0.5651035690411108
+      },
+      {
+        "arxivId": "2506.02918",
+        "title": "World Modelling Improves Language Model Agents",
+        "distance": 0.5664834264371188
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.5746078293730466
+      },
+      {
+        "arxivId": "2407.18901",
+        "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+        "distance": 0.575404397480743
+      },
+      {
+        "arxivId": "2411.06559",
+        "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+        "distance": 0.5761828430138911
+      },
+      {
+        "arxivId": "2310.01798",
+        "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+        "distance": 0.5763563883776707
+      },
+      {
+        "arxivId": "2410.13825",
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "distance": 0.5819239612512341
+      },
+      {
+        "arxivId": "2305.11854",
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "distance": 0.583878450930301
+      },
+      {
+        "arxivId": "2412.13194",
+        "title": "Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "distance": 0.5922592939731061
+      },
+      {
+        "arxivId": "2503.01861",
+        "title": "Towards Enterprise-Ready Computer Using Generalist Agent",
+        "distance": 0.5940440895062902
+      },
+      {
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "distance": 0.5961381193783957
+      },
+      {
+        "arxivId": "2108.00573",
+        "title": "♫ MuSiQue: Multihop Questions via Single-hop Question Composition",
+        "distance": 0.5980667800602528
+      },
+      {
+        "arxivId": "2505.16421",
+        "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+        "distance": 0.5995644165873333
+      },
+      {
+        "arxivId": "2312.08914",
+        "title": "CogAgent: A Visual Language Model for GUI Agents",
+        "distance": 0.6002219035118059
+      },
+      {
+        "arxivId": "2408.06327",
+        "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+        "distance": 0.6020882616929852
+      },
+      {
+        "arxivId": "2506.01716",
+        "title": "Self-Challenging Language Model Agents",
+        "distance": 0.6028053448292614
+      },
+      {
+        "arxivId": "2504.10127",
+        "title": "Breaking the Data Barrier - Building GUI Agents Through Task Generalization",
+        "distance": 0.6037181348448383
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.6046845330780906
+      },
+      {
+        "arxivId": "2411.02337",
+        "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+        "distance": 0.6137247893665818
+      },
+      {
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "distance": 0.6141738410357438
+      },
+      {
+        "arxivId": "1806.11532",
+        "title": "TextWorld: A Learning Environment for Text-based Games",
+        "distance": 0.6150827877072591
+      },
+      {
+        "arxivId": "2010.03768",
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "distance": 0.6158490563560418
+      },
+      {
+        "arxivId": "1207.4708",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "distance": 0.6161917810710218
+      },
+      {
+        "arxivId": "1312.5602",
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "distance": 0.6183422130020061
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.6184845542304709
+      },
+      {
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+        "distance": 0.6206444970441986
+      },
+      {
+        "arxivId": "2401.01614",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "distance": 0.6207531492943075
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.6266665381831539
+      },
+      {
+        "arxivId": "1911.08265",
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "distance": 0.6285162522198822
+      },
+      {
+        "arxivId": "1809.01999",
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "distance": 0.6290534461937745
+      },
+      {
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "distance": 0.6316989950986529
+      },
+      {
+        "arxivId": "2402.11924",
+        "title": "CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark",
+        "distance": 0.6386537790598716
+      },
+      {
+        "arxivId": "2410.13232",
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "distance": 0.6418030230340241
+      },
+      {
+        "arxivId": "2501.17161",
+        "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+        "distance": 0.6439009946868446
+      },
+      {
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+        "distance": 0.644488062568933
+      },
+      {
+        "arxivId": "2403.13372",
+        "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+        "distance": 0.6459639228212843
+      },
+      {
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "distance": 0.6482356313195452
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6529395059608283
+      },
+      {
+        "arxivId": "2502.11357",
+        "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+        "distance": 0.6593933353458415
+      },
+      {
+        "arxivId": "2010.02193",
+        "title": "Mastering Atari with Discrete World Models",
+        "distance": 0.6766926356210536
+      },
+      {
+        "arxivId": "2504.20073",
+        "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning",
+        "distance": 0.6785826871579144
+      },
+      {
+        "arxivId": "2409.19256",
+        "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+        "distance": 0.6787672915910803
+      },
+      {
+        "arxivId": "1912.01603",
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "distance": 0.6864991336550825
+      },
+      {
+        "arxivId": "1011.0686",
+        "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+        "distance": 0.6867826460728575
+      },
+      {
+        "arxivId": "2504.13958",
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "distance": 0.6890568303360207
+      },
+      {
+        "arxivId": "1707.01495",
+        "title": "Hindsight Experience Replay",
+        "distance": 0.6949021880020392
+      },
+      {
+        "arxivId": "2408.03314",
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "distance": 0.7179278363204584
+      }
+    ]
+  },
+  "llm": {
+    "rank": 16,
+    "ordered": [
+      {
+        "index": 44,
+        "arxivId": "2305.14992",
+        "title": "Reasoning with Language Model is Planning with World Model",
+        "score": 9,
+        "reason": "The target paper focuses on 'Decision-Oriented Dialogue for Human-AI Collaboration', and this paper's title directly relates 'Reasoning with Language Model' to 'Planning with World Model', which are core concepts in agent behavior and decision-making."
+      },
+      {
+        "index": 43,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 8,
+        "reason": "The target paper is about human-AI collaboration, and this paper is about a generalist agent for the web, which is a common application area for such collaboration. It suggests a foundational step towards more advanced agent capabilities."
+      },
+      {
+        "index": 38,
+        "arxivId": "2301.01614",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "score": 7,
+        "reason": "This paper explores the capabilities of large models as generalist web agents, a domain where human-AI collaboration through dialogue is highly relevant. Grounding is also a key aspect of effective collaboration."
+      },
+      {
+        "index": 42,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 7,
+        "reason": "This paper introduces a realistic web environment for testing agents. Human-AI collaboration is crucial for making agents effective in such complex, real-world environments."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.01861",
+        "title": "Towards Enterprise-Ready Computer Using Generalist Agent",
+        "score": 7,
+        "reason": "The pursuit of 'enterprise-ready' agents implies a need for robust interaction and collaboration, which is directly addressed by decision-oriented dialogue systems for human-AI collaboration."
+      },
+      {
+        "index": 10,
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "score": 6,
+        "reason": "Evaluating the 'current state of web agents' naturally leads to exploring how they can collaborate with humans, especially through dialogue, to overcome current limitations."
+      },
+      {
+        "index": 20,
+        "arxivId": "2410.22394",
+        "title": "AAAR-1.0: Assessing AI's Potential to Assist Research",
+        "score": 6,
+        "reason": "Assessing AI's potential to 'assist' implies a collaborative relationship, and dialogue is a primary mode of assistance and collaboration in research tasks."
+      },
+      {
+        "index": 24,
+        "arxivId": "2410.05080",
+        "title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+        "score": 6,
+        "reason": "Benchmarking agents for scientific discovery involves evaluating their ability to be useful and collaborative, with dialogue being a key modality for human-AI interaction in this domain."
+      },
+      {
+        "index": 33,
+        "arxivId": "2403.08140",
+        "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+        "score": 6,
+        "reason": "While focused on exploration, guiding agents with language is a precursor to more complex dialogue-based collaboration, especially when those agents are interacting with humans."
+      },
+      {
+        "index": 31,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 6,
+        "reason": "Benchmarking agents for 'open-ended tasks' in real environments necessitates robust interaction mechanisms, where decision-oriented dialogue can play a significant role in guiding and collaborating with the agent."
+      },
+      {
+        "index": 28,
+        "arxivId": "2407.18901",
+        "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+        "score": 6,
+        "reason": "This paper focuses on interactive agents and benchmarking. Human-AI collaboration through dialogue is essential for effective interaction in complex environments like AppWorld."
+      },
+      {
+        "index": 26,
+        "arxivId": "2408.06327",
+        "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+        "score": 5,
+        "reason": "Visual agents also benefit from effective human collaboration. Dialogue is a key interface for humans to instruct and collaborate with these agents."
+      },
+      {
+        "index": 39,
+        "arxivId": "2312.08914",
+        "title": "CogAgent: A Visual Language Model for GUI Agents",
+        "score": 5,
+        "reason": "This paper focuses on GUI agents, which are prime candidates for human-AI collaboration. Dialogue is a natural way for humans to interact with and guide such agents."
+      },
+      {
+        "index": 41,
+        "arxivId": "2309.02427",
+        "title": "Cognitive Architectures for Language Agents",
+        "score": 5,
+        "reason": "Cognitive architectures are foundational for complex agent behavior, and enhancing these with decision-oriented dialogue would improve human-AI collaboration."
+      },
+      {
+        "index": 35,
+        "arxivId": "2402.11924",
+        "title": "CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark",
+        "score": 5,
+        "reason": "While focused on QA, multi-hop reasoning often requires clarification and interaction, making decision-oriented dialogue relevant for improving performance and user understanding."
+      },
+      {
+        "index": 37,
+        "arxivId": "2402.01622",
+        "title": "TravelPlanner: A Benchmark for Real-World Planning with Language Agents",
+        "score": 5,
+        "reason": "Planning tasks, especially in the real world, are often complex and benefit from human guidance and collaboration via dialogue to refine decisions and plans."
+      },
+      {
+        "index": 30,
+        "arxivId": "2406.12045",
+        "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "score": 5,
+        "reason": "This benchmark focuses on user interaction with agents using tools. Decision-oriented dialogue is a critical aspect of effective human-agent interaction in such scenarios."
+      },
+      {
+        "index": 11,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 5,
+        "reason": "Agents that leverage search engines need to understand user intent, which can be facilitated by decision-oriented dialogue for effective collaboration."
+      },
+      {
+        "index": 4,
+        "arxivId": "2505.16421",
+        "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+        "score": 5,
+        "reason": "Multi-turn interactions in web agents are inherently collaborative. Decision-oriented dialogue is a natural extension for making these interactions more goal-directed and effective."
+      },
+      {
+        "index": 3,
+        "arxivId": "2506.00320",
+        "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+        "score": 5,
+        "reason": "Agents that simulate world models and act can benefit from decision-oriented dialogue to guide their reasoning and actions, especially in complex or ambiguous situations."
+      },
+      {
+        "index": 1,
+        "arxivId": "2506.02918",
+        "title": "World Modelling Improves Language Model Agents",
+        "score": 5,
+        "reason": "Agents with world models can make better decisions. Decision-oriented dialogue can help align these internal models with human goals and intentions."
+      },
+      {
+        "index": 2,
+        "arxivId": "2506.01716",
+        "title": "Self-Challenging Language Model Agents",
+        "score": 4,
+        "reason": "Agents that challenge themselves might need human guidance or feedback, which can be provided through decision-oriented dialogue to steer their self-improvement."
+      },
+      {
+        "index": 9,
+        "arxivId": "2504.04736",
+        "title": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+        "score": 4,
+        "reason": "Training agents for reasoning and tool use can be enhanced by human-AI collaboration, where dialogue helps in generating better data or guiding the agent's decision-making process."
+      },
+      {
+        "index": 7,
+        "arxivId": "2504.13958",
+        "title": "ToolRL: Reward is All Tool Learning Needs",
+        "score": 4,
+        "reason": "Learning to use tools effectively might involve complex decision-making where dialogue can help in understanding user needs and providing the right tools."
+      },
+      {
+        "index": 5,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 4,
+        "reason": "Optimizing agent policies, especially in multi-agent or human-in-the-loop settings, can benefit from dialogue to refine group decision-making."
+      },
+      {
+        "index": 6,
+        "arxivId": "2504.20073",
+        "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning",
+        "score": 4,
+        "reason": "Self-evolving agents need to align with human goals. Decision-oriented dialogue can facilitate this alignment, especially in multi-turn interactions."
+      },
+      {
+        "index": 13,
+        "arxivId": "2502.11357",
+        "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+        "score": 4,
+        "reason": "Exploring web trajectories can be made more efficient and goal-directed with human input via dialogue, especially when the exploration needs to be decision-oriented."
+      },
+      {
+        "index": 14,
+        "arxivId": "2501.17161",
+        "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+        "score": 4,
+        "reason": "Understanding generalization in agents is key to their utility. Dialogue can help bridge the gap between memorized and generalized behaviors by clarifying intent."
+      },
+      {
+        "index": 15,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 4,
+        "reason": "Learning through interaction implies a need for effective communication. Decision-oriented dialogue is a structured way to facilitate such learning and adaptation."
+      },
+      {
+        "index": 17,
+        "arxivId": "2411.15004",
+        "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+        "score": 4,
+        "reason": "Specialized agents performing workflows can significantly benefit from clear, decision-oriented dialogue to ensure they are executing the correct tasks and making the right choices."
+      },
+      {
+        "index": 18,
+        "arxivId": "2411.06559",
+        "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+        "score": 4,
+        "reason": "Web agents using world models for planning need to align their plans with user goals. Decision-oriented dialogue is crucial for this alignment."
+      },
+      {
+        "index": 19,
+        "arxivId": "2411.02337",
+        "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+        "score": 4,
+        "reason": "Self-evolving web agents trained with RL can be guided more effectively through decision-oriented dialogue to ensure their learning aligns with human objectives."
+      },
+      {
+        "index": 21,
+        "arxivId": "2410.13825",
+        "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+        "score": 4,
+        "reason": "Establishing strong baselines for web agents paves the way for more sophisticated interaction, including decision-oriented dialogue for collaboration."
+      },
+      {
+        "index": 22,
+        "arxivId": "2410.13232",
+        "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+        "score": 4,
+        "reason": "Navigation and leveraging environment dynamics can be complex. Decision-oriented dialogue can help agents make better navigation choices by understanding user intent."
+      },
+      {
+        "index": 23,
+        "arxivId": "2410.12409",
+        "title": "Revealing the Barriers of Language Agents in Planning",
+        "score": 4,
+        "reason": "Addressing planning barriers in language agents directly relates to improving their decision-making capabilities, which can be achieved through better dialogue and human collaboration."
+      },
+      {
+        "index": 27,
+        "arxivId": "2408.03314",
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "score": 4,
+        "reason": "Optimizing agent performance, whether through compute or model scaling, is related to how effectively they can execute tasks, which dialogue can help refine by clarifying decisions."
+      },
+      {
+        "index": 29,
+        "arxivId": "2407.01476",
+        "title": "Tree Search for Language Model Agents",
+        "score": 4,
+        "reason": "Tree search is a planning mechanism. Decision-oriented dialogue can help guide the search process by providing clearer goals and constraints."
+      },
+      {
+        "index": 34,
+        "arxivId": "2402.14672",
+        "title": "Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments",
+        "score": 4,
+        "reason": "Tools are often used in complex decision-making scenarios. Middleware that facilitates tool use can be enhanced by dialogue for better decision guidance."
+      },
+      {
+        "index": 8,
+        "arxivId": "2504.10127",
+        "title": "Breaking the Data Barrier - Building GUI Agents Through Task Generalization",
+        "score": 4,
+        "reason": "Generalizing tasks for GUI agents requires robust understanding and interaction. Dialogue can facilitate this by allowing humans to specify or refine task goals."
+      },
+      {
+        "index": 16,
+        "arxivId": "2412.13194",
+        "title": "Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents",
+        "score": 3,
+        "reason": "Autonomous agents that discover skills can benefit from human feedback or guidance to ensure the discovered skills are useful and align with desired outcomes, potentially through dialogue."
+      },
+      {
+        "index": 32,
+        "arxivId": "2403.13372",
+        "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+        "score": 3,
+        "reason": "Efficiently fine-tuning language models is a prerequisite for building capable agents, including those that excel in human-AI collaboration via dialogue."
+      },
+      {
+        "index": 36,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "While focused on math, improved reasoning capabilities in LLMs are beneficial for agents that need to make complex decisions and collaborate with humans."
+      },
+      {
+        "index": 40,
+        "arxivId": "2310.01798",
+        "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+        "score": 3,
+        "reason": "The inability of LLMs to self-correct reasoning highlights the need for external guidance, which can be provided through decision-oriented dialogue."
+      },
+      {
+        "index": 46,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 3,
+        "reason": "Self-refinement processes can be made more effective by incorporating external feedback, such as through decision-oriented dialogue with a human collaborator."
+      },
+      {
+        "index": 47,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 3,
+        "reason": "Verbal reinforcement learning suggests an interaction modality where dialogue plays a key role in agent improvement, aligning with decision-oriented dialogue."
+      },
+      {
+        "index": 48,
+        "arxivId": "2210.11610",
+        "title": "Large Language Models Can Self-Improve",
+        "score": 3,
+        "reason": "Self-improvement in LLMs can be directed and made more robust through structured human interaction, such as decision-oriented dialogue."
+      },
+      {
+        "index": 51,
+        "arxivId": "2203.15461",
+        "title": "STaR: Bootstrapping Reasoning With Reasoning",
+        "score": 3,
+        "reason": "Bootstrapping reasoning with reasoning can be further refined by human input that guides the decision-making process, making dialogue relevant."
+      },
+      {
+        "index": 53,
+        "arxivId": "2201.11903",
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "score": 3,
+        "reason": "Chain of thought reasoning is a step towards better decision-making. Dialogue can help in refining these reasoning chains and aligning them with user decisions."
+      },
+      {
+        "index": 56,
+        "arxivId": "2010.00719",
+        "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+        "score": 3,
+        "reason": "Interactive learning in embodied environments can be enhanced by dialogue that allows for decision-making and clarification of goals."
+      },
+      {
+        "index": 52,
+        "arxivId": "2203.07540",
+        "title": "ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+        "score": 3,
+        "reason": "Evaluating agent intelligence in environments like ScienceWorld can involve assessing its ability to understand and respond to complex instructions or decisions, facilitated by dialogue."
+      },
+      {
+        "index": 57,
+        "arxivId": "2010.02193",
+        "title": "Mastering Atari with Discrete World Models",
+        "score": 3,
+        "reason": "While focused on games, mastering complex tasks with world models can be seen as a precursor to agents that need to make critical decisions in human-collaboration contexts."
+      },
+      {
+        "index": 58,
+        "arxivId": "1912.01603",
+        "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+        "score": 3,
+        "reason": "Imagination and learning behaviors can be guided by human intent, which is often communicated through dialogue, especially when making decisions."
+      },
+      {
+        "index": 61,
+        "arxivId": "1809.01999",
+        "title": "Recurrent World Models Facilitate Policy Evolution",
+        "score": 3,
+        "reason": "Policy evolution based on world models can be made more aligned with human goals through decision-oriented dialogue."
+      },
+      {
+        "index": 62,
+        "arxivId": "1806.11532",
+        "title": "TextWorld: A Learning Environment for Text-based Games",
+        "score": 3,
+        "reason": "Text-based games often require complex interactions and decision-making, areas where dialogue can play a crucial role in guiding the agent."
+      },
+      {
+        "index": 63,
+        "arxivId": "1707.01495",
+        "title": "Hindsight Experience Replay",
+        "score": 3,
+        "reason": "HER is a technique for learning from failed attempts. Dialogue can help provide context or clarify goals for such learning, especially in decision-making scenarios."
+      },
+      {
+        "index": 64,
+        "arxivId": "1312.5602",
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "score": 3,
+        "reason": "Deep RL for games involves learning optimal policies. Human collaboration through dialogue can help define or refine these policies in more complex, real-world decision-making tasks."
+      },
+      {
+        "index": 65,
+        "arxivId": "1207.4708",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "score": 3,
+        "reason": "Evaluation platforms for general agents are where advanced interaction modalities like decision-oriented dialogue are tested and developed."
+      },
+      {
+        "index": 50,
+        "arxivId": "2207.01206",
+        "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+        "score": 3,
+        "reason": "Web interaction requires agents to make decisions. Dialogue can help ground these decisions and align them with user intent in real-world scenarios."
+      },
+      {
+        "index": 55,
+        "arxivId": "2011.01060",
+        "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+        "score": 2,
+        "reason": "Multi-hop QA requires complex reasoning. While not directly dialogue, improving reasoning steps can indirectly benefit collaborative decision-making."
+      },
+      {
+        "index": 54,
+        "arxivId": "2108.00573",
+        "title": "♫ MuSiQue: Multihop Questions via Single-hop Question Composition",
+        "score": 2,
+        "reason": "Compositional question answering involves breaking down complex queries, which is related to structured decision-making and can benefit from dialogue for clarification."
+      },
+      {
+        "index": 49,
+        "arxivId": "2210.03350",
+        "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+        "score": 2,
+        "reason": "Compositionality is important for complex tasks. Dialogue can help bridge gaps in understanding by breaking down complex decisions into manageable parts."
+      },
+      {
+        "index": 45,
+        "arxivId": "2305.11854",
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "score": 2,
+        "reason": "Web navigation based on instructions is a form of human-agent interaction. Dialogue can provide more nuanced instructions and decisions."
+      },
+      {
+        "index": 10,
+        "arxivId": "2504.01382",
+        "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+        "score": 2,
+        "reason": "Assessing the state of web agents could include evaluating their collaborative capabilities, where dialogue is key."
+      },
+      {
+        "index": 59,
+        "arxivId": "1911.08265",
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "score": 2,
+        "reason": "Planning with learned models is relevant to decision-making, but the context of games is less directly related to general human-AI collaboration than other papers."
+      },
+      {
+        "index": 60,
+        "arxivId": "1809.09600",
+        "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+        "score": 1,
+        "reason": "Multi-hop QA is a reasoning task. While reasoning is part of decision-making, the focus on question answering and datasets is less directly tied to collaborative dialogue."
+      },
+      {
+        "index": 66,
+        "arxivId": "1011.0686",
+        "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+        "score": 1,
+        "reason": "This paper is very foundational and relates to learning algorithms. Its connection to dialogue-based human-AI collaboration is indirect."
+      }
+    ]
+  }
+}

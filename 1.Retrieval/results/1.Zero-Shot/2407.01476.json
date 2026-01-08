@@ -1,0 +1,2441 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2509.25140",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory"
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation"
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process"
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents"
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks"
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models"
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks"
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code"
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation"
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents"
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling"
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models"
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research"
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge"
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory"
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model"
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs"
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents"
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes"
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents"
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control"
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2410.02052",
+      "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+    },
+    "target": {
+      "arxivId": "2407.01476",
+      "title": "Tree Search for Language Model Agents"
+    }
+  },
+  "embeddings": {
+    "rank": 33,
+    "ordered": [
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "distance": 0.26047388023642337
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "distance": 0.2707724148473777
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "distance": 0.3060190931054707
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "distance": 0.3702548890493057
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.3773204213947151
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "distance": 0.38451769514806566
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "distance": 0.3875768412000983
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "distance": 0.4233110755087195
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "distance": 0.4233239371901638
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.4245429182931775
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "distance": 0.42663732002993937
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "distance": 0.42845201219469675
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "distance": 0.42988077365977817
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "distance": 0.4323346061907547
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "distance": 0.43896373704820213
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "distance": 0.439481376617619
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "distance": 0.44410329708841567
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "distance": 0.44617737271506763
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "distance": 0.44838788804162033
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "distance": 0.4539943904617274
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "distance": 0.45525707027081896
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.45758361745273646
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "distance": 0.46206266349962144
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "distance": 0.4621807865296691
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.46293579455681455
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "distance": 0.463971835494809
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.47378148942200704
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "distance": 0.47859728625404485
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "distance": 0.4802074484024109
+      },
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "distance": 0.4810124174928474
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "distance": 0.48160155014581696
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "distance": 0.48172197945988937
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "distance": 0.489504267226195
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "distance": 0.4909272664546346
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "distance": 0.49784083359889
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "distance": 0.502496733647766
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "distance": 0.5032650923878697
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "distance": 0.5066562600762194
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "distance": 0.50751959852679
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "distance": 0.5077521208789215
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "distance": 0.5115904355975398
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "distance": 0.5241468523342117
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.5396396807819699
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "distance": 0.5413220460860971
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "distance": 0.5458314495195549
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "distance": 0.5494106207081679
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "distance": 0.5534110308894947
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "distance": 0.5650083973583683
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "distance": 0.5650267675099475
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "distance": 0.5831914758254134
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "distance": 0.5832564291273661
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "distance": 0.6014893983374112
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6092314563448877
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "distance": 0.6217062200511296
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "distance": 0.6265826308397795
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "distance": 0.6602122989182911
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "distance": 0.667586187831518
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "distance": 0.6679841752962211
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "distance": 0.6873229164766492
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "distance": 0.6947152558480711
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "distance": 0.713929253699485
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "distance": 0.7184456993228041
+      }
+    ]
+  },
+  "llm": {
+    "rank": 7,
+    "ordered": [
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on hierarchical reasoning and RL, directly relevant to target's tree search and LLM agents."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 8,
+        "reason": "Discusses reasoning in agents and test-time scaling, aligning with the target's focus on tree search for agents."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 7,
+        "reason": "Investigates RL's impact on reasoning in LLMs, a core component of agents."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 7,
+        "reason": "Explores test-time scaling and collaborative reasoning in multi-agent settings, relevant to efficient agent strategies."
+      },
+      {
+        "index": 61,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "Introduces a paradigm for synergistic reasoning and acting, which is fundamental to agent capabilities."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 7,
+        "reason": "Focuses on self-evolving agents and learning from experience, which can involve search-like processes."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 7,
+        "reason": "Mentions MCTS (a form of tree search) and exploratory learning for agents."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 6,
+        "reason": "Deals with agent problem-solving, which often benefits from search strategies."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 6,
+        "reason": "Discusses self-improvement of language agents, which could involve optimizing search strategies."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 6,
+        "reason": "Focuses on agentic tasks and skills, which might be enhanced by efficient search."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 6,
+        "reason": "Related to efficient scaling at test time, which can be applied to search algorithms."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 6,
+        "reason": "Focuses on test-time scaling, potentially applicable to optimizing agent search."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 6,
+        "reason": "Discusses scaling test-time compute, relevant to the efficiency of agent decision-making processes like tree search."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 6,
+        "reason": "Addresses test-time scaling, a technique that can optimize search algorithms."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 6,
+        "reason": "Directly mentions scaling test-time compute for LLM agents, a relevant optimization technique for search."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 5,
+        "reason": "Memory can be integrated with search strategies for more effective agent planning."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 5,
+        "reason": "Planning and memory are often intertwined with search algorithms in agent systems."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 5,
+        "reason": "Memory management is crucial for agents that use complex decision-making like tree search."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 5,
+        "reason": "Memory evaluation for LLM agents is relevant to optimizing their performance, which could include search efficiency."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 5,
+        "reason": "Personalized thought processes in LLMs can be related to structured search or reasoning."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 5,
+        "reason": "Memory agents might employ search-like strategies to navigate long contexts effectively."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 5,
+        "reason": "Synergizing memory and reasoning for agents is a general area where search techniques are applied."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 5,
+        "reason": "Memory augmentation in LLMs can involve structured exploration or search mechanisms."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Reasoning tasks can benefit from search-based approaches, and retrieval is a component."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Scalable memory for agents is relevant to maintaining search states or plans."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 5,
+        "reason": "Memory management for agents can be structured using search-like or planning techniques."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 5,
+        "reason": "Agentic memory is crucial for agents that perform complex tasks requiring systematic exploration."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Scalable long-term memory in LLMs is relevant for agents that need to remember and explore complex state spaces."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 5,
+        "reason": "Self-adaptive agents in realistic environments might utilize search for adaptation and decision-making."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 5,
+        "reason": "Benchmarking memory in agents is related to evaluating their ability to handle complex tasks, potentially using search."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 5,
+        "reason": "Workflow memory for agents could be managed or optimized using search-like processes."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 5,
+        "reason": "Self-evolving agents with memory can employ search to improve their strategies."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 5,
+        "reason": "Hierarchical memory management for agents can involve structured search or planning."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 5,
+        "reason": "Episodic memory can support complex reasoning and decision-making in agents."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 5,
+        "reason": "Continuous improvement of agents may involve refining their search or decision-making algorithms."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 5,
+        "reason": "Memory is a key component for agents that need to explore and plan, often using search."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 5,
+        "reason": "Long-term memory evaluation is relevant for agents that need to maintain context during extensive searches."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 5,
+        "reason": "Planning with memory is directly related to search strategies for agents."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 5,
+        "reason": "Self-evolution strategies for agents can incorporate systematic exploration."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 5,
+        "reason": "LLMs as operating systems can manage complex processes that benefit from structured search."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 5,
+        "reason": "Experiential learning for agents can involve trial-and-error, which is a form of search."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 5,
+        "reason": "Planning and program synthesis in agents often rely on search-based methods."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 5,
+        "reason": "Trajectory planning with memory is related to search and state-space exploration."
+      },
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 5,
+        "reason": "Long-term memory enhancement for LLMs is relevant for agents that perform complex, multi-step tasks."
+      },
+      {
+        "index": 60,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Iterative refinement can be seen as a form of search or optimization process."
+      },
+      {
+        "index": 2,
+        "arxivId": "2509.03646",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 4,
+        "reason": "Learning from errors is related to agent improvement, which might indirectly involve search."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 4,
+        "reason": "Evaluating agents on tasks might require them to use search-like mechanisms to navigate."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "Web agents often require search strategies to explore and interact with web environments."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 4,
+        "reason": "Automated software engineering agents might employ search for code generation or problem-solving."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 4,
+        "reason": "Open-ended tasks for agents often necessitate sophisticated search and exploration capabilities."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 4,
+        "reason": "Refinement of agents could involve optimizing their search or decision-making processes."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 4,
+        "reason": "Learning principles from mistakes can be a component of optimizing an agent's search strategy."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 4,
+        "reason": "Realistic web environments for agents often require effective search and planning."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 4,
+        "reason": "Generalist web agents need robust mechanisms for exploration and decision-making, akin to search."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 3,
+        "reason": "A broad survey on self-evolving agents, which may touch upon search aspects."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 3,
+        "reason": "Mentions advanced reasoning and agentic capabilities generally, which could include search."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 3,
+        "reason": "Broad overview of foundation agents, potentially including search as a core capability."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 3,
+        "reason": "Embeddings are a foundation for many AI tasks, including agent decision-making, but not directly search."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 3,
+        "reason": "Best-of-N sampling is a form of selection, which is related to search but not as direct."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 3,
+        "reason": "LLM-as-a-judge focuses on evaluation, not directly on search algorithms for agents."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 3,
+        "reason": "General survey of autonomous agents, may not emphasize search techniques specifically."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on hierarchical reasoning and RL, directly relevant to target's tree search and LLM agents."
+      },
+      {
+        "index": 2,
+        "arxivId": "2509.03646",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 4,
+        "reason": "Learning from errors is related to agent improvement, which might indirectly involve search."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 5,
+        "reason": "Memory can be integrated with search strategies for more effective agent planning."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 7,
+        "reason": "Focuses on self-evolving agents and learning from experience, which can involve search-like processes."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 5,
+        "reason": "Planning and memory are often intertwined with search algorithms in agent systems."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 5,
+        "reason": "Memory management is crucial for agents that use complex decision-making like tree search."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 3,
+        "reason": "A broad survey on self-evolving agents, which may touch upon search aspects."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 6,
+        "reason": "Deals with agent problem-solving, which often benefits from search strategies."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 3,
+        "reason": "Mentions advanced reasoning and agentic capabilities generally, which could include search."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 5,
+        "reason": "Memory evaluation for LLM agents is relevant to optimizing their performance, which could include search efficiency."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 5,
+        "reason": "Personalized thought processes in LLMs can be related to structured search or reasoning."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 5,
+        "reason": "Memory agents might employ search-like strategies to navigate long contexts effectively."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 5,
+        "reason": "Synergizing memory and reasoning for agents is a general area where search techniques are applied."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 6,
+        "reason": "Directly mentions scaling test-time compute for LLM agents, a relevant optimization technique for search."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 8,
+        "reason": "Discusses reasoning in agents and test-time scaling, aligning with the target's focus on tree search for agents."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 6,
+        "reason": "Discusses self-improvement of language agents, which could involve optimizing search strategies."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 4,
+        "reason": "Evaluating agents on tasks might require them to use search-like mechanisms to navigate."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 5,
+        "reason": "Memory augmentation in LLMs can involve structured exploration or search mechanisms."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Reasoning tasks can benefit from search-based approaches, and retrieval is a component."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Scalable memory for agents is relevant to maintaining search states or plans."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 7,
+        "reason": "Investigates RL's impact on reasoning in LLMs, a core component of agents."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 7,
+        "reason": "Explores test-time scaling and collaborative reasoning in multi-agent settings, relevant to efficient agent strategies."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 6,
+        "reason": "Focuses on agentic tasks and skills, which might be enhanced by efficient search."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 6,
+        "reason": "Related to efficient scaling at test time, which can be applied to search algorithms."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 3,
+        "reason": "Broad overview of foundation agents, potentially including search as a core capability."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 5,
+        "reason": "Memory management for agents can be structured using search-like or planning techniques."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 3,
+        "reason": "Embeddings are a foundation for many AI tasks, including agent decision-making, but not directly search."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 6,
+        "reason": "Focuses on test-time scaling, potentially applicable to optimizing agent search."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 5,
+        "reason": "Agentic memory is crucial for agents that perform complex tasks requiring systematic exploration."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 6,
+        "reason": "Discusses scaling test-time compute, relevant to the efficiency of agent decision-making processes like tree search."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Scalable long-term memory in LLMs is relevant for agents that need to remember and explore complex state spaces."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 6,
+        "reason": "Addresses test-time scaling, a technique that can optimize search algorithms."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 5,
+        "reason": "Self-adaptive agents in realistic environments might utilize search for adaptation and decision-making."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 3,
+        "reason": "Best-of-N sampling is a form of selection, which is related to search but not as direct."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "Web agents often require search strategies to explore and interact with web environments."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 3,
+        "reason": "LLM-as-a-judge focuses on evaluation, not directly on search algorithms for agents."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 5,
+        "reason": "Benchmarking memory in agents is related to evaluating their ability to handle complex tasks, potentially using search."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 7,
+        "reason": "Mentions MCTS (a form of tree search) and exploratory learning for agents."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 5,
+        "reason": "Workflow memory for agents could be managed or optimized using search-like processes."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 5,
+        "reason": "Self-evolving agents with memory can employ search to improve their strategies."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 5,
+        "reason": "Hierarchical memory management for agents can involve structured search or planning."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 5,
+        "reason": "Episodic memory can support complex reasoning and decision-making in agents."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 5,
+        "reason": "Continuous improvement of agents may involve refining their search or decision-making algorithms."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 4,
+        "reason": "Automated software engineering agents might employ search for code generation or problem-solving."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 5,
+        "reason": "Memory is a key component for agents that need to explore and plan, often using search."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 4,
+        "reason": "Open-ended tasks for agents often necessitate sophisticated search and exploration capabilities."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 4,
+        "reason": "Refinement of agents could involve optimizing their search or decision-making processes."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 5,
+        "reason": "Long-term memory evaluation is relevant for agents that need to maintain context during extensive searches."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 4,
+        "reason": "Learning principles from mistakes can be a component of optimizing an agent's search strategy."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 5,
+        "reason": "Planning with memory is directly related to search strategies for agents."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 5,
+        "reason": "Self-evolution strategies for agents can incorporate systematic exploration."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 5,
+        "reason": "LLMs as operating systems can manage complex processes that benefit from structured search."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 3,
+        "reason": "General survey of autonomous agents, may not emphasize search techniques specifically."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 5,
+        "reason": "Experiential learning for agents can involve trial-and-error, which is a form of search."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 4,
+        "reason": "Realistic web environments for agents often require effective search and planning."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 5,
+        "reason": "Planning and program synthesis in agents often rely on search-based methods."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 5,
+        "reason": "Trajectory planning with memory is related to search and state-space exploration."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 4,
+        "reason": "Generalist web agents need robust mechanisms for exploration and decision-making, akin to search."
+      },
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 5,
+        "reason": "Long-term memory enhancement for LLMs is relevant for agents that perform complex, multi-step tasks."
+      },
+      {
+        "index": 60,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Iterative refinement can be seen as a form of search or optimization process."
+      },
+      {
+        "index": 61,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "Introduces a paradigm for synergistic reasoning and acting, which is fundamental to agent capabilities."
+      },
+      {
+        "index": 62,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 1,
+        "reason": "This paper is about visual representations and is unlikely to be directly related to LLM agents and tree search."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 3,
+    "ranked": [
+      {
+        "index": 5,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 9,
+        "reason": "The ReAct framework directly combines reasoning and acting, which is fundamental to agent behavior and aligns well with the target's focus on tree search for agents."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 8,
+        "reason": "This paper focuses on enabling agents to perform tasks, likely involving some form of planning or search, which is relevant to the target paper's exploration of tree search for agents."
+      },
+      {
+        "index": 33,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 8,
+        "reason": "The explicit mention of MCTS (Monte Carlo Tree Search) is highly relevant to the target paper's topic of tree search for agents, indicating a direct methodological connection."
+      },
+      {
+        "index": 39,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 7,
+        "reason": "Focuses on learning within LLM agents, which is a broad but relevant area for improving agent capabilities, including search strategies."
+      },
+      {
+        "index": 44,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 7,
+        "reason": "This paper is about training models for reasoning tasks, which is a core component of effective agent behavior and could be enhanced by tree search methods."
+      },
+      {
+        "index": 53,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 7,
+        "reason": "Iterative refinement is a form of self-improvement that can be applied to agent decision-making processes, potentially including search strategies."
+      },
+      {
+        "index": 8,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 6,
+        "reason": "This paper discusses a WebAgent that uses planning, a key element often implemented with search algorithms like tree search."
+      },
+      {
+        "index": 22,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 6,
+        "reason": "Focuses on building autonomous agents in a realistic environment, suggesting a need for effective decision-making and exploration strategies like tree search."
+      },
+      {
+        "index": 54,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 6,
+        "reason": "Deals with computer control agents and uses trajectory-based learning, which could be related to planning and search mechanisms."
+      },
+      {
+        "index": 62,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 6,
+        "reason": "Learning from mistakes implies an iterative improvement process, which can be relevant for optimizing search algorithms within agents."
+      },
+      {
+        "index": 32,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 5,
+        "reason": "This paper explores reasoning in agents through interaction, which is a broad but relevant context for search-based decision making."
+      },
+      {
+        "index": 1,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 5,
+        "reason": "A survey on autonomous agents provides a broad overview of the field, likely touching upon various decision-making and search strategies."
+      },
+      {
+        "index": 3,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 5,
+        "reason": "Benchmarking agent improvement suggests a need for robust evaluation of their capabilities, including planning and decision-making, which tree search addresses."
+      },
+      {
+        "index": 10,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 5,
+        "reason": "Benchmarking agents for open-ended tasks implies a need for sophisticated problem-solving and exploration, where tree search can be beneficial."
+      },
+      {
+        "index": 16,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 5,
+        "reason": "Autonomous refinement of agents could involve improving their search or planning strategies."
+      },
+      {
+        "index": 21,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 5,
+        "reason": "Focuses on web agents, which require planning and navigation, areas where tree search is applicable."
+      },
+      {
+        "index": 25,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 5,
+        "reason": "A generalist web agent requires strong planning and decision-making capabilities, relevant to tree search techniques."
+      },
+      {
+        "index": 40,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 5,
+        "reason": "Automated software engineering by agents often involves complex problem-solving and planning, potentially utilizing search methods."
+      },
+      {
+        "index": 43,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 5,
+        "reason": "Self-adaptive agents in realistic environments need effective strategies for interaction and decision-making, where search can play a role."
+      },
+      {
+        "index": 45,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 5,
+        "reason": "A broad survey of foundation agents likely covers various aspects of agent intelligence, including decision-making and planning."
+      },
+      {
+        "index": 47,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 5,
+        "reason": "Focuses on collaborative reasoning, which can involve exploring different strategies or plans, potentially through search."
+      },
+      {
+        "index": 55,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 5,
+        "reason": "Code generation can be framed as a search problem, and test-time scaling might involve optimizing search processes."
+      },
+      {
+        "index": 57,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 5,
+        "reason": "Discusses scaling test-time compute, which is relevant to optimizing search-intensive agent processes."
+      },
+      {
+        "index": 59,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 5,
+        "reason": "Efficient scaling of test-time computation, particularly with code, is relevant to optimizing agent decision-making processes that might use search."
+      },
+      {
+        "index": 60,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 5,
+        "reason": "General techniques for test-time scaling are applicable to optimizing agent behavior, which can include search algorithms."
+      },
+      {
+        "index": 2,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 4,
+        "reason": "Memory is crucial for agents, and how it's managed can influence planning and decision-making, but it's less directly related to the search mechanism itself."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 4,
+        "reason": "Memory management is important for agents, but the primary focus is not on planning or search algorithms."
+      },
+      {
+        "index": 6,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 4,
+        "reason": "Focuses on memory evaluation, which is an indirect factor for agent performance and decision-making."
+      },
+      {
+        "index": 7,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 4,
+        "reason": "Hierarchical memory management is relevant for complex tasks, but the focus is not explicitly on search algorithms."
+      },
+      {
+        "index": 9,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 4,
+        "reason": "Self-improvement is a general goal for agents, but the mechanism (experience replay) is not directly linked to tree search."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 4,
+        "reason": "Focuses on memory and RL for agents; search is a potential but not explicit component."
+      },
+      {
+        "index": 12,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 4,
+        "reason": "Synergizing memory and reasoning is relevant, but the emphasis isn't specifically on search methods."
+      },
+      {
+        "index": 13,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 4,
+        "reason": "Focuses on agentic memory, which is a supporting element for effective decision-making, not the decision mechanism itself."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 4,
+        "reason": "Scaling test-time compute is relevant for complex agent processes, but doesn't specify the type of computation (e.g., search)."
+      },
+      {
+        "index": 15,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 4,
+        "reason": "Long-term memory is a component of agent intelligence, but not directly about search strategies."
+      },
+      {
+        "index": 17,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 4,
+        "reason": "Evaluation of memory is important but not directly about search algorithms."
+      },
+      {
+        "index": 18,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "Focuses on long-term memory for production-ready agents, a component rather than the core decision process."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 4,
+        "reason": "While it mentions planning, the focus is on retrieval-augmented planning and memory, not specific search algorithms like tree search."
+      },
+      {
+        "index": 23,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 4,
+        "reason": "Focuses on memory management and reflection, which can indirectly influence decision-making but not directly address search."
+      },
+      {
+        "index": 24,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 4,
+        "reason": "Sampling strategies are related to decision-making but not directly to tree search algorithms."
+      },
+      {
+        "index": 26,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 4,
+        "reason": "Focuses on personalization and memory, less on the explicit search mechanisms for agents."
+      },
+      {
+        "index": 27,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 4,
+        "reason": "Knowledge bases are useful for agents, but this paper's focus is on experience leverage, not search implementation."
+      },
+      {
+        "index": 28,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 4,
+        "reason": "Procedural memory is a type of memory relevant to agents, but not directly tied to tree search."
+      },
+      {
+        "index": 29,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 4,
+        "reason": "Focuses on memory management for LLMs, a foundational aspect for agents, but not directly on search."
+      },
+      {
+        "index": 30,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 4,
+        "reason": "Hierarchical reasoning is related to complex problem-solving, but the focus is RL, not explicit tree search."
+      },
+      {
+        "index": 31,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 4,
+        "reason": "A survey on self-evolving agents is broad and might cover search, but it's not the main focus."
+      },
+      {
+        "index": 34,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 4,
+        "reason": "Highlights advanced capabilities including reasoning, but doesn't detail specific search algorithms."
+      },
+      {
+        "index": 35,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 4,
+        "reason": "Self-evolution and memory are relevant for agents, but the connection to tree search is indirect."
+      },
+      {
+        "index": 36,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 4,
+        "reason": "Agent self-evolution strategies are relevant, but this paper doesn't specifically mention search."
+      },
+      {
+        "index": 37,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 4,
+        "reason": "Evaluating web browsing agents implies a need for effective navigation and decision-making, but doesn't detail the search methods."
+      },
+      {
+        "index": 38,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 4,
+        "reason": "Explores RL's impact on reasoning, which is relevant to agent capabilities, but not directly about tree search."
+      },
+      {
+        "index": 41,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 4,
+        "reason": "Benchmarking memory is important for agents, but less directly related to search algorithms."
+      },
+      {
+        "index": 42,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 4,
+        "reason": "Self-evolving agents learn from experience, which could involve optimizing search, but it's not explicit."
+      },
+      {
+        "index": 46,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 4,
+        "reason": "This paper frames LLMs as operating systems, implying complex agent functionalities, but not specific search details."
+      },
+      {
+        "index": 48,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "Focuses on extending memory capabilities for LLMs, which is important for agents but not directly about search."
+      },
+      {
+        "index": 49,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 4,
+        "reason": "Workflow memory is a component for agents, but not directly related to planning or search methods."
+      },
+      {
+        "index": 50,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 4,
+        "reason": "Learning from errors is a form of self-improvement, relevant to agent optimization but not specifically search."
+      },
+      {
+        "index": 51,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 4,
+        "reason": "Episodic memory is a type of memory relevant to agents, but not directly about search algorithms."
+      },
+      {
+        "index": 52,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 4,
+        "reason": "Planning for task automation is relevant, but the focus is on trajectory-constructed memory, not tree search."
+      },
+      {
+        "index": 56,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 4,
+        "reason": "Embeddings are a foundational technology, but this paper doesn't directly address agent search strategies."
+      },
+      {
+        "index": 58,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 4,
+        "reason": "LLM-as-a-judge is about evaluation, not about the internal decision-making processes like search."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 3,
+        "reason": "This paper focuses on memory and tool usage in multi-turn conversations, which is a component of agent behavior but not directly related to search algorithms."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 3,
+        "reason": "Scaling test-time compute is relevant for complex agent processes, but it's a general concept and doesn't specify the type of computation (e.g., search)."
+      },
+      {
+        "index": 24,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 3,
+        "reason": "Sampling strategies are related to decision-making but not directly to tree search algorithms."
+      },
+      {
+        "index": 55,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 3,
+        "reason": "While code generation can be a search problem, the focus here is on scaling test-time compute for it, not on the search method itself."
+      },
+      {
+        "index": 57,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 3,
+        "reason": "This paper discusses scaling test-time compute, which is relevant to optimizing agent decision-making processes that might use search, but it's a general efficiency point."
+      },
+      {
+        "index": 59,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 3,
+        "reason": "Efficient scaling of test-time computation is relevant to optimizing agent decision-making that might use search, but it's an efficiency technique."
+      },
+      {
+        "index": 60,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 3,
+        "reason": "General techniques for test-time scaling are applicable to optimizing agent behavior, which can include search algorithms, but it's a broad efficiency improvement."
+      },
+      {
+        "index": 46,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 2,
+        "reason": "This paper is about LLMs as operating systems, which is a high-level concept for agent capabilities. It doesn't detail search mechanisms."
+      },
+      {
+        "index": 61,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 1,
+        "reason": "This paper is about visual representation learning and has no direct connection to agent decision-making or search algorithms."
+      }
+    ],
+    "metrics": {
+      "completeness": 1.1290322580645162,
+      "semanticCorrelation": 0.09905140468695582,
+      "correctness": 0
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 5,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 9,
+          "reason": "The ReAct framework directly combines reasoning and acting, which is fundamental to agent behavior and aligns well with the target's focus on tree search for agents."
+        },
+        {
+          "index": 20,
+          "arxivId": "2504.06821",
+          "title": "Inducing Programmatic Skills for Agentic Tasks",
+          "score": 8,
+          "reason": "This paper focuses on enabling agents to perform tasks, likely involving some form of planning or search, which is relevant to the target paper's exploration of tree search for agents."
+        },
+        {
+          "index": 33,
+          "arxivId": "2410.02052",
+          "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+          "score": 8,
+          "reason": "The explicit mention of MCTS (Monte Carlo Tree Search) is highly relevant to the target paper's topic of tree search for agents, indicating a direct methodological connection."
+        },
+        {
+          "index": 39,
+          "arxivId": "2308.10144",
+          "title": "ExpeL: LLM Agents Are Experiential Learners",
+          "score": 7,
+          "reason": "Focuses on learning within LLM agents, which is a broad but relevant area for improving agent capabilities, including search strategies."
+        },
+        {
+          "index": 44,
+          "arxivId": "2504.20595",
+          "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+          "score": 7,
+          "reason": "This paper is about training models for reasoning tasks, which is a core component of effective agent behavior and could be enhanced by tree search methods."
+        },
+        {
+          "index": 53,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 7,
+          "reason": "Iterative refinement is a form of self-improvement that can be applied to agent decision-making processes, potentially including search strategies."
+        },
+        {
+          "index": 8,
+          "arxivId": "2307.12856",
+          "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+          "score": 6,
+          "reason": "This paper discusses a WebAgent that uses planning, a key element often implemented with search algorithms like tree search."
+        },
+        {
+          "index": 22,
+          "arxivId": "2307.13854",
+          "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "score": 6,
+          "reason": "Focuses on building autonomous agents in a realistic environment, suggesting a need for effective decision-making and exploration strategies like tree search."
+        },
+        {
+          "index": 54,
+          "arxivId": "2306.07863",
+          "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+          "score": 6,
+          "reason": "Deals with computer control agents and uses trajectory-based learning, which could be related to planning and search mechanisms."
+        },
+        {
+          "index": 62,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 6,
+          "reason": "Learning from mistakes implies an iterative improvement process, which can be relevant for optimizing search algorithms within agents."
+        },
+        {
+          "index": 32,
+          "arxivId": "2506.07976",
+          "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+          "score": 5,
+          "reason": "This paper explores reasoning in agents through interaction, which is a broad but relevant context for search-based decision making."
+        },
+        {
+          "index": 1,
+          "arxivId": "2308.11432",
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 5,
+          "reason": "A survey on autonomous agents provides a broad overview of the field, likely touching upon various decision-making and search strategies."
+        },
+        {
+          "index": 3,
+          "arxivId": "2406.08747",
+          "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+          "score": 5,
+          "reason": "Benchmarking agent improvement suggests a need for robust evaluation of their capabilities, including planning and decision-making, which tree search addresses."
+        },
+        {
+          "index": 10,
+          "arxivId": "2404.07972",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "score": 5,
+          "reason": "Benchmarking agents for open-ended tasks implies a need for sophisticated problem-solving and exploration, where tree search can be beneficial."
+        },
+        {
+          "index": 16,
+          "arxivId": "2404.06474",
+          "title": "Autonomous Evaluation and Refinement of Digital Agents",
+          "score": 5,
+          "reason": "Autonomous refinement of agents could involve improving their search or planning strategies."
+        },
+        {
+          "index": 21,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 5,
+          "reason": "Focuses on web agents, which require planning and navigation, areas where tree search is applicable."
+        },
+        {
+          "index": 25,
+          "arxivId": "2306.06070",
+          "title": "Mind2Web: Towards a Generalist Agent for the Web",
+          "score": 5,
+          "reason": "A generalist web agent requires strong planning and decision-making capabilities, relevant to tree search techniques."
+        },
+        {
+          "index": 40,
+          "arxivId": "2405.15793",
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "score": 5,
+          "reason": "Automated software engineering by agents often involves complex problem-solving and planning, potentially utilizing search methods."
+        },
+        {
+          "index": 43,
+          "arxivId": "2501.10893",
+          "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+          "score": 5,
+          "reason": "Self-adaptive agents in realistic environments need effective strategies for interaction and decision-making, where search can play a role."
+        },
+        {
+          "index": 45,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 5,
+          "reason": "A broad survey of foundation agents likely covers various aspects of agent intelligence, including decision-making and planning."
+        },
+        {
+          "index": 47,
+          "arxivId": "2504.09772",
+          "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+          "score": 5,
+          "reason": "Focuses on collaborative reasoning, which can involve exploring different strategies or plans, potentially through search."
+        },
+        {
+          "index": 55,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 5,
+          "reason": "Code generation can be framed as a search problem, and test-time scaling might involve optimizing search processes."
+        },
+        {
+          "index": 57,
+          "arxivId": "2502.12118",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 5,
+          "reason": "Discusses scaling test-time compute, which is relevant to optimizing search-intensive agent processes."
+        },
+        {
+          "index": 59,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 5,
+          "reason": "Efficient scaling of test-time computation, particularly with code, is relevant to optimizing agent decision-making processes that might use search."
+        },
+        {
+          "index": 60,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 5,
+          "reason": "General techniques for test-time scaling are applicable to optimizing agent behavior, which can include search algorithms."
+        },
+        {
+          "index": 2,
+          "arxivId": "2404.13501",
+          "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+          "score": 4,
+          "reason": "Memory is crucial for agents, and how it's managed can influence planning and decision-making, but it's less directly related to the search mechanism itself."
+        },
+        {
+          "index": 4,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 4,
+          "reason": "Memory management is important for agents, but the primary focus is not on planning or search algorithms."
+        },
+        {
+          "index": 6,
+          "arxivId": "2402.17753",
+          "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+          "score": 4,
+          "reason": "Focuses on memory evaluation, which is an indirect factor for agent performance and decision-making."
+        },
+        {
+          "index": 7,
+          "arxivId": "2408.09559",
+          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+          "score": 4,
+          "reason": "Hierarchical memory management is relevant for complex tasks, but the focus is not explicitly on search algorithms."
+        },
+        {
+          "index": 9,
+          "arxivId": "2506.06698",
+          "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+          "score": 4,
+          "reason": "Self-improvement is a general goal for agents, but the mechanism (experience replay) is not directly linked to tree search."
+        },
+        {
+          "index": 11,
+          "arxivId": "2507.02259",
+          "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+          "score": 4,
+          "reason": "Focuses on memory and RL for agents; search is a potential but not explicit component."
+        },
+        {
+          "index": 12,
+          "arxivId": "2506.15841",
+          "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+          "score": 4,
+          "reason": "Synergizing memory and reasoning is relevant, but the emphasis isn't specifically on search methods."
+        },
+        {
+          "index": 13,
+          "arxivId": "2502.12110",
+          "title": "A-MEM: Agentic Memory for LLM Agents",
+          "score": 4,
+          "reason": "Focuses on agentic memory, which is a supporting element for effective decision-making, not the decision mechanism itself."
+        },
+        {
+          "index": 14,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 4,
+          "reason": "Scaling test-time compute is relevant for complex agent processes, but doesn't specify the type of computation (e.g., search)."
+        },
+        {
+          "index": 15,
+          "arxivId": "2305.10250",
+          "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+          "score": 4,
+          "reason": "Long-term memory is a component of agent intelligence, but not directly about search strategies."
+        },
+        {
+          "index": 17,
+          "arxivId": "2507.05257",
+          "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+          "score": 4,
+          "reason": "Evaluation of memory is important but not directly about search algorithms."
+        },
+        {
+          "index": 18,
+          "arxivId": "2504.19413",
+          "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "Focuses on long-term memory for production-ready agents, a component rather than the core decision process."
+        },
+        {
+          "index": 19,
+          "arxivId": "2402.03610",
+          "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+          "score": 4,
+          "reason": "While it mentions planning, the focus is on retrieval-augmented planning and memory, not specific search algorithms like tree search."
+        },
+        {
+          "index": 23,
+          "arxivId": "2503.08026",
+          "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+          "score": 4,
+          "reason": "Focuses on memory management and reflection, which can indirectly influence decision-making but not directly address search."
+        },
+        {
+          "index": 24,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 4,
+          "reason": "Sampling strategies are related to decision-making but not directly to tree search algorithms."
+        },
+        {
+          "index": 26,
+          "arxivId": "2507.04607",
+          "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+          "score": 4,
+          "reason": "Focuses on personalization and memory, less on the explicit search mechanisms for agents."
+        },
+        {
+          "index": 27,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 4,
+          "reason": "Knowledge bases are useful for agents, but this paper's focus is on experience leverage, not search implementation."
+        },
+        {
+          "index": 28,
+          "arxivId": "2508.06433",
+          "title": "Memp: Exploring Agent Procedural Memory",
+          "score": 4,
+          "reason": "Procedural memory is a type of memory relevant to agents, but not directly tied to tree search."
+        },
+        {
+          "index": 29,
+          "arxivId": "2505.22101",
+          "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+          "score": 4,
+          "reason": "Focuses on memory management for LLMs, a foundational aspect for agents, but not directly on search."
+        },
+        {
+          "index": 30,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 4,
+          "reason": "Hierarchical reasoning is related to complex problem-solving, but the focus is RL, not explicit tree search."
+        },
+        {
+          "index": 31,
+          "arxivId": "2507.21046",
+          "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+          "score": 4,
+          "reason": "A survey on self-evolving agents is broad and might cover search, but it's not the main focus."
+        },
+        {
+          "index": 34,
+          "arxivId": "2507.06261",
+          "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+          "score": 4,
+          "reason": "Highlights advanced capabilities including reasoning, but doesn't detail specific search algorithms."
+        },
+        {
+          "index": 35,
+          "arxivId": "2409.00872",
+          "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+          "score": 4,
+          "reason": "Self-evolution and memory are relevant for agents, but the connection to tree search is indirect."
+        },
+        {
+          "index": 36,
+          "arxivId": "2401.13996",
+          "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+          "score": 4,
+          "reason": "Agent self-evolution strategies are relevant, but this paper doesn't specifically mention search."
+        },
+        {
+          "index": 37,
+          "arxivId": "2506.01952",
+          "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+          "score": 4,
+          "reason": "Evaluating web browsing agents implies a need for effective navigation and decision-making, but doesn't detail the search methods."
+        },
+        {
+          "index": 38,
+          "arxivId": "2504.13837",
+          "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+          "score": 4,
+          "reason": "Explores RL's impact on reasoning, which is relevant to agent capabilities, but not directly about tree search."
+        },
+        {
+          "index": 41,
+          "arxivId": "2410.10813",
+          "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+          "score": 4,
+          "reason": "Benchmarking memory is important for agents, but less directly related to search algorithms."
+        },
+        {
+          "index": 42,
+          "arxivId": "2508.04700",
+          "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+          "score": 4,
+          "reason": "Self-evolving agents learn from experience, which could involve optimizing search, but it's not explicit."
+        },
+        {
+          "index": 46,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 4,
+          "reason": "This paper frames LLMs as operating systems, implying complex agent functionalities, but not specific search details."
+        },
+        {
+          "index": 48,
+          "arxivId": "2502.00592",
+          "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "Focuses on extending memory capabilities for LLMs, which is important for agents but not directly about search."
+        },
+        {
+          "index": 49,
+          "arxivId": "2409.07429",
+          "title": "Agent Workflow Memory",
+          "score": 4,
+          "reason": "Workflow memory is a component for agents, but not directly related to planning or search methods."
+        },
+        {
+          "index": 50,
+          "arxivId": "2508.12031",
+          "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+          "score": 4,
+          "reason": "Learning from errors is a form of self-improvement, relevant to agent optimization but not specifically search."
+        },
+        {
+          "index": 51,
+          "arxivId": "2407.09450",
+          "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+          "score": 4,
+          "reason": "Episodic memory is a type of memory relevant to agents, but not directly about search algorithms."
+        },
+        {
+          "index": 52,
+          "arxivId": "2507.21953",
+          "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+          "score": 4,
+          "reason": "Planning for task automation is relevant, but the focus is on trajectory-constructed memory, not tree search."
+        },
+        {
+          "index": 56,
+          "arxivId": "2503.07891",
+          "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+          "score": 4,
+          "reason": "Embeddings are a foundational technology, but this paper doesn't directly address agent search strategies."
+        },
+        {
+          "index": 58,
+          "arxivId": "2411.15594",
+          "title": "A Survey on LLM-as-a-Judge",
+          "score": 4,
+          "reason": "LLM-as-a-judge is about evaluation, not about the internal decision-making processes like search."
+        },
+        {
+          "index": 4,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 3,
+          "reason": "This paper focuses on memory and tool usage in multi-turn conversations, which is a component of agent behavior but not directly related to search algorithms."
+        },
+        {
+          "index": 14,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 3,
+          "reason": "Scaling test-time compute is relevant for complex agent processes, but it's a general concept and doesn't specify the type of computation (e.g., search)."
+        },
+        {
+          "index": 24,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 3,
+          "reason": "Sampling strategies are related to decision-making but not directly to tree search algorithms."
+        },
+        {
+          "index": 55,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 3,
+          "reason": "While code generation can be a search problem, the focus here is on scaling test-time compute for it, not on the search method itself."
+        },
+        {
+          "index": 57,
+          "arxivId": "2502.12118",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 3,
+          "reason": "This paper discusses scaling test-time compute, which is relevant to optimizing agent decision-making processes that might use search, but it's a general efficiency point."
+        },
+        {
+          "index": 59,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 3,
+          "reason": "Efficient scaling of test-time computation is relevant to optimizing agent decision-making that might use search, but it's an efficiency technique."
+        },
+        {
+          "index": 60,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 3,
+          "reason": "General techniques for test-time scaling are applicable to optimizing agent behavior, which can include search algorithms, but it's a broad efficiency improvement."
+        },
+        {
+          "index": 46,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 2,
+          "reason": "This paper is about LLMs as operating systems, which is a high-level concept for agent capabilities. It doesn't detail search mechanisms."
+        },
+        {
+          "index": 61,
+          "arxivId": "2002.05709",
+          "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "score": 1,
+          "reason": "This paper is about visual representation learning and has no direct connection to agent decision-making or search algorithms."
+        }
+      ]
+    }
+  }
+}

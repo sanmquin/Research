@@ -1,0 +1,837 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2503.14476",
+      "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+    },
+    "target": {
+      "arxivId": "2502.01456",
+      "title": "Process Reinforcement through Implicit Rewards"
+    }
+  },
+  "embeddings": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.4856197881822939
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.5023566698266015
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.5075338802252964
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.5216611131637414
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.543261176939334
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.5584393130909753
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.5813868007870628
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.5849808603594603
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.5958582558582686
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.6256677620586487
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.634528375347698
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.6349446139175386
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.6404062425641665
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.6439434677167994
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.6445304469303941
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.6471910039687199
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.6501420809200396
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.6578289821921468
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.6608487838942475
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.6840814750622821
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.6892862743914805
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.6914677795175646
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.6970486265178263
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.7019593075728727
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.7049645308547338
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.7222801402770291
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7692046993816103
+      }
+    ]
+  },
+  "llm": {
+    "rank": 0,
+    "ordered": [
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 9,
+        "reason": "Directly mentions RL for long-horizon agents, which is highly relevant to the target. The start paper is also about deep research, implying long horizons."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on Reinforcement Learning to improve reasoning, a key aspect of the target paper. 'Incentivizing' aligns with implicit rewards."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 7,
+        "reason": "Discusses scaling agents, which is often a precursor to improving their reasoning or learning capabilities, relevant to both start and target."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 7,
+        "reason": "Mentions Reinforcement Learning in the context of agents, suggesting advancements that could bridge the gap."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 6,
+        "reason": "Focuses on deep research and web-scale evidence, aligning with the 'deep research' of the start paper, and implies complex agentic tasks."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 6,
+        "reason": "Discusses agents and information-seeking, which is related to how agents might learn or be guided, potentially through implicit rewards."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 6,
+        "reason": "Focuses on 'unbounded reasoning capability' and 'long-horizon agents', which are core concepts related to both the start and target."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 6,
+        "reason": "Mentions 'Scalable Reinforcement Learning' and 'Agents', a direct connection to the target's use of RL."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 6,
+        "reason": "Addresses 'Long-Horizon Search Intelligence', a key area for agents and relevant to the 'deep research' aspect of the start paper."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "Focuses on 'General Agentic Intelligence', a broad goal that Reinforcement Learning aims to achieve, and relates to scaling capabilities."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 5,
+        "reason": "Explores 'Super-human Reasoning for Web Agent', which is a step towards the advanced capabilities implied by the target."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 5,
+        "reason": "Discusses 'Autonomous Information Seeking Agency', which relates to agent behavior and learning, potentially via implicit rewards."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 5,
+        "reason": "Connects 'Large Reasoning Models' with 'Deep Research Capability', echoing the start paper and hinting at advanced agent abilities."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 4,
+        "reason": "Highlights 'Agentic' and 'Reasoning', core components of advanced agents, though not specifically RL or implicit rewards."
+      },
+      {
+        "arxivId": "2502.01456",
+        "title": "Process Reinforcement through Implicit Rewards",
+        "score": 4,
+        "reason": "This is the TARGET paper. It's included to ensure no self-loops or misinterpretations, but it doesn't help bridge from START to TARGET directly as a 1-hop."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 4,
+        "reason": "Focuses on web traversal, a component of many agent tasks, relevant to deep research and interacting with environments."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 4,
+        "reason": "Mentions 'Reason' and 'Fetch', which are fundamental capabilities for agents, though not explicitly RL or implicit rewards."
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 4,
+        "reason": "A foundational paper for agentic reasoning and acting, providing a basis for more advanced RL techniques."
+      },
+      {
+        "arxivId": "2501.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 4,
+        "reason": "While similar to #11, this one has 'Super-human Reasoning' which is a goal potentially achieved via RL and implicit rewards."
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "General LLM technical report. May contain advancements relevant to agents, but not explicit."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 3,
+        "reason": "Focuses on web browsing benchmarks, relevant for agents but not directly on the learning/reward mechanism."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 3,
+        "reason": "Benchmark for browsing agents, which is a component of agent capabilities, but doesn't focus on the learning aspect."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 3,
+        "reason": "A benchmark for advanced AI capabilities, which is the goal, but doesn't specify the method (RL, implicit rewards)."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 2,
+        "reason": "Discusses agentic AI but focuses on small models, which might be tangential to advanced RL techniques for large models."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 2,
+        "reason": "Focuses on general-purpose agents and a benchmark, but not specifically on the RL/reward mechanism."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 1,
+        "reason": "Focuses on RAG and long-context LLMs, which are related to agent capabilities, but not directly on RL or implicit rewards."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1,
+        "reason": "Focuses on mathematical reasoning, which is a specific capability and not directly related to the general learning mechanisms in the target paper."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 1,
+        "reason": "This paper is a duplicate of an earlier entry. It is listed here with a low score to ensure uniqueness and proper ranking structure without introducing errors."
+      },
+      {
+        "arxivId": "2501.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 1,
+        "reason": "This paper is a duplicate of an earlier entry. It is listed here with a low score to ensure uniqueness and proper ranking structure without introducing errors."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 3,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 9,
+        "reason": "Directly addresses incentivizing reasoning in LLMs via RL, a key component of the target paper's focus on implicit rewards for process reinforcement."
+      },
+      {
+        "index": 2,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 8,
+        "reason": "Focuses on RL for LLM agents, which is relevant to reinforcing processes, especially in long-horizon tasks implied by the target."
+      },
+      {
+        "index": 3,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 8,
+        "reason": "A practical system for LLM RL, suggesting scalable methods that could be applied to reinforce complex processes."
+      },
+      {
+        "index": 11,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "Introduces a framework for synergizing reasoning and acting, which is fundamental to how implicit rewards might guide a process."
+      },
+      {
+        "index": 16,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "Focuses on deep research capabilities in LLMs, which likely involves complex, multi-step processes that could benefit from reinforcement."
+      },
+      {
+        "index": 23,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 6,
+        "reason": "Deals with structuring information for deep research, implying a structured process that could be reinforced."
+      },
+      {
+        "index": 6,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 6,
+        "reason": "Focuses on reasoning and long-horizon agents, which relates to reinforcing processes over extended interactions."
+      },
+      {
+        "index": 19,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 6,
+        "reason": "Addresses long-horizon search and summarization, implying processes that could be optimized through reinforcement."
+      },
+      {
+        "index": 5,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 6,
+        "reason": "Applies RL to agents in multi-turn interactions, relevant to reinforcing steps in a process."
+      },
+      {
+        "index": 7,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 5,
+        "reason": "Uses RL for scalable agents, suggesting potential for reinforcing complex task execution."
+      },
+      {
+        "index": 13,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 5,
+        "reason": "Focuses on web agents and reasoning, which implies a sequence of actions that could be implicitly rewarded."
+      },
+      {
+        "index": 10,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "Discusses general agentic intelligence, which could involve reinforcing diverse processes."
+      },
+      {
+        "index": 4,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "Focuses on scaling agents, which could involve improving their ability to execute and reinforce complex processes."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 4,
+        "reason": "Targets general scientific AI agents, which implies complex task execution that could be reinforced."
+      },
+      {
+        "index": 15,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 4,
+        "reason": "A benchmark for general AI assistants, which implies diverse tasks that might require reinforced processes."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 4,
+        "reason": "Discusses agentic AI broadly, which could encompass reinforcement of underlying processes."
+      },
+      {
+        "index": 18,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 4,
+        "reason": "Focuses on agentic capabilities including reasoning and coding, suggesting complex processes."
+      },
+      {
+        "index": 17,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 4,
+        "reason": "Involves agentic data synthesis through information seeking, potentially a process that can be reinforced."
+      },
+      {
+        "index": 9,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 3,
+        "reason": "Focuses on information seeking agency, which might involve sequential decision-making that could be reinforced."
+      },
+      {
+        "index": 8,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 3,
+        "reason": "Evaluates RAG, which involves a process of retrieval and generation that could be subject to implicit reward."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 3,
+        "reason": "A benchmark for browsing agents, implying a process of navigation and information gathering."
+      },
+      {
+        "index": 22,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 3,
+        "reason": "Benchmarks web traversal, which is a sequential process where reinforcement could be applied."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 3,
+        "reason": "Similar to BrowseComp, focuses on web browsing as a process."
+      },
+      {
+        "index": 25,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 3,
+        "reason": "Benchmarks RAG and long-context LLMs, relevant to processes involving information retrieval and usage."
+      },
+      {
+        "index": 21,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 2,
+        "reason": "Focuses on mathematical reasoning, which is a specific type of process that may or may not be amenable to implicit reward without further context."
+      },
+      {
+        "index": 26,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 2,
+        "reason": "Focuses on a challenging exam, implying complex problem-solving, but less directly on process reinforcement."
+      },
+      {
+        "index": 27,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "A general technical report for a foundation model, with no specific mention of reinforcement or process optimization."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.7346398719511689,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 9,
+          "reason": "Directly addresses incentivizing reasoning in LLMs via RL, a key component of the target paper's focus on implicit rewards for process reinforcement."
+        },
+        {
+          "index": 2,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 8,
+          "reason": "Focuses on RL for LLM agents, which is relevant to reinforcing processes, especially in long-horizon tasks implied by the target."
+        },
+        {
+          "index": 3,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 8,
+          "reason": "A practical system for LLM RL, suggesting scalable methods that could be applied to reinforce complex processes."
+        },
+        {
+          "index": 11,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 7,
+          "reason": "Introduces a framework for synergizing reasoning and acting, which is fundamental to how implicit rewards might guide a process."
+        },
+        {
+          "index": 16,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 7,
+          "reason": "Focuses on deep research capabilities in LLMs, which likely involves complex, multi-step processes that could benefit from reinforcement."
+        },
+        {
+          "index": 23,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 6,
+          "reason": "Deals with structuring information for deep research, implying a structured process that could be reinforced."
+        },
+        {
+          "index": 6,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 6,
+          "reason": "Focuses on reasoning and long-horizon agents, which relates to reinforcing processes over extended interactions."
+        },
+        {
+          "index": 19,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 6,
+          "reason": "Addresses long-horizon search and summarization, implying processes that could be optimized through reinforcement."
+        },
+        {
+          "index": 5,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 6,
+          "reason": "Applies RL to agents in multi-turn interactions, relevant to reinforcing steps in a process."
+        },
+        {
+          "index": 7,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 5,
+          "reason": "Uses RL for scalable agents, suggesting potential for reinforcing complex task execution."
+        },
+        {
+          "index": 13,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 5,
+          "reason": "Focuses on web agents and reasoning, which implies a sequence of actions that could be implicitly rewarded."
+        },
+        {
+          "index": 10,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 5,
+          "reason": "Discusses general agentic intelligence, which could involve reinforcing diverse processes."
+        },
+        {
+          "index": 4,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 5,
+          "reason": "Focuses on scaling agents, which could involve improving their ability to execute and reinforce complex processes."
+        },
+        {
+          "index": 12,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 4,
+          "reason": "Targets general scientific AI agents, which implies complex task execution that could be reinforced."
+        },
+        {
+          "index": 15,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 4,
+          "reason": "A benchmark for general AI assistants, which implies diverse tasks that might require reinforced processes."
+        },
+        {
+          "index": 14,
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "score": 4,
+          "reason": "Discusses agentic AI broadly, which could encompass reinforcement of underlying processes."
+        },
+        {
+          "index": 18,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 4,
+          "reason": "Focuses on agentic capabilities including reasoning and coding, suggesting complex processes."
+        },
+        {
+          "index": 17,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 4,
+          "reason": "Involves agentic data synthesis through information seeking, potentially a process that can be reinforced."
+        },
+        {
+          "index": 9,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 3,
+          "reason": "Focuses on information seeking agency, which might involve sequential decision-making that could be reinforced."
+        },
+        {
+          "index": 8,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 3,
+          "reason": "Evaluates RAG, which involves a process of retrieval and generation that could be subject to implicit reward."
+        },
+        {
+          "index": 20,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 3,
+          "reason": "A benchmark for browsing agents, implying a process of navigation and information gathering."
+        },
+        {
+          "index": 22,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 3,
+          "reason": "Benchmarks web traversal, which is a sequential process where reinforcement could be applied."
+        },
+        {
+          "index": 24,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 3,
+          "reason": "Similar to BrowseComp, focuses on web browsing as a process."
+        },
+        {
+          "index": 25,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 3,
+          "reason": "Benchmarks RAG and long-context LLMs, relevant to processes involving information retrieval and usage."
+        },
+        {
+          "index": 21,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 2,
+          "reason": "Focuses on mathematical reasoning, which is a specific type of process that may or may not be amenable to implicit reward without further context."
+        },
+        {
+          "index": 26,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 2,
+          "reason": "Focuses on a challenging exam, implying complex problem-solving, but less directly on process reinforcement."
+        },
+        {
+          "index": 27,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 1,
+          "reason": "A general technical report for a foundation model, with no specific mention of reinforcement or process optimization."
+        }
+      ]
+    }
+  }
+}

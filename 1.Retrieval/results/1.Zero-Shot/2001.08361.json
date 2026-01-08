@@ -1,0 +1,1916 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2509.25140",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory"
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation"
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process"
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents"
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks"
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models"
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks"
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code"
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation"
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents"
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling"
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models"
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research"
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge"
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory"
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model"
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs"
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents"
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes"
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents"
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control"
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2504.20595",
+      "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+    },
+    "target": {
+      "arxivId": "2001.08361",
+      "title": "Scaling Laws for Neural Language Models"
+    }
+  },
+  "embeddings": {
+    "rank": 41,
+    "ordered": [
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "distance": 0.37281475712641354
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "distance": 0.38145207547366344
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "distance": 0.41929763302189305
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "distance": 0.4269016308216177
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "distance": 0.43053679616510454
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "distance": 0.47977819370064534
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "distance": 0.5047424345297621
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.51230790964918
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "distance": 0.5136501372337082
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "distance": 0.5153915370957615
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "distance": 0.5203567940182866
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "distance": 0.524039156601224
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "distance": 0.5251995087595941
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "distance": 0.5261503586572738
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "distance": 0.5403809819189624
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "distance": 0.5412050870327065
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "distance": 0.5418197467254844
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "distance": 0.5450493512035877
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "distance": 0.562030225232845
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "distance": 0.5625327960948682
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "distance": 0.5695468646022175
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "distance": 0.5704140654573762
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "distance": 0.573892671454086
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "distance": 0.5798979063441683
+      },
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "distance": 0.5827411443638975
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "distance": 0.5866906100319138
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "distance": 0.5871991208701258
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "distance": 0.5970030250957661
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "distance": 0.609989267147411
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "distance": 0.6131943872891541
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "distance": 0.6141835756782388
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "distance": 0.6192123627324841
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "distance": 0.6331562802638582
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "distance": 0.6447103111820824
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "distance": 0.6586597806629043
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "distance": 0.6697295916607188
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6702809569162136
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.6709570878547941
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "distance": 0.6719147293004328
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "distance": 0.6729523522742868
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "distance": 0.6734484318961018
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.6780423219188134
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "distance": 0.6783620527309306
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "distance": 0.6812641341436352
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.683143482295768
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "distance": 0.6855858228660012
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "distance": 0.6856401372111909
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "distance": 0.6862051942437057
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "distance": 0.6881285355477564
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "distance": 0.6899024199849078
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "distance": 0.6902306574387174
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "distance": 0.6944826236974393
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "distance": 0.7043665825056681
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.7059317286741295
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "distance": 0.7066875459482568
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.7097955100588613
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "distance": 0.7130329047195627
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "distance": 0.7242322387762591
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "distance": 0.730198354658562
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "distance": 0.7308855371100969
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "distance": 0.7555066801609006
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "distance": 0.766180440277581
+      }
+    ]
+  },
+  "llm": {
+    "rank": 16,
+    "ordered": [
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 7.5,
+        "reason": "Focuses on hierarchical reasoning in LLMs, aligning with the scaling of reasoning capabilities in the target paper."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 7,
+        "reason": "Discusses reasoning and scaling through interaction, which is relevant to scaling laws for neural language models."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 7,
+        "reason": "Explores scaling in the context of multi-agent reasoning, a concept related to scaling laws for complex systems like language models."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 6.5,
+        "reason": "Directly mentions scaling, albeit for LLM agents, which is conceptually close to scaling laws for models."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 6.5,
+        "reason": "Addresses scaling of compute, a factor in training and performance, relevant to understanding scaling laws."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 6.5,
+        "reason": "The term 'scaling' is central, making it relevant to the target paper's theme."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 6.5,
+        "reason": "Another paper focusing on 'scaling', suggesting research in this area might be related."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 6.5,
+        "reason": "Similar to other entries, the focus on 'scaling' at test time is a shared theme."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 6,
+        "reason": "Discusses self-evolution and learning, which can be analogous to how models scale and improve."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 6,
+        "reason": "Self-evolution and memory are components that contribute to an agent's overall capability, akin to scaling."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 6,
+        "reason": "The concept of self-evolution and learning across tasks could relate to the development and scaling of models."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 6,
+        "reason": "A survey on self-evolving agents might discuss underlying principles that relate to scaling."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 5.5,
+        "reason": "Refinement and evaluation are part of improving and understanding model capabilities, potentially related to scaling."
+      },
+      {
+        "index": 60,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5.5,
+        "reason": "Iterative refinement is a process that can lead to improved performance, similar to how scaling laws describe performance improvements."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 5,
+        "reason": "Focuses on continual learning and improvement, which is a facet of model development that scaling laws often quantify."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Reasoning is a core component of language models, and training methods can influence their scalability."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 5,
+        "reason": "Investigates reasoning capacity in LLMs, a key aspect of model performance that scaling laws aim to explain."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 5,
+        "reason": "Mentions advanced reasoning and capabilities, which are areas where scaling laws are often observed."
+      },
+      {
+        "index": 61,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 5,
+        "reason": "Focuses on reasoning in language models, a topic directly related to the performance characteristics described by scaling laws."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 5,
+        "reason": "Synergizing memory and reasoning is relevant to building more capable models, which scaling laws often track."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 5,
+        "reason": "Hierarchical reasoning is a complex capability that might exhibit scaling behavior."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 4.5,
+        "reason": "Inducing skills relates to model capability development, which scaling laws often describe."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 4.5,
+        "reason": "Planning and memory are crucial for agent performance, which can be scaled."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 4.5,
+        "reason": "Memory is a key component for advanced AI capabilities that are often subject to scaling laws."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 4.5,
+        "reason": "Memory management is critical for LLM performance and efficiency, factors related to scaling."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 4.5,
+        "reason": "Memory evaluation in LLMs relates to understanding their capabilities, which scaling laws quantify."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 4.5,
+        "reason": "Dual-memory and thought processes contribute to model complexity and performance, relevant to scaling."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 4.5,
+        "reason": "Focuses on memory and context, which are important for scaling model performance."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 4.5,
+        "reason": "Memory augmentation is a way to improve LLM capabilities, which scaling laws often address."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 4.5,
+        "reason": "Explicitly mentions 'scalable long-term memory', directly connecting to the target's theme."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 4.5,
+        "reason": "Memory management is key for complex agent behavior, which is often subject to scaling."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 4.5,
+        "reason": "Agentic memory is a component contributing to overall model performance, which can be scaled."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 4.5,
+        "reason": "Mentions 'scalable long-term memory', a strong indicator of relevance to scaling laws."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 4.5,
+        "reason": "Benchmarking memory is related to understanding and improving model capabilities, often discussed in the context of scaling."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 4.5,
+        "reason": "Workflow memory is a component of complex AI systems, and its efficiency can be related to scaling."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 4.5,
+        "reason": "Hierarchical memory management is a sophisticated aspect of LLMs, relevant to their scaled performance."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 4.5,
+        "reason": "Episodic memory and infinite context are features that LLMs aim to scale to."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 4.5,
+        "reason": "A survey on memory mechanisms could discuss how these impact overall model scaling and performance."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 4.5,
+        "reason": "Evaluating long-term memory relates to understanding LLM capabilities, which are often discussed in terms of scaling."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 4.5,
+        "reason": "Contextual memory and planning are key for agent capabilities, which often scale."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 4.5,
+        "reason": "Treating LLMs as operating systems implies managing complex functionalities, potentially involving scaling principles."
+      },
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 4.5,
+        "reason": "Enhancing LLMs with memory is a direct approach to improving their capabilities, which is often quantified by scaling laws."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 4,
+        "reason": "Self-improvement and learning from experience are related to how models develop and scale."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 4,
+        "reason": "Self-adaptation and learning are aspects of model development that scaling laws aim to capture."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 4,
+        "reason": "Learning from mistakes contributes to model improvement, a process that scaling laws often model."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 4,
+        "reason": "Experiential learning is a method for enhancing AI capabilities, which may exhibit scaling properties."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 4,
+        "reason": "Memory use in computer control agents is relevant to building more capable systems, potentially subject to scaling laws."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3.5,
+        "reason": "Cross-domain experience and problem-solving are aspects of AI capability that scaling laws can apply to."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 3.5,
+        "reason": "A survey on autonomous agents might touch upon the scaling of their abilities."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 3,
+        "reason": "Evaluating agents on tasks is a step towards understanding their performance, which scaling laws quantify."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 3,
+        "reason": "Web agent research focuses on building capable agents, which often involves scaling considerations."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 3,
+        "reason": "Exploratory learning and teaching agents are part of developing their capabilities, which can scale."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 3,
+        "reason": "Benchmarking agents, especially for open-ended tasks, relates to understanding their performance limits and scaling."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 3,
+        "reason": "Capabilities like planning and long context understanding are areas where scaling laws are observed."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 3,
+        "reason": "Developing generalist agents involves scaling their capabilities across various tasks."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 2.5,
+        "reason": "Discusses advances and challenges in agents, which might include scaling as a factor."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 2.5,
+        "reason": "Embeddings are foundational for LLMs, and their quality impacts overall model performance and potential scaling."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 2.5,
+        "reason": "Environments for agents are important for testing and development, which indirectly relates to scaling capabilities."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 2,
+        "reason": "Benchmarking continuous improvement is related to understanding model development, where scaling laws are relevant."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 2,
+        "reason": "Software engineering agents focus on specific tasks; scaling laws are more general."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 1.5,
+        "reason": "LLM-as-a-judge is a specific application and less directly related to fundamental scaling laws of neural language models."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 1,
+        "reason": "Focuses on fine-tuning and sampling, which are less directly about the fundamental scaling relationships in model performance."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 1,
+        "reason": "While it mentions long context, the primary focus is on specific agent capabilities rather than general scaling laws."
+      },
+      {
+        "index": 62,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 1,
+        "reason": "This paper is about visual representations and contrastive learning, which is outside the scope of neural language model scaling laws."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 57,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 8,
+        "reason": "Directly relates to memory in LLMs, a key component of the START paper and relevant to the TARGET's scaling."
+      },
+      {
+        "index": 3,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 8,
+        "reason": "A survey on memory mechanisms is highly relevant to understanding memory's role in scaling LLMs."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 7,
+        "reason": "Focuses on memory augmentation in LLMs, aligning with the memory aspect of the START paper and scaling implications."
+      },
+      {
+        "index": 12,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 7,
+        "reason": "Addresses long-term memory evaluation in LLM agents, which is crucial for understanding scaling capabilities."
+      },
+      {
+        "index": 17,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 7,
+        "reason": "Focuses on benchmarking long-term memory, a key aspect for scaling performance in LLMs."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 7,
+        "reason": "Explicitly mentions 'scalable long-term memory' for AI agents, directly connecting to both START and TARGET themes."
+      },
+      {
+        "index": 28,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 7,
+        "reason": "Discusses memory management for long-term agents, which is relevant to scaling and efficiency."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 7,
+        "reason": "Focuses on agentic memory, a core concept in the START paper and relevant for understanding agent scaling."
+      },
+      {
+        "index": 30,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 7,
+        "reason": "Combines memory and reasoning for agents, directly aligning with the START paper and scaling challenges."
+      },
+      {
+        "index": 32,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 7,
+        "reason": "Evaluates memory in LLM agents, which is a prerequisite for understanding and achieving scale."
+      },
+      {
+        "index": 34,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 7,
+        "reason": "Proposes LLMs as operating systems with memory, a concept that could inform scaling approaches."
+      },
+      {
+        "index": 35,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 7,
+        "reason": "Explores procedural memory in agents, a component that could impact scaling of agent capabilities."
+      },
+      {
+        "index": 48,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 7,
+        "reason": "Focuses on self-evolving agents with memory, relevant to the agent aspect of START and scaling."
+      },
+      {
+        "index": 55,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 7,
+        "reason": "Discusses memory within agent workflows, which is pertinent to the operational aspects of scaled agents."
+      },
+      {
+        "index": 61,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 7,
+        "reason": "Memory-augmented planning is relevant to improving agent capabilities, which can lead to scaling."
+      },
+      {
+        "index": 8,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 6,
+        "reason": "Introduces a core agent paradigm that combines reasoning and acting, highly relevant to the START paper and indirectly to scaling."
+      },
+      {
+        "index": 14,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 6,
+        "reason": "Benchmarking continuous improvement is related to scaling agent capabilities over time."
+      },
+      {
+        "index": 23,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 6,
+        "reason": "Self-improvement through experience replay is a mechanism for enhancing agent capabilities, relevant to scaling."
+      },
+      {
+        "index": 25,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 6,
+        "reason": "Hierarchical reasoning and RL are related to complex agent behavior, which can be scaled."
+      },
+      {
+        "index": 26,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 6,
+        "reason": "Continual learning and learning from errors are mechanisms for improving LLMs, which can contribute to scaling."
+      },
+      {
+        "index": 33,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 6,
+        "reason": "Inducing skills for agents can lead to more capable agents, relevant for scaling their utility."
+      },
+      {
+        "index": 36,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 6,
+        "reason": "Autonomous refinement of agents is a step towards more capable and scalable agents."
+      },
+      {
+        "index": 37,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 6,
+        "reason": "Iterative self-refinement is a method for improving performance, which can be applied to scaling LLMs or agents."
+      },
+      {
+        "index": 38,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 6,
+        "reason": "Focuses on creating a generalist web agent, which implies scalability in task applicability."
+      },
+      {
+        "index": 39,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 6,
+        "reason": "Treats LLM agents as experiential learners, a concept relevant to how agents improve and scale."
+      },
+      {
+        "index": 42,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 6,
+        "reason": "Self-adaptive agents learning from interaction are relevant to building more robust and potentially scalable systems."
+      },
+      {
+        "index": 43,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 6,
+        "reason": "Discusses advances in foundation agents, which encompasses scaling and evolution."
+      },
+      {
+        "index": 46,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 6,
+        "reason": "Features like long context and planning are crucial for developing capable, scalable agents."
+      },
+      {
+        "index": 47,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 6,
+        "reason": "Self-evolving agents with autonomous learning are directly related to improving and scaling agent capabilities."
+      },
+      {
+        "index": 49,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 6,
+        "reason": "A survey on self-evolving agents touches upon the long-term development and scaling of AI systems."
+      },
+      {
+        "index": 50,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 6,
+        "reason": "Exploratory learning for agents relates to improving their capability and adaptability, which are facets of scaling."
+      },
+      {
+        "index": 51,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 6,
+        "reason": "Learning from mistakes in-context is a method for improving LLM performance, relevant to scaling."
+      },
+      {
+        "index": 53,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 6,
+        "reason": "Highlights long context and agentic capabilities, key aspects for scaling LLMs and agents."
+      },
+      {
+        "index": 54,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 6,
+        "reason": "Provides a realistic environment for agents, crucial for developing and testing scalable agent behaviors."
+      },
+      {
+        "index": 56,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 6,
+        "reason": "Leveraging experience for problem-solving in agents is relevant to their growth and scalability."
+      },
+      {
+        "index": 58,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 6,
+        "reason": "Evaluating agents on complex tasks is necessary for understanding their scalability in real-world scenarios."
+      },
+      {
+        "index": 59,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 6,
+        "reason": "A general strategy for agent self-evolution directly relates to improving and scaling agent performance."
+      },
+      {
+        "index": 60,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 6,
+        "reason": "An ecosystem for web agent research supports the development and testing of agents, relevant for scaling."
+      },
+      {
+        "index": 2,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 5,
+        "reason": "Fine-tuning and sampling methods can impact efficiency and performance, indirectly related to scaling."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 5,
+        "reason": "Personalization is a specific application of LLMs; memory aspect is relevant but less general than scaling."
+      },
+      {
+        "index": 5,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 5,
+        "reason": "A general survey on LLM agents, useful context but less specific to scaling than memory-focused papers."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 5,
+        "reason": "Focuses on long context and memory for agents, relevant but specific to multi-conv RL."
+      },
+      {
+        "index": 9,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 5,
+        "reason": "Hierarchical memory management for agents is relevant, but specific to long-horizon tasks."
+      },
+      {
+        "index": 10,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Explicitly mentions 'scalable long-term memory', highly relevant."
+      },
+      {
+        "index": 11,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 5,
+        "reason": "Directly mentions 'test time scaling', but specific to code generation."
+      },
+      {
+        "index": 13,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 5,
+        "reason": "Directly mentions 'test-time scaling', relevant to the TARGET's theme."
+      },
+      {
+        "index": 15,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 5,
+        "reason": "Episodic memory and infinite context are related to handling large amounts of information, relevant for scaling."
+      },
+      {
+        "index": 16,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 5,
+        "reason": "Discusses reasoning capacity and RL, which can be components of scaling LLM capabilities."
+      },
+      {
+        "index": 18,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 5,
+        "reason": "Directly relates to 'scaling test-time compute' for LLM agents, highly relevant."
+      },
+      {
+        "index": 20,
+        "arxivId": "2502.12110",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 5,
+        "reason": "Discusses suboptimal test-time compute scaling, directly relevant to the TARGET paper's theme."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 5,
+        "reason": "Focuses on 'efficient test-time scaling', highly relevant to the TARGET paper."
+      },
+      {
+        "index": 22,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 5,
+        "reason": "Explicitly mentions 'scaling test-time interaction' for agents, very relevant."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 5,
+        "reason": "Focuses on 'test-time scaling' in a multi-agent setting, relevant to the TARGET's theme."
+      },
+      {
+        "index": 27,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 5,
+        "reason": "Optimizing memory management for agents is relevant to their efficiency and potential for scaling."
+      },
+      {
+        "index": 31,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 4,
+        "reason": "Contrastive learning is a general ML technique, less directly related to scaling LLMs or agent memory."
+      },
+      {
+        "index": 40,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 4,
+        "reason": "Memory is mentioned, but the focus is on trajectory-as-exemplar prompting for control tasks."
+      },
+      {
+        "index": 41,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 4,
+        "reason": "Focuses on training retrievers for reasoning, which is a component of agent capabilities but not directly scaling."
+      },
+      {
+        "index": 44,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 4,
+        "reason": "Embeddings are fundamental but not directly about scaling of models or agents."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 4,
+        "reason": "Benchmarking multimodal agents is relevant, but the focus is on the environment and multimodality, not scaling directly."
+      },
+      {
+        "index": 52,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 4,
+        "reason": "Contextual memory is mentioned, but the core is retrieval-augmented planning for multimodal agents."
+      },
+      {
+        "index": 57,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 3,
+        "reason": "LLM-as-a-judge is a specific application, not directly related to scaling of core LLM capabilities or agents."
+      },
+      {
+        "index": 62,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 3,
+        "reason": "Focuses on automated software engineering agents, a specific domain application, not general scaling."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.147275152327478,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2305.10250",
+          "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+          "score": 8,
+          "reason": "Directly relates to memory in LLMs, a key component of the START paper and relevant to the TARGET's scaling."
+        },
+        {
+          "index": 3,
+          "arxivId": "2404.13501",
+          "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+          "score": 8,
+          "reason": "A survey on memory mechanisms is highly relevant to understanding memory's role in scaling LLMs."
+        },
+        {
+          "index": 6,
+          "arxivId": "2505.22101",
+          "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+          "score": 7,
+          "reason": "Focuses on memory augmentation in LLMs, aligning with the memory aspect of the START paper and scaling implications."
+        },
+        {
+          "index": 12,
+          "arxivId": "2402.17753",
+          "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+          "score": 7,
+          "reason": "Addresses long-term memory evaluation in LLM agents, which is crucial for understanding scaling capabilities."
+        },
+        {
+          "index": 17,
+          "arxivId": "2410.10813",
+          "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+          "score": 7,
+          "reason": "Focuses on benchmarking long-term memory, a key aspect for scaling performance in LLMs."
+        },
+        {
+          "index": 19,
+          "arxivId": "2504.19413",
+          "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+          "score": 7,
+          "reason": "Explicitly mentions 'scalable long-term memory' for AI agents, directly connecting to both START and TARGET themes."
+        },
+        {
+          "index": 28,
+          "arxivId": "2503.08026",
+          "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+          "score": 7,
+          "reason": "Discusses memory management for long-term agents, which is relevant to scaling and efficiency."
+        },
+        {
+          "index": 29,
+          "arxivId": "2502.12110",
+          "title": "A-MEM: Agentic Memory for LLM Agents",
+          "score": 7,
+          "reason": "Focuses on agentic memory, a core concept in the START paper and relevant for understanding agent scaling."
+        },
+        {
+          "index": 30,
+          "arxivId": "2506.15841",
+          "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+          "score": 7,
+          "reason": "Combines memory and reasoning for agents, directly aligning with the START paper and scaling challenges."
+        },
+        {
+          "index": 32,
+          "arxivId": "2507.05257",
+          "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+          "score": 7,
+          "reason": "Evaluates memory in LLM agents, which is a prerequisite for understanding and achieving scale."
+        },
+        {
+          "index": 34,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 7,
+          "reason": "Proposes LLMs as operating systems with memory, a concept that could inform scaling approaches."
+        },
+        {
+          "index": 35,
+          "arxivId": "2508.06433",
+          "title": "Memp: Exploring Agent Procedural Memory",
+          "score": 7,
+          "reason": "Explores procedural memory in agents, a component that could impact scaling of agent capabilities."
+        },
+        {
+          "index": 48,
+          "arxivId": "2409.00872",
+          "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+          "score": 7,
+          "reason": "Focuses on self-evolving agents with memory, relevant to the agent aspect of START and scaling."
+        },
+        {
+          "index": 55,
+          "arxivId": "2409.07429",
+          "title": "Agent Workflow Memory",
+          "score": 7,
+          "reason": "Discusses memory within agent workflows, which is pertinent to the operational aspects of scaled agents."
+        },
+        {
+          "index": 61,
+          "arxivId": "2507.21953",
+          "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+          "score": 7,
+          "reason": "Memory-augmented planning is relevant to improving agent capabilities, which can lead to scaling."
+        },
+        {
+          "index": 8,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 6,
+          "reason": "Introduces a core agent paradigm that combines reasoning and acting, highly relevant to the START paper and indirectly to scaling."
+        },
+        {
+          "index": 14,
+          "arxivId": "2406.08747",
+          "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+          "score": 6,
+          "reason": "Benchmarking continuous improvement is related to scaling agent capabilities over time."
+        },
+        {
+          "index": 23,
+          "arxivId": "2506.06698",
+          "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+          "score": 6,
+          "reason": "Self-improvement through experience replay is a mechanism for enhancing agent capabilities, relevant to scaling."
+        },
+        {
+          "index": 25,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 6,
+          "reason": "Hierarchical reasoning and RL are related to complex agent behavior, which can be scaled."
+        },
+        {
+          "index": 26,
+          "arxivId": "2508.12031",
+          "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+          "score": 6,
+          "reason": "Continual learning and learning from errors are mechanisms for improving LLMs, which can contribute to scaling."
+        },
+        {
+          "index": 33,
+          "arxivId": "2504.06821",
+          "title": "Inducing Programmatic Skills for Agentic Tasks",
+          "score": 6,
+          "reason": "Inducing skills for agents can lead to more capable agents, relevant for scaling their utility."
+        },
+        {
+          "index": 36,
+          "arxivId": "2404.06474",
+          "title": "Autonomous Evaluation and Refinement of Digital Agents",
+          "score": 6,
+          "reason": "Autonomous refinement of agents is a step towards more capable and scalable agents."
+        },
+        {
+          "index": 37,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 6,
+          "reason": "Iterative self-refinement is a method for improving performance, which can be applied to scaling LLMs or agents."
+        },
+        {
+          "index": 38,
+          "arxivId": "2306.06070",
+          "title": "Mind2Web: Towards a Generalist Agent for the Web",
+          "score": 6,
+          "reason": "Focuses on creating a generalist web agent, which implies scalability in task applicability."
+        },
+        {
+          "index": 39,
+          "arxivId": "2308.10144",
+          "title": "ExpeL: LLM Agents Are Experiential Learners",
+          "score": 6,
+          "reason": "Treats LLM agents as experiential learners, a concept relevant to how agents improve and scale."
+        },
+        {
+          "index": 42,
+          "arxivId": "2501.10893",
+          "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+          "score": 6,
+          "reason": "Self-adaptive agents learning from interaction are relevant to building more robust and potentially scalable systems."
+        },
+        {
+          "index": 43,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 6,
+          "reason": "Discusses advances in foundation agents, which encompasses scaling and evolution."
+        },
+        {
+          "index": 46,
+          "arxivId": "2307.12856",
+          "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+          "score": 6,
+          "reason": "Features like long context and planning are crucial for developing capable, scalable agents."
+        },
+        {
+          "index": 47,
+          "arxivId": "2508.04700",
+          "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+          "score": 6,
+          "reason": "Self-evolving agents with autonomous learning are directly related to improving and scaling agent capabilities."
+        },
+        {
+          "index": 49,
+          "arxivId": "2507.21046",
+          "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+          "score": 6,
+          "reason": "A survey on self-evolving agents touches upon the long-term development and scaling of AI systems."
+        },
+        {
+          "index": 50,
+          "arxivId": "2410.02052",
+          "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+          "score": 6,
+          "reason": "Exploratory learning for agents relates to improving their capability and adaptability, which are facets of scaling."
+        },
+        {
+          "index": 51,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 6,
+          "reason": "Learning from mistakes in-context is a method for improving LLM performance, relevant to scaling."
+        },
+        {
+          "index": 53,
+          "arxivId": "2507.06261",
+          "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+          "score": 6,
+          "reason": "Highlights long context and agentic capabilities, key aspects for scaling LLMs and agents."
+        },
+        {
+          "index": 54,
+          "arxivId": "2307.13854",
+          "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "score": 6,
+          "reason": "Provides a realistic environment for agents, crucial for developing and testing scalable agent behaviors."
+        },
+        {
+          "index": 56,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 6,
+          "reason": "Leveraging experience for problem-solving in agents is relevant to their growth and scalability."
+        },
+        {
+          "index": 58,
+          "arxivId": "2506.01952",
+          "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+          "score": 6,
+          "reason": "Evaluating agents on complex tasks is necessary for understanding their scalability in real-world scenarios."
+        },
+        {
+          "index": 59,
+          "arxivId": "2401.13996",
+          "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+          "score": 6,
+          "reason": "A general strategy for agent self-evolution directly relates to improving and scaling agent performance."
+        },
+        {
+          "index": 60,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 6,
+          "reason": "An ecosystem for web agent research supports the development and testing of agents, relevant for scaling."
+        },
+        {
+          "index": 2,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 5,
+          "reason": "Fine-tuning and sampling methods can impact efficiency and performance, indirectly related to scaling."
+        },
+        {
+          "index": 4,
+          "arxivId": "2507.04607",
+          "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+          "score": 5,
+          "reason": "Personalization is a specific application of LLMs; memory aspect is relevant but less general than scaling."
+        },
+        {
+          "index": 5,
+          "arxivId": "2308.11432",
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 5,
+          "reason": "A general survey on LLM agents, useful context but less specific to scaling than memory-focused papers."
+        },
+        {
+          "index": 7,
+          "arxivId": "2507.02259",
+          "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+          "score": 5,
+          "reason": "Focuses on long context and memory for agents, relevant but specific to multi-conv RL."
+        },
+        {
+          "index": 9,
+          "arxivId": "2408.09559",
+          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+          "score": 5,
+          "reason": "Hierarchical memory management for agents is relevant, but specific to long-horizon tasks."
+        },
+        {
+          "index": 10,
+          "arxivId": "2502.00592",
+          "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+          "score": 5,
+          "reason": "Explicitly mentions 'scalable long-term memory', highly relevant."
+        },
+        {
+          "index": 11,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 5,
+          "reason": "Directly mentions 'test time scaling', but specific to code generation."
+        },
+        {
+          "index": 13,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 5,
+          "reason": "Directly mentions 'test-time scaling', relevant to the TARGET's theme."
+        },
+        {
+          "index": 15,
+          "arxivId": "2407.09450",
+          "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+          "score": 5,
+          "reason": "Episodic memory and infinite context are related to handling large amounts of information, relevant for scaling."
+        },
+        {
+          "index": 16,
+          "arxivId": "2504.13837",
+          "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+          "score": 5,
+          "reason": "Discusses reasoning capacity and RL, which can be components of scaling LLM capabilities."
+        },
+        {
+          "index": 18,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 5,
+          "reason": "Directly relates to 'scaling test-time compute' for LLM agents, highly relevant."
+        },
+        {
+          "index": 20,
+          "arxivId": "2502.12110",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 5,
+          "reason": "Discusses suboptimal test-time compute scaling, directly relevant to the TARGET paper's theme."
+        },
+        {
+          "index": 21,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 5,
+          "reason": "Focuses on 'efficient test-time scaling', highly relevant to the TARGET paper."
+        },
+        {
+          "index": 22,
+          "arxivId": "2506.07976",
+          "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+          "score": 5,
+          "reason": "Explicitly mentions 'scaling test-time interaction' for agents, very relevant."
+        },
+        {
+          "index": 24,
+          "arxivId": "2504.09772",
+          "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+          "score": 5,
+          "reason": "Focuses on 'test-time scaling' in a multi-agent setting, relevant to the TARGET's theme."
+        },
+        {
+          "index": 27,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 5,
+          "reason": "Optimizing memory management for agents is relevant to their efficiency and potential for scaling."
+        },
+        {
+          "index": 31,
+          "arxivId": "2002.05709",
+          "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "score": 4,
+          "reason": "Contrastive learning is a general ML technique, less directly related to scaling LLMs or agent memory."
+        },
+        {
+          "index": 40,
+          "arxivId": "2306.07863",
+          "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+          "score": 4,
+          "reason": "Memory is mentioned, but the focus is on trajectory-as-exemplar prompting for control tasks."
+        },
+        {
+          "index": 41,
+          "arxivId": "2504.20595",
+          "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+          "score": 4,
+          "reason": "Focuses on training retrievers for reasoning, which is a component of agent capabilities but not directly scaling."
+        },
+        {
+          "index": 44,
+          "arxivId": "2503.07891",
+          "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+          "score": 4,
+          "reason": "Embeddings are fundamental but not directly about scaling of models or agents."
+        },
+        {
+          "index": 45,
+          "arxivId": "2404.07972",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "score": 4,
+          "reason": "Benchmarking multimodal agents is relevant, but the focus is on the environment and multimodality, not scaling directly."
+        },
+        {
+          "index": 52,
+          "arxivId": "2402.03610",
+          "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+          "score": 4,
+          "reason": "Contextual memory is mentioned, but the core is retrieval-augmented planning for multimodal agents."
+        },
+        {
+          "index": 57,
+          "arxivId": "2411.15594",
+          "title": "A Survey on LLM-as-a-Judge",
+          "score": 3,
+          "reason": "LLM-as-a-judge is a specific application, not directly related to scaling of core LLM capabilities or agents."
+        },
+        {
+          "index": 62,
+          "arxivId": "2405.15793",
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "score": 3,
+          "reason": "Focuses on automated software engineering agents, a specific domain application, not general scaling."
+        }
+      ]
+    }
+  }
+}

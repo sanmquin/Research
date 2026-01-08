@@ -1,0 +1,987 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2501.12948",
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+    },
+    "target": {
+      "arxivId": "2305.08322",
+      "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+    }
+  },
+  "embeddings": {
+    "rank": 12,
+    "ordered": [
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.39599505766405374
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.520643489758898
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.531999459536094
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.5379705917806072
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.5752267846401782
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.5802393876390658
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.597083477028956
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.598489745157945
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.6003119838360442
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.6102653050733056
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.6136749757872021
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.6167697670423411
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.6189903937565109
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.6247059422643914
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.6315254367897749
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.6339655745071018
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.6362088532080592
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.6422360509800414
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.6443756640382594
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.6614878161106428
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.6694150144860642
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.6726091631843346
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.6782395649180413
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.6809601850638729
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.6907378151490668
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.6989130704139264
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.700514193820861
+      }
+    ]
+  },
+  "llm": {
+    "rank": 24,
+    "ordered": [
+      {
+        "arxivId": "2305.08322",
+        "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+        "score": 10,
+        "reason": "This is the TARGET paper. It is a Chinese evaluation suite for foundation models, which is directly relevant to evaluating models like those discussed in the START paper and the other candidates. Its focus on multi-level and multi-discipline aspects is key."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 8,
+        "reason": "The START paper is a technical report on DeepSeek-R1, suggesting a focus on reasoning capabilities. DeepSeekMath also comes from DeepSeek and focuses on pushing reasoning limits in open language models, making it a strong contender."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 8,
+        "reason": "The TARGET paper is an evaluation suite. This paper focuses on evaluating Retrieval-Augmented Generation (RAG), a common task for foundation models and a potential area evaluated by C-Eval."
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 8,
+        "reason": "The TARGET paper is an evaluation suite. GAIA is also a benchmark for general AI assistants, aligning with the purpose of evaluating foundation models."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 7,
+        "reason": "This paper is highly relevant because it benchmarks web browsing ability specifically in CHINESE. The TARGET paper is a CHINESE evaluation suite, making this a strong bridge, especially if web browsing is a component of the C-Eval suite."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 7,
+        "reason": "Similar to BrowseComp-ZH, this paper focuses on benchmarking browsing agents. This is a strong candidate for bridging to an evaluation suite for foundation models."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 7,
+        "reason": "The TARGET paper is an evaluation suite. 'Humanity's Last Exam' suggests a comprehensive evaluation, which could be related to the scope of C-Eval."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 7,
+        "reason": "This paper explicitly references 'Humanity's Last Exam' and focuses on general-purpose scientific AI agents, which aligns with evaluating sophisticated foundation models."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 6,
+        "reason": "This paper is about 'deep research' and 'web-scale evidence', which are common tasks for foundation models and could be evaluated by a suite like C-Eval."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 6,
+        "reason": "Focuses on 'reasoning capability' and 'long-horizon agents', which are key areas for evaluating foundation models. The web aspect is also relevant."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 6,
+        "reason": "This paper is about 'search intelligence' and 'summarization', which are important capabilities for evaluating agents and models."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 6,
+        "reason": "Directly mentions 'large reasoning models' and 'deep research capability', which are core aspects evaluated by comprehensive suites like C-Eval."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 6,
+        "reason": "This paper benchmarks LLMs in 'web traversal', a specific capability that might be part of a broader evaluation suite."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 6,
+        "reason": "Focuses on evaluating Retrieval-Augmented Generation (RAG) and long-context LLMs, which are important capabilities for modern foundation models."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 5,
+        "reason": "This paper is about training agents, particularly for web navigation. While not directly an evaluation, it relates to the capabilities being evaluated."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 5,
+        "reason": "Focuses on web agents and 'super-human reasoning', which are relevant to the performance of foundation models and could be part of an evaluation."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "Discusses scaling agents, which is a relevant topic for the development of models that would be evaluated by C-Eval."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "Focuses on general agentic intelligence, a broad goal for foundation models that evaluation suites aim to measure."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 5,
+        "reason": "This paper focuses on GUI agents and reinforcement learning, which are specific AI agent techniques that could be evaluated."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 5,
+        "reason": "This paper describes foundation models with agentic, reasoning, and coding capabilities, which are precisely the types of models C-Eval would be designed to evaluate."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "This paper focuses on agentic data synthesis and information seeking, which are complex tasks relevant to foundation model capabilities."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 5,
+        "reason": "This paper is about autonomous information-seeking agents, a key area where foundation models are applied and evaluated."
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 4,
+        "reason": "Qwen models are foundation models. While this is a technical report, it's less directly about evaluation or Chinese language specifics than other candidates."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 4,
+        "reason": "This is the START paper. It focuses on reasoning and reinforcement learning for LLMs. While important, the direct link to C-Eval (a Chinese evaluation suite) is through general LLM capabilities rather than language-specific evaluations."
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 4,
+        "reason": "This is a foundational paper on reasoning and acting, which are components of agentic AI. It's relevant to the capabilities being evaluated but is older and less specific to the TARGET."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 4,
+        "reason": "Focuses on RL for LLM agents, which is a method for developing capabilities that might be tested by an evaluation suite."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 3,
+        "reason": "This paper focuses on small language models for agents. While related to LLMs, it's more about model size than direct evaluation or Chinese language context."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 9,
+        "reason": "This is the START paper. It's ranked high because it discusses reasoning capabilities in LLMs, which is directly relevant to the foundation models C-Eval is designed to assess. The DeepSeek brand also links it to potential evaluation efforts by the same group or collaborators."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 8,
+        "reason": "This paper is highly relevant because it benchmarks web browsing ability specifically in CHINESE. The TARGET paper is a CHINESE evaluation suite, making this a strong bridge, especially if web browsing is a component of the C-Eval suite."
+      },
+      {
+        "arxivId": "2305.08322",
+        "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+        "score": 10,
+        "reason": "This is the TARGET paper. It is a Chinese evaluation suite for foundation models, which is directly relevant to evaluating models like those discussed in the START paper and the other candidates. Its focus on multi-level and multi-discipline aspects is key."
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 7,
+        "reason": "The TARGET paper is an evaluation suite. GAIA is also a benchmark for general AI assistants, aligning with the purpose of evaluating foundation models."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 7,
+        "reason": "The TARGET paper is an evaluation suite. This paper focuses on evaluating Retrieval-Augmented Generation (RAG), a common task for foundation models and a potential area evaluated by C-Eval."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 7,
+        "reason": "The START paper is a technical report on DeepSeek-R1, suggesting a focus on reasoning capabilities. DeepSeekMath also comes from DeepSeek and focuses on pushing reasoning limits in open language models, making it a strong candidate."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 6,
+        "reason": "Similar to BrowseComp-ZH, this paper focuses on benchmarking browsing agents. This is a strong candidate for bridging to an evaluation suite for foundation models."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 6,
+        "reason": "The TARGET paper is an evaluation suite. 'Humanity's Last Exam' suggests a comprehensive evaluation, which could be related to the scope of C-Eval."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 6,
+        "reason": "This paper explicitly references 'Humanity's Last Exam' and focuses on general-purpose scientific AI agents, which aligns with evaluating sophisticated foundation models."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 5,
+        "reason": "This paper is about 'deep research' and 'web-scale evidence', which are common tasks for foundation models and could be evaluated by a suite like C-Eval."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 5,
+        "reason": "Focuses on 'reasoning capability' and 'long-horizon agents', which are key areas for evaluating foundation models. The web aspect is also relevant."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 5,
+        "reason": "This paper is about 'search intelligence' and 'summarization', which are important capabilities for evaluating agents and models."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 5,
+        "reason": "Directly mentions 'large reasoning models' and 'deep research capability', which are core aspects evaluated by comprehensive suites like C-Eval."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 5,
+        "reason": "This paper benchmarks LLMs in 'web traversal', a specific capability that might be part of a broader evaluation suite."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 5,
+        "reason": "Focuses on evaluating Retrieval-Augmented Generation (RAG) and long-context LLMs, which are important capabilities for modern foundation models."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 4,
+        "reason": "This paper describes foundation models with agentic, reasoning, and coding capabilities, which are precisely the types of models C-Eval would be designed to evaluate."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 4,
+        "reason": "This paper is about training agents, particularly for web navigation. While not directly an evaluation, it relates to the capabilities being evaluated."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 4,
+        "reason": "Focuses on web agents and 'super-human reasoning', which are relevant to the performance of foundation models and could be part of an evaluation."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 4,
+        "reason": "Discusses scaling agents, which is a relevant topic for the development of models that would be evaluated by C-Eval."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 4,
+        "reason": "Focuses on general agentic intelligence, a broad goal for foundation models that evaluation suites aim to measure."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 4,
+        "reason": "This paper focuses on GUI agents and reinforcement learning, which are specific AI agent techniques that could be evaluated."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 4,
+        "reason": "This paper focuses on agentic data synthesis and information seeking, which are complex tasks relevant to foundation model capabilities."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 4,
+        "reason": "This paper is about autonomous information-seeking agents, a key area where foundation models are applied and evaluated."
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "Qwen models are foundation models. While this is a technical report, it's less directly about evaluation or Chinese language specifics than other candidates."
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 3,
+        "reason": "This is a foundational paper on reasoning and acting, which are components of agentic AI. It's relevant to the capabilities being evaluated but is older and less specific to the TARGET."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 3,
+        "reason": "Focuses on RL for LLM agents, which is a method for developing capabilities that might be tested by an evaluation suite."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 2,
+        "reason": "This paper focuses on small language models for agents. While related to LLMs, it's more about model size than direct evaluation or Chinese language context."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 20,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 9,
+        "reason": "Focuses on agentic capabilities, reasoning, and coding, which are highly relevant to foundation models and evaluation like C-Eval."
+      },
+      {
+        "index": 11,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 9,
+        "reason": "Directly addresses benchmarking for AI assistants, aligning with the evaluation suite nature of C-Eval."
+      },
+      {
+        "index": 7,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 8,
+        "reason": "Highlights advancements in reasoning capabilities for LLMs, a core aspect of evaluating foundation models."
+      },
+      {
+        "index": 22,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 8,
+        "reason": "Proposes a challenging evaluation, similar in spirit to C-Eval's goal of assessing foundation models comprehensively."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "Fundamental work on integrating reasoning and acting, crucial for agentic LLMs evaluated by C-Eval."
+      },
+      {
+        "index": 10,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 7,
+        "reason": "Discusses evaluation of RAG, a common task for foundation models, and emphasizes reasoning."
+      },
+      {
+        "index": 16,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 6,
+        "reason": "Focuses on web agents and reasoning, relevant to tasks foundation models might be evaluated on."
+      },
+      {
+        "index": 17,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 6,
+        "reason": "Deals with long-horizon agents and reasoning, relevant for comprehensive LLM evaluation."
+      },
+      {
+        "index": 21,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 6,
+        "reason": "Explores general agentic intelligence and scaling, key concepts in foundation model development and evaluation."
+      },
+      {
+        "index": 25,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 6,
+        "reason": "Addresses scaling and agentic AI, important for developing capable foundation models that C-Eval would assess."
+      },
+      {
+        "index": 3,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 5,
+        "reason": "Focuses on deep research capabilities and reasoning in LLMs, relevant to evaluating complex tasks."
+      },
+      {
+        "index": 4,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 5,
+        "reason": "Deals with web-scale data and research, which can be part of comprehensive LLM evaluations."
+      },
+      {
+        "index": 18,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 5,
+        "reason": "Focuses on long-horizon tasks and summarization, which are components of sophisticated LLM evaluations."
+      },
+      {
+        "index": 23,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "Explores agentic data synthesis and information seeking, relevant to how LLMs can be built and tested."
+      },
+      {
+        "index": 15,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 4,
+        "reason": "Introduces a benchmark for browsing agents, which is a specific type of task foundation models might perform."
+      },
+      {
+        "index": 5,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 4,
+        "reason": "Focuses on benchmarking LLMs for web traversal, a specific evaluation task."
+      },
+      {
+        "index": 2,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 4,
+        "reason": "Similar to BrowseComp, it benchmarks web browsing but specifically for Chinese, less direct but still relevant to LLM evaluation."
+      },
+      {
+        "index": 13,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "Technical report for a specific LLM, could contain evaluation details but less directly related to C-Eval's scope than general evaluation papers."
+      },
+      {
+        "index": 8,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 3,
+        "reason": "Focuses on RL systems for LLMs, which is a training method, not directly an evaluation suite like C-Eval."
+      },
+      {
+        "index": 12,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 3,
+        "reason": "Focuses on incentivizing reasoning via RL, more on training aspect than evaluation suite."
+      },
+      {
+        "index": 9,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 3,
+        "reason": "Focuses on GUI agents and RL, a specific application area, not a general evaluation suite."
+      },
+      {
+        "index": 19,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 3,
+        "reason": "Focuses on agent development and RL, less on the evaluation suite aspect."
+      },
+      {
+        "index": 14,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 2,
+        "reason": "Focuses on scientific AI agents and links to 'Humanity's Last Exam', somewhat related but specific domain."
+      },
+      {
+        "index": 6,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 2,
+        "reason": "Benchmarks RAG and long-context LLMs, which are components of evaluation, but the paper's focus is on specific aspects rather than a broad suite."
+      },
+      {
+        "index": 20,
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 1,
+        "reason": "Discusses the future of agentic AI with SLMs, broader than evaluation suites and not directly related to C-Eval."
+      },
+      {
+        "index": 26,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 1,
+        "reason": "Focuses on autonomous information seeking, a general agent capability, not specifically on evaluation suites."
+      },
+      {
+        "index": 27,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 1,
+        "reason": "Focuses on RL for LLM agents, which is a training/development method, not directly related to creating an evaluation suite."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.31082236126218543,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 9,
+          "reason": "Focuses on agentic capabilities, reasoning, and coding, which are highly relevant to foundation models and evaluation like C-Eval."
+        },
+        {
+          "index": 11,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 9,
+          "reason": "Directly addresses benchmarking for AI assistants, aligning with the evaluation suite nature of C-Eval."
+        },
+        {
+          "index": 7,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 8,
+          "reason": "Highlights advancements in reasoning capabilities for LLMs, a core aspect of evaluating foundation models."
+        },
+        {
+          "index": 22,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 8,
+          "reason": "Proposes a challenging evaluation, similar in spirit to C-Eval's goal of assessing foundation models comprehensively."
+        },
+        {
+          "index": 24,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 7,
+          "reason": "Fundamental work on integrating reasoning and acting, crucial for agentic LLMs evaluated by C-Eval."
+        },
+        {
+          "index": 10,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 7,
+          "reason": "Discusses evaluation of RAG, a common task for foundation models, and emphasizes reasoning."
+        },
+        {
+          "index": 16,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 6,
+          "reason": "Focuses on web agents and reasoning, relevant to tasks foundation models might be evaluated on."
+        },
+        {
+          "index": 17,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 6,
+          "reason": "Deals with long-horizon agents and reasoning, relevant for comprehensive LLM evaluation."
+        },
+        {
+          "index": 21,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 6,
+          "reason": "Explores general agentic intelligence and scaling, key concepts in foundation model development and evaluation."
+        },
+        {
+          "index": 25,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 6,
+          "reason": "Addresses scaling and agentic AI, important for developing capable foundation models that C-Eval would assess."
+        },
+        {
+          "index": 3,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 5,
+          "reason": "Focuses on deep research capabilities and reasoning in LLMs, relevant to evaluating complex tasks."
+        },
+        {
+          "index": 4,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 5,
+          "reason": "Deals with web-scale data and research, which can be part of comprehensive LLM evaluations."
+        },
+        {
+          "index": 18,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 5,
+          "reason": "Focuses on long-horizon tasks and summarization, which are components of sophisticated LLM evaluations."
+        },
+        {
+          "index": 23,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 5,
+          "reason": "Explores agentic data synthesis and information seeking, relevant to how LLMs can be built and tested."
+        },
+        {
+          "index": 15,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 4,
+          "reason": "Introduces a benchmark for browsing agents, which is a specific type of task foundation models might perform."
+        },
+        {
+          "index": 5,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 4,
+          "reason": "Focuses on benchmarking LLMs for web traversal, a specific evaluation task."
+        },
+        {
+          "index": 2,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 4,
+          "reason": "Similar to BrowseComp, it benchmarks web browsing but specifically for Chinese, less direct but still relevant to LLM evaluation."
+        },
+        {
+          "index": 13,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 3,
+          "reason": "Technical report for a specific LLM, could contain evaluation details but less directly related to C-Eval's scope than general evaluation papers."
+        },
+        {
+          "index": 8,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 3,
+          "reason": "Focuses on RL systems for LLMs, which is a training method, not directly an evaluation suite like C-Eval."
+        },
+        {
+          "index": 12,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 3,
+          "reason": "Focuses on incentivizing reasoning via RL, more on training aspect than evaluation suite."
+        },
+        {
+          "index": 9,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 3,
+          "reason": "Focuses on GUI agents and RL, a specific application area, not a general evaluation suite."
+        },
+        {
+          "index": 19,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 3,
+          "reason": "Focuses on agent development and RL, less on the evaluation suite aspect."
+        },
+        {
+          "index": 14,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 2,
+          "reason": "Focuses on scientific AI agents and links to 'Humanity's Last Exam', somewhat related but specific domain."
+        },
+        {
+          "index": 6,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 2,
+          "reason": "Benchmarks RAG and long-context LLMs, which are components of evaluation, but the paper's focus is on specific aspects rather than a broad suite."
+        },
+        {
+          "index": 20,
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "score": 1,
+          "reason": "Discusses the future of agentic AI with SLMs, broader than evaluation suites and not directly related to C-Eval."
+        },
+        {
+          "index": 26,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 1,
+          "reason": "Focuses on autonomous information seeking, a general agent capability, not specifically on evaluation suites."
+        },
+        {
+          "index": 27,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 1,
+          "reason": "Focuses on RL for LLM agents, which is a training/development method, not directly related to creating an evaluation suite."
+        }
+      ]
+    }
+  }
+}

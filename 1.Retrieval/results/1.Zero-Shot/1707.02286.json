@@ -1,0 +1,822 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "1707.06347",
+      "title": "Proximal Policy Optimization Algorithms"
+    },
+    "target": {
+      "arxivId": "1707.02286",
+      "title": "Emergence of Locomotion Behaviours in Rich Environments"
+    }
+  },
+  "embeddings": {
+    "rank": 17,
+    "ordered": [
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "distance": 0.5657781483944538
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.6244905257979403
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "distance": 0.6284386552366454
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "distance": 0.6543446035917665
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6550500312422698
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.6681166964800813
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "distance": 0.6736308845054184
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.6791076315475187
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "distance": 0.6808733575802732
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "distance": 0.6834030167465395
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "distance": 0.6873692079660976
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "distance": 0.6939305950257533
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "distance": 0.7047672555574918
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.7251596307073482
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.7260728472690436
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.7297144461397131
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "distance": 0.7382143132488506
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.7405080966381017
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "distance": 0.7408236297770857
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "distance": 0.749383031424582
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "distance": 0.7685491603073709
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "distance": 0.7899054846997872
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.7992490997273721
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "distance": 0.8063614785315917
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.8077672926964007
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.8210657847061547
+      }
+    ]
+  },
+  "llm": {
+    "rank": 1,
+    "ordered": [
+      {
+        "index": 26,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 9,
+        "reason": "The target paper is about Emergence of Locomotion Behaviours in Rich Environments, which heavily relies on reinforcement learning. Proximal Policy Optimization (PPO) is a fundamental and widely used RL algorithm, making this paper highly relevant as a foundational work."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 7,
+        "reason": "The START paper focuses on Group Relative Policy Optimization, and this paper, 'Group Sequence Policy Optimization,' shares a very similar theme of optimizing policies in groups, suggesting a direct conceptual link and potential extension."
+      },
+      {
+        "index": 8,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 7,
+        "reason": "This paper also deals with 'Group Policy Optimization,' a core concept in the START paper. Its focus on LLM agents further aligns with the context of advanced AI research where locomotion emergence might be studied."
+      },
+      {
+        "index": 7,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 6,
+        "reason": "This paper links LLMs to reinforcement learning, which is the core mechanism likely enabling locomotion emergence. The idea of in-context RL is a modern approach that could be applied to complex environment simulations."
+      },
+      {
+        "index": 22,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 6,
+        "reason": "Focuses on language agents and reinforcement learning, specifically a form of verbal RL. This suggests methods for agents to learn and adapt in environments, which is relevant to locomotion emergence."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 5,
+        "reason": "Combines reinforcement learning with tool use in LLMs. Strategic tool use can be critical for agents to navigate and interact with rich environments, facilitating locomotion."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 5,
+        "reason": "Deals with Agent Reinforcement Learning and its scaling properties. While focused on math problems, the underlying RL principles for agent development are applicable to emergent behaviors."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 4,
+        "reason": "This paper focuses on improving LLM agents through executable code actions. Such low-level control and action execution are essential for developing locomotion capabilities in simulated environments."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 4,
+        "reason": "The ReAct paper combines reasoning and acting, a fundamental combination for agents operating in environments. Effective acting is key to locomotion."
+      },
+      {
+        "index": 23,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 4,
+        "reason": "This paper explores LLMs learning to use tools. Tool use is a form of interaction with an environment that can lead to complex behaviors, including locomotion."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 3,
+        "reason": "Discusses training methodologies, potentially including RL aspects. Understanding training dynamics is relevant for achieving complex emergent behaviors like locomotion."
+      },
+      {
+        "index": 13,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 3,
+        "reason": "Focuses on LLM reinforcement learning systems. The scalability and system aspects are important for training complex behaviors."
+      },
+      {
+        "index": 14,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 3,
+        "reason": "Combines reasoning, search, and reinforcement learning. Search and reasoning can be components of an agent's strategy in a rich environment."
+      },
+      {
+        "index": 21,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 3,
+        "reason": "Focuses on iterative refinement, which is a general learning principle applicable to developing complex behaviors like locomotion through trial and error."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 3,
+        "reason": "Deals with agentic behavior and information seeking. Agents exploring and gathering information in an environment is a precursor to developing locomotion."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3,
+        "reason": "Focuses on agentic problem solving using cross-domain experience. This implies agents can learn and apply knowledge, which is relevant for developing locomotion skills."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 3,
+        "reason": "This paper is about multi-agent assistance and learning. Group dynamics and coordinated actions can be crucial for complex emergent behaviors like locomotion."
+      },
+      {
+        "index": 17,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 3,
+        "reason": "Focuses on agents with navigation capabilities, which is directly related to locomotion. Multi-agent collaboration could be a factor in complex locomotion."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 3,
+        "reason": "This paper covers multi-agent systems and agentic RL. The 'chain-of-agents' concept could relate to sequential actions needed for locomotion."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 2,
+        "reason": "While it uses RL and tool integration, the focus on reasoning and specific tool use might be less directly applicable to emergent locomotion than general RL or agent interaction."
+      },
+      {
+        "index": 20,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 2,
+        "reason": "Focuses on code generation and tool integration for coding tasks. Less directly related to emergent locomotion in rich environments."
+      },
+      {
+        "index": 15,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 2,
+        "reason": "Web traversal involves movement and interaction, which has some overlap with locomotion. However, the context is specific to web environments."
+      },
+      {
+        "index": 16,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1,
+        "reason": "A survey paper on GUI agents. While it touches on agents interacting with environments, it's a broad overview and less likely to be a direct precursor to specific locomotion emergence research."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1,
+        "reason": "Focuses on mathematical reasoning, which is unlikely to be directly related to emergent locomotion behaviors in rich environments."
+      },
+      {
+        "index": 9,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "A technical report for a specific LLM. Unless it details novel RL capabilities or environment interaction, its direct relevance is low."
+      },
+      {
+        "index": 25,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1,
+        "reason": "This is a foundational paper on few-shot learning in LLMs. While important for general LLM capabilities, it's not directly focused on RL or emergent behaviors in environments."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 1,
+    "ranked": [
+      {
+        "index": 17,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 9,
+        "reason": "This paper introduces Proximal Policy Optimization (PPO), a fundamental algorithm in reinforcement learning. The START paper is about policy optimization, and PPO is a very relevant and widely used algorithm in this area, making it a strong candidate to bridge to the TARGET which also involves RL."
+      },
+      {
+        "index": 2,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 8,
+        "reason": "Reflexion is a highly relevant agentic RL framework that directly builds on concepts likely related to the START paper's 'group relative policy optimization' and aligns with the general direction of agentic RL towards more sophisticated behaviors seen in the TARGET."
+      },
+      {
+        "index": 14,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 7,
+        "reason": "This paper focuses on iterative refinement, a mechanism that can be seen as a form of learning or adaptation within agents. It's a plausible step towards enabling more complex emergent behaviors like those in the TARGET."
+      },
+      {
+        "index": 23,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "ReAct combines reasoning and acting, which is crucial for agents operating in complex environments. This synergy is a key aspect for the emergence of locomotion behaviors in the TARGET paper."
+      },
+      {
+        "index": 22,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 6,
+        "reason": "Tool use is a critical capability for agents to interact with and learn from environments. This paper demonstrates a method for LLMs to learn tool use, which is a prerequisite for complex behaviors like locomotion."
+      },
+      {
+        "index": 1,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 6,
+        "reason": "Focuses on improving LLM agents through executable code actions, suggesting a path towards more capable and adaptable agents which is relevant to emergent behaviors."
+      },
+      {
+        "index": 3,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 5,
+        "reason": "This paper explores scaling laws in agent RL and code execution, which could inform how complex behaviors emerge from simpler learning rules, though its focus on math problem solving is less direct."
+      },
+      {
+        "index": 9,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 5,
+        "reason": "Proposes that LLMs can perform RL in-context. This broad claim about LLM learning capabilities is relevant to the emergence of behaviors, but lacks specific mechanisms for locomotion."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 5,
+        "reason": "Combines RL with tool use for LLMs, which is a step towards more capable agents, relevant to generating complex behaviors."
+      },
+      {
+        "index": 8,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 5,
+        "reason": "Focuses on scaling RL systems for LLMs, which is important for developing complex agentic behaviors, but the 'how' might be more general than specific to locomotion emergence."
+      },
+      {
+        "index": 11,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 4,
+        "reason": "Introduces multi-agent distillation and agentic RL, relevant to emergent behaviors in complex systems, but the focus on distillation might be less direct than core RL."
+      },
+      {
+        "index": 16,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 4,
+        "reason": "Benchmarking LLMs in web traversal involves complex agentic behavior in an environment, which shares conceptual ground with emergent locomotion."
+      },
+      {
+        "index": 21,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 4,
+        "reason": "Focuses on RL with tool integration for reasoning, which is relevant to agent capabilities needed for complex tasks, but the specific application is less direct."
+      },
+      {
+        "index": 10,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 4,
+        "reason": "This paper involves tool-integrated agents for coding challenges, showcasing agent capabilities that could generalize to other domains like locomotion."
+      },
+      {
+        "index": 20,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 3,
+        "reason": "Deals with multi-agent assistance and task automation, which implies emergent coordination and behavior, but the specific domain is broad."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 3,
+        "reason": "Directly related to policy optimization for LLM agents, which is the START paper's topic, but the 'group-in-group' aspect might be a specific method rather than a bridge to emergent locomotion."
+      },
+      {
+        "index": 13,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 3,
+        "reason": "Similar to paper 6, this focuses on group policy optimization, a direct link to the START paper, but might not be the most direct conceptual leap to emergent locomotion."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3,
+        "reason": "Focuses on leveraging experience for agent problem-solving, which is a component of learning complex behaviors, but the 'knowledge base' aspect is a specific mechanism."
+      },
+      {
+        "index": 15,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 2,
+        "reason": "This paper deals with agentic data synthesis through information seeking. While it involves agent capabilities, the focus on data synthesis is less directly related to emergent locomotion."
+      },
+      {
+        "index": 18,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 2,
+        "reason": "Combines reasoning, search engines, and RL. Relevant for agent capabilities, but the focus on search engines is specific."
+      },
+      {
+        "index": 7,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 2,
+        "reason": "Describes a mobile agent system with navigation, which involves environmental interaction and multi-agent collaboration, concepts relevant to locomotion, but the domain is specific."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1,
+        "reason": "This paper seems to be a critique or analysis of a specific training method. Without knowing what 'R1-Zero-Like Training' is, it's hard to assess its relevance to emergent locomotion."
+      },
+      {
+        "index": 4,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1,
+        "reason": "A survey on GUI agents. While agents interacting with GUIs is a form of environmental interaction, it's a very specific domain and the paper is a survey, potentially less focused on core emergent mechanisms."
+      },
+      {
+        "index": 24,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1,
+        "reason": "A foundational paper on few-shot learning in LLMs. While important for LLM capabilities, it's a very general concept and not directly tied to the RL and emergent behavior aspects of the TARGET."
+      },
+      {
+        "index": 25,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "A technical report on a specific LLM. Unless it details novel RL or emergent behavior capabilities directly applicable to locomotion, it's unlikely to be a strong bridge."
+      },
+      {
+        "index": 26,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0,
+        "reason": "This paper focuses on mathematical reasoning. It's highly specialized and unlikely to be a bridge to emergent locomotion behaviors in rich environments."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.24048346101567525,
+      "correctness": 0
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 17,
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "score": 9,
+          "reason": "This paper introduces Proximal Policy Optimization (PPO), a fundamental algorithm in reinforcement learning. The START paper is about policy optimization, and PPO is a very relevant and widely used algorithm in this area, making it a strong candidate to bridge to the TARGET which also involves RL."
+        },
+        {
+          "index": 2,
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "score": 8,
+          "reason": "Reflexion is a highly relevant agentic RL framework that directly builds on concepts likely related to the START paper's 'group relative policy optimization' and aligns with the general direction of agentic RL towards more sophisticated behaviors seen in the TARGET."
+        },
+        {
+          "index": 14,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 7,
+          "reason": "This paper focuses on iterative refinement, a mechanism that can be seen as a form of learning or adaptation within agents. It's a plausible step towards enabling more complex emergent behaviors like those in the TARGET."
+        },
+        {
+          "index": 23,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 7,
+          "reason": "ReAct combines reasoning and acting, which is crucial for agents operating in complex environments. This synergy is a key aspect for the emergence of locomotion behaviors in the TARGET paper."
+        },
+        {
+          "index": 22,
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "score": 6,
+          "reason": "Tool use is a critical capability for agents to interact with and learn from environments. This paper demonstrates a method for LLMs to learn tool use, which is a prerequisite for complex behaviors like locomotion."
+        },
+        {
+          "index": 1,
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "score": 6,
+          "reason": "Focuses on improving LLM agents through executable code actions, suggesting a path towards more capable and adaptable agents which is relevant to emergent behaviors."
+        },
+        {
+          "index": 3,
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "score": 5,
+          "reason": "This paper explores scaling laws in agent RL and code execution, which could inform how complex behaviors emerge from simpler learning rules, though its focus on math problem solving is less direct."
+        },
+        {
+          "index": 9,
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "score": 5,
+          "reason": "Proposes that LLMs can perform RL in-context. This broad claim about LLM learning capabilities is relevant to the emergence of behaviors, but lacks specific mechanisms for locomotion."
+        },
+        {
+          "index": 19,
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "score": 5,
+          "reason": "Combines RL with tool use for LLMs, which is a step towards more capable agents, relevant to generating complex behaviors."
+        },
+        {
+          "index": 8,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 5,
+          "reason": "Focuses on scaling RL systems for LLMs, which is important for developing complex agentic behaviors, but the 'how' might be more general than specific to locomotion emergence."
+        },
+        {
+          "index": 11,
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "score": 4,
+          "reason": "Introduces multi-agent distillation and agentic RL, relevant to emergent behaviors in complex systems, but the focus on distillation might be less direct than core RL."
+        },
+        {
+          "index": 16,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 4,
+          "reason": "Benchmarking LLMs in web traversal involves complex agentic behavior in an environment, which shares conceptual ground with emergent locomotion."
+        },
+        {
+          "index": 21,
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "score": 4,
+          "reason": "Focuses on RL with tool integration for reasoning, which is relevant to agent capabilities needed for complex tasks, but the specific application is less direct."
+        },
+        {
+          "index": 10,
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "score": 4,
+          "reason": "This paper involves tool-integrated agents for coding challenges, showcasing agent capabilities that could generalize to other domains like locomotion."
+        },
+        {
+          "index": 20,
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "score": 3,
+          "reason": "Deals with multi-agent assistance and task automation, which implies emergent coordination and behavior, but the specific domain is broad."
+        },
+        {
+          "index": 6,
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "score": 3,
+          "reason": "Directly related to policy optimization for LLM agents, which is the START paper's topic, but the 'group-in-group' aspect might be a specific method rather than a bridge to emergent locomotion."
+        },
+        {
+          "index": 13,
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "score": 3,
+          "reason": "Similar to paper 6, this focuses on group policy optimization, a direct link to the START paper, but might not be the most direct conceptual leap to emergent locomotion."
+        },
+        {
+          "index": 5,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 3,
+          "reason": "Focuses on leveraging experience for agent problem-solving, which is a component of learning complex behaviors, but the 'knowledge base' aspect is a specific mechanism."
+        },
+        {
+          "index": 15,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 2,
+          "reason": "This paper deals with agentic data synthesis through information seeking. While it involves agent capabilities, the focus on data synthesis is less directly related to emergent locomotion."
+        },
+        {
+          "index": 18,
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "score": 2,
+          "reason": "Combines reasoning, search engines, and RL. Relevant for agent capabilities, but the focus on search engines is specific."
+        },
+        {
+          "index": 7,
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "score": 2,
+          "reason": "Describes a mobile agent system with navigation, which involves environmental interaction and multi-agent collaboration, concepts relevant to locomotion, but the domain is specific."
+        },
+        {
+          "index": 12,
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "score": 1,
+          "reason": "This paper seems to be a critique or analysis of a specific training method. Without knowing what 'R1-Zero-Like Training' is, it's hard to assess its relevance to emergent locomotion."
+        },
+        {
+          "index": 4,
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "score": 1,
+          "reason": "A survey on GUI agents. While agents interacting with GUIs is a form of environmental interaction, it's a very specific domain and the paper is a survey, potentially less focused on core emergent mechanisms."
+        },
+        {
+          "index": 24,
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "score": 1,
+          "reason": "A foundational paper on few-shot learning in LLMs. While important for LLM capabilities, it's a very general concept and not directly tied to the RL and emergent behavior aspects of the TARGET."
+        },
+        {
+          "index": 25,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 1,
+          "reason": "A technical report on a specific LLM. Unless it details novel RL or emergent behavior capabilities directly applicable to locomotion, it's unlikely to be a strong bridge."
+        },
+        {
+          "index": 26,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 0,
+          "reason": "This paper focuses on mathematical reasoning. It's highly specialized and unlikely to be a bridge to emergent locomotion behaviors in rich environments."
+        }
+      ]
+    }
+  }
+}

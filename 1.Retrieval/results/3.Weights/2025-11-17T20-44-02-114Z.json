@@ -1,0 +1,1991 @@
+{
+  "selectedSource": {
+    "arxivId": "2506.06303",
+    "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+  },
+  "target": {
+    "arxivId": "2210.03821",
+    "title": "Large Language Models can Implement Policy Iteration"
+  },
+  "scores": {
+    "rank": 21,
+    "ordered": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 3
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 99
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 9
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 5
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 2
+            }
+          ]
+        },
+        "score": 96
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 10
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 9
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 10
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 6
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 88
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 4
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 88
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 7
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 85
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 7
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 4
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 83
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 5
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 8
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 82
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 6
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 7
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 5
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 81
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 7
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 5
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 4
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 8
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 3
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 2
+            }
+          ]
+        },
+        "score": 79
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 6
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 75
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 5
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 6
+            }
+          ]
+        },
+        "score": 74
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 5
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 5
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 73
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 6
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 3
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 5
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 5
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 65
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 5
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 3
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 64
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 5
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 10
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 3
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 2
+            }
+          ]
+        },
+        "score": 60
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 7
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 4
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 6
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 59
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 5
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 9
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 4
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 58
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 9
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 7
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 6
+            }
+          ]
+        },
+        "score": 58
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 4
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 4
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 3
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 10
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 2
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 2
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 2
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 3
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 10
+            }
+          ]
+        },
+        "score": 39
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 3
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 2
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 6
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 8
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 17
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 5
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 4
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 9
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 15
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Iteration",
+              "score": 2
+            },
+            {
+              "theme": "Agent-based Systems and Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "LLM Capabilities and Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Optimization and Improvement",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specific Applications vs. General Mechanisms",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Focus Divergence",
+              "score": 3
+            },
+            {
+              "theme": "Alternative Learning Paradigms or Concepts",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Training Methodology or System Architecture",
+              "score": 5
+            },
+            {
+              "theme": "Theoretical Foundation vs. LLM Implementation",
+              "score": 6
+            }
+          ]
+        },
+        "score": -17
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) and Policy Iteration",
+            "description": "Many papers discuss or utilize Reinforcement Learning (RL), a core concept directly related to policy iteration. The explanations highlight how LLMs can implement, perform, or be trained using RL principles, with policy iteration being a central algorithm within RL."
+          },
+          {
+            "theme": "Agent-based Systems and Decision Making",
+            "description": "Several papers focus on agent systems, agentic behavior, and agent-based learning. This aligns with policy iteration, as it involves an agent learning an optimal policy to make decisions in an environment."
+          },
+          {
+            "theme": "LLM Capabilities and Learning",
+            "description": "A recurring theme is the exploration of how Large Language Models (LLMs) learn, adapt, and perform complex tasks. The explanations suggest that policy iteration is a mechanism through which LLMs can achieve improved performance, reasoning, and problem-solving."
+          },
+          {
+            "theme": "Tool Use and Reasoning",
+            "description": "The use of tools, code execution, and reasoning capabilities in LLMs is frequently mentioned. These capabilities are often framed as tasks that can be learned or optimized through RL, potentially involving policy iteration for strategic tool selection and execution."
+          },
+          {
+            "theme": "Optimization and Improvement",
+            "description": "Papers discuss 'policy optimization,' 'optimized workforce learning,' and iterative refinement. These concepts directly relate to the goal of policy iteration, which is to iteratively improve a policy to achieve better outcomes."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specific Applications vs. General Mechanisms",
+            "description": "Many contrastive explanations highlight that papers focus on specific applications (e.g., multi-turn reasoning, web traversal, mobile operation, code generation, mathematical reasoning) rather than the general implementation or theoretical underpinnings of policy iteration within LLMs."
+          },
+          {
+            "theme": "Scope and Focus Divergence",
+            "description": "Some papers, while using RL or related concepts, have a different primary focus, such as data synthesizing, knowledge bases, multi-agent distillation, or surveys of broader topics, which may not specifically detail LLM implementation of policy iteration."
+          },
+          {
+            "theme": "Alternative Learning Paradigms or Concepts",
+            "description": "Contrastive explanations point out that some papers might focus on related but distinct learning paradigms, like 'Reward Is Enough,' 'self-feedback,' 'verbal reinforcement learning,' or specific prompting strategies, which are not necessarily direct implementations of policy iteration."
+          },
+          {
+            "theme": "Focus on Training Methodology or System Architecture",
+            "description": "Certain papers might emphasize the training methodologies (e.g., 'Group-in-Group' training, R1-Zero-Like Training), system architecture, or scaling laws related to LLMs and RL, rather than delving into the core algorithmic details of how LLMs implement policy iteration."
+          },
+          {
+            "theme": "Theoretical Foundation vs. LLM Implementation",
+            "description": "While some papers might be foundational to RL algorithms like policy iteration, they may predate or not specifically address the implementation of these algorithms within modern LLM architectures, leading to a theoretical link rather than a direct implementation one."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) and Policy Iteration",
+            "weight": 5,
+            "explanation": "This theme is directly and explicitly mentioned in the target paper's title and is a core concept for understanding its contribution. The weight is set to the maximum because of this direct and central relevance."
+          },
+          {
+            "theme": "Agent-based Systems and Decision Making",
+            "weight": 4,
+            "explanation": "Policy iteration is fundamentally about an agent learning to make decisions. Papers focusing on agent systems and decision-making are highly likely to be related, as they explore the context in which policy iteration operates. The weight is high due to the strong conceptual link."
+          },
+          {
+            "theme": "LLM Capabilities and Learning",
+            "weight": 4,
+            "explanation": "The target paper is about LLMs implementing policy iteration, which signifies an advancement in LLM capabilities and learning. Themes discussing how LLMs learn and adapt are very relevant to the paper's focus on a new capability or mechanism for learning."
+          },
+          {
+            "theme": "Tool Use and Reasoning",
+            "weight": 3,
+            "explanation": "While policy iteration can be a general learning mechanism, its application within LLMs might manifest through strategic tool use and reasoning. If LLMs learn to use tools or reason effectively via policy iteration, this theme becomes relevant. The weight is moderate as it represents a potential application rather than the core mechanism itself."
+          },
+          {
+            "theme": "Optimization and Improvement",
+            "weight": 5,
+            "explanation": "Policy iteration is an optimization technique aimed at improvement. Themes that directly discuss optimization, iterative refinement, or policy improvement are extremely relevant. This aligns perfectly with the goal and method of policy iteration."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specific Applications vs. General Mechanisms",
+            "weight": 4,
+            "explanation": "The target paper focuses on a general mechanism (policy iteration) implemented by LLMs. Papers that only highlight specific applications without detailing the underlying general mechanism are less likely to be direct references. The weight is high because a focus on application over mechanism is a strong indicator of divergence."
+          },
+          {
+            "theme": "Scope and Focus Divergence",
+            "weight": 3,
+            "explanation": "If a paper's primary focus is on a different area (e.g., data synthesis, knowledge bases) even if it uses related concepts, it's less likely to be a direct reference to the specific implementation of policy iteration in LLMs. The weight is moderate, as some overlap in concepts might exist."
+          },
+          {
+            "theme": "Alternative Learning Paradigms or Concepts",
+            "weight": 4,
+            "explanation": "The target paper is about a specific paradigm: policy iteration. If a paper focuses on other distinct learning methods (e.g., self-feedback, different reinforcement types), it implies a different research direction. This is a significant differentiator, hence the high weight."
+          },
+          {
+            "theme": "Focus on Training Methodology or System Architecture",
+            "weight": 3,
+            "explanation": "While training and architecture are important for LLMs, if a paper's sole or primary focus is on these aspects rather than the algorithmic implementation of policy iteration, it's less directly relevant. The weight is moderate as these elements are foundational to LLMs but not the core algorithmic contribution described in the target paper."
+          },
+          {
+            "theme": "Theoretical Foundation vs. LLM Implementation",
+            "weight": 4,
+            "explanation": "The target paper is specifically about implementing policy iteration *within LLMs*. Papers that provide only theoretical foundations for policy iteration, especially if they predate modern LLMs, are less likely to be direct references on the LLM implementation aspect. The weight is high due to the crucial distinction between theoretical groundwork and specific implementation in LLMs."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.3630691787831042
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.3751757627375727
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.39154482051281325
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.4009010216978085
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.4033338545122077
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.41108872052292245
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.43480836855157423
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.43945052966266973
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.4402477449262958
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.4538714299122324
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.45477235056806775
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.46055054837053755
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.46952410015563817
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.4941357456149761
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.5029895861741601
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5193821265859773
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.5366175310002342
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.5482701375234071
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.5512678578878745
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.5582381366327935
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5759055372389879
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.590569178972805
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.5922121942852259
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.6238105593068113
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.6413339418285109
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6896370370181453
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.5997110953030921
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.607729994356755
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.6356815479332016
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.66739636302248
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6784575482151056
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.6811716086343895
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.6946132041642568
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7030059984957773
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7255015243075285
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.7405701938098741
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.7431913140912579
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.8198333895973855
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8276874817550863
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.8400564869060796
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.8474943107812335
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.858648439659675
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.8721245768224374
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.8721249370467472
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8795504904839
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9177218800666709
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9307134966637092
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.9366597297938171
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.9713079540384812
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.9908471395658515
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.9962665777749109
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1861772042805656
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2506.06303",
+      "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+    },
+    "target": {
+      "arxivId": "2210.03821",
+      "title": "Large Language Models can Implement Policy Iteration"
+    }
+  }
+}

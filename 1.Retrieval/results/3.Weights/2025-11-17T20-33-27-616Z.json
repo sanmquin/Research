@@ -1,0 +1,2217 @@
+{
+  "selectedSource": {
+    "arxivId": "2501.07572",
+    "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+  },
+  "target": {
+    "arxivId": "2407.10671",
+    "title": "Qwen2 Technical Report"
+  },
+  "scores": {
+    "rank": 22,
+    "ordered": [
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 6
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 6
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 5
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 4
+            }
+          ]
+        },
+        "score": 152
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 6
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 7
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 6
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 5
+            }
+          ]
+        },
+        "score": 151
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 10
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 6
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 5
+            }
+          ]
+        },
+        "score": 143
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 6
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 6
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 6
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 5
+            }
+          ]
+        },
+        "score": 141
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 7
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 7
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 5
+            }
+          ]
+        },
+        "score": 139
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 6
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 5
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 4
+            }
+          ]
+        },
+        "score": 134
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 9
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 8
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 4
+            }
+          ]
+        },
+        "score": 131
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 8
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 5
+            }
+          ]
+        },
+        "score": 124
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 8
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 6
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 6
+            }
+          ]
+        },
+        "score": 123
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 8
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 5
+            }
+          ]
+        },
+        "score": 121
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 7
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 5
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 5
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 6
+            }
+          ]
+        },
+        "score": 120
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 8
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 5
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 7
+            }
+          ]
+        },
+        "score": 118
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 5
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 6
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 5
+            }
+          ]
+        },
+        "score": 117
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 4
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 6
+            }
+          ]
+        },
+        "score": 110
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 9
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 8
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 6
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 7
+            }
+          ]
+        },
+        "score": 107
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 6
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 5
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 8
+            }
+          ]
+        },
+        "score": 105
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 6
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 8
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 7
+            }
+          ]
+        },
+        "score": 104
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 10
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 6
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 8
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 3
+            }
+          ]
+        },
+        "score": 103
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 3
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 9
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 8
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 6
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 7
+            }
+          ]
+        },
+        "score": 93
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 2
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 3
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 8
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 84
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 4
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 2
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 9
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 7
+            }
+          ]
+        },
+        "score": 83
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 3
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 3
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 8
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 6
+            }
+          ]
+        },
+        "score": 77
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 5
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 4
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 9
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 8
+            }
+          ]
+        },
+        "score": 76
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 1
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 2
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 4
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 10
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 5
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 8
+            }
+          ]
+        },
+        "score": 76
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 3
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 8
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 9
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 7
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 6
+            }
+          ]
+        },
+        "score": 64
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Advanced LLM Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Mathematical Reasoning and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "Model Training and Optimization",
+              "score": 7
+            },
+            {
+              "theme": "Previous and Foundational Work",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Focus",
+              "score": 10
+            },
+            {
+              "theme": "Training Methodology Differences",
+              "score": 9
+            },
+            {
+              "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Foundational Improvements vs. Applications",
+              "score": 9
+            },
+            {
+              "theme": "Orthogonality of Contributions",
+              "score": 8
+            }
+          ]
+        },
+        "score": 51
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Advanced LLM Capabilities",
+            "description": "Both Qwen2 and the related papers explore cutting-edge capabilities of large language models, including enhanced reasoning, tool integration, and multi-agent systems."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) in LLMs",
+            "description": "Many explanations highlight the relevance of RL techniques, such as policy optimization, agent training, and reward mechanisms, to the development and evaluation of advanced LLMs like Qwen2."
+          },
+          {
+            "theme": "Agentic Behavior and Problem Solving",
+            "description": "A significant theme is the focus on LLM agents, their ability to solve problems, automate tasks, and interact with tools or environments, which are likely areas of advancement for Qwen2."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "description": "The ability of LLMs to effectively use and integrate various tools, including code execution and web search, is a recurring theme, suggesting Qwen2 might exhibit improvements in this area."
+          },
+          {
+            "theme": "Mathematical Reasoning and Code Execution",
+            "description": "Several papers focus on LLMs' capabilities in mathematical problem-solving and code generation/execution, implying that Qwen2 might be evaluated or developed with these skills in mind."
+          },
+          {
+            "theme": "Model Training and Optimization",
+            "description": "Themes related to specific training methodologies, policy optimization, scaling laws, and iterative refinement processes are common, indicating that Qwen2's technical report might discuss its training approach."
+          },
+          {
+            "theme": "Previous and Foundational Work",
+            "description": "The importance of citing predecessors (like Qwen3) and foundational concepts (like few-shot learning and PPO) is evident, suggesting Qwen2's report will situate itself within existing research."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Scope and Specificity of Focus",
+            "description": "A key contrast is the potential difference in the scope of Qwen2's report versus the cited papers. Qwen2 might focus on broad architectural improvements or general capabilities, while related papers might delve into very specific methodologies (e.g., a single RL technique, data synthesis) that Qwen2 does not prioritize."
+          },
+          {
+            "theme": "Training Methodology Differences",
+            "description": "Qwen2's technical report might not link to certain papers if its training methodology is entirely novel, based on different core principles (e.g., supervised learning vs. specific RL paradigms), or if it focuses on outcomes rather than detailed comparisons of training techniques."
+          },
+          {
+            "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+            "description": "Contrastive explanations suggest that Qwen2's report might emphasize core language understanding and generation, or multimodal capabilities, and may not focus on specific agentic applications or task automation if those are not the primary advancements being highlighted."
+          },
+          {
+            "theme": "Emphasis on Foundational Improvements vs. Applications",
+            "description": "The Qwen2 report might prioritize discussing fundamental model improvements (architecture, pre-training data) over specific applications or benchmark tasks discussed in the contrasted papers, such as GUI agents or mobile operations."
+          },
+          {
+            "theme": "Orthogonality of Contributions",
+            "description": "Some papers might not be relevant if their specific contributions (e.g., specialized data generation, particular problem-solving frameworks) are considered orthogonal to the broader advancements or objectives of Qwen2."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Advanced LLM Capabilities",
+            "weight": 5,
+            "explanation": "The target paper is a technical report for Qwen2, a large language model. Advancements in LLM capabilities like reasoning, tool integration, and multi-agent systems are directly relevant to the core subject of the paper."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) in LLMs",
+            "weight": 4,
+            "explanation": "RL techniques are frequently mentioned in the context of advanced LLM development and evaluation. It is highly likely that the Qwen2 technical report will discuss or allude to RL in its training or evaluation methodologies."
+          },
+          {
+            "theme": "Agentic Behavior and Problem Solving",
+            "weight": 4,
+            "explanation": "The focus on LLM agents and their problem-solving abilities is a significant trend. Qwen2's advancements could very well lie in enhanced agentic behavior, making this theme highly relevant."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "weight": 4,
+            "explanation": "The ability of LLMs to utilize tools is a key area of progress. It's probable that Qwen2's technical report will highlight improvements or new functionalities related to tool use and integration."
+          },
+          {
+            "theme": "Mathematical Reasoning and Code Execution",
+            "weight": 3,
+            "explanation": "While important, mathematical reasoning and code execution might be specific capabilities rather than the overarching theme of the entire technical report. However, they are likely to be discussed as key performance indicators."
+          },
+          {
+            "theme": "Model Training and Optimization",
+            "weight": 5,
+            "explanation": "A technical report for a new LLM model is expected to detail its training process, optimization techniques, and scaling. This theme is fundamental to understanding the model's development."
+          },
+          {
+            "theme": "Previous and Foundational Work",
+            "weight": 5,
+            "explanation": "Technical reports inherently build upon and reference prior work. The Qwen2 report will undoubtedly contextualize its contributions within the existing research landscape, including its predecessors."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Scope and Specificity of Focus",
+            "weight": 3,
+            "explanation": "While Qwen2's report might focus on broad advancements, the contrasting papers could explore highly specific niches. This difference in focus reduces the direct relevance of those very specific methodologies to the Qwen2 report itself, though the overarching area remains relevant."
+          },
+          {
+            "theme": "Training Methodology Differences",
+            "weight": 2,
+            "explanation": "If Qwen2 employs entirely novel training paradigms, direct comparison or detailed discussion of very specific, different RL techniques found in other papers might be limited. The report will focus on Qwen2's methods."
+          },
+          {
+            "theme": "Relevance of Agentic vs. Core LLM Capabilities",
+            "weight": 2,
+            "explanation": "Qwen2's report might prioritize core LLM improvements or multimodality over specific agentic applications if those are not the primary focus of its advancements. Thus, papers heavily focused on agentic applications might have less direct overlap."
+          },
+          {
+            "theme": "Emphasis on Foundational Improvements vs. Applications",
+            "weight": 3,
+            "explanation": "The Qwen2 technical report is likely to emphasize foundational improvements. Papers focusing heavily on specific applications (like GUI agents) might be less directly referenced if they don't represent the core contributions of Qwen2."
+          },
+          {
+            "theme": "Orthogonality of Contributions",
+            "weight": 4,
+            "explanation": "If a paper's contribution is highly specialized and not directly related to Qwen2's core advancements (e.g., unique data synthesis methods), it might be considered orthogonal and thus less likely to be referenced, despite being in a related field."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.13509788247647103
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.6017979713258319
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.6169378866813244
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.6296124964349373
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.6327734698315817
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.635357090355286
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.6385073372879939
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6620254532763516
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.6656991642632946
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6741721222750647
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6830117766729165
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.6837639386359955
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.6864102772525036
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.693840212591956
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7070338933122412
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7155971083776089
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.7172166850649211
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.7199885662720782
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7249919619259033
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.7264721918724132
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.7271633271416711
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.7317260171573166
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.7336971129707206
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7350847107538179
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.7357276039744971
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.7439821032338153
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 11,
+    "ordered": [
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6316380497388915
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8679450848261917
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.8744945488033015
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.8857106509233895
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.890592911294942
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.927152051504528
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.9379178516040464
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.9436758098322291
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.9567306072722319
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.9641252936924666
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9717458461060458
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.9809693860777936
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9822359499307428
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 1.0062747158434002
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 1.0076426881605811
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 1.0096880504695644
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 1.0146969315265189
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.0327357445223346
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 1.0347568547373873
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1.0427498094714749
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0884296387424066
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1.0925577582139725
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.102631429933845
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.129823908446454
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.1335058549505044
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.1487974213801848
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2501.07572",
+      "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+    },
+    "target": {
+      "arxivId": "2407.10671",
+      "title": "Qwen2 Technical Report"
+    }
+  }
+}

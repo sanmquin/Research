@@ -1,0 +1,825 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2210.03629",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+    },
+    "target": {
+      "arxivId": "2209.07686",
+      "title": "Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango"
+    }
+  },
+  "embeddings": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.5798283865186108
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.6069648898633068
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.6209227987837707
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.6237434733865508
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.6278109020844445
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.6306766072915654
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.6315418311963312
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.6400259364564858
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.6422481554245807
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.6434039413862598
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.6502766791579446
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.6555136536263064
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.6565662155732254
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.6620738342322867
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.6650740605011055
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.6654830183639364
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.6740315013805437
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.681384862019732
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.6824933714809964
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.6844398403772505
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.7038829009426562
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.7196446373779186
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.7303820176004537
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.7372324451459871
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.7524744548723485
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.7585483865826019
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7920128720402685
+      }
+    ]
+  },
+  "llm": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 10,
+        "reason": "Directly relevant to Chain-of-Thought and agentic reasoning, which is central to the TARGET paper's theme of improving CoT through structured interaction."
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 9,
+        "reason": "Benchmarks for general AI assistants are highly relevant to evaluating and improving reasoning capabilities, which is a core focus of the TARGET paper."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 8,
+        "reason": "Scaling and pre-training are foundational for improving agent capabilities, which is a key aspect of enhancing Chain-of-Thought."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 8,
+        "reason": "Focuses on advancing agents with multi-turn learning, relevant to improving complex reasoning like Chain-of-Thought."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 8,
+        "reason": "Highlights agentic reasoning in foundation models, directly related to improving CoT."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 8,
+        "reason": "Focuses on general-purpose AI agents and complex reasoning tasks, aligning with the TARGET paper's goal of enhancing CoT."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 7,
+        "reason": "Explores reinforcement learning for agents, which can be applied to improve the step-by-step reasoning in CoT."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 7,
+        "reason": "Focuses on unbounded reasoning in agents, relevant to extending the capabilities of Chain-of-Thought."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 7,
+        "reason": "Deals with structuring evidence for research, which can inform how CoT agents gather and process information."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 7,
+        "reason": "Context summarization is important for maintaining coherence in long-horizon reasoning, a challenge CoT methods aim to address."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 7,
+        "reason": "Scalable RL for agents is relevant to improving their performance, including reasoning processes like CoT."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 7,
+        "reason": "Aims for super-human reasoning in web agents, which is a goal related to improving the effectiveness of CoT."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 7,
+        "reason": "Focuses on information-seeking agency, which is a component of effective Chain-of-Thought reasoning."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "Empowering reasoning models with research capabilities is directly aligned with enhancing Chain-of-Thought."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 6,
+        "reason": "RAG and long-context are related to how LLMs process information for reasoning, which can impact CoT performance."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 6,
+        "reason": "Focuses on incentivizing reasoning capability, which is directly relevant to improving CoT."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 6,
+        "reason": "Benchmarking web traversal is relevant for agents that need to gather information, a prerequisite for complex reasoning."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 6,
+        "reason": "Evaluates RAG systems that involve fact retrieval and reasoning, relevant to improving the factual grounding of CoT."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "General agentic intelligence is a broader goal, but environment scaling can contribute to improving reasoning abilities."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 5,
+        "reason": "Benchmarking web browsing is a specific skill for agents that can be part of a larger reasoning process."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 5,
+        "reason": "Similar to BrowseComp-ZH, focuses on web browsing capabilities relevant to information gathering for reasoning."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 4,
+        "reason": "While about agentic AI, the focus on smaller models might be less directly relevant to the advanced reasoning discussed in CoT papers."
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "General technical report on a language model; relevance to specific CoT improvement techniques is indirect."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 3,
+        "reason": "While RL and agents are mentioned, the focus on 'long-horizon interactive' may not directly map to CoT techniques."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focuses on mathematical reasoning, which is a specific domain and may not generalize to general Chain-of-Thought techniques."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 2,
+        "reason": "Focuses on data synthesis and information seeking, less directly on the reasoning process itself."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1,
+        "reason": "A benchmark for general AI capabilities; relevance to specific CoT improvements is very indirect."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 1,
+    "ranked": [
+      {
+        "index": 2,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 9,
+        "reason": "This paper introduces ReAct, a framework that combines reasoning and acting, which is highly relevant to the target paper's focus on 'chain of thought' and effective reasoning."
+      },
+      {
+        "index": 1,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 8,
+        "reason": "The paper emphasizes 'reasoning' and 'retrieval-augmented generation,' which are core components of advanced language model capabilities and often intertwined with chain-of-thought processes."
+      },
+      {
+        "index": 13,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 7,
+        "reason": "GAIA focuses on general AI assistants, implying complex reasoning and task completion, which aligns with the need for effective chain-of-thought."
+      },
+      {
+        "index": 11,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 7,
+        "reason": "This paper describes foundation models with explicit capabilities in 'reasoning' and agentic behavior, directly relevant to advancing LLM reasoning."
+      },
+      {
+        "index": 5,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "Focuses on empowering reasoning models with research capabilities, suggesting enhanced ability to process and structure information, crucial for chain-of-thought."
+      },
+      {
+        "index": 4,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 6,
+        "reason": "The ability to 'structure web-scale evidence' and conduct 'deep research' implies sophisticated information processing, akin to building a chain of thought from external data."
+      },
+      {
+        "index": 19,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 6,
+        "reason": "This paper specifically mentions 'unbounded reasoning capability' in agents, which directly relates to improving the depth and effectiveness of LLM reasoning."
+      },
+      {
+        "index": 14,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 6,
+        "reason": "General agentic intelligence often relies on sophisticated reasoning processes, making it a relevant area for exploring chain-of-thought improvements."
+      },
+      {
+        "index": 3,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 6,
+        "reason": "Web traversal is a step in information gathering that often precedes complex reasoning, and benchmarking this ability is foundational for research agents."
+      },
+      {
+        "index": 17,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 6,
+        "reason": "The title explicitly mentions 'super-human reasoning' for web agents, suggesting advanced cognitive capabilities pertinent to chain-of-thought."
+      },
+      {
+        "index": 18,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "Synthesizing data via information seeking suggests a structured approach to problem-solving, relevant to how chain-of-thought might be applied."
+      },
+      {
+        "index": 22,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 5,
+        "reason": "Improving interactive LLM agents through RL can lead to more robust and capable reasoning, especially over extended tasks."
+      },
+      {
+        "index": 23,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 5,
+        "reason": "Focuses on improving agents using RL and synthetic data, which can enhance their overall reasoning and task-execution capabilities."
+      },
+      {
+        "index": 21,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "Continual pre-training can enhance agent capabilities, including their reasoning abilities, which may impact chain-of-thought performance."
+      },
+      {
+        "index": 20,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 4,
+        "reason": "While focused on GUI agents, advances in multi-turn RL can generalize to improved sequential decision-making and reasoning."
+      },
+      {
+        "index": 15,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 4,
+        "reason": "Summarization for long-horizon search intelligence is related to understanding and condensing information, a precursor to structured reasoning."
+      },
+      {
+        "index": 16,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 4,
+        "reason": "Benchmarking browsing agents is relevant to the information-gathering aspect that feeds into complex reasoning tasks."
+      },
+      {
+        "index": 12,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 4,
+        "reason": "This paper directly addresses incentivizing reasoning capability, which is core to improving chain-of-thought performance."
+      },
+      {
+        "index": 8,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 3,
+        "reason": "RAG and long context are relevant to information processing, which supports reasoning, but the focus isn't explicitly on the reasoning process itself."
+      },
+      {
+        "index": 10,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 3,
+        "reason": "Focuses on web browsing, a component of information retrieval that may feed into reasoning, but not the reasoning process itself."
+      },
+      {
+        "index": 26,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 3,
+        "reason": "Focuses on scientific AI agents and a specific benchmark, which implies reasoning, but the primary connection to chain-of-thought is indirect."
+      },
+      {
+        "index": 24,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 3,
+        "reason": "This is a benchmark for advanced AI capabilities, which would include reasoning, but doesn't specify chain-of-thought directly."
+      },
+      {
+        "index": 6,
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 2,
+        "reason": "While agentic AI involves reasoning, the focus on small language models may not directly advance the complex chain-of-thought strategies used in larger models."
+      },
+      {
+        "index": 9,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 2,
+        "reason": "Focuses on mathematical reasoning, which is a specific type of reasoning and may not generalize as broadly to chain-of-thought for general tasks."
+      },
+      {
+        "index": 25,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 2,
+        "reason": "RL systems can improve LLM capabilities, but the paper's abstract doesn't directly highlight improvements in chain-of-thought reasoning."
+      },
+      {
+        "index": 7,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 1,
+        "reason": "Information seeking is a component of complex tasks, but the paper's focus isn't explicitly on the reasoning process or chain-of-thought."
+      },
+      {
+        "index": 27,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "General technical reports on LLMs are less likely to directly address specific advancements in chain-of-thought methodologies without further context."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.4742728475951594,
+      "correctness": 0
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 2,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 9,
+          "reason": "This paper introduces ReAct, a framework that combines reasoning and acting, which is highly relevant to the target paper's focus on 'chain of thought' and effective reasoning."
+        },
+        {
+          "index": 1,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 8,
+          "reason": "The paper emphasizes 'reasoning' and 'retrieval-augmented generation,' which are core components of advanced language model capabilities and often intertwined with chain-of-thought processes."
+        },
+        {
+          "index": 13,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 7,
+          "reason": "GAIA focuses on general AI assistants, implying complex reasoning and task completion, which aligns with the need for effective chain-of-thought."
+        },
+        {
+          "index": 11,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 7,
+          "reason": "This paper describes foundation models with explicit capabilities in 'reasoning' and agentic behavior, directly relevant to advancing LLM reasoning."
+        },
+        {
+          "index": 5,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 7,
+          "reason": "Focuses on empowering reasoning models with research capabilities, suggesting enhanced ability to process and structure information, crucial for chain-of-thought."
+        },
+        {
+          "index": 4,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 6,
+          "reason": "The ability to 'structure web-scale evidence' and conduct 'deep research' implies sophisticated information processing, akin to building a chain of thought from external data."
+        },
+        {
+          "index": 19,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 6,
+          "reason": "This paper specifically mentions 'unbounded reasoning capability' in agents, which directly relates to improving the depth and effectiveness of LLM reasoning."
+        },
+        {
+          "index": 14,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 6,
+          "reason": "General agentic intelligence often relies on sophisticated reasoning processes, making it a relevant area for exploring chain-of-thought improvements."
+        },
+        {
+          "index": 3,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 6,
+          "reason": "Web traversal is a step in information gathering that often precedes complex reasoning, and benchmarking this ability is foundational for research agents."
+        },
+        {
+          "index": 17,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 6,
+          "reason": "The title explicitly mentions 'super-human reasoning' for web agents, suggesting advanced cognitive capabilities pertinent to chain-of-thought."
+        },
+        {
+          "index": 18,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 5,
+          "reason": "Synthesizing data via information seeking suggests a structured approach to problem-solving, relevant to how chain-of-thought might be applied."
+        },
+        {
+          "index": 22,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 5,
+          "reason": "Improving interactive LLM agents through RL can lead to more robust and capable reasoning, especially over extended tasks."
+        },
+        {
+          "index": 23,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 5,
+          "reason": "Focuses on improving agents using RL and synthetic data, which can enhance their overall reasoning and task-execution capabilities."
+        },
+        {
+          "index": 21,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 5,
+          "reason": "Continual pre-training can enhance agent capabilities, including their reasoning abilities, which may impact chain-of-thought performance."
+        },
+        {
+          "index": 20,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 4,
+          "reason": "While focused on GUI agents, advances in multi-turn RL can generalize to improved sequential decision-making and reasoning."
+        },
+        {
+          "index": 15,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 4,
+          "reason": "Summarization for long-horizon search intelligence is related to understanding and condensing information, a precursor to structured reasoning."
+        },
+        {
+          "index": 16,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 4,
+          "reason": "Benchmarking browsing agents is relevant to the information-gathering aspect that feeds into complex reasoning tasks."
+        },
+        {
+          "index": 12,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 4,
+          "reason": "This paper directly addresses incentivizing reasoning capability, which is core to improving chain-of-thought performance."
+        },
+        {
+          "index": 8,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 3,
+          "reason": "RAG and long context are relevant to information processing, which supports reasoning, but the focus isn't explicitly on the reasoning process itself."
+        },
+        {
+          "index": 10,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 3,
+          "reason": "Focuses on web browsing, a component of information retrieval that may feed into reasoning, but not the reasoning process itself."
+        },
+        {
+          "index": 26,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 3,
+          "reason": "Focuses on scientific AI agents and a specific benchmark, which implies reasoning, but the primary connection to chain-of-thought is indirect."
+        },
+        {
+          "index": 24,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 3,
+          "reason": "This is a benchmark for advanced AI capabilities, which would include reasoning, but doesn't specify chain-of-thought directly."
+        },
+        {
+          "index": 6,
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "score": 2,
+          "reason": "While agentic AI involves reasoning, the focus on small language models may not directly advance the complex chain-of-thought strategies used in larger models."
+        },
+        {
+          "index": 9,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 2,
+          "reason": "Focuses on mathematical reasoning, which is a specific type of reasoning and may not generalize as broadly to chain-of-thought for general tasks."
+        },
+        {
+          "index": 25,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 2,
+          "reason": "RL systems can improve LLM capabilities, but the paper's abstract doesn't directly highlight improvements in chain-of-thought reasoning."
+        },
+        {
+          "index": 7,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 1,
+          "reason": "Information seeking is a component of complex tasks, but the paper's focus isn't explicitly on the reasoning process or chain-of-thought."
+        },
+        {
+          "index": 27,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 1,
+          "reason": "General technical reports on LLMs are less likely to directly address specific advancements in chain-of-thought methodologies without further context."
+        }
+      ]
+    }
+  }
+}

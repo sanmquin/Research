@@ -1,0 +1,2296 @@
+{
+  "selectedSource": {
+    "arxivId": "2507.02592",
+    "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+  },
+  "target": {
+    "arxivId": "2406.08391",
+    "title": "Large Language Models Must Be Taught to Know What They Don't Know"
+  },
+  "scores": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 9
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 8
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 104
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 6
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 4
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 97
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 8
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 6
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 7
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 6
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 4
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 88
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 6
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 7
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 86
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 4
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 7
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 8
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 6
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 8
+            }
+          ]
+        },
+        "score": 83
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 9
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 9
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 6
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 77
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 8
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 6
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 8
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 76
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 8
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 6
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 9
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 76
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 6
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 8
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 6
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 4
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 74
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 8
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 8
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 7
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 6
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 62
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 6
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 7
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 61
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 6
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 56
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 6
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 8
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 4
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 8
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 9
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 5
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 7
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 7
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 3
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 9
+            }
+          ]
+        },
+        "score": 47
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 6
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 9
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 4
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 8
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 9
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 45
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 6
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 9
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 4
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 8
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 6
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 9
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 44
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 7
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 8
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 6
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 9
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 44
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 6
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 6
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 4
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 9
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 27
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 5
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 5
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 4
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 26
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 6
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 4
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 6
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 4
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 9
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 21
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 5
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 5
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 6
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 4
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 9
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 1
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 5
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 9
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 3
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 6
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 8
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 0
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 6
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 4
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 9
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 9
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 4
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 8
+            }
+          ]
+        },
+        "score": -11
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 4
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 10
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 3
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 8
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 9
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 5
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": -11
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 5
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 2
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 10
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 6
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 5
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 4
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 9
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": -18
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Agentic AI and Reasoning Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Identifying and Addressing Knowledge Gaps",
+              "score": 4
+            },
+            {
+              "theme": "Self-Awareness and Self-Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning for Behavioral Improvement",
+              "score": 3
+            },
+            {
+              "theme": "Limitations of Specific Architectures/Methods",
+              "score": 4
+            },
+            {
+              "theme": "Web Browsing and Information Seeking",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Focus on General Performance vs. Specific Self-Awareness",
+              "score": 8
+            },
+            {
+              "theme": "Information Management vs. Internal Epistemic State",
+              "score": 6
+            },
+            {
+              "theme": "Methodology vs. Core Problem",
+              "score": 5
+            },
+            {
+              "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+              "score": 4
+            },
+            {
+              "theme": "Benchmarking and Evaluation vs. Training Objective",
+              "score": 4
+            },
+            {
+              "theme": "Scale and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": -26
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Agentic AI and Reasoning Capabilities",
+            "description": "Many papers discuss enhancing the reasoning abilities, agentic nature, and general intelligence of AI systems, which are seen as foundational for an LLM to understand its own limitations and knowledge gaps."
+          },
+          {
+            "theme": "Identifying and Addressing Knowledge Gaps",
+            "description": "Several explanations highlight the importance of recognizing information gaps, knowing what needs to be found, and structuring evidence to facilitate research, all of which are directly related to an LLM understanding what it doesn't know."
+          },
+          {
+            "theme": "Self-Awareness and Self-Evaluation",
+            "description": "The concept of an LLM having self-awareness, the ability to self-evaluate its capabilities, and recognizing when it lacks sufficient information or understanding is a recurring theme, crucial for acting intelligently and avoiding errors."
+          },
+          {
+            "theme": "Reinforcement Learning for Behavioral Improvement",
+            "description": "Reinforcement learning is mentioned as a method to train LLMs to exhibit desired behaviors, including self-correction, admitting uncertainty, and identifying limitations, which aligns with teaching an LLM to know what it doesn't know."
+          },
+          {
+            "theme": "Limitations of Specific Architectures/Methods",
+            "description": "Some explanations touch upon understanding the limitations of specific models or techniques, like RAG or long-context LLMs, and knowing when they might fail or produce suboptimal results, relating to an LLM recognizing its knowledge boundaries."
+          },
+          {
+            "theme": "Web Browsing and Information Seeking",
+            "description": "The ability of agents to perform effective web browsing and information seeking is linked to knowing what information is relevant, what is unclear, or when they are lost, implicitly involving the recognition of knowledge gaps."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Focus on General Performance vs. Specific Self-Awareness",
+            "description": "Many papers focus on improving general reasoning power, agent capabilities, or performance metrics, rather than specifically targeting the pedagogical challenge of teaching an LLM to recognize its own ignorance or epistemic uncertainty."
+          },
+          {
+            "theme": "Information Management vs. Internal Epistemic State",
+            "description": "Contrastive explanations often point out that the focus is on external information processing, structuring evidence, or search intelligence, rather than the LLM's internal understanding or self-awareness of its own knowledge boundaries."
+          },
+          {
+            "theme": "Methodology vs. Core Problem",
+            "description": "The methodologies employed, such as continual pre-training, synthetic data generation, or specific RL frameworks (like DAPO), are presented as general improvement techniques that may not directly address the nuanced problem of teaching epistemic uncertainty."
+          },
+          {
+            "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+            "description": "Some papers focus on specialized agents (GUI agents, web agents) or specific domains (mathematical reasoning), whereas the target paper addresses a more general LLM limitation applicable across various tasks and model sizes."
+          },
+          {
+            "theme": "Benchmarking and Evaluation vs. Training Objective",
+            "description": "Several contrastive points highlight that the papers focus on benchmarking or evaluating LLM performance in specific tasks (web traversal, RAG, scientific AI) rather than on the explicit objective of teaching the LLM to know what it doesn't know as a core training goal."
+          },
+          {
+            "theme": "Scale and Architecture Focus",
+            "description": "Some research might focus on scaling agents, specific model architectures (e.g., small LLMs), or technical reports covering broad capabilities, which may not prioritize the specific meta-cognitive training emphasized in the target paper."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Agentic AI and Reasoning Capabilities",
+            "weight": 7,
+            "explanation": "This theme is highly relevant as agentic capabilities and reasoning are foundational for an LLM to understand its limitations and knowledge gaps, which is the core of the target paper's subject."
+          },
+          {
+            "theme": "Identifying and Addressing Knowledge Gaps",
+            "weight": 10,
+            "explanation": "This theme directly mirrors the target paper's focus on teaching LLMs to recognize what they don't know, making it extremely important."
+          },
+          {
+            "theme": "Self-Awareness and Self-Evaluation",
+            "weight": 9,
+            "explanation": "Self-awareness and the ability to self-evaluate are critical components of an LLM understanding its own knowledge boundaries, a central theme in the target paper."
+          },
+          {
+            "theme": "Reinforcement Learning for Behavioral Improvement",
+            "weight": 8,
+            "explanation": "RL is a key method for training desired behaviors like admitting uncertainty and identifying limitations, directly supporting the goal of teaching LLMs self-awareness of their knowledge."
+          },
+          {
+            "theme": "Limitations of Specific Architectures/Methods",
+            "weight": 6,
+            "explanation": "While not as central as general self-awareness, understanding model-specific limitations is a practical manifestation of knowing one's boundaries, making it relevant."
+          },
+          {
+            "theme": "Web Browsing and Information Seeking",
+            "weight": 5,
+            "explanation": "This theme is indirectly related; effective information seeking relies on knowing when information is missing or unclear, which implies an awareness of knowledge gaps."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Focus on General Performance vs. Specific Self-Awareness",
+            "weight": 8,
+            "explanation": "Papers that prioritize general performance over specific epistemic uncertainty training are likely less relevant, as they miss the core pedagogical challenge of the target paper."
+          },
+          {
+            "theme": "Information Management vs. Internal Epistemic State",
+            "weight": 7,
+            "explanation": "Research focused on external information processing rather than the LLM's internal understanding of its own knowledge is a contrast to the target paper's focus on internal states."
+          },
+          {
+            "theme": "Methodology vs. Core Problem",
+            "weight": 6,
+            "explanation": "Papers that focus on general methodologies without directly addressing the problem of epistemic uncertainty are less likely to be referencing the specific topic of the target paper."
+          },
+          {
+            "theme": "Task-Specific Capabilities vs. General LLM Limitation",
+            "weight": 7,
+            "explanation": "The target paper addresses a general LLM limitation. Research on specialized agents or domains is less likely to be directly related unless it frames the problem in a generalizable way."
+          },
+          {
+            "theme": "Benchmarking and Evaluation vs. Training Objective",
+            "weight": 6,
+            "explanation": "Papers focused solely on benchmarking or evaluation of existing capabilities, rather than the explicit training objective of knowing what one doesn't know, are less directly relevant."
+          },
+          {
+            "theme": "Scale and Architecture Focus",
+            "weight": 5,
+            "explanation": "Research primarily focused on scaling or specific architectures without emphasizing meta-cognitive training is less likely to be a direct reference to the target paper's core message."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 19,
+    "ordered": [
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.4026609252620845
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.4201002453309901
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.42817017863079654
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.429210808439457
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.4634304108720252
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.5040820132603352
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5458172317005247
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.5459704813466817
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.54727615822868
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.5543831742606743
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.5660212824690283
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.5750471307199583
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.5808690739634739
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.5882582085154704
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.6065390417488893
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.6112956616365233
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.6139555378967487
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6300609546195328
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.6492536564514497
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.652095906117161
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6585703900582248
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.669236366811022
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.6890736009660523
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.6953309316795488
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.6984891717772975
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7247656751191205
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.8020480439585982
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.7332327946695065
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7349302667823232
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.7362923571016801
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7366287797893606
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.7390112120362972
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.767918797889272
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.7795973886681403
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.8355634609904392
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8409730286276064
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.8457728703527444
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.858775457553483
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.8759774390339102
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.8910308839803067
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9076684896460958
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.9105678344822374
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.9226545040105216
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9394874242092384
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.9578733290724887
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.9578759894032212
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.9747805240334441
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.9927477285757584
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 1.0012332795893335
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0146044463972008
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 1.0196742366527758
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.0374691275217773
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.224025340216924
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3973394536925787
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2507.02592",
+      "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+    },
+    "target": {
+      "arxivId": "2406.08391",
+      "title": "Large Language Models Must Be Taught to Know What They Don't Know"
+    }
+  }
+}

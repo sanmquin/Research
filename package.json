@@ -1,0 +1,18 @@
+{
+  "name": "research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago M.",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "ml-regression-multivariate-linear": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}

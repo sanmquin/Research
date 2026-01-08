@@ -1,0 +1,1991 @@
+{
+  "selectedSource": {
+    "arxivId": "2505.23885",
+    "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+  },
+  "target": {
+    "arxivId": "2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"
+  },
+  "scores": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 7
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 8
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 7
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 6
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 9
+            }
+          ]
+        },
+        "score": 97
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 6
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 3
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 9
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 4
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 3
+            }
+          ]
+        },
+        "score": 92
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 4
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 8
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 4
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 3
+            }
+          ]
+        },
+        "score": 84
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 8
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 5
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 9
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 6
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 9
+            }
+          ]
+        },
+        "score": 78
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 10
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 7
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 8
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 7
+            }
+          ]
+        },
+        "score": 77
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 9
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 6
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 7
+            }
+          ]
+        },
+        "score": 75
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 8
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 8
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 6
+            }
+          ]
+        },
+        "score": 74
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 10
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 9
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 8
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 6
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 4
+            }
+          ]
+        },
+        "score": 73
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 6
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 10
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 8
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 6
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 7
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 6
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 7
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 2
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 9
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 5
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 9
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 4
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 8
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 7
+            }
+          ]
+        },
+        "score": 65
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 3
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 4
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 7
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 3
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 2
+            }
+          ]
+        },
+        "score": 62
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 7
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 5
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 9
+            }
+          ]
+        },
+        "score": 62
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 7
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 6
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 8
+            }
+          ]
+        },
+        "score": 61
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 8
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 7
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 6
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 8
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 7
+            }
+          ]
+        },
+        "score": 61
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 4
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 7
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 6
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 4
+            }
+          ]
+        },
+        "score": 60
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 10
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 7
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 8
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 7
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 9
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 8
+            }
+          ]
+        },
+        "score": 55
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 4
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 6
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 5
+            }
+          ]
+        },
+        "score": 52
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 1
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 6
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 1
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 9
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 2
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 1
+            }
+          ]
+        },
+        "score": 52
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 9
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 5
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 7
+            }
+          ]
+        },
+        "score": 43
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 6
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 4
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 4
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 6
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 9
+            }
+          ]
+        },
+        "score": 36
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 4
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 3
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 3
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 3
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 9
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 5
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 2
+            }
+          ]
+        },
+        "score": 29
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 2
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 2
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 2
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 7
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 5
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 3
+            }
+          ]
+        },
+        "score": 6
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 4
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 3
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 5
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 4
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 8
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 5
+            }
+          ]
+        },
+        "score": 4
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agents and Agentic Behavior",
+              "score": 4
+            },
+            {
+              "theme": "Tool Integration and API Mastery",
+              "score": 2
+            },
+            {
+              "theme": "Scalability of LLM Systems",
+              "score": 4
+            },
+            {
+              "theme": "Task Automation and Problem Solving",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Scope and Generality of Tool Use",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Agent Architecture vs. Tool Mastery",
+              "score": 2
+            },
+            {
+              "theme": "Methodological Differences in Training/Learning",
+              "score": 4
+            },
+            {
+              "theme": "Nature of the Contribution (Survey vs. Specific System)",
+              "score": 7
+            },
+            {
+              "theme": "Specificity of Application vs. General Purpose",
+              "score": 10
+            }
+          ]
+        },
+        "score": 0
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) for Tool Use",
+            "description": "A significant number of explanations highlight the relevance of reinforcement learning techniques, such as policy optimization and agent RL, for training LLMs to effectively use tools (APIs). This aligns with ToolLLM's likely approach to mastering a large set of APIs."
+          },
+          {
+            "theme": "LLM Agents and Agentic Behavior",
+            "description": "Several papers discuss 'agent foundation models', 'agentic problem solving', and 'LLM agents'. This theme is central to ToolLLM, as mastering APIs enables LLMs to act as agents capable of performing tasks autonomously or assisting users."
+          },
+          {
+            "theme": "Tool Integration and API Mastery",
+            "description": "The core concept of ToolLLM is the mastery of a large number of real-world APIs. Explanations frequently mention 'tool-integrated reasoning', 'strategic tool use', 'executable code actions', and 'interacting with external tools', all directly related to this theme."
+          },
+          {
+            "theme": "Scalability of LLM Systems",
+            "description": "The scale of ToolLLM (16000+ APIs) is a key differentiator. Explanations referring to 'LLM Reinforcement Learning System at Scale' and the advancement from early models (like Toolformer) to a much larger toolset emphasize the importance of scalability."
+          },
+          {
+            "theme": "Task Automation and Problem Solving",
+            "description": "The ultimate goal of mastering APIs is often framed as enabling 'real-world task automation', 'agentic problem solving', and assisting in complex tasks. This highlights the practical applications of ToolLLM's capabilities."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Scope and Generality of Tool Use",
+            "description": "Several contrastive explanations point out that while related, other papers focus on a more specialized set of tools, specific domains (e.g., math, mobile operation, coding), or specific tasks like web traversal. ToolLLM's distinctiveness lies in its broad mastery of a vast, diverse set of general-purpose real-world APIs."
+          },
+          {
+            "theme": "Focus on Agent Architecture vs. Tool Mastery",
+            "description": "Some contrastive explanations suggest that certain papers emphasize the creation of 'agent foundation models' or multi-agent systems, which might be a different focus than ToolLLM's primary goal of enabling a single LLM to master a large number of individual APIs."
+          },
+          {
+            "theme": "Methodological Differences in Training/Learning",
+            "description": "While RL is a common thread, contrastive points highlight potential differences in training methodologies. This includes distinctions between in-context learning, specialized RL algorithms, multi-agent distillation, or specific feedback mechanisms, suggesting ToolLLM might employ unique or scaled-up approaches."
+          },
+          {
+            "theme": "Nature of the Contribution (Survey vs. Specific System)",
+            "description": "Some contrastive explanations differentiate ToolLLM as a specific system for API mastery from broader survey papers or foundational reports on LLMs. ToolLLM's innovation appears to be in the scale of tool integration and evaluation, rather than a general overview or a single algorithm."
+          },
+          {
+            "theme": "Specificity of Application vs. General Purpose",
+            "description": "Contrastive points indicate that some research focuses on specific applications like mathematical reasoning or code generation, whereas ToolLLM aims for a more general capability applicable across a wide range of tasks through its extensive API repertoire."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) for Tool Use",
+            "weight": 5,
+            "explanation": "Reinforcement learning is explicitly mentioned as a key technique for training LLMs to use tools, which is directly relevant to ToolLLM's goal of mastering numerous APIs."
+          },
+          {
+            "theme": "LLM Agents and Agentic Behavior",
+            "weight": 5,
+            "explanation": "The ability of LLMs to act as agents by mastering APIs is a central concept in ToolLLM, making this theme highly relevant."
+          },
+          {
+            "theme": "Tool Integration and API Mastery",
+            "weight": 5,
+            "explanation": "This theme directly describes the core contribution of ToolLLM, which is the mastery of a vast number of real-world APIs."
+          },
+          {
+            "theme": "Scalability of LLM Systems",
+            "weight": 4,
+            "explanation": "The sheer scale of 16000+ APIs is a significant aspect of ToolLLM, indicating the importance of scalability, though the focus is on the API mastery itself."
+          },
+          {
+            "theme": "Task Automation and Problem Solving",
+            "weight": 4,
+            "explanation": "This theme represents the practical outcome and motivation for ToolLLM's API mastery, highlighting its real-world applicability and thus its importance."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Scope and Generality of Tool Use",
+            "weight": 3,
+            "explanation": "While ToolLLM is general, other papers may also focus on general tool use. The distinctiveness of ToolLLM is its *breadth* across many APIs, which might be a nuance rather than a strict opposition."
+          },
+          {
+            "theme": "Focus on Agent Architecture vs. Tool Mastery",
+            "weight": 3,
+            "explanation": "This theme presents a potential difference in emphasis. ToolLLM's primary focus is tool mastery, but advanced agent architectures could still be relevant or complementary, making this a moderate negative weight."
+          },
+          {
+            "theme": "Methodological Differences in Training/Learning",
+            "weight": 2,
+            "explanation": "While differences in training might exist, the core RL approach is shared. This theme is less critical than the fundamental goal of API mastery."
+          },
+          {
+            "theme": "Nature of the Contribution (Survey vs. Specific System)",
+            "weight": 4,
+            "explanation": "ToolLLM is presented as a specific system, contrasting with surveys. This is a strong differentiator, making papers that are purely surveys less likely to be direct references."
+          },
+          {
+            "theme": "Specificity of Application vs. General Purpose",
+            "weight": 3,
+            "explanation": "Similar to the 'Scope and Generality' theme, ToolLLM's general purpose is key. Papers focused on very specific applications are less likely to reference ToolLLM directly, but the distinction isn't absolute."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.3245686745483568
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.39927928263286816
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.40227152681579426
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.4058443018666753
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.43757924539917215
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.4468058574865803
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.4606583134915848
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.4719820513363885
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.47745671040654847
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.512291446516612
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.5143743886963913
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.515780664963345
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.5471494914818458
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5573246722378399
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.5580967885221839
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.5684649690360515
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.5824724974455444
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.5832269841050619
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6175968156679308
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.6240784051645671
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6470800424310624
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.6620866926916522
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.6635958222666906
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.6770061049023479
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.6916364094262901
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.7313601362254836
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.6444082180581187
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6566712681166923
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6932463079624905
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6956672489834264
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7019436707993638
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.7191777893782683
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7510163052163792
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.7599173923837333
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.7646737137051696
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.7912590467355992
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.8016138169113016
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8239687583570863
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.8244423931879418
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.8331481654511749
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.8573209617800103
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8656300274069489
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.8656883560426957
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.9162848423544329
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9447495167617966
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.9685259406731583
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.0170193286380522
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.0586729896853302
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.0766656396723784
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.0768148468821317
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.1294580275146209
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1436202096934829
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2505.23885",
+      "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+    },
+    "target": {
+      "arxivId": "2307.16789",
+      "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"
+    }
+  }
+}

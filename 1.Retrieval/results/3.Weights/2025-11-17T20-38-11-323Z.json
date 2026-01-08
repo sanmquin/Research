@@ -1,0 +1,2217 @@
+{
+  "selectedSource": {
+    "arxivId": "2505.07773",
+    "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+  },
+  "target": {
+    "arxivId": "2503.23383",
+    "title": "ToRL: Scaling Tool-Integrated RL"
+  },
+  "scores": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 9.5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7.5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 7
+            }
+          ]
+        },
+        "score": 99.5
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 9.5
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 7
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 7
+            }
+          ]
+        },
+        "score": 90.5
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 8.5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7.5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 7
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 6
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 6
+            }
+          ]
+        },
+        "score": 85.5
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6.5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 6
+            }
+          ]
+        },
+        "score": 84.5
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 7.5
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 6
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 6.5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 4
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 3
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 3
+            }
+          ]
+        },
+        "score": 84.5
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 7.5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 8.5
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 6.5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 7
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 6
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 6
+            }
+          ]
+        },
+        "score": 81
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 7
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 3
+            }
+          ]
+        },
+        "score": 81
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7.5
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 5
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 5
+            }
+          ]
+        },
+        "score": 74
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 8
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7.5
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 7
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 6
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 6
+            }
+          ]
+        },
+        "score": 74
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 5
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 9
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 5
+            }
+          ]
+        },
+        "score": 74
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 8.5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 5
+            }
+          ]
+        },
+        "score": 74
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 8.5
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 8
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7.5
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 7
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 6
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 6
+            }
+          ]
+        },
+        "score": 72.5
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 4
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 8
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 3
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 3
+            }
+          ]
+        },
+        "score": 65
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 7.5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5.5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 3
+            }
+          ]
+        },
+        "score": 63
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 6.5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 9
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 4
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 3
+            }
+          ]
+        },
+        "score": 61
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 6.5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 6
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 6
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 5
+            }
+          ]
+        },
+        "score": 59
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 8.5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 8
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 8
+            }
+          ]
+        },
+        "score": 56.5
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7.5
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 9.5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 5
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 5
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 3
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 5
+            }
+          ]
+        },
+        "score": 55
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 7
+            }
+          ]
+        },
+        "score": 41
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 7
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 3
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 3
+            }
+          ]
+        },
+        "score": 39
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 4
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 3
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 9
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 4
+            }
+          ]
+        },
+        "score": 24
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 4
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 5
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 3
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 6
+            }
+          ]
+        },
+        "score": 19
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 8
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 5
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 7
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 8
+            }
+          ]
+        },
+        "score": 14
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 0
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 2
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 1
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 1
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 10
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 1
+            }
+          ]
+        },
+        "score": 9
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 8
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 3
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 4
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 7
+            }
+          ]
+        },
+        "score": 5
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Tool Integration and Use",
+              "score": 1
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Scaling Agent Systems",
+              "score": 2
+            },
+            {
+              "theme": "LLM Agents and Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Sequential Decision Making",
+              "score": 1
+            },
+            {
+              "theme": "Agentic Behavior and Problem Solving",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methodology",
+              "score": 2
+            },
+            {
+              "theme": "Algorithmic vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Data Generation vs. RL Training Mechanism",
+              "score": 2
+            },
+            {
+              "theme": "Analysis/Critique vs. Development",
+              "score": 2
+            },
+            {
+              "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Capabilities vs. Specific RL Scaling",
+              "score": 9
+            }
+          ]
+        },
+        "score": -12
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Tool Integration and Use",
+            "description": "Many papers are relevant because they explicitly discuss or demonstrate the integration and use of tools (e.g., code execution, search engines, GUI interaction) within language models or agent systems."
+          },
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "description": "A significant number of papers focus on Reinforcement Learning, including its core concepts like policy optimization, agent training, and RL algorithms (e.g., PPO), which are central to the target paper 'ToRL'."
+          },
+          {
+            "theme": "Scaling Agent Systems",
+            "description": "Several explanations highlight the 'scaling' aspect, either directly mentioning 'Agent RL Scaling Law' or discussing methods and challenges related to making agent systems larger, more complex, or more efficient, which aligns with ToRL's objective."
+          },
+          {
+            "theme": "LLM Agents and Capabilities",
+            "description": "The relevance of many papers stems from their focus on Large Language Models (LLMs) as agents, exploring their reasoning, problem-solving, decision-making, and advanced capabilities like acting agentically or using information."
+          },
+          {
+            "theme": "Sequential Decision Making",
+            "description": "Concepts like 'multi-turn', 'sequence', and 'sequential decision-making' appear frequently, indicating the importance of handling temporal dependencies and planning in tool-using agent systems."
+          },
+          {
+            "theme": "Agentic Behavior and Problem Solving",
+            "description": "Papers discussing 'agentic RL', 'agentic problem solving', and 'information-seeking' behaviors are relevant as they explore the autonomous capabilities of agents, often enhanced by tool use."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Focus on Specific Applications vs. General Methodology",
+            "description": "Some papers are less relevant because their focus is on very specific application domains (e.g., mathematical reasoning, web traversal, mobile device operation, code generation) or particular tool types (e.g., search engines), whereas ToRL aims for a more general methodology for scaling tool-integrated RL."
+          },
+          {
+            "theme": "Algorithmic vs. Methodological Contribution",
+            "description": "Papers presenting a specific RL algorithm (like PPO) or a particular agent architecture (like Group-in-Group) might be less directly relevant than papers that propose a broader methodology for scaling the *integration* of tools within RL, which is ToRL's core contribution."
+          },
+          {
+            "theme": "Data Generation vs. RL Training Mechanism",
+            "description": "Papers primarily focused on 'Data Synthesizing' or knowledge bases might be less relevant to ToRL, which is concerned with the scaling of the *reinforcement learning training mechanism* for tool-using agents, rather than data generation itself."
+          },
+          {
+            "theme": "Analysis/Critique vs. Development",
+            "description": "Papers offering a critical perspective or analysis of existing training methodologies might differ from ToRL's likely goal of presenting a novel method for developing and scaling tool-integrated RL systems."
+          },
+          {
+            "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+            "description": "While papers like Toolformer demonstrate *how* LLMs can learn to use tools, ToRL is focused on *scaling the reinforcement learning* aspect for systems that already employ tool use, suggesting a difference in emphasis between initial learning and scaling established capabilities."
+          },
+          {
+            "theme": "General LLM Capabilities vs. Specific RL Scaling",
+            "description": "Some papers might focus on general LLM capabilities like few-shot learning or in-context learning. ToRL's relevance hinges on its specific contribution to scaling the *RL* aspect of *tool-integrated* systems, rather than broader LLM advancements."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Tool Integration and Use",
+            "weight": 5,
+            "explanation": "The target paper 'ToRL' explicitly focuses on scaling tool-integrated RL, making this theme directly relevant and of highest importance."
+          },
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "weight": 5,
+            "explanation": "'ToRL' stands for Tool-integrated Reinforcement Learning, so RL is a core component and thus extremely important."
+          },
+          {
+            "theme": "Scaling Agent Systems",
+            "weight": 5,
+            "explanation": "The 'Scaling' in 'ToRL' directly relates to this theme, indicating its high importance for predicting references."
+          },
+          {
+            "theme": "LLM Agents and Capabilities",
+            "weight": 4,
+            "explanation": "Tool-using RL agents are a type of LLM agent, so papers focusing on LLM agents are highly relevant, though perhaps slightly less direct than the core RL and tool integration aspects."
+          },
+          {
+            "theme": "Sequential Decision Making",
+            "weight": 3,
+            "explanation": "Tool-using agents often involve sequential decision making, which is relevant to the operational aspect of RL agents, but might be a secondary focus compared to the core RL and scaling."
+          },
+          {
+            "theme": "Agentic Behavior and Problem Solving",
+            "weight": 4,
+            "explanation": "The ability of agents to act autonomously and solve problems using tools is a key aspect of the systems that ToRL aims to scale."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Focus on Specific Applications vs. General Methodology",
+            "weight": 3,
+            "explanation": "While ToRL is general, some specific applications might still use similar scaling principles, making this theme moderately important for exclusion but not entirely irrelevant."
+          },
+          {
+            "theme": "Algorithmic vs. Methodological Contribution",
+            "weight": 4,
+            "explanation": "ToRL focuses on methodology for scaling, so papers detailing only specific algorithms or architectures without a clear scaling methodology are less likely to be highly relevant."
+          },
+          {
+            "theme": "Data Generation vs. RL Training Mechanism",
+            "weight": 3,
+            "explanation": "ToRL is about scaling RL training, so papers focused solely on data generation are less relevant, but there might be overlap in how data generation impacts RL training efficiency."
+          },
+          {
+            "theme": "Analysis/Critique vs. Development",
+            "weight": 2,
+            "explanation": "Papers that only analyze or critique existing methods are less likely to directly reference a paper proposing a new development, making this theme of low importance for exclusion."
+          },
+          {
+            "theme": "Foundational Tool Learning vs. Scaling RL with Tools",
+            "weight": 4,
+            "explanation": "ToRL is about scaling RL with tools, not foundational tool learning itself. Papers focused purely on the initial learning of tool use are less relevant."
+          },
+          {
+            "theme": "General LLM Capabilities vs. Specific RL Scaling",
+            "weight": 4,
+            "explanation": "ToRL's specificity is in scaling RL for tool use. Papers discussing general LLM capabilities without this specific context are less likely to be relevant."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.362616552147604
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.3932492369123429
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.46539087779468613
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.4772052068421203
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.4999103330576299
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.5044665509454491
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.5056028576000826
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.5316544111512942
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.5405331630332224
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.5422271371773713
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.5436268032509175
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.5488059061952385
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.5511451939777001
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.5516328036956688
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5558744883360707
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.5670519747090348
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.5814649983360534
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.5822341969824549
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.5910452249196612
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.617905725923777
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6191637113233939
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6206573774507874
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6236429044380087
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.6314825973151618
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6331582398848651
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.6718475218940988
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.6185939762994943
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6258372313832486
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.7189262858138401
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.7553396087983321
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.7579741666366466
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.7736962329637952
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.7829689114293956
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.7846698904536108
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7854478227152264
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.8264595765346455
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.8348486622928201
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.8443578685662211
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.8736019018180362
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.8814583702402813
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.910682447760792
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9233150484215783
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.9363976342824534
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9450584270176429
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.9512663048917294
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.9566966206566052
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.9580818051787013
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.9668607166888186
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.0168973421840857
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.0187552687399248
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1.0372419529664003
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1296984071472855
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2505.07773",
+      "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+    },
+    "target": {
+      "arxivId": "2503.23383",
+      "title": "ToRL: Scaling Tool-Integrated RL"
+    }
+  }
+}

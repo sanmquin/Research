@@ -1,0 +1,822 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2509.02479",
+      "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+    },
+    "target": {
+      "arxivId": "2506.13585",
+      "title": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention"
+    }
+  },
+  "embeddings": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "distance": 0.552937990467081
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.5559660563234076
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.5657536197771282
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.575982051373356
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.579349175405252
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "distance": 0.5845818148238862
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "distance": 0.5851800924796497
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "distance": 0.599851243023052
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "distance": 0.6142144124907103
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.6181416884751685
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.6215121295892282
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "distance": 0.6248498985474211
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "distance": 0.6346637174772221
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "distance": 0.6387570726376809
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.6472216109478861
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "distance": 0.6487606450600798
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "distance": 0.661425058248688
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "distance": 0.6670062191521546
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.6708934829917931
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "distance": 0.6852151122469659
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6854263014710429
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.6876740038773327
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "distance": 0.6925985753803714
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.7042603524433892
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "distance": 0.7048563303316101
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "distance": 0.715520076289831
+      }
+    ]
+  },
+  "llm": {
+    "rank": 1,
+    "ordered": [
+      {
+        "index": 1,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 7,
+        "reason": "The target paper focuses on efficient test-time computation for large models, and this paper's emphasis on end-to-end reinforcement learning for reasoning with tools suggests potential parallels in optimizing computational processes for complex tasks."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 7,
+        "reason": "Both papers deal with agent-based systems and optimization, potentially involving shared techniques for efficient operation or scaling."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 8,
+        "reason": "This paper's title directly relates to policy optimization, which is a core concept in reinforcement learning. The target paper's focus on efficient computation could be a specific application or extension of such optimization techniques."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "This paper involves agentic systems and data synthesis, which might share computational efficiency concerns with the target paper, though the core focus seems different."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 5,
+        "reason": "Deals with agentic problem-solving, which could involve efficient resource utilization that is relevant to the target paper's theme of scaling test-time compute."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 6,
+        "reason": "Focuses on optimization within multi-agent systems, which could have implications for efficient computation and scaling, similar to the target paper."
+      },
+      {
+        "index": 7,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 6,
+        "reason": "Discusses in-context reinforcement learning, which is a relevant area for efficient LLM operations. Scaling test-time compute is a direct concern in such scenarios."
+      },
+      {
+        "index": 8,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 8,
+        "reason": "This paper's focus on policy optimization for LLM agents directly relates to efficient training and potentially inference, aligning with the target paper's goal of scaling compute."
+      },
+      {
+        "index": 9,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 4,
+        "reason": "A technical report on a specific LLM might contain details on its efficient deployment or scaling, which could be relevant to the target paper's focus on test-time compute efficiency."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 6,
+        "reason": "Investigates scaling laws for agent RL, which directly connects to the target paper's theme of scaling test-time compute efficiently."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 6,
+        "reason": "Focuses on RL for tool use in LLMs, which involves efficient execution of complex operations, a theme echoed in the target paper's interest in efficient computation."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 3,
+        "reason": "While this paper discusses training, its focus on a critical perspective might not directly align with the target paper's emphasis on computational efficiency."
+      },
+      {
+        "index": 13,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 7,
+        "reason": "This paper focuses on scaling RL systems for LLMs, which is highly relevant to the target paper's concern with efficient test-time computation and scaling."
+      },
+      {
+        "index": 14,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 6,
+        "reason": "Involves RL for LLMs to perform complex tasks (reasoning, search), implying a need for computational efficiency, a core aspect of the target paper."
+      },
+      {
+        "index": 15,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 5,
+        "reason": "Benchmarking LLMs for web traversal could involve evaluating their computational efficiency and scaling, making it potentially relevant."
+      },
+      {
+        "index": 16,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 4,
+        "reason": "A survey of GUI agents might touch upon computational demands and efficiency, but it's a broader topic."
+      },
+      {
+        "index": 17,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 5,
+        "reason": "Focuses on agents for mobile devices, where computational efficiency is often critical. This aligns with the target paper's theme."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "While related to LLMs, the focus on mathematical reasoning might not directly overlap with the target paper's emphasis on efficient computation scaling."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 6,
+        "reason": "Focuses on improving LLM agents through executable code, which implies a need for efficient execution and potentially scaling compute resources."
+      },
+      {
+        "index": 20,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 5,
+        "reason": "Involves agent systems for coding, which could benefit from efficient computation, making it relevant to the target paper."
+      },
+      {
+        "index": 21,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 4,
+        "reason": "Iterative refinement might involve computational overhead, so efficiency could be a related concern."
+      },
+      {
+        "index": 22,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 6,
+        "reason": "Explores reinforcement learning for language agents, which is a core area for understanding efficient agent operation and scaling compute."
+      },
+      {
+        "index": 23,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 5,
+        "reason": "Focuses on LLMs learning to use tools, which can be computationally intensive, suggesting a relevance to efficient computation."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 6,
+        "reason": "This paper combines reasoning and acting in LLMs, which can be computationally demanding. Efficient scaling of such processes is relevant to the target paper."
+      },
+      {
+        "index": 25,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 3,
+        "reason": "A foundational paper on few-shot learning, which might not directly address the specific computational scaling issues of the target paper."
+      },
+      {
+        "index": 26,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 5,
+        "reason": "A foundational RL algorithm. While relevant to policy optimization, it's a general algorithm and may not directly connect to the specific LLM context and scaling challenges of the target paper."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 13,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 8,
+        "reason": "Directly relates to RL agent training and code execution, similar to the start and potentially useful for the target's focus on efficient compute."
+      },
+      {
+        "index": 2,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 7,
+        "reason": "Focuses on LLM agents and their capabilities, which is relevant to optimizing agent performance like the target paper."
+      },
+      {
+        "index": 3,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 8,
+        "reason": "Combines LLMs, RL, and search, which could be relevant for optimizing computational efficiency in agent tasks."
+      },
+      {
+        "index": 4,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 9,
+        "reason": "Focuses on scaling RL for LLMs, directly aligning with the target's goal of scaling compute efficiently."
+      },
+      {
+        "index": 5,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 7,
+        "reason": "The concept of iterative refinement could be applied to optimize computational processes for efficiency."
+      },
+      {
+        "index": 6,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 7,
+        "reason": "Focuses on improving LLM agents through code execution, a concept that might relate to efficient computation."
+      },
+      {
+        "index": 7,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 8,
+        "reason": "RL for tool use in LLMs is highly relevant to agent optimization, and efficient tool use can reduce compute."
+      },
+      {
+        "index": 8,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 7,
+        "reason": "Connects LLMs and RL, which is a core theme of the start paper and relevant to agent optimization."
+      },
+      {
+        "index": 9,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 6,
+        "reason": "Focuses on code generation agents, which might have some overlap with efficient computation in specialized tasks."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 9,
+        "reason": "Directly extends policy optimization for LLM agents, very close to the start paper and relevant to efficient training."
+      },
+      {
+        "index": 11,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "A foundational paper on agent reasoning and acting, relevant to optimizing agent performance and computation."
+      },
+      {
+        "index": 12,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 5,
+        "reason": "A foundational paper on LLMs, but less directly related to RL or computational scaling."
+      },
+      {
+        "index": 13,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 8,
+        "reason": "Combines RL, tool use, and reasoning, all relevant to optimizing agent performance and potentially compute."
+      },
+      {
+        "index": 14,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 7,
+        "reason": "Focuses on multi-agent assistance and learning, which could inform efficient task execution."
+      },
+      {
+        "index": 15,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 9,
+        "reason": "A key paper on RL for language agents, directly relevant to the start paper and the goal of improving agent capabilities efficiently."
+      },
+      {
+        "index": 16,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 6,
+        "reason": "Discusses training methods for LLMs, which could indirectly relate to computational efficiency."
+      },
+      {
+        "index": 17,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 8,
+        "reason": "A fundamental RL algorithm that underpins many policy optimization techniques, relevant to the start paper."
+      },
+      {
+        "index": 18,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 9,
+        "reason": "Similar to the start paper's focus on group policy optimization, highly relevant to improving agent training efficiency."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 5,
+        "reason": "Focuses on mathematical reasoning, less directly related to agent optimization or computational scaling."
+      },
+      {
+        "index": 20,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 7,
+        "reason": "Focuses on tool use by LLMs, which can be optimized for computational efficiency in agent tasks."
+      },
+      {
+        "index": 21,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 6,
+        "reason": "Deals with agent problem solving, potentially relevant if efficiency is a factor in cross-domain tasks."
+      },
+      {
+        "index": 22,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 4,
+        "reason": "A general technical report for an LLM, less specific to the optimization themes."
+      },
+      {
+        "index": 23,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 8,
+        "reason": "Combines multi-agent distillation and RL, relevant to optimizing agent performance and potentially compute."
+      },
+      {
+        "index": 24,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "Focuses on data synthesis for agents, less directly related to computational efficiency of execution."
+      },
+      {
+        "index": 25,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 6,
+        "reason": "A survey of GUI agents, which might touch upon efficiency, but less directly than RL optimization papers."
+      },
+      {
+        "index": 26,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 6,
+        "reason": "Focuses on mobile agents and multi-agent collaboration, could be relevant if efficiency is a key aspect of mobile operations."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.4083493799907396,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "score": 8,
+          "reason": "Directly relates to RL agent training and code execution, similar to the start and potentially useful for the target's focus on efficient compute."
+        },
+        {
+          "index": 2,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 7,
+          "reason": "Focuses on LLM agents and their capabilities, which is relevant to optimizing agent performance like the target paper."
+        },
+        {
+          "index": 3,
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "score": 8,
+          "reason": "Combines LLMs, RL, and search, which could be relevant for optimizing computational efficiency in agent tasks."
+        },
+        {
+          "index": 4,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 9,
+          "reason": "Focuses on scaling RL for LLMs, directly aligning with the target's goal of scaling compute efficiently."
+        },
+        {
+          "index": 5,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 7,
+          "reason": "The concept of iterative refinement could be applied to optimize computational processes for efficiency."
+        },
+        {
+          "index": 6,
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "score": 7,
+          "reason": "Focuses on improving LLM agents through code execution, a concept that might relate to efficient computation."
+        },
+        {
+          "index": 7,
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "score": 8,
+          "reason": "RL for tool use in LLMs is highly relevant to agent optimization, and efficient tool use can reduce compute."
+        },
+        {
+          "index": 8,
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "score": 7,
+          "reason": "Connects LLMs and RL, which is a core theme of the start paper and relevant to agent optimization."
+        },
+        {
+          "index": 9,
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "score": 6,
+          "reason": "Focuses on code generation agents, which might have some overlap with efficient computation in specialized tasks."
+        },
+        {
+          "index": 10,
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "score": 9,
+          "reason": "Directly extends policy optimization for LLM agents, very close to the start paper and relevant to efficient training."
+        },
+        {
+          "index": 11,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 7,
+          "reason": "A foundational paper on agent reasoning and acting, relevant to optimizing agent performance and computation."
+        },
+        {
+          "index": 12,
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "score": 5,
+          "reason": "A foundational paper on LLMs, but less directly related to RL or computational scaling."
+        },
+        {
+          "index": 13,
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "score": 8,
+          "reason": "Combines RL, tool use, and reasoning, all relevant to optimizing agent performance and potentially compute."
+        },
+        {
+          "index": 14,
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "score": 7,
+          "reason": "Focuses on multi-agent assistance and learning, which could inform efficient task execution."
+        },
+        {
+          "index": 15,
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "score": 9,
+          "reason": "A key paper on RL for language agents, directly relevant to the start paper and the goal of improving agent capabilities efficiently."
+        },
+        {
+          "index": 16,
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "score": 6,
+          "reason": "Discusses training methods for LLMs, which could indirectly relate to computational efficiency."
+        },
+        {
+          "index": 17,
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "score": 8,
+          "reason": "A fundamental RL algorithm that underpins many policy optimization techniques, relevant to the start paper."
+        },
+        {
+          "index": 18,
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "score": 9,
+          "reason": "Similar to the start paper's focus on group policy optimization, highly relevant to improving agent training efficiency."
+        },
+        {
+          "index": 19,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 5,
+          "reason": "Focuses on mathematical reasoning, less directly related to agent optimization or computational scaling."
+        },
+        {
+          "index": 20,
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "score": 7,
+          "reason": "Focuses on tool use by LLMs, which can be optimized for computational efficiency in agent tasks."
+        },
+        {
+          "index": 21,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 6,
+          "reason": "Deals with agent problem solving, potentially relevant if efficiency is a factor in cross-domain tasks."
+        },
+        {
+          "index": 22,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 4,
+          "reason": "A general technical report for an LLM, less specific to the optimization themes."
+        },
+        {
+          "index": 23,
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "score": 8,
+          "reason": "Combines multi-agent distillation and RL, relevant to optimizing agent performance and potentially compute."
+        },
+        {
+          "index": 24,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 5,
+          "reason": "Focuses on data synthesis for agents, less directly related to computational efficiency of execution."
+        },
+        {
+          "index": 25,
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "score": 6,
+          "reason": "A survey of GUI agents, which might touch upon efficiency, but less directly than RL optimization papers."
+        },
+        {
+          "index": 26,
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "score": 6,
+          "reason": "Focuses on mobile agents and multi-agent collaboration, could be relevant if efficiency is a key aspect of mobile operations."
+        }
+      ]
+    }
+  }
+}

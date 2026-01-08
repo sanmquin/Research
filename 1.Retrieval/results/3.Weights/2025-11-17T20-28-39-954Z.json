@@ -1,0 +1,2217 @@
+{
+  "selectedSource": {
+    "arxivId": "2503.20783",
+    "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+  },
+  "target": {
+    "arxivId": "2206.14858",
+    "title": "Solving Quantitative Reasoning Problems with Language Models"
+  },
+  "scores": {
+    "rank": 26,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 7
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 9
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 126
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 10
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 107
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 5
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 106
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 7
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 8
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 104
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 8
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 9
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 6
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 93
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 10
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 9
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 93
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 8
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 6
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 91
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 3
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 88
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 5
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 7
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 4
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 9
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 10
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 76
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 2
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 73
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 3
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 72
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 8
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 70
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 3
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 4
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 66
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 6
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 5
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 65
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 5
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 63
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 3
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 4
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 55
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 7
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 5
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 54
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 2
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 3
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 52
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 7
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 49
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 1
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 2
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 10
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 3
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 1
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 8
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 48
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 1
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 1
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 2
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 10
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 1
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 1
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 43
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 4
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 5
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 5
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 40
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 6
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 4
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 6
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 2
+            }
+          ]
+        },
+        "score": 37
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Agentic Problem Solving and Multi-Agent Systems",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Code Execution",
+              "score": 2
+            },
+            {
+              "theme": "In-Context Learning and Prompting Strategies",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Mathematical/Quantitative Skills",
+              "score": 4
+            },
+            {
+              "theme": "Iterative Improvement and Feedback Mechanisms",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specificity of RL and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+              "score": 4
+            },
+            {
+              "theme": "Scope and Generality of Task Focus",
+              "score": 3
+            },
+            {
+              "theme": "Multi-Agent vs. Single-Agent Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Knowledge Retrieval vs. Core Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Methodological Critiques vs. Positive Contributions",
+              "score": 9
+            }
+          ]
+        },
+        "score": 17
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Agentic Problem Solving and Multi-Agent Systems",
+            "description": "Many papers discuss agents, agent systems, and multi-agent collaboration for problem-solving, which is relevant to breaking down complex quantitative reasoning tasks and potentially coordinating efforts for solutions."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+            "description": "A significant theme is the application and optimization of Reinforcement Learning techniques to train and improve Large Language Models (LLMs) for complex tasks, including quantitative reasoning, through methods like policy optimization and group settings."
+          },
+          {
+            "theme": "Tool Use and Code Execution",
+            "description": "Several papers highlight the importance of LLMs learning to use external tools, such as calculators or executing code, which is crucial for solving quantitative reasoning problems that often require computational capabilities."
+          },
+          {
+            "theme": "In-Context Learning and Prompting Strategies",
+            "description": "The ability of LLMs to learn from context, including few-shot examples and in-context rewards without explicit RL training, is a recurring theme, suggesting methods to enhance reasoning by simply providing appropriate prompts or feedback."
+          },
+          {
+            "theme": "Reasoning and Mathematical/Quantitative Skills",
+            "description": "Directly addressing 'quantitative reasoning', 'mathematical reasoning', and complex problem-solving through structured thought processes like 'chain-of-thought' or iterative refinement ('Self-Refine', 'ReAct') is central to many explanations."
+          },
+          {
+            "theme": "Iterative Improvement and Feedback Mechanisms",
+            "description": "Techniques like 'Self-Refine' and 'verbal reinforcement learning' (Reflexion) are discussed, indicating methods for LLMs to iteratively improve their outputs and reasoning capabilities based on self-feedback or external signals."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity of RL and Training Methodologies",
+            "description": "Many contrastive explanations suggest that while RL is mentioned, the target paper might be less focused on specific RL algorithms (like PPO, group policy optimization) or intricate RL training regimes, potentially favoring broader capabilities like in-context learning or intrinsic reasoning without extensive RL."
+          },
+          {
+            "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+            "description": "Several papers are contrasted because their primary focus is on external aids like tool use, code execution, or search engines, whereas the target paper might be more interested in the LLM's internal, inherent reasoning abilities that can be elicited through prompting or few-shot learning without necessarily needing these external components."
+          },
+          {
+            "theme": "Scope and Generality of Task Focus",
+            "description": "The contrast lies in the scope; some papers focus on very specific applications (e.g., web traversal, GUI agents, mobile assistants, coding) or broad task automation, while the target paper is specifically about 'quantitative reasoning problems', suggesting a narrower, more analytical focus."
+          },
+          {
+            "theme": "Multi-Agent vs. Single-Agent Reasoning",
+            "description": "Some papers emphasize multi-agent systems or collaboration, which might be too complex or specific if the target paper is exploring how a single LLM can perform quantitative reasoning, potentially through more direct prompting or self-contained methods."
+          },
+          {
+            "theme": "Knowledge Retrieval vs. Core Reasoning",
+            "description": "Papers focusing heavily on knowledge bases ('Agent KB') or extensive cross-domain experience might be contrasted if the target paper is more concerned with the LLM's logical and computational reasoning processes rather than its ability to retrieve and synthesize information from a broad knowledge base."
+          },
+          {
+            "theme": "Methodological Critiques vs. Positive Contributions",
+            "description": "Some papers are contrasted because they offer a critical perspective on specific training methodologies, whereas the target paper might be focused on presenting novel methods or demonstrating capabilities for solving quantitative reasoning problems."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Agentic Problem Solving and Multi-Agent Systems",
+            "weight": 3,
+            "explanation": "While the target paper is about quantitative reasoning, the underlying principles of breaking down problems and potentially coordinating steps (even within a single agent's thought process) can relate to agentic approaches. However, it's not the primary focus."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) and Policy Optimization for LLMs",
+            "weight": 4,
+            "explanation": "The ability of LLMs to be trained and optimized for complex tasks like quantitative reasoning through RL is a strong supporting theme, as it directly addresses improving LLM performance on such tasks."
+          },
+          {
+            "theme": "Tool Use and Code Execution",
+            "weight": 5,
+            "explanation": "Quantitative reasoning inherently involves calculations and logical steps that are often best handled by tools like calculators or code execution environments. This theme is highly relevant for enabling LLMs to solve these problems."
+          },
+          {
+            "theme": "In-Context Learning and Prompting Strategies",
+            "weight": 4,
+            "explanation": "Effective prompting and leveraging in-context learning are key to eliciting complex reasoning abilities from LLMs, even without explicit RL training. This is a direct method for improving performance on quantitative reasoning tasks."
+          },
+          {
+            "theme": "Reasoning and Mathematical/Quantitative Skills",
+            "weight": 5,
+            "explanation": "This is the core theme of the target paper. Directly addressing quantitative reasoning, mathematical skills, and structured problem-solving methods is central to the paper's objective."
+          },
+          {
+            "theme": "Iterative Improvement and Feedback Mechanisms",
+            "weight": 4,
+            "explanation": "Quantitative reasoning often benefits from iterative refinement and self-correction. Methods that enable LLMs to improve their reasoning step-by-step based on feedback are highly relevant."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity of RL and Training Methodologies",
+            "weight": 2,
+            "explanation": "While RL is important, the target paper may not delve into the specific algorithms or intricate training regimes, suggesting a broader focus on capability rather than the fine-grained RL mechanics."
+          },
+          {
+            "theme": "Focus on Inherent LLM Capabilities vs. External Aids",
+            "weight": 1,
+            "explanation": "This is a contrasting theme. The target paper is likely more focused on the LLM's inherent reasoning capabilities, and less on the reliance on external aids for the core reasoning process itself, even if tools are used for execution."
+          },
+          {
+            "theme": "Scope and Generality of Task Focus",
+            "weight": 4,
+            "explanation": "The target paper's specific focus on 'quantitative reasoning problems' suggests it's narrower than papers that focus on broad task automation or very diverse applications. This specificity makes it a contrasting theme to overly general approaches."
+          },
+          {
+            "theme": "Multi-Agent vs. Single-Agent Reasoning",
+            "weight": 3,
+            "explanation": "While agentic problem-solving can be relevant, the explicit emphasis on multi-agent systems might be a contrast if the target paper is exploring how a single LLM can solve these problems through its own reasoning capabilities."
+          },
+          {
+            "theme": "Knowledge Retrieval vs. Core Reasoning",
+            "weight": 3,
+            "explanation": "Papers heavily focused on knowledge retrieval might be contrasted. The target paper is likely more concerned with the logical and computational processes of reasoning rather than simply retrieving information, though some factual knowledge might be prerequisite."
+          },
+          {
+            "theme": "Methodological Critiques vs. Positive Contributions",
+            "weight": 2,
+            "explanation": "The target paper is likely presenting a positive contribution or capability demonstration rather than a critique of methodologies, making this a less relevant, thus negative, theme."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 20,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.3067498322900871
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.3267978846727695
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.4167990577357351
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.425963947663778
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.43900714334322866
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.4623132164792729
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.5192733367625518
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.5198841515311489
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5222309230401412
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5226145883082189
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.5318657767941701
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.5362897089686309
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.5707543806911787
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5845529529310283
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.5937791860641068
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.5988572512699213
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.6082557777251514
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.6152600641720238
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.6209098195425979
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.6326665089252659
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.6361510337266612
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.6472578061990897
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.6591577354929468
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.6867486102225077
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.6879559706255672
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6971954929987068
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 23,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.626470028656339
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.6458361160021752
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.692164577159011
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.6989551329992608
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.755550974441208
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.7580665412321135
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.7640208789515373
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.7643356672799387
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7752507609144421
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.7821934888080365
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.817140947401934
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.8195055675657822
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8305362782092502
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8560018384240482
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.869978553949005
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9209318871579727
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.9570077526612241
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9630637371498727
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.990045170415185
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.0140903714393468
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.01429438645813
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0324035061341585
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.0457363263309536
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.0865573522022913
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.095293384287844
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.0953974185323418
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2503.20783",
+      "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+    },
+    "target": {
+      "arxivId": "2206.14858",
+      "title": "Solving Quantitative Reasoning Problems with Language Models"
+    }
+  }
+}

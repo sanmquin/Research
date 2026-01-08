@@ -1,0 +1,1930 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2509.25140",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory"
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation"
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process"
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents"
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks"
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models"
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks"
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code"
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation"
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents"
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling"
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models"
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research"
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge"
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory"
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model"
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs"
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents"
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes"
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents"
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control"
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2409.00872",
+      "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+    },
+    "target": {
+      "arxivId": "2501.15167",
+      "title": "Enhancing intent understanding for ambiguous prompt: A human-machine co-adaption strategy"
+    }
+  },
+  "embeddings": {
+    "rank": 42,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.4813074155335517
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "distance": 0.48831976637774166
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "distance": 0.504841719878301
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "distance": 0.5251285244623001
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "distance": 0.5253560170290187
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "distance": 0.5315005849065026
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "distance": 0.5330059864663115
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "distance": 0.534692411849838
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.5385775779190247
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "distance": 0.5454083386862008
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "distance": 0.5464135655071567
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "distance": 0.5469622016715388
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "distance": 0.5557000743111187
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "distance": 0.5580228437995469
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "distance": 0.5597206486182872
+      },
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "distance": 0.5607277013039017
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "distance": 0.5611821133123067
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.5630870358978304
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "distance": 0.5679148281708319
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "distance": 0.568332044623594
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "distance": 0.5690188868017116
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "distance": 0.5698941626113456
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "distance": 0.5744158774548219
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "distance": 0.5764396952661941
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.578875420445103
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "distance": 0.5790111517998235
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "distance": 0.588485475685538
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "distance": 0.5982299528841728
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "distance": 0.5992643601355043
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "distance": 0.6021935192284882
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "distance": 0.6046477477615536
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "distance": 0.6081287553847055
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "distance": 0.6149801191645096
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "distance": 0.6157771619216494
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "distance": 0.6188933426160705
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "distance": 0.6192316554867134
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "distance": 0.622841317931806
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.6249679241046523
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "distance": 0.6258340696011756
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "distance": 0.6299445759308349
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "distance": 0.6305549167340827
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "distance": 0.6333551903913104
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "distance": 0.6346444147818114
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "distance": 0.6379817890370127
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "distance": 0.6393339057206086
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "distance": 0.6430970918304634
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "distance": 0.6518090727076632
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "distance": 0.6579171096445728
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "distance": 0.6581785640603757
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "distance": 0.6585892420893191
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "distance": 0.6638335327893026
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "distance": 0.674673739845924
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "distance": 0.6813901532246667
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.6865451383366716
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "distance": 0.7018090628073397
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.7024983401363902
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "distance": 0.7030648068413473
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "distance": 0.7049772835623239
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "distance": 0.7481445661080341
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "distance": 0.7589268112145968
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "distance": 0.7866168088495047
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "distance": 0.7969970540208933
+      }
+    ]
+  },
+  "llm": {
+    "rank": 1,
+    "ordered": [
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 8,
+        "reason": "Both the target and this paper focus on self-evolving agents. The target paper specifically mentions 'reasoning memory', which aligns well with 'memory-augmented abilities' in this paper. The self-evolving aspect is a direct match."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 8,
+        "reason": "This paper's focus on 'Agent Self-Evolution' is highly relevant. The 'Investigate-Consolidate-Exploit' strategy might relate to how the target paper's agent builds and uses its reasoning memory, especially in an evolving context."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 7,
+        "reason": "Similar to other self-evolving agents, SEAgent's 'Autonomous Learning from Experience' could tie into the reasoning memory and evolution described in the target."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 7,
+        "reason": "This paper discusses 'Self-Improvement' and 'Experience Replay', which are key components for agents that evolve and learn over time, aligning with the target's self-evolving nature and reasoning memory."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 7,
+        "reason": "The term 'Experiential Learners' directly relates to how an agent might develop its reasoning memory and evolve through experience. It's a strong conceptual overlap."
+      },
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 7,
+        "reason": "This paper explicitly mentions 'Long-Term Memory' and 'MemoryBank', which are directly related to the 'reasoning memory' in the target paper. The enhancement aspect suggests a system that improves over time."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 6,
+        "reason": "The focus on 'Reflective Memory Management' and 'Long-term' memory is very relevant to a 'reasoning memory' that likely develops over time. The 'retrospect' aspect implies learning from past interactions."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 6,
+        "reason": "This paper addresses 'Long-Term Conversational Memory', which is a direct precursor to or component of 'reasoning memory'. Evaluating it suggests methods that could be used or extended by the target paper."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 6,
+        "reason": "Focuses on 'Long-Term Interactive Memory', which is very close to 'reasoning memory'. Benchmarking such memory is a task directly related to understanding and developing these memory systems."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 6,
+        "reason": "The mention of 'Dual-Memory' and 'Personalized Thought Process' suggests sophisticated memory handling that could underpin a 'reasoning memory' system. Personalization implies adaptation."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 6,
+        "reason": "'Memory-Augmented Planning' is a strong indicator. The 'Trajectory-Constructed Memory' could be a form of reasoning memory used for planning."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 6,
+        "reason": "Focuses on 'Agent Procedural Memory'. While 'procedural' might differ from 'reasoning', memory is a core component that the target paper also emphasizes."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 6,
+        "reason": "'Memory-Augmented Generation' and 'Operating System' for memory suggest a deep integration of memory into an agent's functioning, which is relevant to reasoning memory."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 6,
+        "reason": "Directly mentions 'Synergize Memory and Reasoning', which is a perfect match for the target's concept of 'reasoning memory'. 'Long-Horizon Agents' implies complex, evolving tasks."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 6,
+        "reason": "A survey on memory mechanisms is highly relevant as it would cover various types of memory, including potentially reasoning memory, and provide foundational knowledge for the target paper."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 6,
+        "reason": "'Agentic Memory' is a core concept that aligns directly with 'reasoning memory'. This paper likely explores how agents utilize memory."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 6,
+        "reason": "Focuses on 'Scalable Long-Term Memory' for LLM agents, which is a key component of a reasoning memory system. Extension implies improvement and development."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 5,
+        "reason": "MemGPT is a foundational work on integrating memory into LLMs, framing them as operating systems. This is relevant to advanced memory systems like reasoning memory."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 5,
+        "reason": "'Long Context Understanding' and 'Planning' are crucial for effective reasoning. While not directly about memory, these capabilities are supported by sophisticated memory."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 5,
+        "reason": "'Hierarchical Working Memory Management' is a sophisticated form of memory, potentially a component of or related to reasoning memory. 'Long-Horizon Tasks' implies complex reasoning needs."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 5,
+        "reason": "Focuses on evaluating 'Memory in LLM Agents'. This evaluation process is critical for understanding and improving reasoning memory."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 5,
+        "reason": "While focused on 'Short-Term Memory' and 'Tool Calling', 'Memory Management' is a key aspect. Dynamic tool use often requires reasoning."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Focuses on 'Scalable Long-Term Memory' for AI agents, a fundamental aspect that supports advanced reasoning capabilities."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 5,
+        "reason": "'Episodic Memory' is a type of memory that can support reasoning. The 'human-inspired' aspect suggests a sophisticated, potentially reasoning-enabling mechanism."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 5,
+        "reason": "Uses 'Memory' for computer control tasks. The 'Trajectory-as-Exemplar' method implies learning and applying patterns, related to reasoning."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 5,
+        "reason": "'Agentic Problem Solving' and 'Leveraging Experience' are relevant. A knowledge base (KB) can serve as a form of memory for reasoning."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Directly focuses on 'Reasoning Tasks'. While it's about 'Retrievers', the goal of improving reasoning is shared."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 5,
+        "reason": "Learning from mistakes is a form of self-improvement and adaptation, which can be facilitated by a reasoning memory. The 'principle learning' aspect implies a higher cognitive function."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 5,
+        "reason": "Similar to 'learning from mistakes', this paper focuses on learning from errors to improve the model. This continuous learning aspect is relevant to evolving agents with reasoning memory."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 5,
+        "reason": "Investigates 'Reasoning Capacity'. The target paper likely aims to enhance reasoning, and this paper questions how RL affects it, making it a related research question."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 5,
+        "reason": "Focuses on 'Hierarchical Reasoning' and its emergence. This is directly related to the 'reasoning' aspect of the target paper."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 5,
+        "reason": "Mentions 'Collaborative Reasoning'. If the target agent has a complex reasoning process, collaborative aspects might be relevant, or it could be a method for enhancing reasoning."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 4,
+        "reason": "Highlights 'Advanced Reasoning' and 'Agentic Capabilities', which are broad but relevant themes. The long context capability is also important for complex reasoning."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 4,
+        "reason": "Focuses on agents in real environments and 'Open-Ended Tasks'. Such tasks often require sophisticated reasoning and memory."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 4,
+        "reason": "'Autonomous Evaluation and Refinement' is directly related to self-evolution and improvement, which are core aspects of the target paper's premise."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 4,
+        "reason": "The title explicitly mentions 'Agents that Reason'. The method 'Scaling Test-Time Interaction' could be a way to develop or utilize reasoning abilities."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 4,
+        "reason": "Scaling test-time compute can enhance agent performance, including reasoning capabilities, especially for complex tasks that might benefit from reasoning memory."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 4,
+        "reason": "Similar to scaling compute, efficient scaling with code can improve agent capabilities, including reasoning, by allowing more complex computations or memory access."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 4,
+        "reason": "Focuses on scaling for a specific task (code generation). If reasoning is involved in code generation, this paper is relevant."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 4,
+        "reason": "Discusses suboptimal scaling without verification or RL. This implies that for optimal reasoning, certain mechanisms (potentially including memory or verification) are needed."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 4,
+        "reason": "'Test-time scaling' is a broad technique that can be applied to enhance agent performance, including reasoning. It's a meta-technique relevant to improving any agent capability."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 4,
+        "reason": "Developing a 'Generalist Agent' implies it needs robust reasoning and memory to handle diverse web tasks, aligning with the target's advanced capabilities."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 4,
+        "reason": "Provides a 'Realistic Web Environment' for agents. Such environments often require complex reasoning and memory management to navigate."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.15287",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "Similar to WebArena, this provides an environment for 'Web Agent Research'. Complex web tasks necessitate good reasoning and memory."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 4,
+        "reason": "Automated software engineering requires significant reasoning. SWE-agent's success could depend on sophisticated memory and reasoning processes."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 4,
+        "reason": "'Continuous Improvement' aligns with self-evolution. Benchmarking improvement is relevant to understanding how reasoning memory might develop."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 4,
+        "reason": "Inducing 'Programmatic Skills' implies learning complex, structured reasoning. This is relevant to the development of reasoning capabilities."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 4,
+        "reason": "'Retrieval-Augmented Planning' and 'Contextual Memory' are highly relevant to how reasoning can be supported and executed by agents. Multimodal agents often have complex reasoning needs."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 4,
+        "reason": "A survey of 'Self-Evolving Agents' provides a broad overview of the field, which is highly relevant to the target paper's core theme."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 3,
+        "reason": "'Reflective-MCTS' and 'Exploratory Learning' suggest advanced decision-making processes that could be supported by reasoning memory. Exploration implies learning and adaptation."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 3,
+        "reason": "Directly addresses 'Agent Workflow Memory'. While 'workflow' might be specific, memory is central to the target paper."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 3,
+        "reason": "A general survey on autonomous agents covers a broad landscape, including aspects like reasoning and memory that are relevant to the target."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 3,
+        "reason": "LLM-as-a-judge relates to evaluation, which can be used to assess reasoning capabilities. This is indirectly relevant to developing better reasoning systems."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 3,
+        "reason": "'Memory Agent' and 'Long-Context LLM' are relevant. RL-based memory implies sophisticated learning and adaptation, potentially for reasoning."
+      },
+      {
+        "index": 61,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 3,
+        "reason": "'Iterative Refinement' with 'Self-Feedback' is a form of self-improvement and learning, aligning with the self-evolving aspect of the target paper."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 2,
+        "reason": "Embeddings are fundamental for LLMs, and generalizable embeddings could support robust reasoning. However, it's more foundational than directly about reasoning memory or self-evolution."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 2,
+        "reason": "Evaluating agents on complex web tasks is relevant. These tasks often require good reasoning and memory, but the paper focuses on the evaluation environment."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 2,
+        "reason": "While it mentions 'Planning' and 'Long Context Understanding', it's more about agent capabilities than specifically reasoning memory or self-evolution mechanisms."
+      },
+      {
+        "index": 60,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 2,
+        "reason": "This paper is actually listed as #59, and its topic is very relevant. Assuming it's a duplicate entry, but conceptually strong."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 2,
+        "reason": "'Evolutionary' systems are mentioned, which aligns with self-evolution. However, it's a broad overview of advances and challenges."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 2,
+        "reason": "'Self-Adaptive Agents' is relevant to self-evolution, but 'Data-Centric Framework' and 'Learn-by-interact' might be less direct than other memory-focused papers."
+      },
+      {
+        "index": 62,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 1,
+        "reason": "This paper is about visual representation learning, which is very different from reasoning memory and agent self-evolution. Its relevance is minimal."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 1,
+        "reason": "Focuses on fine-tuning and sampling for LLMs. While inference is related to reasoning, the core focus is not memory or self-evolution."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 1,
+        "reason": "This paper seems to be a duplicate entry of #24."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 15,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 9,
+        "reason": "This paper introduces ReAct, a framework that combines reasoning and acting, which is highly relevant to agents that need to understand prompts and perform actions, aligning with the target's focus on intent understanding and agentic capabilities."
+      },
+      {
+        "index": 39,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 9,
+        "reason": "MemGPT's concept of LLMs as operating systems suggests advanced interaction and management, which is crucial for sophisticated intent understanding and agent adaptation."
+      },
+      {
+        "index": 3,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 8,
+        "reason": "Retrieval-augmented planning and contextual memory are key components for agents to effectively process and act upon complex prompts, making this a strong candidate for understanding ambiguous user intents."
+      },
+      {
+        "index": 4,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 8,
+        "reason": "Self-improvement through contextual experience replay is directly applicable to enhancing an agent's ability to understand and adapt to user prompts, especially ambiguous ones, through learning from past interactions."
+      },
+      {
+        "index": 2,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 8,
+        "reason": "This paper focuses on memory and prompting strategies for agent control, which are essential for interpreting user instructions and generating appropriate responses or actions, particularly in ambiguous situations."
+      },
+      {
+        "index": 5,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 8,
+        "reason": "Reflective memory management and personalization are vital for agents to understand nuanced user intents over time, especially in dialogues where ambiguity is common."
+      },
+      {
+        "index": 12,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 7,
+        "reason": "An OS for memory-augmented generation implies sophisticated handling of information and context, which is crucial for understanding and adapting to user intents."
+      },
+      {
+        "index": 21,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 7,
+        "reason": "Personalization and cognitive dual-memory suggest an agent that can better infer user intent based on individual interaction history, directly supporting the target's goal."
+      },
+      {
+        "index": 22,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 7,
+        "reason": "Exploratory learning and reflection are key to an agent's ability to handle uncertainty and refine its understanding, which is important for ambiguous prompts."
+      },
+      {
+        "index": 14,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 7,
+        "reason": "Training retrievers for reasoning tasks implies improving an agent's ability to process information and make logical deductions, which can aid in clarifying ambiguous prompts."
+      },
+      {
+        "index": 10,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 7,
+        "reason": "Scaling test-time interaction for reasoning suggests an agent that learns and adapts during interaction, which is beneficial for understanding dynamic or ambiguous user prompts."
+      },
+      {
+        "index": 33,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 7,
+        "reason": "Synergizing memory and reasoning is fundamental for agents to handle complex and potentially ambiguous instructions effectively."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 6,
+        "reason": "Memory-augmented planning is relevant for agents to execute tasks based on instructions, and improving this can help with intent understanding, especially in complex scenarios."
+      },
+      {
+        "index": 17,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 6,
+        "reason": "Managing memory for dynamic tool calling in multi-turn conversations directly relates to an agent's ability to interpret and respond to user needs, including those with ambiguous prompts."
+      },
+      {
+        "index": 42,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 6,
+        "reason": "Self-evolution through reflection and memory augmentation suggests an agent that can improve its understanding of prompts and adapt its behavior over time."
+      },
+      {
+        "index": 23,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 6,
+        "reason": "Hierarchical memory management is important for agents to process complex instructions, and can contribute to better understanding of user intent, especially in long or intricate dialogues."
+      },
+      {
+        "index": 28,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 6,
+        "reason": "Long-term memory is crucial for agents to build context and understand user intentions consistently over extended interactions, which can help with ambiguous prompts."
+      },
+      {
+        "index": 11,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 6,
+        "reason": "Episodic memory can help agents recall specific past interactions and user preferences, aiding in the interpretation of ambiguous prompts and providing more personalized responses."
+      },
+      {
+        "index": 13,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 6,
+        "reason": "Evaluating long-term interactive memory is directly relevant to how well agents can understand context and user intent across multiple turns, which is key for handling ambiguity."
+      },
+      {
+        "index": 15,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 6,
+        "reason": "Similar to LongMemEval, this focuses on long-term memory, which is essential for agents to maintain context and understand subtle or ambiguous user intents."
+      },
+      {
+        "index": 24,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 6,
+        "reason": "A memory agent focused on long context and reinforcement learning can adapt to and understand complex user needs, including ambiguous ones."
+      },
+      {
+        "index": 7,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 6,
+        "reason": "Long context understanding and planning are vital for agents to process complex instructions and infer user intent, especially in real-world applications."
+      },
+      {
+        "index": 25,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 6,
+        "reason": "Developing a generalist web agent implies capabilities for understanding a wide range of user intents and adapting to diverse web interactions, which includes handling ambiguity."
+      },
+      {
+        "index": 48,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Extending long-term memory directly supports an agent's ability to retain context and understand user intent over extended interactions."
+      },
+      {
+        "index": 52,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Focus on scalable long-term memory for AI agents is relevant to building robust systems that can maintain context and understand user needs, even with ambiguous prompts."
+      },
+      {
+        "index": 26,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 5,
+        "reason": "Learning from errors is a form of adaptation and self-improvement that can help agents refine their understanding of prompts, especially those that were initially misunderstood."
+      },
+      {
+        "index": 27,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 5,
+        "reason": "Learning from mistakes in-context can lead to agents that are more adept at understanding and correcting misinterpretations of user prompts."
+      },
+      {
+        "index": 37,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 5,
+        "reason": "Self-evolution strategies can enable agents to adapt their understanding and processing of prompts over time, improving their ability to handle ambiguity."
+      },
+      {
+        "index": 38,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 5,
+        "reason": "Self-adaptive agents that learn by interacting are better equipped to handle diverse and potentially ambiguous user inputs in real-world scenarios."
+      },
+      {
+        "index": 30,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 5,
+        "reason": "Procedural memory in agents can contribute to more consistent and effective task execution based on instructions, which indirectly supports intent understanding."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 5,
+        "reason": "Leveraging cross-domain experience can help an agent generalize its understanding and problem-solving abilities, making it more robust to novel or ambiguous prompts."
+      },
+      {
+        "index": 50,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 5,
+        "reason": "Autonomous refinement of agents is key to improving their performance, including their ability to accurately interpret user intents, even when they are ambiguous."
+      },
+      {
+        "index": 56,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Iterative refinement with self-feedback can help an agent improve its understanding of prompts by correcting its own interpretations, which is crucial for ambiguous inputs."
+      },
+      {
+        "index": 57,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 5,
+        "reason": "Workflow memory can help agents maintain context and coherence in executing tasks based on instructions, contributing to better intent understanding."
+      },
+      {
+        "index": 40,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 4,
+        "reason": "Collaborative reasoning can help in complex scenarios, but its direct link to understanding individual ambiguous prompts is less pronounced than agent-specific memory or adaptation methods."
+      },
+      {
+        "index": 46,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "While related to agent research, the focus on a specific environment (web browsing) makes it less general than core intent understanding mechanisms."
+      },
+      {
+        "index": 51,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 4,
+        "reason": "This paper focuses on a specific application (software engineering) and agent-computer interfaces, which is less directly related to general ambiguous prompt understanding."
+      },
+      {
+        "index": 53,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 4,
+        "reason": "Scaling compute is a general technique that might improve performance but doesn't directly address the mechanism of intent understanding for ambiguity."
+      },
+      {
+        "index": 60,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 4,
+        "reason": "Similar to other test-time scaling papers, it's a general performance enhancement rather than a specific method for resolving ambiguous intents."
+      },
+      {
+        "index": 61,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 4,
+        "reason": "Focuses on efficiency of test-time scaling, which is a supporting mechanism but not core to understanding ambiguity."
+      },
+      {
+        "index": 62,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 4,
+        "reason": "Discusses test-time scaling limitations, less relevant to the core task of understanding ambiguous prompts."
+      },
+      {
+        "index": 59,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 4,
+        "reason": "Specific to code generation, less relevant to general intent understanding for ambiguous prompts."
+      },
+      {
+        "index": 44,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 4,
+        "reason": "Focuses on sampling strategies, which is a downstream application and not directly about the mechanism of understanding ambiguous prompts."
+      },
+      {
+        "index": 16,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 4,
+        "reason": "Hierarchical reasoning is important, but RL for emergent reasoning might not directly translate to handling ambiguous prompts as effectively as explicit memory or adaptation techniques."
+      },
+      {
+        "index": 31,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 4,
+        "reason": "Questions the impact of RL on reasoning capacity; its direct link to resolving ambiguity in prompts is indirect."
+      },
+      {
+        "index": 19,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 4,
+        "reason": "Highlights advanced capabilities but is a system description rather than a specific technique for ambiguity resolution."
+      },
+      {
+        "index": 6,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 3,
+        "reason": "Focuses on programmatic skills, which is a specific type of agent capability, less directly related to understanding ambiguous natural language prompts."
+      },
+      {
+        "index": 20,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 3,
+        "reason": "Evaluation benchmark for web agents; less focused on the core mechanism of understanding ambiguous prompts."
+      },
+      {
+        "index": 18,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 3,
+        "reason": "Benchmark for multimodal agents; doesn't directly address intent understanding for ambiguous prompts."
+      },
+      {
+        "index": 54,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 3,
+        "reason": "A realistic environment for agents, but the focus is on the environment, not the specific mechanism for resolving ambiguous prompts."
+      },
+      {
+        "index": 41,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 3,
+        "reason": "A survey paper, providing an overview rather than a specific solution for ambiguity resolution."
+      },
+      {
+        "index": 43,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 3,
+        "reason": "Broad overview of foundation agents; less focused on the specific problem of ambiguous prompt understanding."
+      },
+      {
+        "index": 45,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 3,
+        "reason": "A survey on self-evolving agents, offering a high-level perspective but not specific techniques for ambiguity."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 3,
+        "reason": "A survey on memory mechanisms; relevant but less direct than papers proposing specific memory strategies."
+      },
+      {
+        "index": 58,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 3,
+        "reason": "Focuses on LLM evaluation using a judge, not directly on an agent's ability to understand ambiguous prompts."
+      },
+      {
+        "index": 34,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 3,
+        "reason": "A benchmark for continuous improvement; doesn't propose specific methods for resolving ambiguity."
+      },
+      {
+        "index": 36,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 3,
+        "reason": "Focuses on evaluating memory, not on proposing new methods for understanding ambiguous prompts."
+      },
+      {
+        "index": 35,
+        "arxivId": "2308.14432",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 3,
+        "reason": "Experiential learning is a general concept; its application to resolving ambiguous prompts is not detailed."
+      },
+      {
+        "index": 49,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 2,
+        "reason": "This paper is about visual representations and contrastive learning, which is unrelated to LLM agents understanding natural language prompts."
+      },
+      {
+        "index": 55,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 2,
+        "reason": "Focuses on embedding generation, a foundational component, but not directly on the agent's reasoning or adaptation to ambiguous prompts."
+      },
+      {
+        "index": 32,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 2,
+        "reason": "Self-evolving computer use agent; the scope is specific and the link to ambiguous prompt understanding is indirect."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 2,
+        "reason": "While it mentions 'Agentic Memory', the title is broad and doesn't specifically highlight features relevant to resolving ambiguity in prompts."
+      },
+      {
+        "index": 16,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 2,
+        "reason": "RL for emergent reasoning is a broad topic; its direct application to resolving ambiguous user intents is not clear."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.5411495074931971,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 9,
+          "reason": "This paper introduces ReAct, a framework that combines reasoning and acting, which is highly relevant to agents that need to understand prompts and perform actions, aligning with the target's focus on intent understanding and agentic capabilities."
+        },
+        {
+          "index": 39,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 9,
+          "reason": "MemGPT's concept of LLMs as operating systems suggests advanced interaction and management, which is crucial for sophisticated intent understanding and agent adaptation."
+        },
+        {
+          "index": 3,
+          "arxivId": "2402.03610",
+          "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+          "score": 8,
+          "reason": "Retrieval-augmented planning and contextual memory are key components for agents to effectively process and act upon complex prompts, making this a strong candidate for understanding ambiguous user intents."
+        },
+        {
+          "index": 4,
+          "arxivId": "2506.06698",
+          "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+          "score": 8,
+          "reason": "Self-improvement through contextual experience replay is directly applicable to enhancing an agent's ability to understand and adapt to user prompts, especially ambiguous ones, through learning from past interactions."
+        },
+        {
+          "index": 2,
+          "arxivId": "2306.07863",
+          "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+          "score": 8,
+          "reason": "This paper focuses on memory and prompting strategies for agent control, which are essential for interpreting user instructions and generating appropriate responses or actions, particularly in ambiguous situations."
+        },
+        {
+          "index": 5,
+          "arxivId": "2503.08026",
+          "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+          "score": 8,
+          "reason": "Reflective memory management and personalization are vital for agents to understand nuanced user intents over time, especially in dialogues where ambiguity is common."
+        },
+        {
+          "index": 12,
+          "arxivId": "2505.22101",
+          "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+          "score": 7,
+          "reason": "An OS for memory-augmented generation implies sophisticated handling of information and context, which is crucial for understanding and adapting to user intents."
+        },
+        {
+          "index": 21,
+          "arxivId": "2507.04607",
+          "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+          "score": 7,
+          "reason": "Personalization and cognitive dual-memory suggest an agent that can better infer user intent based on individual interaction history, directly supporting the target's goal."
+        },
+        {
+          "index": 22,
+          "arxivId": "2410.02052",
+          "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+          "score": 7,
+          "reason": "Exploratory learning and reflection are key to an agent's ability to handle uncertainty and refine its understanding, which is important for ambiguous prompts."
+        },
+        {
+          "index": 14,
+          "arxivId": "2504.20595",
+          "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+          "score": 7,
+          "reason": "Training retrievers for reasoning tasks implies improving an agent's ability to process information and make logical deductions, which can aid in clarifying ambiguous prompts."
+        },
+        {
+          "index": 10,
+          "arxivId": "2506.07976",
+          "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+          "score": 7,
+          "reason": "Scaling test-time interaction for reasoning suggests an agent that learns and adapts during interaction, which is beneficial for understanding dynamic or ambiguous user prompts."
+        },
+        {
+          "index": 33,
+          "arxivId": "2506.15841",
+          "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+          "score": 7,
+          "reason": "Synergizing memory and reasoning is fundamental for agents to handle complex and potentially ambiguous instructions effectively."
+        },
+        {
+          "index": 8,
+          "arxivId": "2507.21953",
+          "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+          "score": 6,
+          "reason": "Memory-augmented planning is relevant for agents to execute tasks based on instructions, and improving this can help with intent understanding, especially in complex scenarios."
+        },
+        {
+          "index": 17,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 6,
+          "reason": "Managing memory for dynamic tool calling in multi-turn conversations directly relates to an agent's ability to interpret and respond to user needs, including those with ambiguous prompts."
+        },
+        {
+          "index": 42,
+          "arxivId": "2409.00872",
+          "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+          "score": 6,
+          "reason": "Self-evolution through reflection and memory augmentation suggests an agent that can improve its understanding of prompts and adapt its behavior over time."
+        },
+        {
+          "index": 23,
+          "arxivId": "2408.09559",
+          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+          "score": 6,
+          "reason": "Hierarchical memory management is important for agents to process complex instructions, and can contribute to better understanding of user intent, especially in long or intricate dialogues."
+        },
+        {
+          "index": 28,
+          "arxivId": "2305.10250",
+          "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+          "score": 6,
+          "reason": "Long-term memory is crucial for agents to build context and understand user intentions consistently over extended interactions, which can help with ambiguous prompts."
+        },
+        {
+          "index": 11,
+          "arxivId": "2407.09450",
+          "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+          "score": 6,
+          "reason": "Episodic memory can help agents recall specific past interactions and user preferences, aiding in the interpretation of ambiguous prompts and providing more personalized responses."
+        },
+        {
+          "index": 13,
+          "arxivId": "2410.10813",
+          "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+          "score": 6,
+          "reason": "Evaluating long-term interactive memory is directly relevant to how well agents can understand context and user intent across multiple turns, which is key for handling ambiguity."
+        },
+        {
+          "index": 15,
+          "arxivId": "2402.17753",
+          "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+          "score": 6,
+          "reason": "Similar to LongMemEval, this focuses on long-term memory, which is essential for agents to maintain context and understand subtle or ambiguous user intents."
+        },
+        {
+          "index": 24,
+          "arxivId": "2507.02259",
+          "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+          "score": 6,
+          "reason": "A memory agent focused on long context and reinforcement learning can adapt to and understand complex user needs, including ambiguous ones."
+        },
+        {
+          "index": 7,
+          "arxivId": "2307.12856",
+          "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+          "score": 6,
+          "reason": "Long context understanding and planning are vital for agents to process complex instructions and infer user intent, especially in real-world applications."
+        },
+        {
+          "index": 25,
+          "arxivId": "2306.06070",
+          "title": "Mind2Web: Towards a Generalist Agent for the Web",
+          "score": 6,
+          "reason": "Developing a generalist web agent implies capabilities for understanding a wide range of user intents and adapting to diverse web interactions, which includes handling ambiguity."
+        },
+        {
+          "index": 48,
+          "arxivId": "2502.00592",
+          "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+          "score": 5,
+          "reason": "Extending long-term memory directly supports an agent's ability to retain context and understand user intent over extended interactions."
+        },
+        {
+          "index": 52,
+          "arxivId": "2504.19413",
+          "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+          "score": 5,
+          "reason": "Focus on scalable long-term memory for AI agents is relevant to building robust systems that can maintain context and understand user needs, even with ambiguous prompts."
+        },
+        {
+          "index": 26,
+          "arxivId": "2508.12031",
+          "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+          "score": 5,
+          "reason": "Learning from errors is a form of adaptation and self-improvement that can help agents refine their understanding of prompts, especially those that were initially misunderstood."
+        },
+        {
+          "index": 27,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 5,
+          "reason": "Learning from mistakes in-context can lead to agents that are more adept at understanding and correcting misinterpretations of user prompts."
+        },
+        {
+          "index": 37,
+          "arxivId": "2401.13996",
+          "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+          "score": 5,
+          "reason": "Self-evolution strategies can enable agents to adapt their understanding and processing of prompts over time, improving their ability to handle ambiguity."
+        },
+        {
+          "index": 38,
+          "arxivId": "2501.10893",
+          "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+          "score": 5,
+          "reason": "Self-adaptive agents that learn by interacting are better equipped to handle diverse and potentially ambiguous user inputs in real-world scenarios."
+        },
+        {
+          "index": 30,
+          "arxivId": "2508.06433",
+          "title": "Memp: Exploring Agent Procedural Memory",
+          "score": 5,
+          "reason": "Procedural memory in agents can contribute to more consistent and effective task execution based on instructions, which indirectly supports intent understanding."
+        },
+        {
+          "index": 9,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 5,
+          "reason": "Leveraging cross-domain experience can help an agent generalize its understanding and problem-solving abilities, making it more robust to novel or ambiguous prompts."
+        },
+        {
+          "index": 50,
+          "arxivId": "2404.06474",
+          "title": "Autonomous Evaluation and Refinement of Digital Agents",
+          "score": 5,
+          "reason": "Autonomous refinement of agents is key to improving their performance, including their ability to accurately interpret user intents, even when they are ambiguous."
+        },
+        {
+          "index": 56,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 5,
+          "reason": "Iterative refinement with self-feedback can help an agent improve its understanding of prompts by correcting its own interpretations, which is crucial for ambiguous inputs."
+        },
+        {
+          "index": 57,
+          "arxivId": "2409.07429",
+          "title": "Agent Workflow Memory",
+          "score": 5,
+          "reason": "Workflow memory can help agents maintain context and coherence in executing tasks based on instructions, contributing to better intent understanding."
+        },
+        {
+          "index": 40,
+          "arxivId": "2504.09772",
+          "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+          "score": 4,
+          "reason": "Collaborative reasoning can help in complex scenarios, but its direct link to understanding individual ambiguous prompts is less pronounced than agent-specific memory or adaptation methods."
+        },
+        {
+          "index": 46,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 4,
+          "reason": "While related to agent research, the focus on a specific environment (web browsing) makes it less general than core intent understanding mechanisms."
+        },
+        {
+          "index": 51,
+          "arxivId": "2405.15793",
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "score": 4,
+          "reason": "This paper focuses on a specific application (software engineering) and agent-computer interfaces, which is less directly related to general ambiguous prompt understanding."
+        },
+        {
+          "index": 53,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 4,
+          "reason": "Scaling compute is a general technique that might improve performance but doesn't directly address the mechanism of intent understanding for ambiguity."
+        },
+        {
+          "index": 60,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 4,
+          "reason": "Similar to other test-time scaling papers, it's a general performance enhancement rather than a specific method for resolving ambiguous intents."
+        },
+        {
+          "index": 61,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 4,
+          "reason": "Focuses on efficiency of test-time scaling, which is a supporting mechanism but not core to understanding ambiguity."
+        },
+        {
+          "index": 62,
+          "arxivId": "2502.12118",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 4,
+          "reason": "Discusses test-time scaling limitations, less relevant to the core task of understanding ambiguous prompts."
+        },
+        {
+          "index": 59,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 4,
+          "reason": "Specific to code generation, less relevant to general intent understanding for ambiguous prompts."
+        },
+        {
+          "index": 44,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 4,
+          "reason": "Focuses on sampling strategies, which is a downstream application and not directly about the mechanism of understanding ambiguous prompts."
+        },
+        {
+          "index": 16,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 4,
+          "reason": "Hierarchical reasoning is important, but RL for emergent reasoning might not directly translate to handling ambiguous prompts as effectively as explicit memory or adaptation techniques."
+        },
+        {
+          "index": 31,
+          "arxivId": "2504.13837",
+          "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+          "score": 4,
+          "reason": "Questions the impact of RL on reasoning capacity; its direct link to resolving ambiguity in prompts is indirect."
+        },
+        {
+          "index": 19,
+          "arxivId": "2507.06261",
+          "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+          "score": 4,
+          "reason": "Highlights advanced capabilities but is a system description rather than a specific technique for ambiguity resolution."
+        },
+        {
+          "index": 6,
+          "arxivId": "2504.06821",
+          "title": "Inducing Programmatic Skills for Agentic Tasks",
+          "score": 3,
+          "reason": "Focuses on programmatic skills, which is a specific type of agent capability, less directly related to understanding ambiguous natural language prompts."
+        },
+        {
+          "index": 20,
+          "arxivId": "2506.01952",
+          "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+          "score": 3,
+          "reason": "Evaluation benchmark for web agents; less focused on the core mechanism of understanding ambiguous prompts."
+        },
+        {
+          "index": 18,
+          "arxivId": "2404.07972",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "score": 3,
+          "reason": "Benchmark for multimodal agents; doesn't directly address intent understanding for ambiguous prompts."
+        },
+        {
+          "index": 54,
+          "arxivId": "2307.13854",
+          "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "score": 3,
+          "reason": "A realistic environment for agents, but the focus is on the environment, not the specific mechanism for resolving ambiguous prompts."
+        },
+        {
+          "index": 41,
+          "arxivId": "2308.11432",
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 3,
+          "reason": "A survey paper, providing an overview rather than a specific solution for ambiguity resolution."
+        },
+        {
+          "index": 43,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 3,
+          "reason": "Broad overview of foundation agents; less focused on the specific problem of ambiguous prompt understanding."
+        },
+        {
+          "index": 45,
+          "arxivId": "2507.21046",
+          "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+          "score": 3,
+          "reason": "A survey on self-evolving agents, offering a high-level perspective but not specific techniques for ambiguity."
+        },
+        {
+          "index": 47,
+          "arxivId": "2404.13501",
+          "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+          "score": 3,
+          "reason": "A survey on memory mechanisms; relevant but less direct than papers proposing specific memory strategies."
+        },
+        {
+          "index": 58,
+          "arxivId": "2411.15594",
+          "title": "A Survey on LLM-as-a-Judge",
+          "score": 3,
+          "reason": "Focuses on LLM evaluation using a judge, not directly on an agent's ability to understand ambiguous prompts."
+        },
+        {
+          "index": 34,
+          "arxivId": "2406.08747",
+          "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+          "score": 3,
+          "reason": "A benchmark for continuous improvement; doesn't propose specific methods for resolving ambiguity."
+        },
+        {
+          "index": 36,
+          "arxivId": "2507.05257",
+          "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+          "score": 3,
+          "reason": "Focuses on evaluating memory, not on proposing new methods for understanding ambiguous prompts."
+        },
+        {
+          "index": 35,
+          "arxivId": "2308.14432",
+          "title": "ExpeL: LLM Agents Are Experiential Learners",
+          "score": 3,
+          "reason": "Experiential learning is a general concept; its application to resolving ambiguous prompts is not detailed."
+        },
+        {
+          "index": 49,
+          "arxivId": "2002.05709",
+          "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "score": 2,
+          "reason": "This paper is about visual representations and contrastive learning, which is unrelated to LLM agents understanding natural language prompts."
+        },
+        {
+          "index": 55,
+          "arxivId": "2503.07891",
+          "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+          "score": 2,
+          "reason": "Focuses on embedding generation, a foundational component, but not directly on the agent's reasoning or adaptation to ambiguous prompts."
+        },
+        {
+          "index": 32,
+          "arxivId": "2508.04700",
+          "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+          "score": 2,
+          "reason": "Self-evolving computer use agent; the scope is specific and the link to ambiguous prompt understanding is indirect."
+        },
+        {
+          "index": 29,
+          "arxivId": "2502.12110",
+          "title": "A-MEM: Agentic Memory for LLM Agents",
+          "score": 2,
+          "reason": "While it mentions 'Agentic Memory', the title is broad and doesn't specifically highlight features relevant to resolving ambiguity in prompts."
+        },
+        {
+          "index": 16,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 2,
+          "reason": "RL for emergent reasoning is a broad topic; its direct application to resolving ambiguous user intents is not clear."
+        }
+      ]
+    }
+  }
+}

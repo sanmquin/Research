@@ -1,0 +1,829 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2504.12516",
+      "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+    },
+    "target": {
+      "arxivId": "1803.05355",
+      "title": "FEVER: a Large-scale Dataset for Fact Extraction and VERification"
+    }
+  },
+  "embeddings": {
+    "rank": 19,
+    "ordered": [
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.4629042401127792
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.5095419995148447
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.5183204799712828
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.5525863188399298
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.5581940719996394
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.5680194617938131
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.576993014764152
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.5915494155006471
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.6049992179575137
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.6126450259466036
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.6247712875262499
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.6252087865911921
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.6262411227560656
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.6377056878431102
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.6447315759631669
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.6454589910829724
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.6520302605336555
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.6527347110257498
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.6585786131764162
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.6718184184152911
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.6849253011419039
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.6912735184394625
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.6949260442842828
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.7025693320315234
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.7062230991723562
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.7406064385647922
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.8172371468003516
+      }
+    ]
+  },
+  "llm": {
+    "rank": 6,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 10,
+        "reason": "This paper introduces the ReAct framework, which directly combines reasoning and acting, a core concept for agents performing tasks like information retrieval and verification. It's highly relevant to bridging the gap between an agent's reasoning capabilities and its ability to interact with external tools or environments to achieve a target."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 9,
+        "reason": "This paper directly addresses 'Fact', 'Fetch', and 'Reason', which are crucial components for a system aiming to extract and verify information. Its focus on Retrieval-Augmented Generation (RAG) is a key paradigm for building such agents."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 8,
+        "reason": "Scaling agent capabilities through continual pre-training is directly relevant to improving the underlying intelligence of agents that would perform fact extraction and verification. Better foundational models lead to better performance on downstream tasks."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 8,
+        "reason": "This paper focuses on structuring web-scale evidence for deep research, which involves gathering and organizing information, a prerequisite for fact extraction and verification. It's about managing and understanding large amounts of information from the web."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 7,
+        "reason": "Web browsing and evaluation are essential for fact-finding and verification. Benchmarking these abilities is a direct step towards understanding and improving agent performance in this domain."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 7,
+        "reason": "Similar to BrowseComp-ZH, this paper focuses on benchmarking web browsing for agents. Evaluating an agent's ability to navigate and extract information from the web is critical for its use in verification tasks."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 7,
+        "reason": "Web traversal is a fundamental skill for any agent that needs to gather information from the internet. Benchmarking this capability is essential for building effective information retrieval and verification agents."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 7,
+        "reason": "This paper advances GUI agents with multi-turn reinforcement learning. While focused on GUI, the underlying principles of interactive learning and acting are transferable to web-based information gathering and verification."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 6,
+        "reason": "Focuses on reasoning capabilities for long-horizon agents, which is relevant for complex fact-finding missions. Unbounded reasoning is a step towards more robust verification."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 6,
+        "reason": "This paper deals with information-seeking and data synthesis, which are related to gathering and processing information required for verification."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 6,
+        "reason": "Aims for super-human reasoning in web agents. Better reasoning is crucial for accurate fact extraction and verification. Focus on navigation is also relevant."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 6,
+        "reason": "Improvements to web agents, especially with RL, can enhance their ability to perform complex information gathering and verification tasks."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 6,
+        "reason": "Context summarization is useful for processing large amounts of information gathered during research, aiding in the verification process."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 6,
+        "reason": "Focuses on autonomous information seeking, which is a core component of fact extraction and verification."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 6,
+        "reason": "Empowering reasoning models with research capabilities is directly applicable to building systems that can find and verify facts."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 6,
+        "reason": "Focuses on improving reasoning capabilities of LLMs through RL, which is fundamental for accurate fact extraction and verification."
+      },
+      {
+        "arxivId": "2001.11852",
+        "title": "Humanity's Last Exam",
+        "score": 5,
+        "reason": "This paper presents a challenging benchmark for AI, often involving complex reasoning and knowledge recall, which can be related to the capabilities needed for fact verification, though it's not directly about information extraction from the web."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 5,
+        "reason": "Discusses the future of agentic AI. While not specific to fact verification, advancements in agent architectures are generally relevant."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 5,
+        "reason": "Focuses on general-purpose scientific AI agents. Scientific verification often requires deep domain knowledge and rigorous checking, making it relevant."
+      },
+      {
+        "arxivId": "2501.02592",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 5,
+        "reason": "RL for interactive agents is relevant for learning how to best search for and verify information over extended interactions."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "General agentic intelligence is a broad goal that encompasses the abilities needed for fact extraction and verification."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 5,
+        "reason": "Foundation models with strong reasoning capabilities are a prerequisite for reliable fact extraction and verification."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 4,
+        "reason": "Benchmarks RAG and long-context LLMs, which are foundational technologies for retrieving and processing information for verification tasks, but it's a benchmark rather than an agent system."
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 4,
+        "reason": "An RL system for LLMs could be applied to train agents for fact verification, but the paper itself is about the system, not its application to this specific task."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 4,
+        "reason": "This paper focuses on RL for interactive agents, which is relevant, but might be more general than the specific needs of fact verification."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 4,
+        "reason": "Empowering reasoning models with research capability is a good step, but the focus is broad 'deep research' rather than specifically verification."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 3,
+        "reason": "This paper presents a challenging benchmark for AI, often involving complex reasoning and knowledge recall, which can be related to the capabilities needed for fact verification, though it's not directly about information extraction from the web."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focuses on mathematical reasoning, which is a specialized form of reasoning and not directly applicable to general fact extraction and verification from unstructured text or web sources."
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 3,
+        "reason": "A benchmark for general AI assistants. While fact verification could be a sub-task, the paper is about a broad benchmark, not specific techniques for verification."
+      },
+      {
+        "arxivId": "1406.5651",
+        "title": "An Empirical Study of Large-Scale Retrieval-Augmented Language Modeling",
+        "score": 2,
+        "reason": "This paper is older and focuses on retrieval-augmented language modeling, which is a foundational concept but less about active agentic behavior for verification compared to more recent works."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 5,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 9,
+        "reason": "Directly relates to 'Deep Research Capability', a key aspect for bridging to a dataset focused on fact extraction and verification. The 'WebThinker' name suggests interaction with web data, relevant to FEVER."
+      },
+      {
+        "index": 3,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 9,
+        "reason": "Explicitly mentions 'Fact' and 'Reason', aligning perfectly with the target's focus on fact extraction and verification. 'Retrieval-Augmented Generation' is a common technique for such tasks."
+      },
+      {
+        "index": 8,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 8,
+        "reason": "ReAct is a foundational technique for LLM agents that combine reasoning and acting, which is highly relevant for tasks involving information gathering and verification like FEVER."
+      },
+      {
+        "index": 2,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 8,
+        "reason": "Focuses on 'Web-Scale Evidence' and 'Deep Research', implying the handling of diverse information sources that could be relevant for fact verification."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 7,
+        "reason": "As a benchmark for 'Browsing Agents', it likely involves evaluating agents' ability to find and process information from the web, a prerequisite for fact extraction and verification."
+      },
+      {
+        "index": 20,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 7,
+        "reason": "Focuses on 'Web Traversal' and benchmarking LLMs, suggesting capabilities in navigating and understanding web content, which is essential for FEVER."
+      },
+      {
+        "index": 12,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 7,
+        "reason": "Implies strong 'reasoning capability' and 'web' interaction, aligning with the need to process information for fact extraction and verification."
+      },
+      {
+        "index": 13,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 7,
+        "reason": "Focuses on 'Information Seeking Agency', which is a core component of systems designed to gather and verify facts from external sources."
+      },
+      {
+        "index": 14,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 6,
+        "reason": "Similar to BrowseComp, it benchmarks 'Web Browsing Ability', indicating relevance for tasks requiring web information retrieval."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 6,
+        "reason": "Involves 'Information-Seeking' and data synthesis, which could be related to preparing or processing information for fact verification."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 6,
+        "reason": "'Web Agent' with 'Reasoning' capabilities are relevant for tasks that require processing web information to make judgments, like fact verification."
+      },
+      {
+        "index": 10,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 6,
+        "reason": "Continues the theme of 'Web Agents' and uses 'Synthetic Data', which could be relevant for training models for fact verification tasks."
+      },
+      {
+        "index": 4,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 5,
+        "reason": "A benchmark for 'General AI Assistants' might include tasks related to information retrieval and verification, though not explicitly stated."
+      },
+      {
+        "index": 17,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 5,
+        "reason": "Mentions 'Retrieval-Augmented Generation' (RAG), a technique often used in fact verification, and benchmarking, making it indirectly relevant."
+      },
+      {
+        "index": 18,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 5,
+        "reason": "Focuses on 'Reasoning Capability', which is a prerequisite for fact verification, but lacks explicit mention of web or fact checking."
+      },
+      {
+        "index": 21,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "Discusses 'Scaling Agents', and agents often perform information retrieval and processing, relevant to FEVER."
+      },
+      {
+        "index": 24,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "Focuses on 'Agentic Intelligence', which can involve verification tasks, but is broad."
+      },
+      {
+        "index": 27,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 4,
+        "reason": "General focus on 'LLM Agents' and 'Interactive' tasks, which could include fact verification, but it's not specific."
+      },
+      {
+        "index": 22,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 4,
+        "reason": "Focuses on 'GUI Agent' and 'Reinforcement Learning', which is less directly related to web-based fact verification than other agent papers."
+      },
+      {
+        "index": 11,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 4,
+        "reason": "Mentions 'Agentic' and 'Reasoning', which are relevant, but the emphasis on coding might make it less direct."
+      },
+      {
+        "index": 5,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focuses heavily on 'Mathematical Reasoning', which is a different domain than fact extraction and verification from general text."
+      },
+      {
+        "index": 15,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 3,
+        "reason": "Focuses on 'Scientific AI Agents', which might be too specialized and not directly applicable to general fact verification."
+      },
+      {
+        "index": 16,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "A general LLM technical report, lacking specific details that connect it directly to fact extraction or verification tasks."
+      },
+      {
+        "index": 25,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 3,
+        "reason": "Focuses on 'Reinforcement Learning' systems, which is a training methodology, not directly on the task of fact verification itself."
+      },
+      {
+        "index": 26,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 2,
+        "reason": "The title is very general and doesn't suggest a direct link to fact extraction or verification from web data."
+      },
+      {
+        "index": 9,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 2,
+        "reason": "Focuses on 'Search Intelligence' and 'Summarization', which is related to information processing but not as directly to fact verification as other papers."
+      }
+    ],
+    "metrics": {
+      "completeness": 0.9629629629629629,
+      "semanticCorrelation": 0.5789114386983261,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 9,
+          "reason": "Directly relates to 'Deep Research Capability', a key aspect for bridging to a dataset focused on fact extraction and verification. The 'WebThinker' name suggests interaction with web data, relevant to FEVER."
+        },
+        {
+          "index": 3,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 9,
+          "reason": "Explicitly mentions 'Fact' and 'Reason', aligning perfectly with the target's focus on fact extraction and verification. 'Retrieval-Augmented Generation' is a common technique for such tasks."
+        },
+        {
+          "index": 8,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 8,
+          "reason": "ReAct is a foundational technique for LLM agents that combine reasoning and acting, which is highly relevant for tasks involving information gathering and verification like FEVER."
+        },
+        {
+          "index": 2,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 8,
+          "reason": "Focuses on 'Web-Scale Evidence' and 'Deep Research', implying the handling of diverse information sources that could be relevant for fact verification."
+        },
+        {
+          "index": 19,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 7,
+          "reason": "As a benchmark for 'Browsing Agents', it likely involves evaluating agents' ability to find and process information from the web, a prerequisite for fact extraction and verification."
+        },
+        {
+          "index": 20,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 7,
+          "reason": "Focuses on 'Web Traversal' and benchmarking LLMs, suggesting capabilities in navigating and understanding web content, which is essential for FEVER."
+        },
+        {
+          "index": 12,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 7,
+          "reason": "Implies strong 'reasoning capability' and 'web' interaction, aligning with the need to process information for fact extraction and verification."
+        },
+        {
+          "index": 13,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 7,
+          "reason": "Focuses on 'Information Seeking Agency', which is a core component of systems designed to gather and verify facts from external sources."
+        },
+        {
+          "index": 14,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 6,
+          "reason": "Similar to BrowseComp, it benchmarks 'Web Browsing Ability', indicating relevance for tasks requiring web information retrieval."
+        },
+        {
+          "index": 6,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 6,
+          "reason": "Involves 'Information-Seeking' and data synthesis, which could be related to preparing or processing information for fact verification."
+        },
+        {
+          "index": 7,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 6,
+          "reason": "'Web Agent' with 'Reasoning' capabilities are relevant for tasks that require processing web information to make judgments, like fact verification."
+        },
+        {
+          "index": 10,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 6,
+          "reason": "Continues the theme of 'Web Agents' and uses 'Synthetic Data', which could be relevant for training models for fact verification tasks."
+        },
+        {
+          "index": 4,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 5,
+          "reason": "A benchmark for 'General AI Assistants' might include tasks related to information retrieval and verification, though not explicitly stated."
+        },
+        {
+          "index": 17,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 5,
+          "reason": "Mentions 'Retrieval-Augmented Generation' (RAG), a technique often used in fact verification, and benchmarking, making it indirectly relevant."
+        },
+        {
+          "index": 18,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 5,
+          "reason": "Focuses on 'Reasoning Capability', which is a prerequisite for fact verification, but lacks explicit mention of web or fact checking."
+        },
+        {
+          "index": 21,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 5,
+          "reason": "Discusses 'Scaling Agents', and agents often perform information retrieval and processing, relevant to FEVER."
+        },
+        {
+          "index": 24,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 5,
+          "reason": "Focuses on 'Agentic Intelligence', which can involve verification tasks, but is broad."
+        },
+        {
+          "index": 27,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 4,
+          "reason": "General focus on 'LLM Agents' and 'Interactive' tasks, which could include fact verification, but it's not specific."
+        },
+        {
+          "index": 22,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 4,
+          "reason": "Focuses on 'GUI Agent' and 'Reinforcement Learning', which is less directly related to web-based fact verification than other agent papers."
+        },
+        {
+          "index": 11,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 4,
+          "reason": "Mentions 'Agentic' and 'Reasoning', which are relevant, but the emphasis on coding might make it less direct."
+        },
+        {
+          "index": 5,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 3,
+          "reason": "Focuses heavily on 'Mathematical Reasoning', which is a different domain than fact extraction and verification from general text."
+        },
+        {
+          "index": 15,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 3,
+          "reason": "Focuses on 'Scientific AI Agents', which might be too specialized and not directly applicable to general fact verification."
+        },
+        {
+          "index": 16,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 3,
+          "reason": "A general LLM technical report, lacking specific details that connect it directly to fact extraction or verification tasks."
+        },
+        {
+          "index": 25,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 3,
+          "reason": "Focuses on 'Reinforcement Learning' systems, which is a training methodology, not directly on the task of fact verification itself."
+        },
+        {
+          "index": 26,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 2,
+          "reason": "The title is very general and doesn't suggest a direct link to fact extraction or verification from web data."
+        },
+        {
+          "index": 9,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 2,
+          "reason": "Focuses on 'Search Intelligence' and 'Summarization', which is related to information processing but not as directly to fact verification as other papers."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "1707.06347",
+      "title": "Proximal Policy Optimization Algorithms"
+    },
+    "target": {
+      "arxivId": "1604.06778",
+      "title": "Benchmarking Deep Reinforcement Learning for Continuous Control"
+    }
+  },
+  "embeddings": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.43741066298220765
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "distance": 0.4996319898239401
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "distance": 0.5388924781114777
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "distance": 0.5402345942167261
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.5440796943978923
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "distance": 0.5457616292843361
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "distance": 0.5507516459471474
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "distance": 0.5513669491431713
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.5710106044359877
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.5876059151617513
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.5887180530020968
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.6184240209456702
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6214556941326912
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "distance": 0.634471439617698
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "distance": 0.6404050138844057
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "distance": 0.6500790284982894
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "distance": 0.6509070345296316
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.6537604082167119
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "distance": 0.6564803122740551
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "distance": 0.6579021265150171
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "distance": 0.659409610659823
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.6633194939717928
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "distance": 0.7099349591151347
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7232971401134372
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "distance": 0.730786387646726
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.731832415773102
+      }
+    ]
+  },
+  "llm": {
+    "rank": 1,
+    "ordered": [
+      {
+        "index": 26,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 9,
+        "reason": "The target paper is about Reinforcement Learning (RL) for Continuous Control. Proximal Policy Optimization (PPO) is a fundamental and widely used RL algorithm, especially in continuous control tasks. Therefore, papers citing PPO are highly likely to be relevant."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 8,
+        "reason": "This paper shares 'Policy Optimization' in its title with the target paper and is focused on group optimization, which could be a relevant extension or comparison point."
+      },
+      {
+        "index": 8,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 8,
+        "reason": "Similar to the above, 'Policy Optimization' is a key term. The focus on LLM agents and group optimization might be a novel application of RL concepts that the target paper explores or relates to."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 7,
+        "reason": "Mentions 'Reinforcement Learning' and 'Reasoning', which are core to the target's domain of RL. The 'Tool-Integrated' aspect might be a new development in RL applications."
+      },
+      {
+        "index": 7,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 7,
+        "reason": "Explicitly discusses 'Reinforcement Learning' in the context of LLMs. This could be a newer approach to RL that builds upon or contrasts with earlier methods like the target."
+      },
+      {
+        "index": 13,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 7,
+        "reason": "Focuses on 'Reinforcement Learning' for LLMs, suggesting advancements or practical implementations in the RL space that might be related to continuous control."
+      },
+      {
+        "index": 15,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 6,
+        "reason": "This paper benchmarks LLMs, and RL is a common technique for benchmarking control and decision-making tasks, including navigation or traversal."
+      },
+      {
+        "index": 21,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 6,
+        "reason": "Iterative refinement and self-feedback can be related to optimization and learning processes in RL, especially for improving policy performance over time."
+      },
+      {
+        "index": 22,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 6,
+        "reason": "Explicitly mentions 'Reinforcement Learning' in the context of language agents, a related but distinct area that might draw from or contribute to RL benchmarks."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 6,
+        "reason": "Combines reasoning and acting, which are key components of reinforcement learning agents, especially in complex environments. The synergy aspect might be relevant."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 5,
+        "reason": "Mentions 'Agentic RL', indicating a connection to reinforcement learning, possibly in a multi-agent or foundational model context."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "Focuses on agents and their data synthesis, which could involve learning or optimization processes similar to RL, especially in interaction with an environment."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 5,
+        "reason": "Discusses 'Agentic Problem Solving', which often involves planning and decision-making strategies that can be informed by or compared to RL techniques."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 5,
+        "reason": "Highlights 'Optimized Workforce Learning' and 'Multi-Agent Assistance', which are areas where RL can be applied for coordination and task completion."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 5,
+        "reason": "Directly mentions 'Agent RL' and 'Scaling Law', suggesting an investigation into the efficiency and behavior of RL agents, which could be relevant to continuous control performance."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 5,
+        "reason": "Focuses on 'Reinforcement Learning' for tool use in LLMs. While the application is different, the RL foundation might be shared."
+      },
+      {
+        "index": 14,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 5,
+        "reason": "Mentions 'Reinforcement Learning' for reasoning and tool use. The core RL principles might be transferable or comparable."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 4,
+        "reason": "Focuses on improving LLM agents via executable code. RL is a common method for training agents to take actions, so this could be an alternative or complementary approach."
+      },
+      {
+        "index": 20,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 4,
+        "reason": "This paper is about code generation agents with tools. While not directly RL, agent systems often leverage learning techniques, including RL for decision-making."
+      },
+      {
+        "index": 23,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 4,
+        "reason": "Focuses on tool use in language models. RL is often used to train agents to use tools effectively, so there could be overlap in concepts."
+      },
+      {
+        "index": 16,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 3,
+        "reason": "A survey of GUI agents could cover various control and interaction methods, potentially including RL for continuous interaction with GUIs."
+      },
+      {
+        "index": 17,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 3,
+        "reason": "Involves agents and navigation, which can be framed as a continuous control problem addressed by RL."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focuses on mathematical reasoning. While RL can be used for mathematical problems, this paper's primary focus is reasoning ability, not RL methods themselves."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 2,
+        "reason": "This title is quite abstract and doesn't directly suggest a connection to RL or continuous control. The relevance is unclear without more information."
+      },
+      {
+        "index": 9,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "A general technical report for a language model. Unless it specifically details RL applications or benchmarks, its relevance to continuous control RL is minimal."
+      },
+      {
+        "index": 25,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1,
+        "reason": "This paper is foundational for few-shot learning in LLMs. While RL agents can benefit from efficient learning, this paper does not directly address RL algorithms or continuous control."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 1,
+    "ranked": [
+      {
+        "index": 3,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 8,
+        "reason": "PPO is a foundational RL algorithm directly relevant to continuous control, which is the target domain."
+      },
+      {
+        "index": 21,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 7,
+        "reason": "Few-shot learning is a key capability for adapting RL agents without extensive retraining, aligning with the target's focus on efficient benchmarking."
+      },
+      {
+        "index": 22,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 6,
+        "reason": "ReAct's approach to combining reasoning and acting is highly relevant to complex control tasks often tackled with RL."
+      },
+      {
+        "index": 10,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 6,
+        "reason": "Directly uses RL for language agents, with 'verbal reinforcement learning' suggesting a flexible approach applicable to control."
+      },
+      {
+        "index": 20,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 5,
+        "reason": "Tool use is a critical component in many complex control tasks, and self-teaching is relevant for agent efficiency."
+      },
+      {
+        "index": 14,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 5,
+        "reason": "Executable code actions can be seen as a form of control, and this paper is about improving LLM agents."
+      },
+      {
+        "index": 9,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 4,
+        "reason": "Iterative refinement is a general learning strategy that can be applied to RL problems."
+      },
+      {
+        "index": 1,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 4,
+        "reason": "Focuses on LLM RL systems, which is a modern approach to RL that could be applied to benchmarking."
+      },
+      {
+        "index": 2,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 4,
+        "reason": "Connects LLMs with RL through in-context learning, a paradigm shift relevant to agent behavior."
+      },
+      {
+        "index": 5,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 3,
+        "reason": "Uses RL for LLM reasoning and search, which can be related to sequential decision-making in control."
+      },
+      {
+        "index": 6,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 3,
+        "reason": "RL for tool use in LLMs is a specific application of RL that could be adapted for control tasks."
+      },
+      {
+        "index": 8,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 3,
+        "reason": "Explores RL for agents, with code execution hinting at control-like actions in a problem-solving context."
+      },
+      {
+        "index": 11,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 3,
+        "reason": "Policy optimization for LLM agents is a relevant area of research, though 'group' might suggest multi-agent focus."
+      },
+      {
+        "index": 13,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3,
+        "reason": "Focuses on agent problem-solving using experience, which relates to learning in control."
+      },
+      {
+        "index": 19,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 3,
+        "reason": "Agentic RL is relevant, but the 'chain' and 'distillation' aspects might be less direct for continuous control benchmarking."
+      },
+      {
+        "index": 16,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 2,
+        "reason": "Policy optimization is relevant, but the specific focus on 'group sequence' is less directly applicable to standard continuous control."
+      },
+      {
+        "index": 4,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 2,
+        "reason": "While it uses RL, the focus on 'tool-integrated reasoning' and 'multi-turn' is more specific than general continuous control."
+      },
+      {
+        "index": 7,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 2,
+        "reason": "Critiques a training method; relevance depends on the specific R1 method's relation to control."
+      },
+      {
+        "index": 17,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 2,
+        "reason": "Focuses on code generation and tool use, which are distinct from continuous control tasks."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 2,
+        "reason": "Focuses on mathematical reasoning, less directly related to continuous control problems."
+      },
+      {
+        "index": 12,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 1,
+        "reason": "Focuses on web traversal benchmarking, a different domain than continuous control."
+      },
+      {
+        "index": 15,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 1,
+        "reason": "Multi-agent assistance and task automation are broader than the specific continuous control focus."
+      },
+      {
+        "index": 26,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1,
+        "reason": "Focuses on data synthesis and information seeking, not directly control."
+      },
+      {
+        "index": 25,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1,
+        "reason": "Mobile device operation is a specific domain, and multi-agent collaboration is not the core of the target."
+      },
+      {
+        "index": 23,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1,
+        "reason": "GUI agents are a specific type of agent, and a survey is less likely to be a direct bridge."
+      },
+      {
+        "index": 24,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "A technical report for a specific model; its relevance to continuous control benchmarking is indirect without more context."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.3043714149402156,
+      "correctness": 0
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 3,
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "score": 8,
+          "reason": "PPO is a foundational RL algorithm directly relevant to continuous control, which is the target domain."
+        },
+        {
+          "index": 21,
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "score": 7,
+          "reason": "Few-shot learning is a key capability for adapting RL agents without extensive retraining, aligning with the target's focus on efficient benchmarking."
+        },
+        {
+          "index": 22,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 6,
+          "reason": "ReAct's approach to combining reasoning and acting is highly relevant to complex control tasks often tackled with RL."
+        },
+        {
+          "index": 10,
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "score": 6,
+          "reason": "Directly uses RL for language agents, with 'verbal reinforcement learning' suggesting a flexible approach applicable to control."
+        },
+        {
+          "index": 20,
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "score": 5,
+          "reason": "Tool use is a critical component in many complex control tasks, and self-teaching is relevant for agent efficiency."
+        },
+        {
+          "index": 14,
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "score": 5,
+          "reason": "Executable code actions can be seen as a form of control, and this paper is about improving LLM agents."
+        },
+        {
+          "index": 9,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 4,
+          "reason": "Iterative refinement is a general learning strategy that can be applied to RL problems."
+        },
+        {
+          "index": 1,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 4,
+          "reason": "Focuses on LLM RL systems, which is a modern approach to RL that could be applied to benchmarking."
+        },
+        {
+          "index": 2,
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "score": 4,
+          "reason": "Connects LLMs with RL through in-context learning, a paradigm shift relevant to agent behavior."
+        },
+        {
+          "index": 5,
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "score": 3,
+          "reason": "Uses RL for LLM reasoning and search, which can be related to sequential decision-making in control."
+        },
+        {
+          "index": 6,
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "score": 3,
+          "reason": "RL for tool use in LLMs is a specific application of RL that could be adapted for control tasks."
+        },
+        {
+          "index": 8,
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "score": 3,
+          "reason": "Explores RL for agents, with code execution hinting at control-like actions in a problem-solving context."
+        },
+        {
+          "index": 11,
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "score": 3,
+          "reason": "Policy optimization for LLM agents is a relevant area of research, though 'group' might suggest multi-agent focus."
+        },
+        {
+          "index": 13,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 3,
+          "reason": "Focuses on agent problem-solving using experience, which relates to learning in control."
+        },
+        {
+          "index": 19,
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "score": 3,
+          "reason": "Agentic RL is relevant, but the 'chain' and 'distillation' aspects might be less direct for continuous control benchmarking."
+        },
+        {
+          "index": 16,
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "score": 2,
+          "reason": "Policy optimization is relevant, but the specific focus on 'group sequence' is less directly applicable to standard continuous control."
+        },
+        {
+          "index": 4,
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "score": 2,
+          "reason": "While it uses RL, the focus on 'tool-integrated reasoning' and 'multi-turn' is more specific than general continuous control."
+        },
+        {
+          "index": 7,
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "score": 2,
+          "reason": "Critiques a training method; relevance depends on the specific R1 method's relation to control."
+        },
+        {
+          "index": 17,
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "score": 2,
+          "reason": "Focuses on code generation and tool use, which are distinct from continuous control tasks."
+        },
+        {
+          "index": 18,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 2,
+          "reason": "Focuses on mathematical reasoning, less directly related to continuous control problems."
+        },
+        {
+          "index": 12,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 1,
+          "reason": "Focuses on web traversal benchmarking, a different domain than continuous control."
+        },
+        {
+          "index": 15,
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "score": 1,
+          "reason": "Multi-agent assistance and task automation are broader than the specific continuous control focus."
+        },
+        {
+          "index": 26,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 1,
+          "reason": "Focuses on data synthesis and information seeking, not directly control."
+        },
+        {
+          "index": 25,
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "score": 1,
+          "reason": "Mobile device operation is a specific domain, and multi-agent collaboration is not the core of the target."
+        },
+        {
+          "index": 23,
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "score": 1,
+          "reason": "GUI agents are a specific type of agent, and a survey is less likely to be a direct bridge."
+        },
+        {
+          "index": 24,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 1,
+          "reason": "A technical report for a specific model; its relevance to continuous control benchmarking is indirect without more context."
+        }
+      ]
+    }
+  }
+}

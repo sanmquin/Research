@@ -1,0 +1,825 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2409.12941",
+      "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+    },
+    "target": {
+      "arxivId": "2405.07437",
+      "title": "Evaluation of Retrieval-Augmented Generation: A Survey"
+    }
+  },
+  "embeddings": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.09551147928828596
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.2779939225753808
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.5011057451565444
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.544652063944749
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.554832452845303
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.5664870571046062
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.5738477972941898
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.5766869621512414
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.577789770442274
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.587711147880247
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.589515116848093
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.5919397719115395
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.5935077577760695
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.6203844728842438
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.6255719860206268
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.6338883906749295
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.6379505248569823
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.6381169141539863
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.6510738446423572
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.6649628301973389
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.6649943246910702
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.6836179579598124
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.696125816021204
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.7053076577344483
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.7086694709391625
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7175670983726299
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.7916533704790664
+      }
+    ]
+  },
+  "llm": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 10,
+        "reason": "Directly discusses RAG benchmarking, highly relevant to the target survey on RAG evaluation."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 9,
+        "reason": "Focuses on evaluating Retrieval-Augmented Generation, aligning perfectly with the target's theme."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 8,
+        "reason": "Discusses benchmarking for web browsing abilities, which is a component of RAG systems."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 8,
+        "reason": "Presents a benchmark for browsing agents, relevant to evaluating the retrieval aspect of RAG."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 7,
+        "reason": "Focuses on benchmarking web traversal, a key capability for retrieval in RAG."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 7,
+        "reason": "Deals with long-horizon search and summarization, relevant to RAG systems that process retrieved information."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 6,
+        "reason": "Discusses structuring web-scale evidence, related to information retrieval and organization in RAG."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 6,
+        "reason": "Focuses on deep research capabilities, which often involve retrieval and reasoning as in RAG."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 6,
+        "reason": "Involves information-seeking formalization, a precursor to retrieval in RAG."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 5,
+        "reason": "Focuses on GUI agents and RL, with some relevance if retrieval involves interacting with web interfaces."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 5,
+        "reason": "Deals with web agents and RL, where retrieval could be a component."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 5,
+        "reason": "Focuses on web agents and reasoning, which can incorporate retrieval."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 5,
+        "reason": "Concerns long-horizon agents and reasoning, which may involve retrieval."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "Focuses on scaling agents, which might include capabilities relevant to RAG."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 4,
+        "reason": "Discusses general agentic intelligence and environment scaling, broad but potentially applicable."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 4,
+        "reason": "Focuses on information seeking agency, a foundational aspect for RAG."
+      },
+      {
+        "arxivId": "2501.02003",
+        "title": "GuanacoLM: High Performance Language Modeling with Quantization and Efficient Training",
+        "score": 3,
+        "reason": "Focuses on LLM training techniques, indirectly relevant if the RAG models are trained this way."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 3,
+        "reason": "Focuses on reasoning via RL, which is a component of some RAG systems, but not directly evaluation."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 3,
+        "reason": "Deals with RL for agents, relevant to improving RAG agent performance."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 3,
+        "reason": "A general benchmark for AI capabilities, might include RAG tasks."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 3,
+        "reason": "Discusses small LLMs for agents; RAG could utilize smaller, specialized models."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 3,
+        "reason": "Focuses on scientific AI agents, might use RAG but the paper is broad."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 3,
+        "reason": "Foundation models with agentic capabilities, can support RAG but not focused on its evaluation."
+      },
+      {
+        "arxivId": "2504.01882",
+        "title": "DeepSeek-LLM-7B-RLHF Technical Report",
+        "score": 2,
+        "reason": "Focuses on RLHF for LLMs, indirectly related to improving agent capabilities that might use RAG."
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 2,
+        "reason": "Presents a method for reasoning and acting, which is foundational for agents that might use RAG, but not evaluation."
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 2,
+        "reason": "A general AI assistant benchmark, might contain RAG tasks but not specialized."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1,
+        "reason": "Focuses on mathematical reasoning, which is generally not the primary focus of RAG evaluation surveys."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 1,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 10,
+        "reason": "This paper directly addresses the evaluation of Retrieval-Augmented Generation (RAG), which is highly relevant to the TARGET paper's focus on evaluating RAG. Its title suggests a unified approach to evaluation, making it a very strong candidate."
+      },
+      {
+        "index": 2,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 9,
+        "reason": "This paper explicitly mentions benchmarking Retrieval-Augmented Generation (RAG) and long-context LLMs. Given the TARGET is a survey of RAG evaluation, a paper benchmarking RAG is a very close and relevant 1-hop."
+      },
+      {
+        "index": 15,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 8,
+        "reason": "ReAct is a foundational framework for LLM agents that combine reasoning and action, often involving retrieval. This is highly relevant to the evaluation of RAG systems, as many RAG systems are agentic and perform actions like fetching information."
+      },
+      {
+        "index": 7,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "This paper focuses on deep research capabilities for LLMs, which often involves information retrieval and synthesis, core aspects of RAG. It is likely to discuss evaluation methodologies or related agentic behaviors relevant to RAG evaluation."
+      },
+      {
+        "index": 8,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 7,
+        "reason": "Similar to WebThinker, this paper deals with open-ended deep research using web-scale evidence. This implies retrieval and reasoning, making it relevant to RAG evaluation, especially in complex research scenarios."
+      },
+      {
+        "index": 16,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 7,
+        "reason": "This paper focuses on long-horizon agents and reasoning, which are key components of advanced RAG systems. Evaluating such agents often involves assessing their retrieval and reasoning performance over extended tasks."
+      },
+      {
+        "index": 6,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 6,
+        "reason": "This paper addresses long-horizon search and summarization, which are relevant to evaluating RAG systems, particularly those dealing with extensive information gathering and processing."
+      },
+      {
+        "index": 18,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 6,
+        "reason": "This paper is about web agents and their reasoning capabilities. Evaluating such agents often overlaps with evaluating RAG systems, especially when they need to access and process external information."
+      },
+      {
+        "index": 17,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 5,
+        "reason": "This paper focuses on GUI agents. While not directly RAG evaluation, agentic systems often incorporate retrieval components, and evaluating agent performance can involve assessing their ability to gather and use information effectively."
+      },
+      {
+        "index": 21,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "This paper discusses general agentic intelligence. Evaluating agents is a broad topic that can encompass RAG evaluation, especially if the agents rely on information retrieval for their decision-making."
+      },
+      {
+        "index": 22,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "This paper is about scaling agents, which often involves improving their ability to interact with information sources. This is indirectly related to RAG evaluation, as RAG systems are a form of agentic information interaction."
+      },
+      {
+        "index": 13,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 5,
+        "reason": "This paper focuses on autonomous information seeking agents. Evaluating such agents often involves assessing their ability to retrieve and utilize relevant information, which aligns with RAG concepts."
+      },
+      {
+        "index": 5,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 4,
+        "reason": "This paper proposes a benchmark for browsing agents. While specific to browsing, it touches upon agents interacting with external information, which has overlaps with RAG evaluation."
+      },
+      {
+        "index": 9,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 4,
+        "reason": "This paper benchmarks LLMs in web traversal. Web traversal is often a component of RAG systems, so evaluating this capability is relevant to understanding RAG performance."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 4,
+        "reason": "Similar to BrowseComp, this paper focuses on benchmarking web browsing, a skill relevant to RAG systems. The language focus is a minor difference."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 4,
+        "reason": "This paper involves information-seeking for data synthesis. This process likely involves retrieval, making its evaluation relevant to RAG."
+      },
+      {
+        "index": 12,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 4,
+        "reason": "This paper focuses on proprietary agents and reinforcement learning. While less directly about RAG evaluation, agent performance improvements can relate to the capabilities evaluated in RAG."
+      },
+      {
+        "index": 4,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 3,
+        "reason": "This paper introduces a benchmark for general AI assistants. RAG is a key capability for many AI assistants, so this benchmark might cover aspects relevant to RAG evaluation."
+      },
+      {
+        "index": 14,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 3,
+        "reason": "This paper describes a foundation model with agentic capabilities. Evaluating such models could involve assessing their reasoning and information retrieval, which are relevant to RAG."
+      },
+      {
+        "index": 20,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 3,
+        "reason": "This paper focuses on scientific AI agents. Scientific research heavily relies on information retrieval and synthesis, making it related to RAG, especially in specialized domains."
+      },
+      {
+        "index": 10,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 3,
+        "reason": "This paper focuses on incentivizing reasoning. While not directly RAG, reasoning is a core component of effective RAG, and evaluating reasoning is often part of RAG evaluation."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 2,
+        "reason": "This paper focuses on mathematical reasoning. While RAG can be applied to math problems, the core focus here is specific reasoning skills, not general information retrieval and evaluation."
+      },
+      {
+        "index": 25,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 2,
+        "reason": "This paper is about RL for interactive agents. While RAG systems can be interactive agents, the focus is on the learning method rather than the evaluation of retrieval-augmented generation itself."
+      },
+      {
+        "index": 23,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 2,
+        "reason": "This paper is about an RL system. While RL can be used to train RAG components, the paper's focus is on the RL system itself, not RAG evaluation."
+      },
+      {
+        "index": 24,
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 1,
+        "reason": "This paper discusses agentic AI in the context of small LLMs. While RAG is a form of agentic AI, the paper's broad scope and focus on model size make it less directly relevant to RAG evaluation compared to others."
+      },
+      {
+        "index": 26,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "This is a technical report for a specific LLM. Unless it explicitly discusses RAG evaluation methodologies, it's unlikely to be a direct bridge to the TARGET paper."
+      },
+      {
+        "index": 27,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1,
+        "reason": "This paper seems to focus on a challenging exam for AI. While RAG could be used to answer exam questions, the paper's primary focus is likely on the exam itself, not on RAG evaluation."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.5603084247135223,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 10,
+          "reason": "This paper directly addresses the evaluation of Retrieval-Augmented Generation (RAG), which is highly relevant to the TARGET paper's focus on evaluating RAG. Its title suggests a unified approach to evaluation, making it a very strong candidate."
+        },
+        {
+          "index": 2,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 9,
+          "reason": "This paper explicitly mentions benchmarking Retrieval-Augmented Generation (RAG) and long-context LLMs. Given the TARGET is a survey of RAG evaluation, a paper benchmarking RAG is a very close and relevant 1-hop."
+        },
+        {
+          "index": 15,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 8,
+          "reason": "ReAct is a foundational framework for LLM agents that combine reasoning and action, often involving retrieval. This is highly relevant to the evaluation of RAG systems, as many RAG systems are agentic and perform actions like fetching information."
+        },
+        {
+          "index": 7,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 7,
+          "reason": "This paper focuses on deep research capabilities for LLMs, which often involves information retrieval and synthesis, core aspects of RAG. It is likely to discuss evaluation methodologies or related agentic behaviors relevant to RAG evaluation."
+        },
+        {
+          "index": 8,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 7,
+          "reason": "Similar to WebThinker, this paper deals with open-ended deep research using web-scale evidence. This implies retrieval and reasoning, making it relevant to RAG evaluation, especially in complex research scenarios."
+        },
+        {
+          "index": 16,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 7,
+          "reason": "This paper focuses on long-horizon agents and reasoning, which are key components of advanced RAG systems. Evaluating such agents often involves assessing their retrieval and reasoning performance over extended tasks."
+        },
+        {
+          "index": 6,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 6,
+          "reason": "This paper addresses long-horizon search and summarization, which are relevant to evaluating RAG systems, particularly those dealing with extensive information gathering and processing."
+        },
+        {
+          "index": 18,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 6,
+          "reason": "This paper is about web agents and their reasoning capabilities. Evaluating such agents often overlaps with evaluating RAG systems, especially when they need to access and process external information."
+        },
+        {
+          "index": 17,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 5,
+          "reason": "This paper focuses on GUI agents. While not directly RAG evaluation, agentic systems often incorporate retrieval components, and evaluating agent performance can involve assessing their ability to gather and use information effectively."
+        },
+        {
+          "index": 21,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 5,
+          "reason": "This paper discusses general agentic intelligence. Evaluating agents is a broad topic that can encompass RAG evaluation, especially if the agents rely on information retrieval for their decision-making."
+        },
+        {
+          "index": 22,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 5,
+          "reason": "This paper is about scaling agents, which often involves improving their ability to interact with information sources. This is indirectly related to RAG evaluation, as RAG systems are a form of agentic information interaction."
+        },
+        {
+          "index": 13,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 5,
+          "reason": "This paper focuses on autonomous information seeking agents. Evaluating such agents often involves assessing their ability to retrieve and utilize relevant information, which aligns with RAG concepts."
+        },
+        {
+          "index": 5,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 4,
+          "reason": "This paper proposes a benchmark for browsing agents. While specific to browsing, it touches upon agents interacting with external information, which has overlaps with RAG evaluation."
+        },
+        {
+          "index": 9,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 4,
+          "reason": "This paper benchmarks LLMs in web traversal. Web traversal is often a component of RAG systems, so evaluating this capability is relevant to understanding RAG performance."
+        },
+        {
+          "index": 11,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 4,
+          "reason": "Similar to BrowseComp, this paper focuses on benchmarking web browsing, a skill relevant to RAG systems. The language focus is a minor difference."
+        },
+        {
+          "index": 3,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 4,
+          "reason": "This paper involves information-seeking for data synthesis. This process likely involves retrieval, making its evaluation relevant to RAG."
+        },
+        {
+          "index": 12,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 4,
+          "reason": "This paper focuses on proprietary agents and reinforcement learning. While less directly about RAG evaluation, agent performance improvements can relate to the capabilities evaluated in RAG."
+        },
+        {
+          "index": 4,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 3,
+          "reason": "This paper introduces a benchmark for general AI assistants. RAG is a key capability for many AI assistants, so this benchmark might cover aspects relevant to RAG evaluation."
+        },
+        {
+          "index": 14,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 3,
+          "reason": "This paper describes a foundation model with agentic capabilities. Evaluating such models could involve assessing their reasoning and information retrieval, which are relevant to RAG."
+        },
+        {
+          "index": 20,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 3,
+          "reason": "This paper focuses on scientific AI agents. Scientific research heavily relies on information retrieval and synthesis, making it related to RAG, especially in specialized domains."
+        },
+        {
+          "index": 10,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 3,
+          "reason": "This paper focuses on incentivizing reasoning. While not directly RAG, reasoning is a core component of effective RAG, and evaluating reasoning is often part of RAG evaluation."
+        },
+        {
+          "index": 19,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 2,
+          "reason": "This paper focuses on mathematical reasoning. While RAG can be applied to math problems, the core focus here is specific reasoning skills, not general information retrieval and evaluation."
+        },
+        {
+          "index": 25,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 2,
+          "reason": "This paper is about RL for interactive agents. While RAG systems can be interactive agents, the focus is on the learning method rather than the evaluation of retrieval-augmented generation itself."
+        },
+        {
+          "index": 23,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 2,
+          "reason": "This paper is about an RL system. While RL can be used to train RAG components, the paper's focus is on the RL system itself, not RAG evaluation."
+        },
+        {
+          "index": 24,
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "score": 1,
+          "reason": "This paper discusses agentic AI in the context of small LLMs. While RAG is a form of agentic AI, the paper's broad scope and focus on model size make it less directly relevant to RAG evaluation compared to others."
+        },
+        {
+          "index": 26,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 1,
+          "reason": "This is a technical report for a specific LLM. Unless it explicitly discusses RAG evaluation methodologies, it's unlikely to be a direct bridge to the TARGET paper."
+        },
+        {
+          "index": 27,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 1,
+          "reason": "This paper seems to focus on a challenging exam for AI. While RAG could be used to answer exam questions, the paper's primary focus is likely on the exam itself, not on RAG evaluation."
+        }
+      ]
+    }
+  }
+}

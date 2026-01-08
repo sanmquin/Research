@@ -1,0 +1,1828 @@
+{
+  "selectedSource": {
+    "arxivId": "2507.05241",
+    "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+  },
+  "target": {
+    "arxivId": "2203.02155",
+    "title": "Training language models to follow instructions with human feedback"
+  },
+  "scores": {
+    "rank": 8,
+    "ordered": [
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 10
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 5
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 220.5
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 10
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 184
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 5
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 170
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 10
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 5
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 170
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 169
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 6
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 8
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 160
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 152
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 7
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 151
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 9
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 139.5
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 139
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 139
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 7
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 134
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 4
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 134
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 7
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 124
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 9
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 107
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 9
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 7
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 101
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 8
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 91.5
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 1
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 7
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 89
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 5
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 2
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 6
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 88
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 8
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 7
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 8
+            }
+          ]
+        },
+        "score": 85.5
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 1
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 9
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 7
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 8
+            }
+          ]
+        },
+        "score": 84.5
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 6
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 9
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 46
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 6
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 9
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 46
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 8
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 9
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 46
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 7
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 9
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 40.5
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 10
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 2
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 8
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 24.5
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Agentic Capabilities",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 1
+            },
+            {
+              "theme": "Reasoning and Problem Solving",
+              "score": 5
+            },
+            {
+              "theme": "Web and Information Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Foundational LLM Training",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Distinction between Foundational Training and Application/Benchmark",
+              "score": 9
+            },
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Component vs. Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 4
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Agentic Capabilities",
+            "description": "Many papers discuss the development and enhancement of AI agents, their reasoning abilities, and their potential to perform complex tasks. The target paper's focus on instruction following is seen as a foundational requirement or a significant enhancement for these agents, enabling them to understand and execute commands for tasks like data synthesis, information seeking, and web traversal."
+          },
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "description": "Several papers mention the use of RL in training or improving AI models, particularly for agents. The target paper's methodology for instruction following is considered complementary or foundational to RL approaches, suggesting that improved instruction following can lead to more capable agents trained with RL, especially in long-horizon tasks."
+          },
+          {
+            "theme": "Reasoning and Problem Solving",
+            "description": "A recurring theme is the improvement of reasoning capabilities in language models, whether for deep research, mathematical problems, or general problem-solving. The ability to follow instructions accurately, as trained by the target paper, is highlighted as a critical prerequisite for effective reasoning and for models to perform multi-step tasks."
+          },
+          {
+            "theme": "Web and Information Interaction",
+            "description": "Multiple papers focus on agents that interact with the web, perform research, or navigate. The target paper's emphasis on instruction following is relevant because web agents and browsing tools need to understand and execute detailed instructions for information retrieval, navigation, and super-human reasoning on the web."
+          },
+          {
+            "theme": "Foundational LLM Training",
+            "description": "The target paper's contribution is often described as foundational or a core methodology for improving general language model capabilities. This foundational aspect is seen as directly benefiting various downstream applications and advanced AI concepts, from agentic intelligence to complex research."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Distinction between Foundational Training and Application/Benchmark",
+            "description": "Many contrastive explanations highlight that while the reviewed papers might *use* or *benefit from* instruction following (the focus of the target paper), their primary contribution is in a different area such as introducing a specific benchmark, a new agent framework, a particular application domain (e.g., web research, scientific AI), or a specific model architecture. The target paper is about the *method* of training instruction following itself."
+          },
+          {
+            "theme": "Specificity vs. Generality",
+            "description": "Contrastive explanations often point out that the reviewed papers are highly specific (e.g., GUI agents, Chinese web browsing benchmarks, specific models like Qwen3) whereas the target paper's instruction following training is a general methodology applicable across various models and tasks, not limited to a particular domain or type of agent."
+          },
+          {
+            "theme": "Component vs. Core Focus",
+            "description": "Several papers are acknowledged to involve instruction following as a *component* or a *supporting capability*, but it is not their *primary focus* or core contribution. For example, some papers focus on data synthesis, environment scaling, or context summarization, where instruction following plays a role but is not the central research question being addressed."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Agentic Capabilities",
+            "weight": 9,
+            "explanation": "The target paper's focus on instruction following is a fundamental requirement for developing capable AI agents that can understand and execute complex tasks, making this theme highly relevant."
+          },
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "weight": 7,
+            "explanation": "Instruction following is complementary to RL, especially for long-horizon tasks, as it improves the ability of agents trained with RL to understand and execute commands, thus this theme has significant positive weight."
+          },
+          {
+            "theme": "Reasoning and Problem Solving",
+            "weight": 8,
+            "explanation": "Accurate instruction following, as trained in the target paper, is a critical prerequisite for enhancing the reasoning and problem-solving abilities of language models, leading to a high positive weight."
+          },
+          {
+            "theme": "Web and Information Interaction",
+            "weight": 7.5,
+            "explanation": "Web agents and browsing tools require precise instruction following to perform tasks like information retrieval and navigation effectively, making this a strong positive theme."
+          },
+          {
+            "theme": "Foundational LLM Training",
+            "weight": 9.5,
+            "explanation": "The target paper's contribution is described as foundational for improving general language model capabilities, directly benefiting many advanced AI concepts and applications, hence a very high positive weight."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Distinction between Foundational Training and Application/Benchmark",
+            "weight": 9,
+            "explanation": "Many papers may benefit from instruction following but focus on different primary contributions (benchmarks, agent frameworks, applications). The target paper's core is the training method itself, creating a strong contrast and thus a high negative weight."
+          },
+          {
+            "theme": "Specificity vs. Generality",
+            "weight": 8.5,
+            "explanation": "The target paper's training methodology is general, while many other papers focus on specific domains or models. This difference in scope makes the specificity of other works a negative indicator for referencing a general training methodology paper."
+          },
+          {
+            "theme": "Component vs. Core Focus",
+            "weight": 7.5,
+            "explanation": "When instruction following is merely a component or supporting capability in other research (e.g., data synthesis, environment scaling) rather than the core focus, it suggests those papers are less likely to reference the target paper which centers on the instruction following training methodology itself."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 16,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.4072310128116736
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.4711101558127003
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.4813460032692244
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.4843147607610315
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.5113022315463169
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5151697353329674
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.5204330028634605
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.5225569550839309
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.5357164664735947
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.5567143035728763
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.5661664892932077
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.5720984237693588
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.5768291027061407
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.5865072626294574
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.5959466168910874
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.5972153431459588
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.599349904570522
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.6099927948423428
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6110690464989541
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.6168223141175498
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.623225287246232
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.6357538400177667
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.640040901389002
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6712426594716406
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6759628463256614
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.702867124842902
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7900135200922355
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 21,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7139911009632003
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.7490165394027094
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.7511483870667057
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.7913963094232546
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7987132558222331
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8103255322600491
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.812926010769634
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.8186063302349977
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.8338125151044262
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.8589072418581435
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8591207841045988
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.8766176630850236
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.8833238397641581
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.8873149392595999
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.9018489648008722
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.9097951838484055
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9106168053383095
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.9160162149450988
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9364137293985746
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.9388840812826424
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.9425834227321375
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.9644551208229969
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.9850637964021046
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.997125681641363
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.0548615837892137
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1705023245694441
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3853049298262161
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2507.05241",
+      "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+    },
+    "target": {
+      "arxivId": "2203.02155",
+      "title": "Training language models to follow instructions with human feedback"
+    }
+  }
+}

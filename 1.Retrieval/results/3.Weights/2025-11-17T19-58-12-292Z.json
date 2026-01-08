@@ -1,0 +1,2062 @@
+{
+  "selectedSource": {
+    "arxivId": "2507.15061",
+    "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+  },
+  "target": {
+    "arxivId": "2409.19256",
+    "title": "HybridFlow: A Flexible and Efficient RLHF Framework"
+  },
+  "scores": {
+    "rank": 20,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 10
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 8
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 6
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 4
+            }
+          ]
+        },
+        "score": 210.5
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 3
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 4
+            }
+          ]
+        },
+        "score": 209
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 9
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 6
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 208.5
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 8
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 5
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 5
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 207
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 4
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 202
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": 195.5
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 8
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 9
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": 191.5
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 6
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 2
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 2
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 9
+            }
+          ]
+        },
+        "score": 182
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 179.5
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 9
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 5
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 4
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 7
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 179
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 6
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 9
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 175
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 6
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 8
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 8
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 172
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 8
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 4
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 167.5
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 9
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": 165
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 9
+            }
+          ]
+        },
+        "score": 157
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 3
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": 155.5
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 3
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 9
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 2
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 2
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 9
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 3
+            }
+          ]
+        },
+        "score": 154.5
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 6
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": 153
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 5
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 5
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 1
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 8
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 3
+            }
+          ]
+        },
+        "score": 147.5
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 6
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 8
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 146.5
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 7
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 7
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 3
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 9
+            }
+          ]
+        },
+        "score": 142
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 3
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 5
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 4
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 135.5
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 7
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 5
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 5
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 5
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": 135
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 5
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 4
+            }
+          ]
+        },
+        "score": 132
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 4
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 6
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 6
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 128.5
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 3
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 4
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 4
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 113.5
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Agent Capabilities and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+              "score": 3
+            },
+            {
+              "theme": "Foundation Models and LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Scalability and General Intelligence",
+              "score": 5
+            },
+            {
+              "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Methodological Focus vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General RLHF Framework vs. Specific Techniques/Models",
+              "score": 4
+            },
+            {
+              "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+              "score": 2
+            },
+            {
+              "theme": "Framework vs. Benchmark or Technical Report",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Intelligence (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": 108.5
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Agent Capabilities and Reasoning",
+            "description": "Many papers discuss enhancing agent capabilities, particularly in reasoning, long-horizon tasks, and complex decision-making. RLHF frameworks like HybridFlow are crucial for aligning and improving these agent behaviors."
+          },
+          {
+            "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+            "description": "A central theme is the application and advancement of RLHF as a key technique for training and fine-tuning AI models, especially LLMs, to achieve desired behaviors and improve performance on various tasks."
+          },
+          {
+            "theme": "Foundation Models and LLMs",
+            "description": "The papers frequently mention foundation models and Large Language Models (LLMs), highlighting how RLHF frameworks can be used to improve their reasoning, research, and general intelligence capabilities."
+          },
+          {
+            "theme": "Scalability and General Intelligence",
+            "description": "Several papers touch upon scaling agents and achieving general intelligence, with RLHF frameworks like HybridFlow playing a role in aligning agent behavior to meet these broader goals."
+          },
+          {
+            "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+            "description": "Applications for RLHF extend to specialized areas such as web agents, autonomous information seeking, scientific AI, and improving performance on complex benchmarks, with HybridFlow being a relevant training framework."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Methodological Focus vs. Application Domain",
+            "description": "Contrast exists between papers focusing on the RLHF framework itself (like HybridFlow) and those focusing on specific application domains (e.g., web navigation, scientific tasks) or benchmark evaluations, where HybridFlow is a tool rather than the primary subject."
+          },
+          {
+            "theme": "General RLHF Framework vs. Specific Techniques/Models",
+            "description": "HybridFlow is presented as a general RLHF framework, while some papers are specific to certain models (e.g., Qwen, GLM), particular techniques (e.g., ReAct, RAG), or specialized tasks (e.g., summarization, data synthesis), creating a contrast in scope."
+          },
+          {
+            "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+            "description": "A distinction is drawn between RLHF training (the focus of HybridFlow) and other stages of agent development such as pre-training strategies, environment scaling, or synthetic data generation, which are addressed in contrasting papers."
+          },
+          {
+            "theme": "Framework vs. Benchmark or Technical Report",
+            "description": "Many contrastive explanations highlight that while RLHF is relevant, the core contribution of a paper might be a benchmark, a dataset, or a technical report on a specific model, rather than a novel RLHF framework like HybridFlow."
+          },
+          {
+            "theme": "Scope of Intelligence (General vs. Specialized)",
+            "description": "While HybridFlow aims for general RLHF, some papers focus on highly specialized areas like 'unbounded reasoning,' 'long-horizon search,' or 'small language models,' suggesting a potential difference in the breadth of intelligence or agentic capabilities being addressed."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Agent Capabilities and Reasoning",
+            "weight": 8.5,
+            "explanation": "HybridFlow, being an RLHF framework, directly contributes to improving agent capabilities and reasoning, which is a primary goal of RLHF."
+          },
+          {
+            "theme": "Reinforcement Learning from Human Feedback (RLHF)",
+            "weight": 10,
+            "explanation": "The paper's title explicitly mentions RLHF, making this theme the most central and directly relevant to the target paper."
+          },
+          {
+            "theme": "Foundation Models and LLMs",
+            "weight": 9,
+            "explanation": "RLHF frameworks like HybridFlow are extensively used to improve Foundation Models and LLMs, aligning with the paper's likely focus."
+          },
+          {
+            "theme": "Scalability and General Intelligence",
+            "weight": 7,
+            "explanation": "RLHF frameworks often play a role in scaling agents and moving towards general intelligence, which is a likely objective for a flexible framework like HybridFlow."
+          },
+          {
+            "theme": "Specific Applications (Web Agents, Scientific AI, etc.)",
+            "weight": 6.5,
+            "explanation": "While HybridFlow is a framework, its utility is demonstrated through various applications. If the paper highlights these, it increases relevance."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Methodological Focus vs. Application Domain",
+            "weight": 4,
+            "explanation": "The paper is likely to focus on the RLHF framework itself (HybridFlow), so a strong emphasis on specific application domains in a referencing paper might indicate a different primary focus."
+          },
+          {
+            "theme": "General RLHF Framework vs. Specific Techniques/Models",
+            "weight": 3.5,
+            "explanation": "HybridFlow is a general framework. Papers that are highly specialized on a particular model or technique might be less likely to directly reference a general framework unless it offers unique advantages for that specialization."
+          },
+          {
+            "theme": "Training Methodology vs. Pre-training or Data Synthesis",
+            "weight": 3,
+            "explanation": "HybridFlow focuses on the RLHF training stage. Papers primarily concerned with pre-training or data synthesis are likely to have a different core contribution."
+          },
+          {
+            "theme": "Framework vs. Benchmark or Technical Report",
+            "weight": 5,
+            "explanation": "Papers that are essentially benchmarks or technical reports might cite RLHF frameworks, but the direct relevance is lower than papers contributing to or heavily utilizing RLHF methodologies."
+          },
+          {
+            "theme": "Scope of Intelligence (General vs. Specialized)",
+            "weight": 4.5,
+            "explanation": "While HybridFlow aims for broad applicability, papers focusing on extremely specialized aspects of intelligence might not see HybridFlow as directly relevant to their niche contribution compared to more general RLHF papers."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 23,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.4857940157609656
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5339631133163458
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.542815508832172
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.561102746294688
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.5664856021415113
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.5707342079483597
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.5715769940593054
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.5801445423632996
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.5850662678665097
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.5862768588664768
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.5878584991219231
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.6127090501845921
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.6209941271492552
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.625826872641096
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.626667753022677
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6394803520337624
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.6417646754273103
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6453567140853786
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6499019479248338
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.6511279607272833
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6536132038679308
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.6557283885087964
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6574563658014421
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.6575818970138667
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.6978670826270448
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.7037214507525775
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7519632435600521
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7809498126880473
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.7937206485624116
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.8032809744773851
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.8303359413259184
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.8560792426639582
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.8607441589399722
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.8713793830653681
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.8715167896374022
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.8739730054976458
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.8835419029561673
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.8906154337746012
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.9087101195852514
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.9289840590422497
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.9440431593434863
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9448478838935195
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9462404401852891
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.9564275083278196
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.9573444139234678
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.9628099371710195
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.9634842449236515
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.973171748869067
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.9989465132855652
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.0325119413314832
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0490895303387562
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 1.0661085649115996
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1491616130226374
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3472546532940326
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2507.15061",
+      "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+    },
+    "target": {
+      "arxivId": "2409.19256",
+      "title": "HybridFlow: A Flexible and Efficient RLHF Framework"
+    }
+  }
+}

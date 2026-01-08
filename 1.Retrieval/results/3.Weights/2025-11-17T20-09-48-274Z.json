@@ -1,0 +1,2062 @@
+{
+  "selectedSource": {
+    "arxivId": "2504.19314",
+    "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+  },
+  "target": {
+    "arxivId": "1809.09600",
+    "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering"
+  },
+  "scores": {
+    "rank": 27,
+    "ordered": [
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 7
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 145
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 10
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 4
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 4
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 130
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 3
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 9
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 126
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 4
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 4
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 116
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 4
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 5
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 115
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 6
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 9
+            }
+          ]
+        },
+        "score": 114
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 10
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 10
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 2
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 7
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 111
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 10
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 6
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 2
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 107
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 10
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 4
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 105
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 5
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 103
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 5
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 2
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 9
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 103
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 4
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 97
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 3
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 9
+            }
+          ]
+        },
+        "score": 93
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 9
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 7
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 92
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 8
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 6
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 2
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 91
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 10
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 3
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 89
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 6
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 2
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 88
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 3
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 2
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 83
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 9
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 3
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 82
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 6
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 6
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 4
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 5
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 5
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 6
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 2
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 9
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 2
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 75
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 9
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 2
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 75
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 6
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 7
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 55
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 5
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 9
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 8
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 5
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 6
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 55
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 7
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 4
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 5
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 7
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 3
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 2
+            }
+          ]
+        },
+        "score": 49
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Multi-hop Reasoning and Complex Question Answering",
+              "score": 4
+            },
+            {
+              "theme": "Agentic AI and Information Seeking",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning and Training Methodologies",
+              "score": 3
+            },
+            {
+              "theme": "Retrieval-Augmented Generation and Information Processing",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Scope and Specificity of Task",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Methodology vs. Evaluation",
+              "score": 7
+            },
+            {
+              "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+              "score": 9
+            },
+            {
+              "theme": "Domain Specificity",
+              "score": 2
+            },
+            {
+              "theme": "Model Size and Architecture Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 47
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Multi-hop Reasoning and Complex Question Answering",
+            "description": "Many explanations highlight the core task of HotpotQA, which involves answering questions that require reasoning across multiple pieces of information (multi-hop reasoning). Papers focusing on enhancing reasoning capabilities, information synthesis, and complex question answering are considered highly relevant."
+          },
+          {
+            "theme": "Agentic AI and Information Seeking",
+            "description": "A significant theme is the connection to agentic AI, where agents are tasked with seeking, synthesizing, and reasoning over information. Papers discussing autonomous information seeking, long-horizon search, and structuring web-scale evidence align with HotpotQA's need for agents to gather and process information effectively."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "description": "Several explanations point out that HotpotQA serves as a benchmark for evaluating advanced AI capabilities, particularly reasoning. Papers that focus on developing new benchmarks, evaluating LLMs on benchmarks, or pushing the limits of AI reasoning (e.g., 'super-human reasoning', 'Humanity's Last Exam') are relevant."
+          },
+          {
+            "theme": "Reinforcement Learning and Training Methodologies",
+            "description": "The use of reinforcement learning (RL) and other training methodologies like continual pre-training is frequently mentioned. Papers proposing RL frameworks or techniques for training agents to perform complex tasks, including reasoning and information retrieval, are seen as potentially applicable to improving performance on HotpotQA."
+          },
+          {
+            "theme": "Retrieval-Augmented Generation (RAG) and Information Processing",
+            "description": "The relevance of Retrieval-Augmented Generation (RAG) and related techniques like context summarization and unified evaluation for RAG is noted. HotpotQA's requirement to fetch and reason over information makes it a relevant task for evaluating RAG systems."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Scope and Specificity of Task",
+            "description": "A key contrast is the difference in scope. HotpotQA is a specific, well-defined benchmark for multi-hop QA. Papers focusing on 'unbounded' or 'open-ended' research, very general agentic intelligence, or broad evaluations like 'Humanity's Last Exam' may be too general or cover different types of reasoning than HotpotQA."
+          },
+          {
+            "theme": "Focus on Methodology vs. Evaluation",
+            "description": "Some papers focus primarily on a specific methodology (e.g., reinforcement learning, continual pre-training, data synthesis, RAG evaluation frameworks) rather than directly on evaluating performance on specific QA benchmarks like HotpotQA. While the methodology might be applicable, the paper's core contribution may not be tied to QA evaluation."
+          },
+          {
+            "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+            "description": "Several contrastive explanations differentiate between the act of web browsing/navigation and the subsequent reasoning over retrieved information. HotpotQA centers on the reasoning part, and papers focused solely on 'web traversal ability' or 'browsing agents' might not directly address the core challenge of HotpotQA."
+          },
+          {
+            "theme": "Domain Specificity",
+            "description": "While HotpotQA is a general QA dataset, some papers have a strong domain-specific focus (e.g., mathematical reasoning, scientific AI agents). These may not be directly comparable to HotpotQA, which tests general reasoning skills across various topics."
+          },
+          {
+            "theme": "Model Size and Architecture Focus",
+            "description": "Some research may focus on the capabilities of specific types or sizes of models (e.g., 'Small Language Models') or particular frameworks (e.g., ReAct), which might not align directly with HotpotQA's goal of evaluating multi-hop reasoning capabilities across a range of models."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Multi-hop Reasoning and Complex Question Answering",
+            "weight": 10,
+            "explanation": "This theme directly describes the core task of HotpotQA, making it the most crucial factor."
+          },
+          {
+            "theme": "Agentic AI and Information Seeking",
+            "weight": 8,
+            "explanation": "HotpotQA requires agents to gather and process information, aligning strongly with agentic AI's information-seeking capabilities."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "weight": 9,
+            "explanation": "HotpotQA is a benchmark, so papers focused on evaluating AI capabilities, especially reasoning, are highly relevant."
+          },
+          {
+            "theme": "Reinforcement Learning and Training Methodologies",
+            "weight": 7,
+            "explanation": "RL and other training methods are frequently used to improve performance on tasks like HotpotQA, indicating a strong connection."
+          },
+          {
+            "theme": "Retrieval-Augmented Generation (RAG) and Information Processing",
+            "weight": 8.5,
+            "explanation": "HotpotQA's need to fetch and reason over information makes it a relevant task for evaluating RAG systems."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Scope and Specificity of Task",
+            "weight": 7,
+            "explanation": "Papers with overly broad or unbounded research goals may not be as relevant as those focused on specific QA tasks like HotpotQA."
+          },
+          {
+            "theme": "Focus on Methodology vs. Evaluation",
+            "weight": 4,
+            "explanation": "While methodologies might be applicable, papers solely focused on the methodology without direct evaluation on QA benchmarks like HotpotQA are less predictive."
+          },
+          {
+            "theme": "Web Navigation vs. Reasoning Post-Retrieval",
+            "weight": 6,
+            "explanation": "HotpotQA emphasizes reasoning over retrieved information, so papers focused solely on web browsing are less relevant."
+          },
+          {
+            "theme": "Domain Specificity",
+            "weight": 5,
+            "explanation": "General reasoning is key for HotpotQA, so highly domain-specific research may not transfer directly."
+          },
+          {
+            "theme": "Model Size and Architecture Focus",
+            "weight": 3,
+            "explanation": "A specific focus on model size or architecture, without direct relevance to multi-hop reasoning evaluation, makes a paper less likely to reference HotpotQA."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.4986623752735104
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.5358267173725384
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.5377300571139345
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.5390065506143231
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.5686049747957787
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.5772995310984871
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.5798237807501929
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.5824196114324443
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.5829006748811385
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5857255761786596
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.590928990857816
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.5949145075773934
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.5951050818190087
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.600671346722897
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.6154236674055946
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.6169478776154578
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6206001186468282
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.6317488581324284
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.6331038948358328
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.6362480222576807
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6439318931585869
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.6578028525450439
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.6578655088643711
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6878537363193903
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.7079651253183795
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.7088941716504285
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7763415344079935
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 18,
+    "ordered": [
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7312091418025358
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.7776039449013954
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.793399886949305
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.8088089344118045
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.8375324461199972
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.8728208911674025
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.8804091473108017
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.8820984041882322
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.8832018790082719
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9018651699705353
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.9116019556863687
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.9157559155739099
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.9164235273540605
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.9305065790561416
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9313234112506643
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.9388304067946515
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.950661093716999
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.9517739541798073
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.9608656687911977
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.9698277283213684
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.9884661445510947
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0031709321312225
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 1.0156687711030785
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 1.0555724986089428
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 1.0650788318719915
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.0999310118207006
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.371632944141974
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2504.19314",
+      "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+    },
+    "target": {
+      "arxivId": "1809.09600",
+      "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering"
+    }
+  }
+}

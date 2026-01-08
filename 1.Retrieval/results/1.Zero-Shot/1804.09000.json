@@ -1,0 +1,1951 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2509.25140",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory"
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation"
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process"
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents"
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks"
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models"
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks"
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code"
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation"
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents"
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling"
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models"
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research"
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge"
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory"
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model"
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs"
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents"
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes"
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents"
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control"
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2303.17651",
+      "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+    },
+    "target": {
+      "arxivId": "1804.09000",
+      "title": "Style Transfer Through Back-Translation"
+    }
+  },
+  "embeddings": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "distance": 0.6110705420113342
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6210904833065255
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "distance": 0.6404053883840732
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "distance": 0.6415023512047355
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "distance": 0.6558033574999803
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "distance": 0.6595388932031815
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "distance": 0.6653551220476015
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "distance": 0.6681827401892233
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "distance": 0.6684854370676026
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "distance": 0.6714806086638273
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "distance": 0.673716639222586
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "distance": 0.6756417664531087
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "distance": 0.6772749069240349
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "distance": 0.6786190805586233
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.6820376766756762
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "distance": 0.6824104366537569
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "distance": 0.6904166031031655
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "distance": 0.6928545975515803
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "distance": 0.6945286459460709
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6971137264563462
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "distance": 0.6977088148886307
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "distance": 0.6982748419463066
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "distance": 0.70447818762195
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "distance": 0.7166374018926258
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "distance": 0.716833609687474
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "distance": 0.7178440823847902
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "distance": 0.7198183291469518
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "distance": 0.7201238719093637
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "distance": 0.7226029808815264
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "distance": 0.7240255311791504
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "distance": 0.7244950498929057
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "distance": 0.7309136577924946
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "distance": 0.7314545248576731
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "distance": 0.7367420977619157
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "distance": 0.7371243496744766
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "distance": 0.7377945346662498
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.7388868182572855
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "distance": 0.7426655617238638
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "distance": 0.743824701534751
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "distance": 0.7444123633335848
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.744640060289299
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "distance": 0.7482811532022097
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "distance": 0.7488463399591392
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "distance": 0.7496071710357393
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "distance": 0.7497423372247662
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.7499574998966152
+      },
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "distance": 0.7501977673966868
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "distance": 0.7534610844383547
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "distance": 0.7649095817724987
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "distance": 0.7677200378389797
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.7692032631480288
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "distance": 0.7699820715683976
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "distance": 0.7781488107628329
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "distance": 0.7814852734580161
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "distance": 0.7827094246848816
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "distance": 0.7839524579495051
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "distance": 0.7860999796861039
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "distance": 0.7893250563079388
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "distance": 0.8028481359505268
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "distance": 0.8033357491159051
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "distance": 0.8043049319290514
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "distance": 0.8174196435045193
+      }
+    ]
+  },
+  "llm": {
+    "rank": 28,
+    "ordered": [
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 7,
+        "reason": "Both the START and TARGET papers deal with agents and memory/reasoning. This paper's title directly mentions 'MemoryBank' which is very similar to the START paper's title and likely shares conceptual themes relevant to the TARGET."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 7,
+        "reason": "This paper focuses on memory augmentation in LLMs, a key component of the START paper and conceptually related to the TARGET paper's focus on style transfer which could be enhanced by memory."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 6,
+        "reason": "Similar to MemOS, this paper discusses extending LLM memory, which is a core concept in the START paper and could be relevant to improving agent capabilities in tasks like style transfer (TARGET)."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 6,
+        "reason": "As a survey on memory mechanisms for LLM agents, this paper would likely cover foundational concepts and related work that might include style transfer or methods that could be applied to it."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 6,
+        "reason": "Focuses on long-term memory in LLM agents, a key aspect of the START paper. Improved memory could indirectly benefit tasks like style transfer by allowing agents to retain context and stylistic preferences."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 5,
+        "reason": "This paper's focus on 'memory management' and 'long-term personalization' aligns with the general theme of agent memory present in the START paper and potentially applicable to nuanced tasks like style transfer."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 5,
+        "reason": "The concepts of 'cognitive dual-memory' and 'personalized thought process' are relevant to agent capabilities and could be applied to style transfer for more personalized results."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 5,
+        "reason": "This paper directly addresses agent procedural memory, which is a core component of the START paper. This type of memory could be relevant for agents performing complex tasks like style transfer."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 5,
+        "reason": "Focuses on scalable long-term memory for AI agents, a theme shared with the START paper. Such memory systems could be leveraged for style transfer tasks."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 5,
+        "reason": "Memory augmentation for planning and task automation is relevant to the agent-centric nature of the START paper. This could be extended to tasks requiring planning for stylistic changes."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 5,
+        "reason": "Deals with hierarchical working memory management for agents, a concept closely related to the START paper's focus on reasoning and memory. This is broadly applicable to complex tasks."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 5,
+        "reason": "This paper directly mentions 'self-evolving agents' and 'memory-augmented abilities', which are central to the START paper and could apply to agents that learn and adapt style transfer techniques."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 5,
+        "reason": "Explicitly links memory and reasoning for agents, aligning with the START paper's themes. This synergy is beneficial for complex tasks like style transfer."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 5,
+        "reason": "Focuses on 'agentic memory' for LLM agents, directly connecting to the START paper's domain. Such memory can enhance an agent's ability to perform tasks like style transfer."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 5,
+        "reason": "This paper presents a 'Memory Agent' for LLMs, which directly relates to the START paper. Such agents could be trained or adapted for style transfer tasks."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 5,
+        "reason": "The evaluation of memory in LLM agents is a fundamental aspect of research in this area, making it relevant to any agent performing complex tasks, including style transfer."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 4,
+        "reason": "This survey covers 'self-evolving agents,' a core concept in the START paper. It provides a broad overview that might touch upon applications like style transfer or the underlying mechanisms."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 4,
+        "reason": "A general survey on autonomous agents, which could include discussions on memory, reasoning, and diverse applications, potentially encompassing style transfer."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 4,
+        "reason": "Focuses on 'agent self-evolution,' a direct link to the START paper. The strategy described could be applied to learning new skills like style transfer."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 4,
+        "reason": "This paper is about self-improvement of language agents using experience replay. This learning paradigm could be applied to improving style transfer capabilities."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 4,
+        "reason": "Focuses on learning from errors, which is a form of self-improvement and relevant to agent development. This could be applied to refining style transfer."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 4,
+        "reason": "This paper deals with 'hierarchical reasoning' in LLMs, which is a sophisticated cognitive process. While not directly about memory, it's a key component of advanced agent capabilities that could support style transfer."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 4,
+        "reason": "This paper focuses on 'self-evolving agents' that learn from experience. This adaptive learning is relevant to agents that might need to master style transfer."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 4,
+        "reason": "This paper positions LLM agents as 'experiential learners,' aligning with the self-improvement aspect of the START paper and potentially applicable to learning style transfer."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 4,
+        "reason": "Incorporates 'memory' for computer control tasks. This could be extended to control for stylistic transformations."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 4,
+        "reason": "Focuses on 'teaching AI agents to explore,' which relates to agent capabilities and learning. Exploration could lead to discovering effective style transfer methods."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 4,
+        "reason": "This paper deals with autonomous refinement of agents, which is a form of self-improvement that could be applied to enhancing style transfer abilities."
+      },
+      {
+        "index": 60,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 4,
+        "reason": "This paper on 'iterative refinement with self-feedback' is a form of self-improvement that could be applied to agents learning or adapting style transfer techniques."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 4,
+        "reason": "Investigates reasoning capacity, a core component of advanced agents and relevant to complex tasks like style transfer, though not directly about memory."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 3,
+        "reason": "Focuses on training retrievers for reasoning tasks. Reasoning is a component of the START paper, and retrieval could be used to find style examples for the TARGET paper."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 3,
+        "reason": "Discusses 'collaborative reasoning' in multi-agent systems. While not directly memory-focused, collaborative reasoning can lead to better outcomes in complex tasks."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 3,
+        "reason": "This paper connects 'reasoning' and 'agents' through 'test-time interaction'. Reasoning is relevant to the START paper and could be applied to style transfer."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 3,
+        "reason": "Focuses on inducing 'programmatic skills' for 'agentic tasks'. Style transfer can be viewed as a skill that agents can learn."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 3,
+        "reason": "Discusses scaling test-time compute for LLMs. While general, it relates to agent efficiency, which is relevant to complex tasks like style transfer."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 3,
+        "reason": "Similar to the above, this paper focuses on scaling compute for LLM agents, a general aspect of improving agent performance on tasks like style transfer."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 3,
+        "reason": "This paper focuses on efficient test-time scaling, which is relevant to optimizing agent performance on various tasks, including style transfer."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 3,
+        "reason": "Focuses on 'test time scaling' for a specific task (code generation). This general optimization technique could apply to style transfer agents."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 3,
+        "reason": "This paper presents a simple method for 'test-time scaling,' a technique that could improve agent performance on style transfer tasks."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 3,
+        "reason": "Focuses on 'short-term memory management' and 'tool calling' for LLM agents. While specific, memory optimization is a general theme."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 3,
+        "reason": "Benchmarking continuous improvement for language agents is relevant to agents that might perform style transfer and need to adapt."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 3,
+        "reason": "This paper is about agents for software engineering. The agent concept is shared, and 'automated' tasks might involve stylistic elements."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 3,
+        "reason": "Discusses 'planning' and 'long context understanding' for web agents. These are general capabilities that can be applied to various tasks, including style transfer."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 3,
+        "reason": "Aims to create a 'generalist agent for the web'. Such agents might need to perform diverse tasks, including stylistic modifications."
+      },
+      {
+        "index": 61,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 3,
+        "reason": "This seminal paper on 'Reasoning and Acting' is foundational for agent research. Reasoning is relevant to complex tasks like style transfer."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 3,
+        "reason": "Learning from mistakes is a form of self-improvement relevant to agents. This could be applied to learning style transfer."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 3,
+        "reason": "Focuses on evaluating web browsing agents. These agents could potentially perform tasks involving stylistic changes on web content."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3,
+        "reason": "Discusses using 'experience' for 'agentic problem solving'. This general agent capability could be applied to style transfer."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 3,
+        "reason": "This paper combines 'retrieval-augmented planning' and 'contextual memory' for LLM agents. Memory is a shared theme, and planning is relevant to task execution."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 3,
+        "reason": "Focuses on 'self-adaptive agents' learning through interaction. Adaptability is key for agents performing complex tasks."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 3,
+        "reason": "Benchmarks 'long-term interactive memory' for chat assistants. Memory is a core theme of the START paper."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 3,
+        "reason": "Provides a 'realistic web environment for building autonomous agents'. Such environments can be used to test and develop agents for various tasks, potentially including style transfer."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 2,
+        "reason": "Focuses on embeddings, which are fundamental for LLMs. Generalizable embeddings can support various downstream tasks, but it's less directly related to agent reasoning or memory."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 2,
+        "reason": "This survey focuses on LLMs used for evaluation ('LLM-as-a-Judge'). While LLMs are involved in the START and TARGET, this specific application is less directly related to agent self-evolution or style transfer."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 2,
+        "reason": "This paper is about fine-tuning LLMs for sampling. It's a general LLM technique that might indirectly benefit agent performance but doesn't directly address the core themes."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 2,
+        "reason": "Mentions 'advanced reasoning' and 'agentic capabilities', which are relevant, but it's a high-level overview of a model, not a specific method or technique directly applicable to the START/TARGET connection."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 2,
+        "reason": "Focuses on 'episodic memory' for LLMs. While memory is relevant, 'episodic' and 'infinite context' might be too specific, and it doesn't explicitly mention agents or self-evolution."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 2,
+        "reason": "MemGPT is about using LLMs as operating systems, which involves memory management. However, the OS analogy might be too broad for a direct connection."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 2,
+        "reason": "Discusses 'evolutionary' aspects of foundation agents. This is conceptually related to 'self-evolving' but is a very broad overview."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 2,
+        "reason": "Focuses on 'multimodal agents' and 'open-ended tasks'. While agents are involved, the connection to memory or style transfer is indirect."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 2,
+        "reason": "Mentions 'agent workflow memory'. While 'memory' is present, 'workflow' might be too specific, and the direct link to the START/TARGET papers' core concepts is less clear."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 2,
+        "reason": "This paper is about self-improvement of language agents using experience replay. This learning paradigm could be applied to improving style transfer capabilities."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 1,
+        "reason": "Focuses on a specific environment for web agent research. The connection to the START paper's agent evolution and the TARGET paper's style transfer is very weak."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 1,
+        "reason": "This paper is about agents for software engineering. The agent concept is shared, and 'automated' tasks might involve stylistic elements."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 1,
+        "reason": "Focuses on scalable long-term memory for AI agents, a theme shared with the START paper. Such memory systems could be leveraged for style transfer tasks."
+      },
+      {
+        "index": 62,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 1,
+        "reason": "This paper is about contrastive learning for visual representations. It's a general machine learning technique with no direct relation to agents, self-evolution, or style transfer."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 3,
+    "ranked": [
+      {
+        "index": 41,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 10,
+        "reason": "The TARGET paper focuses on style transfer, a task that often involves reasoning about linguistic structures and transforming them. ReAct directly addresses the synergy between reasoning and acting, which is highly relevant for complex tasks like style transfer where understanding and manipulation are key."
+      },
+      {
+        "index": 32,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 9,
+        "reason": "Style transfer can be viewed as an exploratory task where the model needs to 'try out' different linguistic transformations to achieve the desired style. ExACT's focus on exploration and learning from mistakes, combined with reflective learning, aligns well with the iterative nature of refining stylistic elements."
+      },
+      {
+        "index": 2,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 9,
+        "reason": "Style transfer is an iterative process. Self-Refine's approach to improving outputs through self-feedback is directly applicable to refining the stylistic aspects of text, making it a strong candidate."
+      },
+      {
+        "index": 10,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 8,
+        "reason": "Style transfer can be framed as inducing specific 'programmatic skills' or transformation rules. This paper's focus on learning such skills for agents is relevant to developing precise control over linguistic output for stylistic changes."
+      },
+      {
+        "index": 49,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 8,
+        "reason": "Achieving a specific style often involves navigating linguistic nuances and avoiding 'errors' in style. Learning from mistakes, as proposed in this paper, is crucial for fine-tuning style transfer to produce natural and accurate results."
+      },
+      {
+        "index": 36,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 8,
+        "reason": "Similar to 'Learning Wisdom from Errors', this paper's focus on learning principles from mistakes is highly relevant for style transfer, where misapplying a stylistic transformation can lead to undesirable outcomes. Learning these underlying principles is key to successful transfer."
+      },
+      {
+        "index": 55,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 8,
+        "reason": "Style transfer often requires reasoning about the source text and the target style. This paper's focus on training retrievers for reasoning tasks suggests mechanisms that could be used to identify and apply relevant stylistic knowledge."
+      },
+      {
+        "index": 38,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 7,
+        "reason": "The target task, style transfer, can benefit from retrieval-augmented approaches to find relevant stylistic patterns or examples. The planning aspect is also relevant for orchestrating the transformation process."
+      },
+      {
+        "index": 40,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 7,
+        "reason": "Style transfer can be seen as a form of 'computer control' over text. Using trajectories as exemplars with memory aligns with the idea of learning specific transformation paths for style transfer."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 7,
+        "reason": "Style transfer benefits from learning from examples and experiences. ExpeL's focus on experiential learning for LLM agents could provide a framework for agents to learn and adapt to different style transfer requirements."
+      },
+      {
+        "index": 27,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 7,
+        "reason": "Improving style transfer can be framed as refining the agent's ability to perform this task. Autonomous evaluation and refinement processes are directly applicable to enhancing the quality of style transfer outputs."
+      },
+      {
+        "index": 28,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 7,
+        "reason": "This paper's focus on self-evolving agents with reflection and memory suggests a robust framework for agents that need to adapt and improve their performance, which is applicable to learning and executing complex stylistic transformations."
+      },
+      {
+        "index": 53,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 7,
+        "reason": "Style transfer can be a long-horizon task, especially when dealing with complex texts or subtle stylistic changes. Synergizing memory and reasoning, as this paper suggests, is crucial for efficiently handling such tasks."
+      },
+      {
+        "index": 1,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 6,
+        "reason": "Improving style transfer involves learning from past attempts. Contextual experience replay can help agents learn from specific stylistic examples and improve their performance over time."
+      },
+      {
+        "index": 22,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 6,
+        "reason": "While focused on dialogue, the concepts of prospective and retrospective reflection, along with memory management, are relevant to understanding and implementing nuanced stylistic changes."
+      },
+      {
+        "index": 58,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 6,
+        "reason": "Style transfer requires both understanding (thinking) and executing the transformation (doing). This paper's approach to agents that reason through test-time interaction could inform how to best execute stylistic changes."
+      },
+      {
+        "index": 13,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 6,
+        "reason": "Effective style transfer often requires remembering stylistic features or constraints. A survey on memory mechanisms in LLM agents is relevant to understanding how to equip agents with the necessary memory for this task."
+      },
+      {
+        "index": 21,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 6,
+        "reason": "Understanding autonomous agents is foundational. This survey could provide context on agent capabilities that are relevant to performing complex text transformations like style transfer."
+      },
+      {
+        "index": 15,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 5,
+        "reason": "Web agents perform complex tasks on web pages. Style transfer, while not web-specific, shares the characteristic of understanding and manipulating structured information (text)."
+      },
+      {
+        "index": 18,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 5,
+        "reason": "Similar to Mind2Web, this paper's focus on planning, understanding, and program synthesis in web agents is relevant to the procedural aspects of style transfer."
+      },
+      {
+        "index": 37,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 5,
+        "reason": "While focused on web tasks, the underlying principles of agent design and evaluation in realistic environments could be applied to style transfer tasks."
+      },
+      {
+        "index": 29,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 5,
+        "reason": "Evaluating agents on tedious tasks is relevant to the potential complexity and fine-grained nature of style transfer."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 5,
+        "reason": "This paper benchmarks agents on open-ended tasks. Style transfer can be considered an open-ended task where the goal is to achieve a certain aesthetic or stylistic outcome."
+      },
+      {
+        "index": 12,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 5,
+        "reason": "Automated software engineering involves complex transformations and understanding of code structure. This could be analogous to understanding and transforming linguistic structures for style."
+      },
+      {
+        "index": 16,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 4,
+        "reason": "Good embeddings are crucial for understanding text. Generalizable embeddings might capture stylistic nuances better, aiding style transfer."
+      },
+      {
+        "index": 6,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 4,
+        "reason": "Test-time scaling is a technique that can be applied to various generation tasks. Its application to code generation might offer insights into scaling for text generation with stylistic constraints."
+      },
+      {
+        "index": 30,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 4,
+        "reason": "Similar to S*, this paper focuses on test-time scaling, a potentially relevant optimization for applying style transfer models."
+      },
+      {
+        "index": 34,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 4,
+        "reason": "Another paper on test-time scaling, highlighting its importance in efficient generation, which could apply to style transfer."
+      },
+      {
+        "index": 52,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 4,
+        "reason": "This paper directly addresses scaling test-time compute for LLM agents, which could be beneficial for complex style transfer tasks."
+      },
+      {
+        "index": 57,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 4,
+        "reason": "This paper offers a nuanced view on test-time scaling, suggesting that incorporating verification or RL can improve outcomes, which might be relevant for ensuring stylistic accuracy."
+      },
+      {
+        "index": 62,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 4,
+        "reason": "Multi-agent collaborative reasoning could be adapted for style transfer, where different agents might focus on different stylistic aspects or levels of transformation."
+      },
+      {
+        "index": 35,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 4,
+        "reason": "Advanced reasoning and agentic capabilities are directly relevant to performing complex text transformations like style transfer."
+      },
+      {
+        "index": 4,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 4,
+        "reason": "Memory-augmented generation is relevant for tasks requiring context and specific transformations. An 'OS for memory' could provide a structured way to manage stylistic requirements."
+      },
+      {
+        "index": 3,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 4,
+        "reason": "Long-term memory is crucial for understanding nuanced stylistic requirements over extended interactions or for applying consistent styles. MemoryBank addresses this directly."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 4,
+        "reason": "This paper's focus on memory agents for long contexts is relevant for maintaining stylistic consistency across longer pieces of text."
+      },
+      {
+        "index": 14,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 4,
+        "reason": "Personalization is key to style. This paper's focus on personalized thought processes and dual-memory could be adapted for learning and applying specific user-defined styles."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "Scalable long-term memory is essential for agents that need to recall and apply specific stylistic rules or preferences consistently."
+      },
+      {
+        "index": 20,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 4,
+        "reason": "A knowledge base of cross-domain experience could contain stylistic patterns or rules that are beneficial for style transfer."
+      },
+      {
+        "index": 26,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 4,
+        "reason": "Viewing LLMs as operating systems, especially with memory management, can provide a structural framework for handling complex tasks like style transfer."
+      },
+      {
+        "index": 33,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "Extending memory is critical for tasks requiring consistent application of rules or styles. This paper's focus on scalable long-term memory is relevant."
+      },
+      {
+        "index": 39,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 4,
+        "reason": "Agentic memory is fundamental for tasks that require recalling and utilizing specific information, such as stylistic characteristics or transformation rules."
+      },
+      {
+        "index": 42,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 4,
+        "reason": "Efficient memory management, especially for dynamic tool calling, is relevant to style transfer if tools or specific linguistic operations are used."
+      },
+      {
+        "index": 44,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 4,
+        "reason": "Procedural memory is about 'how to do things.' Style transfer is a procedural task, so exploring this type of memory is relevant."
+      },
+      {
+        "index": 45,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 4,
+        "reason": "Episodic memory, mimicking human experience, could capture the essence of specific styles and how they are applied in context."
+      },
+      {
+        "index": 50,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 4,
+        "reason": "Evaluating how agents handle memory incrementally is important for ensuring consistent stylistic application over longer texts or interactions."
+      },
+      {
+        "index": 59,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 4,
+        "reason": "Workflow memory suggests structured approaches to task execution. Style transfer can be framed as a workflow of linguistic operations."
+      },
+      {
+        "index": 61,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 4,
+        "reason": "Trajectory-constructed memory and planning are relevant for sequential tasks like style transfer, where a series of transformations might be needed."
+      },
+      {
+        "index": 47,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 3,
+        "reason": "Hierarchical reasoning could be applied to breaking down style transfer into smaller, manageable steps. RL could help optimize these steps."
+      },
+      {
+        "index": 51,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 3,
+        "reason": "Learning through interaction in realistic environments is a general approach for agent improvement. Style transfer could be seen as a task within such an environment."
+      },
+      {
+        "index": 56,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 3,
+        "reason": "LLM-as-a-judge could be used to evaluate the success of style transfer by assessing if the output matches the desired style."
+      },
+      {
+        "index": 60,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 3,
+        "reason": "This paper questions RL's impact on reasoning. Since style transfer involves reasoning, understanding RL's role is indirectly relevant."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 3,
+        "reason": "This survey provides a broad overview of self-evolving agents. While general, it could offer insights into agent architectures that might handle complex tasks like style transfer."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 3,
+        "reason": "Foundation agents are a broad topic. Evolutionary and collaborative aspects might be relevant for developing adaptive style transfer systems."
+      },
+      {
+        "index": 48,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 3,
+        "reason": "Self-evolving agents that learn from experience are relevant for tasks that require adaptation and improvement, like style transfer."
+      },
+      {
+        "index": 8,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 2,
+        "reason": "Contrastive learning is primarily for representations. While it could potentially be adapted for stylistic features, it's less direct than other approaches."
+      },
+      {
+        "index": 25,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 2,
+        "reason": "This strategy is about agent self-evolution across tasks. While style transfer is a task, the inter-task aspect is less relevant here."
+      },
+      {
+        "index": 31,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 2,
+        "reason": "This paper focuses on conversational memory. Style transfer is not inherently conversational, making this less directly applicable."
+      },
+      {
+        "index": 43,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 2,
+        "reason": "Similar to the above, this focuses on chat assistants and long-term interactive memory, which is not the primary focus of style transfer."
+      },
+      {
+        "index": 5,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 1,
+        "reason": "Benchmarking continuous improvement is a meta-task. While relevant for evaluating style transfer agents, it doesn't directly contribute to the mechanism of style transfer itself."
+      },
+      {
+        "index": 11,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 1,
+        "reason": "Best-of-N sampling is a technique for improving generation quality, but 'inference-aware fine-tuning' doesn't directly imply stylistic control."
+      },
+      {
+        "index": 17,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 1,
+        "reason": "This is about web agents. While style transfer could be applied to web content, the focus on browser interaction is peripheral."
+      },
+      {
+        "index": 24,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 1,
+        "reason": "Hierarchical working memory management is relevant for complex tasks, but the 'long-horizon agent tasks' aspect might be too general without specific relation to linguistic style."
+      },
+      {
+        "index": 100,
+        "arxivId": "2509.25140",
+        "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+        "score": 0,
+        "reason": "This is the START paper, so it cannot be a 1-hop citation to itself."
+      },
+      {
+        "index": 101,
+        "arxivId": "1804.09000",
+        "title": "Style Transfer Through Back-Translation",
+        "score": 0,
+        "reason": "This is the TARGET paper, so it cannot be a 1-hop citation."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": -0.0506439933950374,
+      "correctness": 0
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 41,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 10,
+          "reason": "The TARGET paper focuses on style transfer, a task that often involves reasoning about linguistic structures and transforming them. ReAct directly addresses the synergy between reasoning and acting, which is highly relevant for complex tasks like style transfer where understanding and manipulation are key."
+        },
+        {
+          "index": 32,
+          "arxivId": "2410.02052",
+          "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+          "score": 9,
+          "reason": "Style transfer can be viewed as an exploratory task where the model needs to 'try out' different linguistic transformations to achieve the desired style. ExACT's focus on exploration and learning from mistakes, combined with reflective learning, aligns well with the iterative nature of refining stylistic elements."
+        },
+        {
+          "index": 2,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 9,
+          "reason": "Style transfer is an iterative process. Self-Refine's approach to improving outputs through self-feedback is directly applicable to refining the stylistic aspects of text, making it a strong candidate."
+        },
+        {
+          "index": 10,
+          "arxivId": "2504.06821",
+          "title": "Inducing Programmatic Skills for Agentic Tasks",
+          "score": 8,
+          "reason": "Style transfer can be framed as inducing specific 'programmatic skills' or transformation rules. This paper's focus on learning such skills for agents is relevant to developing precise control over linguistic output for stylistic changes."
+        },
+        {
+          "index": 49,
+          "arxivId": "2508.12031",
+          "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+          "score": 8,
+          "reason": "Achieving a specific style often involves navigating linguistic nuances and avoiding 'errors' in style. Learning from mistakes, as proposed in this paper, is crucial for fine-tuning style transfer to produce natural and accurate results."
+        },
+        {
+          "index": 36,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 8,
+          "reason": "Similar to 'Learning Wisdom from Errors', this paper's focus on learning principles from mistakes is highly relevant for style transfer, where misapplying a stylistic transformation can lead to undesirable outcomes. Learning these underlying principles is key to successful transfer."
+        },
+        {
+          "index": 55,
+          "arxivId": "2504.20595",
+          "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+          "score": 8,
+          "reason": "Style transfer often requires reasoning about the source text and the target style. This paper's focus on training retrievers for reasoning tasks suggests mechanisms that could be used to identify and apply relevant stylistic knowledge."
+        },
+        {
+          "index": 38,
+          "arxivId": "2402.03610",
+          "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+          "score": 7,
+          "reason": "The target task, style transfer, can benefit from retrieval-augmented approaches to find relevant stylistic patterns or examples. The planning aspect is also relevant for orchestrating the transformation process."
+        },
+        {
+          "index": 40,
+          "arxivId": "2306.07863",
+          "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+          "score": 7,
+          "reason": "Style transfer can be seen as a form of 'computer control' over text. Using trajectories as exemplars with memory aligns with the idea of learning specific transformation paths for style transfer."
+        },
+        {
+          "index": 54,
+          "arxivId": "2308.10144",
+          "title": "ExpeL: LLM Agents Are Experiential Learners",
+          "score": 7,
+          "reason": "Style transfer benefits from learning from examples and experiences. ExpeL's focus on experiential learning for LLM agents could provide a framework for agents to learn and adapt to different style transfer requirements."
+        },
+        {
+          "index": 27,
+          "arxivId": "2404.06474",
+          "title": "Autonomous Evaluation and Refinement of Digital Agents",
+          "score": 7,
+          "reason": "Improving style transfer can be framed as refining the agent's ability to perform this task. Autonomous evaluation and refinement processes are directly applicable to enhancing the quality of style transfer outputs."
+        },
+        {
+          "index": 28,
+          "arxivId": "2409.00872",
+          "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+          "score": 7,
+          "reason": "This paper's focus on self-evolving agents with reflection and memory suggests a robust framework for agents that need to adapt and improve their performance, which is applicable to learning and executing complex stylistic transformations."
+        },
+        {
+          "index": 53,
+          "arxivId": "2506.15841",
+          "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+          "score": 7,
+          "reason": "Style transfer can be a long-horizon task, especially when dealing with complex texts or subtle stylistic changes. Synergizing memory and reasoning, as this paper suggests, is crucial for efficiently handling such tasks."
+        },
+        {
+          "index": 1,
+          "arxivId": "2506.06698",
+          "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+          "score": 6,
+          "reason": "Improving style transfer involves learning from past attempts. Contextual experience replay can help agents learn from specific stylistic examples and improve their performance over time."
+        },
+        {
+          "index": 22,
+          "arxivId": "2503.08026",
+          "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+          "score": 6,
+          "reason": "While focused on dialogue, the concepts of prospective and retrospective reflection, along with memory management, are relevant to understanding and implementing nuanced stylistic changes."
+        },
+        {
+          "index": 58,
+          "arxivId": "2506.07976",
+          "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+          "score": 6,
+          "reason": "Style transfer requires both understanding (thinking) and executing the transformation (doing). This paper's approach to agents that reason through test-time interaction could inform how to best execute stylistic changes."
+        },
+        {
+          "index": 13,
+          "arxivId": "2404.13501",
+          "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+          "score": 6,
+          "reason": "Effective style transfer often requires remembering stylistic features or constraints. A survey on memory mechanisms in LLM agents is relevant to understanding how to equip agents with the necessary memory for this task."
+        },
+        {
+          "index": 21,
+          "arxivId": "2308.11432",
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 6,
+          "reason": "Understanding autonomous agents is foundational. This survey could provide context on agent capabilities that are relevant to performing complex text transformations like style transfer."
+        },
+        {
+          "index": 15,
+          "arxivId": "2306.06070",
+          "title": "Mind2Web: Towards a Generalist Agent for the Web",
+          "score": 5,
+          "reason": "Web agents perform complex tasks on web pages. Style transfer, while not web-specific, shares the characteristic of understanding and manipulating structured information (text)."
+        },
+        {
+          "index": 18,
+          "arxivId": "2307.12856",
+          "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+          "score": 5,
+          "reason": "Similar to Mind2Web, this paper's focus on planning, understanding, and program synthesis in web agents is relevant to the procedural aspects of style transfer."
+        },
+        {
+          "index": 37,
+          "arxivId": "2307.13854",
+          "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "score": 5,
+          "reason": "While focused on web tasks, the underlying principles of agent design and evaluation in realistic environments could be applied to style transfer tasks."
+        },
+        {
+          "index": 29,
+          "arxivId": "2506.01952",
+          "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+          "score": 5,
+          "reason": "Evaluating agents on tedious tasks is relevant to the potential complexity and fine-grained nature of style transfer."
+        },
+        {
+          "index": 46,
+          "arxivId": "2404.07972",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "score": 5,
+          "reason": "This paper benchmarks agents on open-ended tasks. Style transfer can be considered an open-ended task where the goal is to achieve a certain aesthetic or stylistic outcome."
+        },
+        {
+          "index": 12,
+          "arxivId": "2405.15793",
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "score": 5,
+          "reason": "Automated software engineering involves complex transformations and understanding of code structure. This could be analogous to understanding and transforming linguistic structures for style."
+        },
+        {
+          "index": 16,
+          "arxivId": "2503.07891",
+          "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+          "score": 4,
+          "reason": "Good embeddings are crucial for understanding text. Generalizable embeddings might capture stylistic nuances better, aiding style transfer."
+        },
+        {
+          "index": 6,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 4,
+          "reason": "Test-time scaling is a technique that can be applied to various generation tasks. Its application to code generation might offer insights into scaling for text generation with stylistic constraints."
+        },
+        {
+          "index": 30,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 4,
+          "reason": "Similar to S*, this paper focuses on test-time scaling, a potentially relevant optimization for applying style transfer models."
+        },
+        {
+          "index": 34,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 4,
+          "reason": "Another paper on test-time scaling, highlighting its importance in efficient generation, which could apply to style transfer."
+        },
+        {
+          "index": 52,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 4,
+          "reason": "This paper directly addresses scaling test-time compute for LLM agents, which could be beneficial for complex style transfer tasks."
+        },
+        {
+          "index": 57,
+          "arxivId": "2502.12118",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 4,
+          "reason": "This paper offers a nuanced view on test-time scaling, suggesting that incorporating verification or RL can improve outcomes, which might be relevant for ensuring stylistic accuracy."
+        },
+        {
+          "index": 62,
+          "arxivId": "2504.09772",
+          "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+          "score": 4,
+          "reason": "Multi-agent collaborative reasoning could be adapted for style transfer, where different agents might focus on different stylistic aspects or levels of transformation."
+        },
+        {
+          "index": 35,
+          "arxivId": "2507.06261",
+          "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+          "score": 4,
+          "reason": "Advanced reasoning and agentic capabilities are directly relevant to performing complex text transformations like style transfer."
+        },
+        {
+          "index": 4,
+          "arxivId": "2505.22101",
+          "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+          "score": 4,
+          "reason": "Memory-augmented generation is relevant for tasks requiring context and specific transformations. An 'OS for memory' could provide a structured way to manage stylistic requirements."
+        },
+        {
+          "index": 3,
+          "arxivId": "2305.10250",
+          "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+          "score": 4,
+          "reason": "Long-term memory is crucial for understanding nuanced stylistic requirements over extended interactions or for applying consistent styles. MemoryBank addresses this directly."
+        },
+        {
+          "index": 7,
+          "arxivId": "2507.02259",
+          "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+          "score": 4,
+          "reason": "This paper's focus on memory agents for long contexts is relevant for maintaining stylistic consistency across longer pieces of text."
+        },
+        {
+          "index": 14,
+          "arxivId": "2507.04607",
+          "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+          "score": 4,
+          "reason": "Personalization is key to style. This paper's focus on personalized thought processes and dual-memory could be adapted for learning and applying specific user-defined styles."
+        },
+        {
+          "index": 19,
+          "arxivId": "2504.19413",
+          "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "Scalable long-term memory is essential for agents that need to recall and apply specific stylistic rules or preferences consistently."
+        },
+        {
+          "index": 20,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 4,
+          "reason": "A knowledge base of cross-domain experience could contain stylistic patterns or rules that are beneficial for style transfer."
+        },
+        {
+          "index": 26,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 4,
+          "reason": "Viewing LLMs as operating systems, especially with memory management, can provide a structural framework for handling complex tasks like style transfer."
+        },
+        {
+          "index": 33,
+          "arxivId": "2502.00592",
+          "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "Extending memory is critical for tasks requiring consistent application of rules or styles. This paper's focus on scalable long-term memory is relevant."
+        },
+        {
+          "index": 39,
+          "arxivId": "2502.12110",
+          "title": "A-MEM: Agentic Memory for LLM Agents",
+          "score": 4,
+          "reason": "Agentic memory is fundamental for tasks that require recalling and utilizing specific information, such as stylistic characteristics or transformation rules."
+        },
+        {
+          "index": 42,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 4,
+          "reason": "Efficient memory management, especially for dynamic tool calling, is relevant to style transfer if tools or specific linguistic operations are used."
+        },
+        {
+          "index": 44,
+          "arxivId": "2508.06433",
+          "title": "Memp: Exploring Agent Procedural Memory",
+          "score": 4,
+          "reason": "Procedural memory is about 'how to do things.' Style transfer is a procedural task, so exploring this type of memory is relevant."
+        },
+        {
+          "index": 45,
+          "arxivId": "2407.09450",
+          "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+          "score": 4,
+          "reason": "Episodic memory, mimicking human experience, could capture the essence of specific styles and how they are applied in context."
+        },
+        {
+          "index": 50,
+          "arxivId": "2507.05257",
+          "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+          "score": 4,
+          "reason": "Evaluating how agents handle memory incrementally is important for ensuring consistent stylistic application over longer texts or interactions."
+        },
+        {
+          "index": 59,
+          "arxivId": "2409.07429",
+          "title": "Agent Workflow Memory",
+          "score": 4,
+          "reason": "Workflow memory suggests structured approaches to task execution. Style transfer can be framed as a workflow of linguistic operations."
+        },
+        {
+          "index": 61,
+          "arxivId": "2507.21953",
+          "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+          "score": 4,
+          "reason": "Trajectory-constructed memory and planning are relevant for sequential tasks like style transfer, where a series of transformations might be needed."
+        },
+        {
+          "index": 47,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 3,
+          "reason": "Hierarchical reasoning could be applied to breaking down style transfer into smaller, manageable steps. RL could help optimize these steps."
+        },
+        {
+          "index": 51,
+          "arxivId": "2501.10893",
+          "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+          "score": 3,
+          "reason": "Learning through interaction in realistic environments is a general approach for agent improvement. Style transfer could be seen as a task within such an environment."
+        },
+        {
+          "index": 56,
+          "arxivId": "2411.15594",
+          "title": "A Survey on LLM-as-a-Judge",
+          "score": 3,
+          "reason": "LLM-as-a-judge could be used to evaluate the success of style transfer by assessing if the output matches the desired style."
+        },
+        {
+          "index": 60,
+          "arxivId": "2504.13837",
+          "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+          "score": 3,
+          "reason": "This paper questions RL's impact on reasoning. Since style transfer involves reasoning, understanding RL's role is indirectly relevant."
+        },
+        {
+          "index": 9,
+          "arxivId": "2507.21046",
+          "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+          "score": 3,
+          "reason": "This survey provides a broad overview of self-evolving agents. While general, it could offer insights into agent architectures that might handle complex tasks like style transfer."
+        },
+        {
+          "index": 23,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 3,
+          "reason": "Foundation agents are a broad topic. Evolutionary and collaborative aspects might be relevant for developing adaptive style transfer systems."
+        },
+        {
+          "index": 48,
+          "arxivId": "2508.04700",
+          "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+          "score": 3,
+          "reason": "Self-evolving agents that learn from experience are relevant for tasks that require adaptation and improvement, like style transfer."
+        },
+        {
+          "index": 8,
+          "arxivId": "2002.05709",
+          "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "score": 2,
+          "reason": "Contrastive learning is primarily for representations. While it could potentially be adapted for stylistic features, it's less direct than other approaches."
+        },
+        {
+          "index": 25,
+          "arxivId": "2401.13996",
+          "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+          "score": 2,
+          "reason": "This strategy is about agent self-evolution across tasks. While style transfer is a task, the inter-task aspect is less relevant here."
+        },
+        {
+          "index": 31,
+          "arxivId": "2402.17753",
+          "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+          "score": 2,
+          "reason": "This paper focuses on conversational memory. Style transfer is not inherently conversational, making this less directly applicable."
+        },
+        {
+          "index": 43,
+          "arxivId": "2410.10813",
+          "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+          "score": 2,
+          "reason": "Similar to the above, this focuses on chat assistants and long-term interactive memory, which is not the primary focus of style transfer."
+        },
+        {
+          "index": 5,
+          "arxivId": "2406.08747",
+          "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+          "score": 1,
+          "reason": "Benchmarking continuous improvement is a meta-task. While relevant for evaluating style transfer agents, it doesn't directly contribute to the mechanism of style transfer itself."
+        },
+        {
+          "index": 11,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 1,
+          "reason": "Best-of-N sampling is a technique for improving generation quality, but 'inference-aware fine-tuning' doesn't directly imply stylistic control."
+        },
+        {
+          "index": 17,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 1,
+          "reason": "This is about web agents. While style transfer could be applied to web content, the focus on browser interaction is peripheral."
+        },
+        {
+          "index": 24,
+          "arxivId": "2408.09559",
+          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+          "score": 1,
+          "reason": "Hierarchical working memory management is relevant for complex tasks, but the 'long-horizon agent tasks' aspect might be too general without specific relation to linguistic style."
+        },
+        {
+          "index": 100,
+          "arxivId": "2509.25140",
+          "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+          "score": 0,
+          "reason": "This is the START paper, so it cannot be a 1-hop citation to itself."
+        },
+        {
+          "index": 101,
+          "arxivId": "1804.09000",
+          "title": "Style Transfer Through Back-Translation",
+          "score": 0,
+          "reason": "This is the TARGET paper, so it cannot be a 1-hop citation."
+        }
+      ]
+    }
+  }
+}

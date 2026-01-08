@@ -1,0 +1,1937 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2509.25140",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory"
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation"
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process"
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents"
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks"
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models"
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks"
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code"
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation"
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents"
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling"
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models"
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research"
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge"
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory"
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model"
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs"
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents"
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes"
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents"
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control"
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2402.03610",
+      "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+    },
+    "target": {
+      "arxivId": "2103.00020",
+      "title": "Learning Transferable Visual Models From Natural Language Supervision"
+    }
+  },
+  "embeddings": {
+    "rank": 25,
+    "ordered": [
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "distance": 0.4543223673850023
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "distance": 0.508198284348319
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "distance": 0.5146182548872651
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "distance": 0.5150969561993026
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "distance": 0.5278300275570649
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "distance": 0.5314690316320898
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "distance": 0.5389288962651577
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "distance": 0.550102385121276
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.5506379212264962
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "distance": 0.5543494298197225
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "distance": 0.5694907037639108
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "distance": 0.5698331905533145
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "distance": 0.574256378126031
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "distance": 0.5752481890946372
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "distance": 0.5768757286194321
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "distance": 0.578627435667996
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "distance": 0.5811787419766458
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.5867488699682313
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "distance": 0.5887265965744073
+      },
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "distance": 0.5924392016771163
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "distance": 0.5933620911208577
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "distance": 0.5954577707302013
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "distance": 0.6028111256328166
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "distance": 0.6036109944770958
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "distance": 0.6036140986235377
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "distance": 0.6063337784523817
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "distance": 0.6068241410755828
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "distance": 0.6107511929791938
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "distance": 0.6127039924819533
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "distance": 0.6152794831300145
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.6173015459883163
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "distance": 0.6207859100842303
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "distance": 0.6225626173107339
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "distance": 0.6244403857133056
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "distance": 0.6255911060678145
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6259654072113942
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "distance": 0.6269359016232878
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "distance": 0.6302713997212827
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6318647752290214
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "distance": 0.6337994181934059
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.6349168750780727
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "distance": 0.6489020226899469
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "distance": 0.649554361609759
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "distance": 0.6512988164639918
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "distance": 0.6544154848697652
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "distance": 0.6559236914873936
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.6614043170741526
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "distance": 0.667300409184657
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "distance": 0.6678547067353628
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "distance": 0.6756671139228888
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "distance": 0.6801694091718957
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "distance": 0.6806900666995737
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "distance": 0.6830240379659976
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "distance": 0.6844313959824306
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "distance": 0.6945654020325924
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "distance": 0.7177786264117068
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "distance": 0.7233084731005097
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "distance": 0.7278125049178261
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "distance": 0.7377453499798348
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "distance": 0.7389803611211885
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "distance": 0.740690601137616
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "distance": 0.7466358288495446
+      }
+    ]
+  },
+  "llm": {
+    "rank": 8,
+    "ordered": [
+      {
+        "index": 62,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 9,
+        "reason": "The target paper is about learning transferable visual models from natural language supervision. This paper is a foundational work in contrastive learning for visual representations, which is highly relevant to learning visual models."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 8,
+        "reason": "The target paper focuses on learning transferable visual models from natural language. Gemini embeddings are likely to capture generalizable representations, which could be visual and informed by language."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 6,
+        "reason": "The target paper involves learning models from natural language, and this paper discusses reasoning in LLMs, which could be a component of such learning or its application."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 5,
+        "reason": "The target paper is about learning transferable models. This paper discusses how RL might improve reasoning in LLMs, which could be relevant to how models learn and improve."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "The target paper focuses on learning visual models from language. This paper is about training retrievers for reasoning, which could be a component in learning or utilizing such models."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 4,
+        "reason": "The target paper is about learning visual models. This paper discusses reasoning in agents, which might involve visual understanding and interaction."
+      },
+      {
+        "index": 61,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 4,
+        "reason": "The target paper is about learning models using natural language supervision. This paper's focus on reasoning and acting in LLMs could be related to how models learn to interpret and use information."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 4,
+        "reason": "The target paper is about learning visual models from language. This paper involves multimodal LLMs and memory, which could be relevant to processing and learning from diverse inputs."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 4,
+        "reason": "The target paper is about learning transferable visual models. This paper discusses learning principles, which could apply to how models learn from supervision."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 4,
+        "reason": "The target paper is about learning models from language. This paper discusses learning from errors, a key aspect of model training and improvement."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 4,
+        "reason": "The target paper is about learning transferable models. This paper focuses on self-evolving agents, which implies a learning process that could be informed by various data sources, including language supervision."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 4,
+        "reason": "The target paper is about learning transferable visual models. This paper's focus on self-evolution strategies could be relevant to how learning is achieved and transferred across tasks."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 4,
+        "reason": "The target paper is about learning models. This paper discusses autonomous refinement, which is a form of learning and improvement applicable to any model."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 3,
+        "reason": "The target paper is about learning visual models. This paper discusses agents and interfaces, which could involve visual perception and interaction learned from data."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 3,
+        "reason": "The target paper is about learning models from language supervision. This paper deals with continuous improvement of agents, which is a learning process."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 3,
+        "reason": "The target paper is about learning transferable visual models. This paper focuses on agents as 'experiential learners', which aligns with the idea of learning from supervision."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 3,
+        "reason": "The target paper is about learning models. This paper's 'learn-by-interact' approach is a form of learning that could be applied to learning visual models."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 3,
+        "reason": "The target paper is about learning transferable models. This paper discusses autonomous learning from experience, which is a direct form of model improvement."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 3,
+        "reason": "The target paper is about learning models. This survey on self-evolving agents touches upon continuous learning and adaptation."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 3,
+        "reason": "While memory is not the primary focus of the target, it can be crucial for learning and retaining information from supervision, especially in complex tasks."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 3,
+        "reason": "Memory and planning are often involved in learning complex tasks, which might be relevant to learning visual models from language."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 3,
+        "reason": "Similar to other memory-related papers, effective memory management can aid in the learning process required for the target paper's objective."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 3,
+        "reason": "Memory evaluation is relevant to how models learn and retain information over time, which is a component of learning transferable models."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 3,
+        "reason": "Personalization and memory can be aspects of learning transferable models that adapt to specific types of data or tasks."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 3,
+        "reason": "This paper's focus on memory and RL in LLMs could be indirectly related to learning transferable models, as these techniques can enhance model capabilities."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 3,
+        "reason": "The synergy of memory and reasoning is important for effective learning, which aligns with the goal of learning transferable models."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 3,
+        "reason": "Memory augmentation is a key factor in enabling LLMs to handle complex learning tasks, which could include learning visual models."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 3,
+        "reason": "Scalable long-term memory is crucial for agents that need to learn and adapt, potentially including learning from language supervision."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 3,
+        "reason": "Reflective memory management can contribute to better learning and adaptation, relevant to learning transferable models."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 3,
+        "reason": "Agentic memory is a fundamental component for building agents that learn and perform complex tasks, including those that require visual understanding."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 3,
+        "reason": "Extending memory capabilities is essential for models that need to learn from extensive data, aligning with the target paper's objective."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 3,
+        "reason": "Benchmarking memory capabilities is relevant to understanding how models learn and retain information, a prerequisite for transferable learning."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 3,
+        "reason": "Workflow memory can streamline learning processes by organizing and recalling task-specific information."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 3,
+        "reason": "Hierarchical memory management is important for handling complex tasks, which could include learning visual models from language."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 3,
+        "reason": "Episodic memory can help models learn from sequential data, which is often the case when learning from natural language supervision."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 3,
+        "reason": "This survey covers memory mechanisms, which are fundamental to how LLMs learn and retain information, relevant to transferable learning."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 3,
+        "reason": "Long-term conversational memory is crucial for agents that continuously learn and adapt, a key aspect of transferable learning."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 3,
+        "reason": "MemGPT's concept of LLMs as operating systems with memory management is relevant to building sophisticated learning systems."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 3,
+        "reason": "This paper's focus on agents with planning and long context understanding could be related to learning complex visual models from language."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 3,
+        "reason": "Memory and trajectory-based learning are relevant to how agents learn to perform tasks, which could include visual tasks."
+      },
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 3,
+        "reason": "Enhancing LLMs with long-term memory is directly applicable to improving their capacity for learning and knowledge retention."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 2,
+        "reason": "Web environments can involve visual elements and interactions, making them potentially relevant for learning visual models, although the focus is on general agents."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 2,
+        "reason": "Web agents often need to interpret visual information and text, making this relevant to learning visual models, though the focus is broader."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 2,
+        "reason": "Web browsing involves visual interfaces, and evaluating agents on these tasks could indirectly relate to learning visual models."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 2,
+        "reason": "Multimodal agents operating in real environments often deal with visual information, which is relevant to learning visual models."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 2,
+        "reason": "Scaling test-time compute is about inference efficiency, which is less directly related to the learning aspect of the target paper."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 2,
+        "reason": "Focuses on test-time scaling, which is primarily an efficiency concern during inference, not directly related to learning transferable models."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 2,
+        "reason": "Test-time scaling for code generation is about inference optimization, not directly about learning visual models from language."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 2,
+        "reason": "This paper discusses test-time scaling and optimization, which is an inference-time concern rather than a learning-time concern."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 2,
+        "reason": "Test-time scaling is primarily about inference efficiency, not directly related to the core task of learning transferable visual models."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 2,
+        "reason": "This paper focuses on test-time scaling and collaborative reasoning, which is less directly related to learning transferable visual models."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 1,
+        "reason": "LLM-as-a-judge is about evaluation, not directly about learning transferable visual models from natural language supervision."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 1,
+        "reason": "While learning is involved, the focus on exploration strategies is less directly aligned with learning transferable visual models from specific supervision."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 1,
+        "reason": "This paper focuses on program synthesis for agents, which is a specific skill and not directly about learning general visual models from language."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 1,
+        "reason": "Self-improvement is a form of learning, but the focus on experience replay might be less directly applicable than direct supervision."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 1,
+        "reason": "Leveraging experience is a form of learning, but 'Agent KB' is broad and doesn't specifically point to visual models or language supervision."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 1,
+        "reason": "While Gemini's multimodal capabilities are relevant, this paper is more of an announcement/overview rather than a methodology paper directly bridging to the target."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 1,
+        "reason": "This is a broad survey of foundation agents, which is too general to strongly predict a citation for a specific learning task."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 1,
+        "reason": "Focuses on fine-tuning for sampling, which is related to model adaptation but not directly to learning visual models from language supervision."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 1,
+        "reason": "Self-evolving agents imply learning, but the scope is very general."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 1,
+        "reason": "A general survey on autonomous agents is unlikely to be a strong predictor for a specific learning task like the target paper."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 1,
+        "reason": "Web environments can involve visual elements, but the focus is on the ecosystem for agent research, not the learning methodology itself."
+      },
+      {
+        "index": 60,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 1,
+        "reason": "Self-refinement is a form of learning, but it's a general mechanism not specifically tied to visual models or language supervision."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 1,
+        "reason": "Focuses on retrieval for reasoning, which is related to information processing but not directly to learning visual models from language."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 0,
+        "reason": "This is a duplicate entry with a lower score. Duplicates are not helpful."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 45,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 8,
+        "reason": "Contrastive learning is a fundamental technique for learning visual representations, which is highly relevant to the target paper that focuses on learning transferable visual models."
+      },
+      {
+        "index": 10,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 8,
+        "reason": "Generalizable embeddings are crucial for learning transferable visual models, and Gemini embeddings are likely to be powerful and versatile."
+      },
+      {
+        "index": 31,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 7,
+        "reason": "This paper focuses on building a generalist agent for the web, which aligns with the goal of learning transferable visual models that can generalize across various tasks."
+      },
+      {
+        "index": 47,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 7,
+        "reason": "WebArena provides a realistic environment for testing agents, which is relevant for evaluating the transferability and performance of visual models in agentic tasks."
+      },
+      {
+        "index": 18,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 7,
+        "reason": "Benchmarking multimodal agents in real-world environments is directly related to the application and evaluation of transferable visual models."
+      },
+      {
+        "index": 32,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 7,
+        "reason": "This paper describes a web agent that requires strong visual understanding and planning, aligning with the target's focus on learning visual models for agent tasks."
+      },
+      {
+        "index": 43,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 6,
+        "reason": "SWE-agent demonstrates agent capabilities in a complex domain (software engineering), which might benefit from transferable visual understanding."
+      },
+      {
+        "index": 54,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 6,
+        "reason": "While focused on code generation, test-time scaling is a method for improving agent performance, which could be applied to agents utilizing transferable visual models."
+      },
+      {
+        "index": 56,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 6,
+        "reason": "This paper explores reasoning through test-time interaction, a concept that could be enhanced by effective visual representations for agents."
+      },
+      {
+        "index": 58,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 6,
+        "reason": "Test-time scaling is a technique to improve agent performance, relevant for agents that rely on visual understanding."
+      },
+      {
+        "index": 59,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 6,
+        "reason": "Discusses test-time scaling, a method to enhance agent capabilities, potentially applicable to agents with visual learning components."
+      },
+      {
+        "index": 61,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 6,
+        "reason": "Focuses on test-time scaling, a technique relevant for improving agent efficiency and performance, which can benefit from strong visual models."
+      },
+      {
+        "index": 62,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 6,
+        "reason": "Explores test-time scaling in multi-agent settings, suggesting methods that could leverage transferable visual understanding."
+      },
+      {
+        "index": 42,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 6,
+        "reason": "This paper focuses on improving LLM agents through test-time compute scaling, a technique that could enhance agents leveraging transferable visual models."
+      },
+      {
+        "index": 48,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 6,
+        "reason": "BrowserGym provides a framework for web agent research, which is relevant for testing and evaluating agents that utilize visual understanding."
+      },
+      {
+        "index": 49,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 6,
+        "reason": "This work benchmarks web browsing agents on realistic tasks, relevant for agents that rely on visual perception and understanding."
+      },
+      {
+        "index": 37,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 5,
+        "reason": "Mentions multimodality and agentic capabilities, which are broadly related to transferable visual models, but less direct than other papers."
+      },
+      {
+        "index": 2,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 5,
+        "reason": "A broad survey on LLM agents, it may touch upon the use of visual models but is not specific enough to be highly relevant."
+      },
+      {
+        "index": 3,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 5,
+        "reason": "Focuses on programmatic skills for agents, which is a step towards agentic tasks but doesn't directly relate to visual model transferability."
+      },
+      {
+        "index": 5,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 5,
+        "reason": "This paper is about fine-tuning LLMs for sampling, which is a general LLM improvement technique not directly tied to visual model transferability."
+      },
+      {
+        "index": 11,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 5,
+        "reason": "While memory is important for agents, this survey focuses on memory mechanisms, not directly on learning transferable visual models."
+      },
+      {
+        "index": 13,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 5,
+        "reason": "Benchmarking language agents is relevant, but StreamBench's focus on continuous improvement doesn't specifically highlight visual model transferability."
+      },
+      {
+        "index": 20,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 5,
+        "reason": "Focuses on reasoning in LLMs via RL, which is a different aspect than learning transferable visual models."
+      },
+      {
+        "index": 26,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 5,
+        "reason": "Examines RL's impact on reasoning, not directly related to transferable visual models."
+      },
+      {
+        "index": 27,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Focuses on training retrievers for reasoning, a specific task not directly involving general visual model transferability."
+      },
+      {
+        "index": 29,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 5,
+        "reason": "Self-improvement of language agents is a general goal, but this paper doesn't specifically focus on visual model transferability."
+      },
+      {
+        "index": 36,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Self-refinement is a general technique for improving LLM outputs, not directly tied to learning transferable visual models."
+      },
+      {
+        "index": 51,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 5,
+        "reason": "Learning from mistakes is a form of adaptation, but the focus on principles and in-context learning is less relevant to visual model transferability."
+      },
+      {
+        "index": 53,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 5,
+        "reason": "This survey is about LLMs used for evaluation, not directly about learning transferable visual models."
+      },
+      {
+        "index": 57,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 5,
+        "reason": "A broad overview of foundation agents, likely touching on many aspects but not specifically transferable visual models."
+      },
+      {
+        "index": 4,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 4,
+        "reason": "Focuses on memory enhancement, which is relevant for agents, but not directly about learning transferable visual models."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 4,
+        "reason": "Discusses memory augmentation for LLMs, relevant for agents, but not specific to visual model transferability."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 4,
+        "reason": "Focuses on memory and RL for agents, but not specifically on transferable visual models."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 4,
+        "reason": "This paper is about personalization and memory, not directly related to learning transferable visual models."
+      },
+      {
+        "index": 9,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 4,
+        "reason": "ReAct is a prominent agent framework, but its focus is on reasoning and acting, not directly on learning transferable visual models."
+      },
+      {
+        "index": 12,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "Focuses on extending long-term memory for LLMs, relevant for agents but not directly to visual model transferability."
+      },
+      {
+        "index": 14,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "This paper is about building agents with long-term memory, a general agent capability, not specific to visual model transferability."
+      },
+      {
+        "index": 15,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 4,
+        "reason": "Discusses episodic memory, a specific type of memory for LLMs, not directly related to transferable visual models."
+      },
+      {
+        "index": 16,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 4,
+        "reason": "Evaluates conversational memory in LLM agents, a relevant agent component but not directly about visual model transferability."
+      },
+      {
+        "index": 17,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 4,
+        "reason": "Focuses on memory management for tool calling in agents, not directly on learning transferable visual models."
+      },
+      {
+        "index": 19,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 4,
+        "reason": "MemGPT explores LLMs as operating systems, which involves memory management but not specifically transferable visual models."
+      },
+      {
+        "index": 21,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 4,
+        "reason": "This paper is about hierarchical memory management for agents, not directly related to transferable visual models."
+      },
+      {
+        "index": 22,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 4,
+        "reason": "Focuses on learning from errors for relation learning, a specific type of learning not directly about transferable visual models."
+      },
+      {
+        "index": 24,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 4,
+        "reason": "This paper focuses on memory for computer control tasks, which is an agent application but not specific to visual model transferability."
+      },
+      {
+        "index": 25,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 4,
+        "reason": "Mentions multimodal agents and memory, but the core focus is retrieval-augmented planning, not visual model transferability."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 4,
+        "reason": "This paper is about agentic memory, a general aspect of agents, not specifically transferable visual models."
+      },
+      {
+        "index": 30,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 4,
+        "reason": "Benchmarking memory in chat assistants is relevant for agents, but not directly about transferable visual models."
+      },
+      {
+        "index": 33,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 4,
+        "reason": "Focuses on self-evolving agents and learning from experience, a broad agent capability not specific to visual model transferability."
+      },
+      {
+        "index": 34,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 4,
+        "reason": "This paper frames LLM agents as experiential learners, a general concept not specifically tied to transferable visual models."
+      },
+      {
+        "index": 35,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 4,
+        "reason": "Focuses on the synergy of memory and reasoning for agents, not directly on transferable visual models."
+      },
+      {
+        "index": 38,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 4,
+        "reason": "This paper explores procedural memory for agents, a specific memory type, not directly relevant to transferable visual models."
+      },
+      {
+        "index": 39,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 4,
+        "reason": "Focuses on using experience for agentic problem solving, a general agent capability, not specific to visual model transferability."
+      },
+      {
+        "index": 40,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 4,
+        "reason": "Discusses reflective memory management for dialogue agents, a specific application of memory, not directly transferable visual models."
+      },
+      {
+        "index": 41,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 4,
+        "reason": "Focuses on self-adaptive agents and learning by interaction in realistic environments, a broad agent capability."
+      },
+      {
+        "index": 44,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 4,
+        "reason": "Evaluates memory in LLM agents through interactions, relevant for agents but not directly about transferable visual models."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 4,
+        "reason": "Focuses on autonomous evaluation and refinement of agents, a general agent improvement method, not specific to visual model transferability."
+      },
+      {
+        "index": 46,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 4,
+        "reason": "This paper is about memory-augmented planning for mobile task automation, a specific agent application, not transferable visual models."
+      },
+      {
+        "index": 50,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 4,
+        "reason": "Proposes a general strategy for agent self-evolution, a broad topic not specifically about transferable visual models."
+      },
+      {
+        "index": 52,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 4,
+        "reason": "A broad survey on self-evolving agents, likely covering many aspects but not specifically transferable visual models."
+      },
+      {
+        "index": 55,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 4,
+        "reason": "Discusses self-evolving agents with memory, relevant for agents but not directly about transferable visual models."
+      },
+      {
+        "index": 60,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 4,
+        "reason": "Focuses on workflow memory for agents, a specific aspect of agent design, not directly related to transferable visual models."
+      },
+      {
+        "index": 23,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 3,
+        "reason": "Focuses on exploration strategies for agents, which is a component of agent behavior but not directly related to transferable visual models."
+      },
+      {
+        "index": 57,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 3,
+        "reason": "A very broad survey of foundation agents, too general to be highly relevant."
+      }
+    ],
+    "metrics": {
+      "completeness": 1.0161290322580645,
+      "semanticCorrelation": -0.003069402279959669,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2002.05709",
+          "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "score": 8,
+          "reason": "Contrastive learning is a fundamental technique for learning visual representations, which is highly relevant to the target paper that focuses on learning transferable visual models."
+        },
+        {
+          "index": 10,
+          "arxivId": "2503.07891",
+          "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+          "score": 8,
+          "reason": "Generalizable embeddings are crucial for learning transferable visual models, and Gemini embeddings are likely to be powerful and versatile."
+        },
+        {
+          "index": 31,
+          "arxivId": "2306.06070",
+          "title": "Mind2Web: Towards a Generalist Agent for the Web",
+          "score": 7,
+          "reason": "This paper focuses on building a generalist agent for the web, which aligns with the goal of learning transferable visual models that can generalize across various tasks."
+        },
+        {
+          "index": 47,
+          "arxivId": "2307.13854",
+          "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "score": 7,
+          "reason": "WebArena provides a realistic environment for testing agents, which is relevant for evaluating the transferability and performance of visual models in agentic tasks."
+        },
+        {
+          "index": 18,
+          "arxivId": "2404.07972",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "score": 7,
+          "reason": "Benchmarking multimodal agents in real-world environments is directly related to the application and evaluation of transferable visual models."
+        },
+        {
+          "index": 32,
+          "arxivId": "2307.12856",
+          "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+          "score": 7,
+          "reason": "This paper describes a web agent that requires strong visual understanding and planning, aligning with the target's focus on learning visual models for agent tasks."
+        },
+        {
+          "index": 43,
+          "arxivId": "2405.15793",
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "score": 6,
+          "reason": "SWE-agent demonstrates agent capabilities in a complex domain (software engineering), which might benefit from transferable visual understanding."
+        },
+        {
+          "index": 54,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 6,
+          "reason": "While focused on code generation, test-time scaling is a method for improving agent performance, which could be applied to agents utilizing transferable visual models."
+        },
+        {
+          "index": 56,
+          "arxivId": "2506.07976",
+          "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+          "score": 6,
+          "reason": "This paper explores reasoning through test-time interaction, a concept that could be enhanced by effective visual representations for agents."
+        },
+        {
+          "index": 58,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 6,
+          "reason": "Test-time scaling is a technique to improve agent performance, relevant for agents that rely on visual understanding."
+        },
+        {
+          "index": 59,
+          "arxivId": "2502.12118",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 6,
+          "reason": "Discusses test-time scaling, a method to enhance agent capabilities, potentially applicable to agents with visual learning components."
+        },
+        {
+          "index": 61,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 6,
+          "reason": "Focuses on test-time scaling, a technique relevant for improving agent efficiency and performance, which can benefit from strong visual models."
+        },
+        {
+          "index": 62,
+          "arxivId": "2504.09772",
+          "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+          "score": 6,
+          "reason": "Explores test-time scaling in multi-agent settings, suggesting methods that could leverage transferable visual understanding."
+        },
+        {
+          "index": 42,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 6,
+          "reason": "This paper focuses on improving LLM agents through test-time compute scaling, a technique that could enhance agents leveraging transferable visual models."
+        },
+        {
+          "index": 48,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 6,
+          "reason": "BrowserGym provides a framework for web agent research, which is relevant for testing and evaluating agents that utilize visual understanding."
+        },
+        {
+          "index": 49,
+          "arxivId": "2506.01952",
+          "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+          "score": 6,
+          "reason": "This work benchmarks web browsing agents on realistic tasks, relevant for agents that rely on visual perception and understanding."
+        },
+        {
+          "index": 37,
+          "arxivId": "2507.06261",
+          "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+          "score": 5,
+          "reason": "Mentions multimodality and agentic capabilities, which are broadly related to transferable visual models, but less direct than other papers."
+        },
+        {
+          "index": 2,
+          "arxivId": "2308.11432",
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 5,
+          "reason": "A broad survey on LLM agents, it may touch upon the use of visual models but is not specific enough to be highly relevant."
+        },
+        {
+          "index": 3,
+          "arxivId": "2504.06821",
+          "title": "Inducing Programmatic Skills for Agentic Tasks",
+          "score": 5,
+          "reason": "Focuses on programmatic skills for agents, which is a step towards agentic tasks but doesn't directly relate to visual model transferability."
+        },
+        {
+          "index": 5,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 5,
+          "reason": "This paper is about fine-tuning LLMs for sampling, which is a general LLM improvement technique not directly tied to visual model transferability."
+        },
+        {
+          "index": 11,
+          "arxivId": "2404.13501",
+          "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+          "score": 5,
+          "reason": "While memory is important for agents, this survey focuses on memory mechanisms, not directly on learning transferable visual models."
+        },
+        {
+          "index": 13,
+          "arxivId": "2406.08747",
+          "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+          "score": 5,
+          "reason": "Benchmarking language agents is relevant, but StreamBench's focus on continuous improvement doesn't specifically highlight visual model transferability."
+        },
+        {
+          "index": 20,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 5,
+          "reason": "Focuses on reasoning in LLMs via RL, which is a different aspect than learning transferable visual models."
+        },
+        {
+          "index": 26,
+          "arxivId": "2504.13837",
+          "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+          "score": 5,
+          "reason": "Examines RL's impact on reasoning, not directly related to transferable visual models."
+        },
+        {
+          "index": 27,
+          "arxivId": "2504.20595",
+          "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+          "score": 5,
+          "reason": "Focuses on training retrievers for reasoning, a specific task not directly involving general visual model transferability."
+        },
+        {
+          "index": 29,
+          "arxivId": "2506.06698",
+          "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+          "score": 5,
+          "reason": "Self-improvement of language agents is a general goal, but this paper doesn't specifically focus on visual model transferability."
+        },
+        {
+          "index": 36,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 5,
+          "reason": "Self-refinement is a general technique for improving LLM outputs, not directly tied to learning transferable visual models."
+        },
+        {
+          "index": 51,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 5,
+          "reason": "Learning from mistakes is a form of adaptation, but the focus on principles and in-context learning is less relevant to visual model transferability."
+        },
+        {
+          "index": 53,
+          "arxivId": "2411.15594",
+          "title": "A Survey on LLM-as-a-Judge",
+          "score": 5,
+          "reason": "This survey is about LLMs used for evaluation, not directly about learning transferable visual models."
+        },
+        {
+          "index": 57,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 5,
+          "reason": "A broad overview of foundation agents, likely touching on many aspects but not specifically transferable visual models."
+        },
+        {
+          "index": 4,
+          "arxivId": "2305.10250",
+          "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+          "score": 4,
+          "reason": "Focuses on memory enhancement, which is relevant for agents, but not directly about learning transferable visual models."
+        },
+        {
+          "index": 6,
+          "arxivId": "2505.22101",
+          "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+          "score": 4,
+          "reason": "Discusses memory augmentation for LLMs, relevant for agents, but not specific to visual model transferability."
+        },
+        {
+          "index": 7,
+          "arxivId": "2507.02259",
+          "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+          "score": 4,
+          "reason": "Focuses on memory and RL for agents, but not specifically on transferable visual models."
+        },
+        {
+          "index": 8,
+          "arxivId": "2507.04607",
+          "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+          "score": 4,
+          "reason": "This paper is about personalization and memory, not directly related to learning transferable visual models."
+        },
+        {
+          "index": 9,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 4,
+          "reason": "ReAct is a prominent agent framework, but its focus is on reasoning and acting, not directly on learning transferable visual models."
+        },
+        {
+          "index": 12,
+          "arxivId": "2502.00592",
+          "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "Focuses on extending long-term memory for LLMs, relevant for agents but not directly to visual model transferability."
+        },
+        {
+          "index": 14,
+          "arxivId": "2504.19413",
+          "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "This paper is about building agents with long-term memory, a general agent capability, not specific to visual model transferability."
+        },
+        {
+          "index": 15,
+          "arxivId": "2407.09450",
+          "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+          "score": 4,
+          "reason": "Discusses episodic memory, a specific type of memory for LLMs, not directly related to transferable visual models."
+        },
+        {
+          "index": 16,
+          "arxivId": "2402.17753",
+          "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+          "score": 4,
+          "reason": "Evaluates conversational memory in LLM agents, a relevant agent component but not directly about visual model transferability."
+        },
+        {
+          "index": 17,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 4,
+          "reason": "Focuses on memory management for tool calling in agents, not directly on learning transferable visual models."
+        },
+        {
+          "index": 19,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 4,
+          "reason": "MemGPT explores LLMs as operating systems, which involves memory management but not specifically transferable visual models."
+        },
+        {
+          "index": 21,
+          "arxivId": "2408.09559",
+          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+          "score": 4,
+          "reason": "This paper is about hierarchical memory management for agents, not directly related to transferable visual models."
+        },
+        {
+          "index": 22,
+          "arxivId": "2508.12031",
+          "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+          "score": 4,
+          "reason": "Focuses on learning from errors for relation learning, a specific type of learning not directly about transferable visual models."
+        },
+        {
+          "index": 24,
+          "arxivId": "2306.07863",
+          "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+          "score": 4,
+          "reason": "This paper focuses on memory for computer control tasks, which is an agent application but not specific to visual model transferability."
+        },
+        {
+          "index": 25,
+          "arxivId": "2402.03610",
+          "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+          "score": 4,
+          "reason": "Mentions multimodal agents and memory, but the core focus is retrieval-augmented planning, not visual model transferability."
+        },
+        {
+          "index": 28,
+          "arxivId": "2502.12110",
+          "title": "A-MEM: Agentic Memory for LLM Agents",
+          "score": 4,
+          "reason": "This paper is about agentic memory, a general aspect of agents, not specifically transferable visual models."
+        },
+        {
+          "index": 30,
+          "arxivId": "2410.10813",
+          "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+          "score": 4,
+          "reason": "Benchmarking memory in chat assistants is relevant for agents, but not directly about transferable visual models."
+        },
+        {
+          "index": 33,
+          "arxivId": "2508.04700",
+          "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+          "score": 4,
+          "reason": "Focuses on self-evolving agents and learning from experience, a broad agent capability not specific to visual model transferability."
+        },
+        {
+          "index": 34,
+          "arxivId": "2308.10144",
+          "title": "ExpeL: LLM Agents Are Experiential Learners",
+          "score": 4,
+          "reason": "This paper frames LLM agents as experiential learners, a general concept not specifically tied to transferable visual models."
+        },
+        {
+          "index": 35,
+          "arxivId": "2506.15841",
+          "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+          "score": 4,
+          "reason": "Focuses on the synergy of memory and reasoning for agents, not directly on transferable visual models."
+        },
+        {
+          "index": 38,
+          "arxivId": "2508.06433",
+          "title": "Memp: Exploring Agent Procedural Memory",
+          "score": 4,
+          "reason": "This paper explores procedural memory for agents, a specific memory type, not directly relevant to transferable visual models."
+        },
+        {
+          "index": 39,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 4,
+          "reason": "Focuses on using experience for agentic problem solving, a general agent capability, not specific to visual model transferability."
+        },
+        {
+          "index": 40,
+          "arxivId": "2503.08026",
+          "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+          "score": 4,
+          "reason": "Discusses reflective memory management for dialogue agents, a specific application of memory, not directly transferable visual models."
+        },
+        {
+          "index": 41,
+          "arxivId": "2501.10893",
+          "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+          "score": 4,
+          "reason": "Focuses on self-adaptive agents and learning by interaction in realistic environments, a broad agent capability."
+        },
+        {
+          "index": 44,
+          "arxivId": "2507.05257",
+          "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+          "score": 4,
+          "reason": "Evaluates memory in LLM agents through interactions, relevant for agents but not directly about transferable visual models."
+        },
+        {
+          "index": 45,
+          "arxivId": "2404.06474",
+          "title": "Autonomous Evaluation and Refinement of Digital Agents",
+          "score": 4,
+          "reason": "Focuses on autonomous evaluation and refinement of agents, a general agent improvement method, not specific to visual model transferability."
+        },
+        {
+          "index": 46,
+          "arxivId": "2507.21953",
+          "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+          "score": 4,
+          "reason": "This paper is about memory-augmented planning for mobile task automation, a specific agent application, not transferable visual models."
+        },
+        {
+          "index": 50,
+          "arxivId": "2401.13996",
+          "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+          "score": 4,
+          "reason": "Proposes a general strategy for agent self-evolution, a broad topic not specifically about transferable visual models."
+        },
+        {
+          "index": 52,
+          "arxivId": "2507.21046",
+          "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+          "score": 4,
+          "reason": "A broad survey on self-evolving agents, likely covering many aspects but not specifically transferable visual models."
+        },
+        {
+          "index": 55,
+          "arxivId": "2409.00872",
+          "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+          "score": 4,
+          "reason": "Discusses self-evolving agents with memory, relevant for agents but not directly about transferable visual models."
+        },
+        {
+          "index": 60,
+          "arxivId": "2409.07429",
+          "title": "Agent Workflow Memory",
+          "score": 4,
+          "reason": "Focuses on workflow memory for agents, a specific aspect of agent design, not directly related to transferable visual models."
+        },
+        {
+          "index": 23,
+          "arxivId": "2410.02052",
+          "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+          "score": 3,
+          "reason": "Focuses on exploration strategies for agents, which is a component of agent behavior but not directly related to transferable visual models."
+        },
+        {
+          "index": 57,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 3,
+          "reason": "A very broad survey of foundation agents, too general to be highly relevant."
+        }
+      ]
+    }
+  }
+}

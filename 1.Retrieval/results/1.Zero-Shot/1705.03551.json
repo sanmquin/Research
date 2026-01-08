@@ -1,0 +1,825 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2504.19314",
+      "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+    },
+    "target": {
+      "arxivId": "1705.03551",
+      "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension"
+    }
+  },
+  "embeddings": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "distance": 0.5199140705623001
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "distance": 0.5266169125820097
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.5405332256290678
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "distance": 0.5499528884999545
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "distance": 0.5597333894917267
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "distance": 0.570846175481371
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "distance": 0.5849924537058252
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "distance": 0.594256758636698
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.5971343725265998
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "distance": 0.6002367287768164
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "distance": 0.6013854213260442
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.6099154724106406
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "distance": 0.6198957974749704
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "distance": 0.6291797928355094
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.644596628609966
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "distance": 0.651754603704498
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "distance": 0.6659698925542268
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "distance": 0.6683306776732342
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "distance": 0.6784432742649386
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "distance": 0.6808783548758699
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "distance": 0.6893878300152793
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "distance": 0.6907502262452233
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "distance": 0.692107966140475
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "distance": 0.6961041879565955
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "distance": 0.708959228693319
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.7188699287107323
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7353817026134266
+      }
+    ]
+  },
+  "llm": {
+    "rank": 21,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 9,
+        "reason": "ReAct is a foundational method for LLM agents that combines reasoning and acting, which is highly relevant for the target task of reading comprehension challenges."
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 8,
+        "reason": "This paper is directly related to the TARGET paper as it is cited by the START paper and introduces a challenging exam for AI, which aligns with reading comprehension."
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 8,
+        "reason": "This paper explicitly mentions 'Humanity's Last Exam' (which is related to the target) and focuses on general-purpose AI agents, relevant for challenging comprehension tasks."
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 7,
+        "reason": "Focuses on deep research capabilities and reasoning, which are crucial for tackling complex reading comprehension datasets like TriviaQA."
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 7,
+        "reason": "Long-horizon search and summarization are key components for processing and understanding large amounts of text, relevant for reading comprehension."
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 6,
+        "reason": "This paper's focus on unbounded reasoning and long-horizon agents is beneficial for complex information extraction and comprehension tasks."
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 6,
+        "reason": "While GUI focused, the mention of multi-turn reinforcement learning and agent advancement suggests capabilities applicable to interactive comprehension."
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 6,
+        "reason": "Structuring web-scale evidence for research implies strong information extraction and synthesis skills, relevant for comprehension."
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 5,
+        "reason": "Focuses on agent capabilities and reinforcement learning, which can be applied to improve performance on comprehension tasks, though the primary focus might differ."
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 5,
+        "reason": "Super-human reasoning for web agents is a general capability that could aid in reading comprehension, but the specifics are less clear."
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 5,
+        "reason": "Long-horizon interactive agents and RL are relevant for processing extended text and making sequential decisions in comprehension."
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "Continual pre-training for agents can enhance their general capabilities, including those needed for reading comprehension."
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "General agentic intelligence is a broad goal, and improving it could indirectly help with reading comprehension tasks."
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 4,
+        "reason": "Foundation models with reasoning capabilities are generally useful, but the emphasis on coding might be less directly relevant than other papers."
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 4,
+        "reason": "Focuses on incentivizing reasoning, which is important for comprehension, but doesn't specify application to reading comprehension datasets."
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 4,
+        "reason": "Benchmarking RAG and long-context LLMs is relevant to information retrieval and processing, components of comprehension, but the focus is on benchmarking."
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 4,
+        "reason": "Evaluates RAG for fact-finding and reasoning, which aligns with comprehension tasks that require extracting and using facts."
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 3,
+        "reason": "Information seeking is related, but the focus on 'autonomous agency' might be broader than comprehension."
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 3,
+        "reason": "Web traversal is a prerequisite for gathering information, but the core task is not comprehension itself."
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 3,
+        "reason": "Benchmarking browsing agents is related to interacting with web data, but 'browsing' is not the same as deep reading comprehension."
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 3,
+        "reason": "Similar to BrowseComp, but language-specific, less directly relevant to the general comprehension task."
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 2,
+        "reason": "A general technical report for a foundation model; its relevance depends heavily on unspecified capabilities relevant to comprehension."
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 2,
+        "reason": "Focuses on the trend of small LLMs for agents, which is a general topic, not specifically comprehension."
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 2,
+        "reason": "Data synthesizing and information-seeking are components, but the direct link to reading comprehension is weaker."
+      },
+      {
+        "arxivId": "2502.11194",
+        "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+        "score": 1,
+        "reason": "While self-reflection and RAG are relevant, the focus is on retrieval and generation, not directly on comprehension of existing text."
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1,
+        "reason": "This paper is focused on mathematical reasoning, which is distinct from the reading comprehension task of TriviaQA."
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 1,
+        "reason": "A system for RL at scale, but the specific application to reading comprehension is not evident."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 9,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 8,
+        "reason": "Focuses on deep research capabilities, which aligns with the challenge of TriviaQA requiring comprehension and information retrieval."
+      },
+      {
+        "index": 11,
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 8,
+        "reason": "Directly addresses fact retrieval and reasoning, core components of TriviaQA's challenge."
+      },
+      {
+        "index": 8,
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 7,
+        "reason": "As a benchmark for general AI assistants, it likely involves tasks requiring comprehension and knowledge, similar to TriviaQA."
+      },
+      {
+        "index": 12,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "ReAct's focus on combining reasoning and acting is relevant for complex question answering tasks like TriviaQA."
+      },
+      {
+        "index": 7,
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 7,
+        "reason": "Deals with structuring web-scale evidence for research, which can be useful for gathering information to answer TriviaQA questions."
+      },
+      {
+        "index": 10,
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 7,
+        "reason": "Focuses on reasoning capabilities for agents, which is applicable to complex question answering."
+      },
+      {
+        "index": 20,
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 6,
+        "reason": "While scientific, the 'Humanity's Last Exam' aspect suggests a broad range of knowledge and reasoning skills, relevant to TriviaQA."
+      },
+      {
+        "index": 1,
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 6,
+        "reason": "The emphasis on 'deep research capability' is a strong indicator for a comprehension-heavy task."
+      },
+      {
+        "index": 2,
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 6,
+        "reason": "Web browsing is crucial for retrieving information needed to answer TriviaQA questions."
+      },
+      {
+        "index": 17,
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 6,
+        "reason": "Similar to BrowseComp-ZH, benchmarking browsing agents is relevant for information gathering."
+      },
+      {
+        "index": 9,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 6,
+        "reason": "Focuses on web traversal, a key skill for information retrieval in TriviaQA."
+      },
+      {
+        "index": 4,
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 6,
+        "reason": "Summarization of long-horizon search results could be useful for distilling information to answer questions."
+      },
+      {
+        "index": 18,
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 5,
+        "reason": "General agentic intelligence might encompass question-answering capabilities."
+      },
+      {
+        "index": 19,
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 5,
+        "reason": "Continual pre-training could enhance general knowledge and reasoning for tasks like TriviaQA."
+      },
+      {
+        "index": 24,
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 5,
+        "reason": "Focuses on autonomous information seeking, which is a component of answering TriviaQA."
+      },
+      {
+        "index": 5,
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 5,
+        "reason": "Retrieval-Augmented Generation is relevant, but the focus on RAG routing and benchmarking might be less direct."
+      },
+      {
+        "index": 26,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 5,
+        "reason": "Data synthesizing via information-seeking is related to gathering facts for question answering."
+      },
+      {
+        "index": 13,
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 5,
+        "reason": "Web navigation and reasoning are relevant skills for TriviaQA."
+      },
+      {
+        "index": 16,
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 5,
+        "reason": "Reinforcement learning for agents can improve performance on complex tasks like question answering."
+      },
+      {
+        "index": 22,
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 4,
+        "reason": "While it involves agents and RL, the GUI focus is less directly related to text-based question answering."
+      },
+      {
+        "index": 23,
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 4,
+        "reason": "RL for agents is relevant, but 'long-horizon interactive' might be less directly applicable than general reasoning."
+      },
+      {
+        "index": 3,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 3,
+        "reason": "Focus is on mathematical reasoning, which is not the primary focus of TriviaQA."
+      },
+      {
+        "index": 6,
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 3,
+        "reason": "Focus is on incentivizing reasoning via RL, which is general but not specifically tied to comprehension or information retrieval for QA."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 3,
+        "reason": "General statement about agentic AI, less specific to the skills needed for TriviaQA."
+      },
+      {
+        "index": 15,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 3,
+        "reason": "Focuses on RL system, less direct connection to the problem."
+      },
+      {
+        "index": 21,
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 3,
+        "reason": "While it mentions reasoning, the coding aspect and 'foundation models' are less direct than task-specific papers."
+      },
+      {
+        "index": 25,
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 3,
+        "reason": "General exam, not specifically focused on the type of comprehension TriviaQA requires."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.38103414052501366,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 8,
+          "reason": "Focuses on deep research capabilities, which aligns with the challenge of TriviaQA requiring comprehension and information retrieval."
+        },
+        {
+          "index": 11,
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "score": 8,
+          "reason": "Directly addresses fact retrieval and reasoning, core components of TriviaQA's challenge."
+        },
+        {
+          "index": 8,
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "score": 7,
+          "reason": "As a benchmark for general AI assistants, it likely involves tasks requiring comprehension and knowledge, similar to TriviaQA."
+        },
+        {
+          "index": 12,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 7,
+          "reason": "ReAct's focus on combining reasoning and acting is relevant for complex question answering tasks like TriviaQA."
+        },
+        {
+          "index": 7,
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "score": 7,
+          "reason": "Deals with structuring web-scale evidence for research, which can be useful for gathering information to answer TriviaQA questions."
+        },
+        {
+          "index": 10,
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "score": 7,
+          "reason": "Focuses on reasoning capabilities for agents, which is applicable to complex question answering."
+        },
+        {
+          "index": 20,
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "score": 6,
+          "reason": "While scientific, the 'Humanity's Last Exam' aspect suggests a broad range of knowledge and reasoning skills, relevant to TriviaQA."
+        },
+        {
+          "index": 1,
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "score": 6,
+          "reason": "The emphasis on 'deep research capability' is a strong indicator for a comprehension-heavy task."
+        },
+        {
+          "index": 2,
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "score": 6,
+          "reason": "Web browsing is crucial for retrieving information needed to answer TriviaQA questions."
+        },
+        {
+          "index": 17,
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "score": 6,
+          "reason": "Similar to BrowseComp-ZH, benchmarking browsing agents is relevant for information gathering."
+        },
+        {
+          "index": 9,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 6,
+          "reason": "Focuses on web traversal, a key skill for information retrieval in TriviaQA."
+        },
+        {
+          "index": 4,
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "score": 6,
+          "reason": "Summarization of long-horizon search results could be useful for distilling information to answer questions."
+        },
+        {
+          "index": 18,
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "score": 5,
+          "reason": "General agentic intelligence might encompass question-answering capabilities."
+        },
+        {
+          "index": 19,
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "score": 5,
+          "reason": "Continual pre-training could enhance general knowledge and reasoning for tasks like TriviaQA."
+        },
+        {
+          "index": 24,
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "score": 5,
+          "reason": "Focuses on autonomous information seeking, which is a component of answering TriviaQA."
+        },
+        {
+          "index": 5,
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "score": 5,
+          "reason": "Retrieval-Augmented Generation is relevant, but the focus on RAG routing and benchmarking might be less direct."
+        },
+        {
+          "index": 26,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 5,
+          "reason": "Data synthesizing via information-seeking is related to gathering facts for question answering."
+        },
+        {
+          "index": 13,
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "score": 5,
+          "reason": "Web navigation and reasoning are relevant skills for TriviaQA."
+        },
+        {
+          "index": 16,
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "score": 5,
+          "reason": "Reinforcement learning for agents can improve performance on complex tasks like question answering."
+        },
+        {
+          "index": 22,
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "score": 4,
+          "reason": "While it involves agents and RL, the GUI focus is less directly related to text-based question answering."
+        },
+        {
+          "index": 23,
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "score": 4,
+          "reason": "RL for agents is relevant, but 'long-horizon interactive' might be less directly applicable than general reasoning."
+        },
+        {
+          "index": 3,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 3,
+          "reason": "Focus is on mathematical reasoning, which is not the primary focus of TriviaQA."
+        },
+        {
+          "index": 6,
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "score": 3,
+          "reason": "Focus is on incentivizing reasoning via RL, which is general but not specifically tied to comprehension or information retrieval for QA."
+        },
+        {
+          "index": 14,
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "score": 3,
+          "reason": "General statement about agentic AI, less specific to the skills needed for TriviaQA."
+        },
+        {
+          "index": 15,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 3,
+          "reason": "Focuses on RL system, less direct connection to the problem."
+        },
+        {
+          "index": 21,
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "score": 3,
+          "reason": "While it mentions reasoning, the coding aspect and 'foundation models' are less direct than task-specific papers."
+        },
+        {
+          "index": 25,
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "score": 3,
+          "reason": "General exam, not specifically focused on the type of comprehension TriviaQA requires."
+        }
+      ]
+    }
+  }
+}

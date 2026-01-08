@@ -1,0 +1,822 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "1707.06347",
+      "title": "Proximal Policy Optimization Algorithms"
+    },
+    "target": {
+      "arxivId": "1502.05477",
+      "title": "Trust Region Policy Optimization"
+    }
+  },
+  "embeddings": {
+    "rank": 1,
+    "ordered": [
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "distance": 0.3486112759940434
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "distance": 0.3913006517014438
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "distance": 0.44458790728630837
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "distance": 0.5328925040048418
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "distance": 0.5822997864616368
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "distance": 0.5863695141951917
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "distance": 0.5873593178854797
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "distance": 0.593250412344192
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6041511608783812
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "distance": 0.6105877597287028
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "distance": 0.615041813912536
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "distance": 0.6213319538844313
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6244844627148131
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "distance": 0.6269363427029542
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "distance": 0.6278304455209074
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "distance": 0.6299964266764949
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "distance": 0.6358731138838526
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "distance": 0.6437104372259086
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "distance": 0.6459231475509257
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "distance": 0.6799381456221543
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.7258384454323721
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "distance": 0.7358554109777368
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "distance": 0.7445073952441682
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "distance": 0.7445699393642646
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "distance": 0.7495431330451994
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "distance": 0.7748889675860662
+      }
+    ]
+  },
+  "llm": {
+    "rank": 1,
+    "ordered": [
+      {
+        "index": 26,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 10,
+        "reason": "This paper introduces Proximal Policy Optimization (PPO), a fundamental algorithm in reinforcement learning, which is highly relevant to Trust Region Policy Optimization (TRPO), the target paper. TRPO is a precursor and related method to PPO, making this paper a very likely influence or citation."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 8,
+        "reason": "The title explicitly mentions 'Policy Optimization', a core concept in TRPO, and 'Group Sequence' suggests a related area of exploration that could build upon or compare with TRPO's principles."
+      },
+      {
+        "index": 8,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 7,
+        "reason": "Similar to the above, 'Policy Optimization' is a strong indicator. The focus on LLM agents might indicate an application or extension of policy optimization techniques like TRPO."
+      },
+      {
+        "index": 1,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 6,
+        "reason": "Mentions 'Reinforcement Learning', which is the broader field TRPO belongs to. Tool-integrated reasoning might involve sequential decision-making where policy optimization is relevant."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 5,
+        "reason": "Focuses on 'Agentic RL', indicating reinforcement learning for agents. TRPO is a well-known RL algorithm that could be applied or discussed in this context."
+      },
+      {
+        "index": 7,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 5,
+        "reason": "Contains 'Optimized ... Learning', which could relate to policy optimization. Multi-agent assistance implies sequential decision-making."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 5,
+        "reason": "'Agent RL' implies reinforcement learning for agents. TRPO is a standard RL algorithm that could be relevant for scaling or application."
+      },
+      {
+        "index": 11,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 5,
+        "reason": "'Reinforcement Learning' is the field. Strategic tool use implies decision-making that policy optimization could address."
+      },
+      {
+        "index": 13,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 5,
+        "reason": "Mentions 'Reinforcement Learning System'. TRPO is a well-known RL algorithm that might be part of such a system or compared against."
+      },
+      {
+        "index": 14,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 5,
+        "reason": "'Reinforcement Learning' is explicitly stated. Reasoning and leveraging search engines involve sequential decision-making processes."
+      },
+      {
+        "index": 19,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 4,
+        "reason": "Focuses on LLM agents and their actions. RL methods like TRPO are often used to train agents to take optimal actions."
+      },
+      {
+        "index": 20,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 4,
+        "reason": "Involves 'Agent Systems' and tool integration, which often benefit from RL optimization techniques."
+      },
+      {
+        "index": 21,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 4,
+        "reason": "Iterative refinement can be framed as an optimization problem, and RL methods like TRPO could be applicable, especially if feedback signals are involved."
+      },
+      {
+        "index": 22,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 4,
+        "reason": "'language agents with verbal reinforcement learning' directly points to the field of RL applied to agents, making TRPO a potentially relevant foundational algorithm."
+      },
+      {
+        "index": 23,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 4,
+        "reason": "Learning to use tools involves decision-making over time, a task TRPO is designed for. The self-teaching aspect might involve RL."
+      },
+      {
+        "index": 24,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 4,
+        "reason": "Focuses on 'Reasoning and Acting', which are core components of RL tasks. TRPO is a method for optimizing acting policies."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 3,
+        "reason": "'Agentically' suggests agent-based approaches. While not explicitly RL, information-seeking can involve sequential decision-making."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3,
+        "reason": "'Agentic Problem Solving' implies agents making decisions, potentially using RL methods for optimization."
+      },
+      {
+        "index": 6,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 3,
+        "reason": "'Optimized Workforce Learning' and 'Multi-Agent Assistance' could relate to policy optimization in a broader sense."
+      },
+      {
+        "index": 9,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 3,
+        "reason": "Technical reports for large language models may discuss various training methodologies, including RL, although it's not explicit in the title."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 3,
+        "reason": "Mentions 'Training'. Depending on the nature of R1-Zero-like training, RL optimization techniques might be involved or discussed."
+      },
+      {
+        "index": 15,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 3,
+        "reason": "Web traversal can be modeled as a sequential decision-making problem where RL might be applied."
+      },
+      {
+        "index": 16,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 3,
+        "reason": "Surveys on agents might cover various training methods, including RL, though TRPO may not be a primary focus."
+      },
+      {
+        "index": 17,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 3,
+        "reason": "Multi-agent collaboration for navigation involves sequential decisions, where RL could be used."
+      },
+      {
+        "index": 18,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 2,
+        "reason": "Focuses on mathematical reasoning; while RL can be applied to reasoning tasks, it's not directly implied by the title."
+      },
+      {
+        "index": 25,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1,
+        "reason": "Focuses on few-shot learning. While LLM capabilities are broad, this title doesn't directly suggest a need for policy optimization methods like TRPO."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 1,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 9,
+        "reason": "PPO is a very popular and effective policy optimization algorithm, directly related to TRPO and often used as a baseline or improvement."
+      },
+      {
+        "index": 21,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 8,
+        "reason": "ReAct combines reasoning and acting, which aligns with the agentic RL theme and could be a stepping stone to more complex agents that benefit from TRPO-like optimization."
+      },
+      {
+        "index": 9,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 7,
+        "reason": "Self-refinement is an iterative process that can be framed as policy optimization, potentially benefiting from TRPO for stable updates."
+      },
+      {
+        "index": 6,
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 7,
+        "reason": "Directly related to the 'Reflection' experiment, this paper introduces agents with verbal RL, a domain where stable policy optimization like TRPO would be beneficial."
+      },
+      {
+        "index": 5,
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 6,
+        "reason": "Discusses LLMs as in-context RL learners, suggesting a need for robust RL algorithms like TRPO for effective training."
+      },
+      {
+        "index": 2,
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 6,
+        "reason": "Directly mentions policy optimization, suggesting a link to the broader family of policy optimization algorithms including TRPO."
+      },
+      {
+        "index": 26,
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 5,
+        "reason": "Focuses on tool use in LLMs, which often involves RL for decision-making and could benefit from TRPO for stability."
+      },
+      {
+        "index": 11,
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 5,
+        "reason": "Agents using executable code actions might require stable policy optimization for learning complex behaviors."
+      },
+      {
+        "index": 17,
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 5,
+        "reason": "Tool-integrated agent systems for coding could utilize RL, where TRPO offers a stable approach."
+      },
+      {
+        "index": 18,
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 5,
+        "reason": "Explicitly mentions end-to-end RL for tool-integrated reasoning, a domain where TRPO is relevant for optimization."
+      },
+      {
+        "index": 16,
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 5,
+        "reason": "Focuses on RL for tool use, a task where TRPO can ensure stable policy updates."
+      },
+      {
+        "index": 12,
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 4,
+        "reason": "Uses RL for reasoning and search, implying a need for robust optimization methods like TRPO."
+      },
+      {
+        "index": 8,
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 4,
+        "reason": "Agentic RL is mentioned, suggesting that stable optimization techniques like TRPO could be applied."
+      },
+      {
+        "index": 3,
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 4,
+        "reason": "Mentions policy optimization in the context of LLM agents, a related area to TRPO."
+      },
+      {
+        "index": 10,
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 4,
+        "reason": "Agent RL is central, and TRPO is a fundamental algorithm in this space."
+      },
+      {
+        "index": 13,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3,
+        "reason": "Agentic problem solving might involve RL, where TRPO offers stable policy updates."
+      },
+      {
+        "index": 4,
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 3,
+        "reason": "Mentions LLM RL system, implying a need for optimization algorithms like TRPO for scaling."
+      },
+      {
+        "index": 19,
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 3,
+        "reason": "Discusses training paradigms that might relate to RL optimization techniques."
+      },
+      {
+        "index": 15,
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 3,
+        "reason": "Surveys GUI agents, a domain where RL could be used for control, potentially benefiting from TRPO."
+      },
+      {
+        "index": 14,
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 2,
+        "reason": "Multi-agent collaboration in mobile agents might involve RL for coordination, where TRPO is a relevant algorithm."
+      },
+      {
+        "index": 7,
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 2,
+        "reason": "Workforce learning for multi-agent assistance might use RL, and TRPO offers stability."
+      },
+      {
+        "index": 20,
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 2,
+        "reason": "Web traversal by LLMs can be framed as a sequential decision-making problem, solvable with RL methods like TRPO."
+      },
+      {
+        "index": 22,
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1,
+        "reason": "Agentic data synthesis might involve RL, but the connection to policy optimization is less direct."
+      },
+      {
+        "index": 24,
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1,
+        "reason": "Focuses on few-shot learning, which is more about in-context learning than policy optimization or RL control."
+      },
+      {
+        "index": 25,
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1,
+        "reason": "Primarily about mathematical reasoning and model capabilities, less directly related to RL policy optimization."
+      },
+      {
+        "index": 23,
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1,
+        "reason": "General technical report, not specific enough to RL or policy optimization to be a strong bridge."
+      }
+    ],
+    "metrics": {
+      "completeness": 1,
+      "semanticCorrelation": 0.5131812587275539,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "score": 9,
+          "reason": "PPO is a very popular and effective policy optimization algorithm, directly related to TRPO and often used as a baseline or improvement."
+        },
+        {
+          "index": 21,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 8,
+          "reason": "ReAct combines reasoning and acting, which aligns with the agentic RL theme and could be a stepping stone to more complex agents that benefit from TRPO-like optimization."
+        },
+        {
+          "index": 9,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 7,
+          "reason": "Self-refinement is an iterative process that can be framed as policy optimization, potentially benefiting from TRPO for stable updates."
+        },
+        {
+          "index": 6,
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "score": 7,
+          "reason": "Directly related to the 'Reflection' experiment, this paper introduces agents with verbal RL, a domain where stable policy optimization like TRPO would be beneficial."
+        },
+        {
+          "index": 5,
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "score": 6,
+          "reason": "Discusses LLMs as in-context RL learners, suggesting a need for robust RL algorithms like TRPO for effective training."
+        },
+        {
+          "index": 2,
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "score": 6,
+          "reason": "Directly mentions policy optimization, suggesting a link to the broader family of policy optimization algorithms including TRPO."
+        },
+        {
+          "index": 26,
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "score": 5,
+          "reason": "Focuses on tool use in LLMs, which often involves RL for decision-making and could benefit from TRPO for stability."
+        },
+        {
+          "index": 11,
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "score": 5,
+          "reason": "Agents using executable code actions might require stable policy optimization for learning complex behaviors."
+        },
+        {
+          "index": 17,
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "score": 5,
+          "reason": "Tool-integrated agent systems for coding could utilize RL, where TRPO offers a stable approach."
+        },
+        {
+          "index": 18,
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "score": 5,
+          "reason": "Explicitly mentions end-to-end RL for tool-integrated reasoning, a domain where TRPO is relevant for optimization."
+        },
+        {
+          "index": 16,
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "score": 5,
+          "reason": "Focuses on RL for tool use, a task where TRPO can ensure stable policy updates."
+        },
+        {
+          "index": 12,
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "score": 4,
+          "reason": "Uses RL for reasoning and search, implying a need for robust optimization methods like TRPO."
+        },
+        {
+          "index": 8,
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "score": 4,
+          "reason": "Agentic RL is mentioned, suggesting that stable optimization techniques like TRPO could be applied."
+        },
+        {
+          "index": 3,
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "score": 4,
+          "reason": "Mentions policy optimization in the context of LLM agents, a related area to TRPO."
+        },
+        {
+          "index": 10,
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "score": 4,
+          "reason": "Agent RL is central, and TRPO is a fundamental algorithm in this space."
+        },
+        {
+          "index": 13,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 3,
+          "reason": "Agentic problem solving might involve RL, where TRPO offers stable policy updates."
+        },
+        {
+          "index": 4,
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "score": 3,
+          "reason": "Mentions LLM RL system, implying a need for optimization algorithms like TRPO for scaling."
+        },
+        {
+          "index": 19,
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "score": 3,
+          "reason": "Discusses training paradigms that might relate to RL optimization techniques."
+        },
+        {
+          "index": 15,
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "score": 3,
+          "reason": "Surveys GUI agents, a domain where RL could be used for control, potentially benefiting from TRPO."
+        },
+        {
+          "index": 14,
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "score": 2,
+          "reason": "Multi-agent collaboration in mobile agents might involve RL for coordination, where TRPO is a relevant algorithm."
+        },
+        {
+          "index": 7,
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "score": 2,
+          "reason": "Workforce learning for multi-agent assistance might use RL, and TRPO offers stability."
+        },
+        {
+          "index": 20,
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "score": 2,
+          "reason": "Web traversal by LLMs can be framed as a sequential decision-making problem, solvable with RL methods like TRPO."
+        },
+        {
+          "index": 22,
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "score": 1,
+          "reason": "Agentic data synthesis might involve RL, but the connection to policy optimization is less direct."
+        },
+        {
+          "index": 24,
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "score": 1,
+          "reason": "Focuses on few-shot learning, which is more about in-context learning than policy optimization or RL control."
+        },
+        {
+          "index": 25,
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "score": 1,
+          "reason": "Primarily about mathematical reasoning and model capabilities, less directly related to RL policy optimization."
+        },
+        {
+          "index": 23,
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "score": 1,
+          "reason": "General technical report, not specific enough to RL or policy optimization to be a strong bridge."
+        }
+      ]
+    }
+  }
+}

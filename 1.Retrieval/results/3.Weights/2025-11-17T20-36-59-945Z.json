@@ -1,0 +1,2217 @@
+{
+  "selectedSource": {
+    "arxivId": "2501.07572",
+    "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+  },
+  "target": {
+    "arxivId": "2412.13501",
+    "title": "GUI Agents: A Survey"
+  },
+  "scores": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 2
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 2
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 2
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 1
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 2
+            }
+          ]
+        },
+        "score": 124
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 62.5
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 8
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 5
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 60.5
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 54.5
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 54.5
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 5
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 9
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 51.5
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 9
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 45.5
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 5
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 43
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 6
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 41.5
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReACT: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 8
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 36
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 6
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 5
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 8
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 35.5
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 5
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 6
+            }
+          ]
+        },
+        "score": 34
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 4
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 10
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 29
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 27.5
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 10
+            }
+          ]
+        },
+        "score": 26
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 7
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 22.5
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 18.5
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 8
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 7
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 9
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 17.5
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 9
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 15.5
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 9
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 12
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 8
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": 0
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 4
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 3
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": 0
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 5
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 2
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 6
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 10
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": -11.5
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 7
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 9
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": -26.5
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 3
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 2
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 10
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 4
+            }
+          ]
+        },
+        "score": -26.5
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) for Agent Training",
+              "score": 10
+            },
+            {
+              "theme": "LLM Agent Capabilities and Training",
+              "score": 1
+            },
+            {
+              "theme": "Tool Use and Integration",
+              "score": 1
+            },
+            {
+              "theme": "Agentic Problem-Solving and Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Multi-Agent Systems and Collaboration",
+              "score": 1
+            },
+            {
+              "theme": "Data Synthesis and Benchmarking",
+              "score": 1
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Learning Mechanisms vs. Application Domain",
+              "score": 10
+            },
+            {
+              "theme": "General Task Automation vs. GUI Interaction",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+              "score": 3
+            },
+            {
+              "theme": "Technical Reports vs. Surveys",
+              "score": 3
+            },
+            {
+              "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+              "score": 5
+            }
+          ]
+        },
+        "score": -64
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) for Agent Training",
+            "description": "Many papers discuss the use of RL as a primary training methodology for developing agents, including those designed to interact with GUIs. This includes specific RL algorithms like PPO and techniques like 'Group Sequence Policy Optimization' and 'Agent reinforcement learning'."
+          },
+          {
+            "theme": "LLM Agent Capabilities and Training",
+            "description": "A significant theme is the advancement of Large Language Models (LLMs) as agents, focusing on their inherent learning capabilities, reasoning abilities, instruction following, and tool use. This includes concepts like 'Agent Foundation Models', 'in-context reinforcement learning', and 'policy optimization techniques' for LLM agents."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "description": "Several papers explore how agents can learn to use tools, which is directly analogous to GUI agents interacting with UI elements like buttons and menus. This theme covers 'tool-integrated reasoning', 'strategic tool use', and 'learning to use tools'."
+          },
+          {
+            "theme": "Agentic Problem-Solving and Reasoning",
+            "description": "Papers discuss agents that can solve problems, reason, and utilize knowledge bases or past experiences. This is relevant for GUI agents that need to understand user intent, plan actions, and achieve goals within an interface. Examples include 'agentic problem-solving', 'leveraging cross-domain experience', and 'reasoning and acting (ReAct)'."
+          },
+          {
+            "theme": "Multi-Agent Systems and Collaboration",
+            "description": "Some research focuses on multi-agent systems, including 'multi-agent distillation', 'multi-agent assistance', and 'multi-agent collaboration'. This is relevant for GUI agents that might operate in collaborative environments or as part of a larger system."
+          },
+          {
+            "theme": "Data Synthesis and Benchmarking",
+            "description": "The generation of training data using agentic strategies and the benchmarking of agents on specific tasks (like web traversal) are discussed. This relates to creating realistic training scenarios for GUI agents and evaluating their performance."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity vs. Generality",
+            "description": "Several papers are contrasted for being too specific in their focus (e.g., mathematical reasoning, code execution, a single training methodology, or a particular type of tool use) rather than providing a broad survey of GUI agents and their diverse applications and interaction paradigms."
+          },
+          {
+            "theme": "Focus on Learning Mechanisms vs. Application Domain",
+            "description": "Some papers are seen as discussing fundamental LLM learning mechanisms (e.g., inherent RL learners, few-shot learning) or general agent capabilities without specifically addressing the unique challenges, interaction modalities, or architectures of graphical user interfaces."
+          },
+          {
+            "theme": "General Task Automation vs. GUI Interaction",
+            "description": "Papers focusing on general multi-agent assistance or task automation are contrasted with the target paper's specific focus on agents designed for graphical user interfaces, suggesting a potential lack of depth in GUI-specific challenges."
+          },
+          {
+            "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+            "description": "Papers that benchmark LLMs for web traversal or reasoning with search engines are considered narrower in scope compared to a general GUI agent survey, as they may not cover the full spectrum of interactive GUI elements and actions beyond navigation."
+          },
+          {
+            "theme": "Technical Reports vs. Surveys",
+            "description": "Technical reports detailing specific LLMs or systems are contrasted with surveys, as they are unlikely to cover the breadth of GUI agent research, architectures, and challenges expected in a comprehensive survey."
+          },
+          {
+            "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+            "description": "Approaches focusing on specific interaction modalities like 'verbal reinforcement learning' are contrasted with the visual nature of GUI interactions, suggesting a mismatch in the core interaction paradigm."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) for Agent Training",
+            "weight": 4.5,
+            "explanation": "The target paper is a survey on GUI agents. Reinforcement learning is a fundamental technique for training agents, including those that interact with GUIs, making this theme highly relevant."
+          },
+          {
+            "theme": "LLM Agent Capabilities and Training",
+            "weight": 5,
+            "explanation": "LLMs are central to modern agent development. Their capabilities, training, and application as agents, especially in instruction following and tool use, are directly applicable to GUI agents. This is a core theme."
+          },
+          {
+            "theme": "Tool Use and Integration",
+            "weight": 4,
+            "explanation": "GUI agents inherently use 'tools' (UI elements). The theme of agents learning to use tools is a strong parallel and directly supports the application of agents in GUI environments."
+          },
+          {
+            "theme": "Agentic Problem-Solving and Reasoning",
+            "weight": 4,
+            "explanation": "GUI agents need to understand intent, plan, and act. Problem-solving and reasoning are crucial for agentic behavior within a GUI, making this theme very important."
+          },
+          {
+            "theme": "Multi-Agent Systems and Collaboration",
+            "weight": 2.5,
+            "explanation": "While GUI agents can operate in multi-agent systems, the core focus of a GUI agent survey is likely on individual agent capabilities and interaction with the GUI itself, making multi-agent aspects a secondary but still relevant consideration."
+          },
+          {
+            "theme": "Data Synthesis and Benchmarking",
+            "weight": 3,
+            "explanation": "Data synthesis and benchmarking are important for developing and evaluating any AI agent, including GUI agents. This theme supports the practical development and assessment of GUI agents."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity vs. Generality",
+            "weight": 3.5,
+            "explanation": "The target paper is a survey, implying generality. Papers that are too specific might be contrasted with a broad survey, but the distinction between general agent research and GUI-specific agent research is more critical here."
+          },
+          {
+            "theme": "Focus on Learning Mechanisms vs. Application Domain",
+            "weight": 4,
+            "explanation": "This theme highlights a potential divergence where papers focus too much on abstract learning mechanisms of LLMs without specifically addressing GUI interaction. This is a key differentiator for a GUI agent survey."
+          },
+          {
+            "theme": "General Task Automation vs. GUI Interaction",
+            "weight": 4.5,
+            "explanation": "This is a strong negative theme. A survey on GUI agents should focus on the unique challenges of graphical interfaces, distinguishing it from broader task automation or multi-agent assistance systems."
+          },
+          {
+            "theme": "Web Traversal/Search vs. Broader GUI Interaction",
+            "weight": 4,
+            "explanation": "GUI agents can interact with more than just web pages. Papers focused solely on web traversal might be too narrow compared to a general GUI agent survey that encompasses various application types."
+          },
+          {
+            "theme": "Technical Reports vs. Surveys",
+            "weight": 3,
+            "explanation": "Technical reports often focus on specific implementations, while surveys aim for broader coverage. This distinction is relevant but less critical than the domain specificity of the research."
+          },
+          {
+            "theme": "Specific Modalities (e.g., Verbal RL) vs. Visual Interaction",
+            "weight": 4,
+            "explanation": "GUI interaction is fundamentally visual. Themes focusing on non-visual modalities like verbal RL represent a different paradigm and would likely be less relevant or even contrasted with a GUI agent survey."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 16,
+    "ordered": [
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.1695808998603313
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.3995368464368324
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.4379259772046519
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.4624495675811572
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.4640742381231252
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.4787661659339919
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.4815762028772218
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.4816068897100223
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.4860199591321702
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.5113023867207739
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.5412315143071134
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.559348224203795
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5847558815989838
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.5930544620119723
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5938771417655897
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5998855344554872
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6115995994951106
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.6131741857055935
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6155854129732962
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.616465307125354
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.6168935979360495
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.6187311291145994
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6919376654693589
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.7036984403487656
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.744758124801931
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.763500460445623
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 18,
+    "ordered": [
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.5366174801193715
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6616111748516897
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7007161546431131
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7375843138619126
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.7456654261783084
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.7544694823832324
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.7819732885591377
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.7919362186747008
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.7998834346709188
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.8059188670278578
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.8068766780667331
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.8105265599786002
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.826023738385813
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.8355982207373095
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.8628678565349878
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8930612367680929
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9161374511089235
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9546934938802085
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.9860289488086366
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.009697490784248
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.0129829276853772
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 1.0240402590376942
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1121255802357166
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.1167682577544533
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1.1288948915179244
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 1.1301728696708548
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2501.07572",
+      "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+    },
+    "target": {
+      "arxivId": "2412.13501",
+      "title": "GUI Agents: A Survey"
+    }
+  }
+}

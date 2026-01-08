@@ -1,0 +1,2443 @@
+{
+  "selectedSource": {
+    "arxivId": "2505.07773",
+    "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+  },
+  "target": {
+    "arxivId": "2504.11456",
+    "title": "DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning"
+  },
+  "scores": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 99
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 9
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 98
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 8
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 93
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 9
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 92
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 8
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 90
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 10
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 84
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 5
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 83
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 8
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 7
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 81.5
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 6
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 8
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 80.5
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 8
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 72
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 69.5
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 9
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 68.5
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 8
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 6
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 7
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 6
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 65.5
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 4
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 58.5
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 6
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 8
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "score": 47
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 4
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 8
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 39
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 8
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 3
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 9
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 37
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 1
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 9
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 24.5
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 0
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 7
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 0
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 5
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 2
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 9
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 1
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 3
+            }
+          ]
+        },
+        "score": 22
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 5
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 7
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 15.5
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 2
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 8
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 15
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 9
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 4
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 8
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "score": 14
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 6
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 3
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 3
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 3
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 10
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "score": 10.5
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 5
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 3
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 10
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 6
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 5
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 5
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 9
+            }
+          ]
+        },
+        "score": 0.5
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Advancing Mathematical Reasoning",
+              "score": 4
+            },
+            {
+              "theme": "Reinforcement Learning (RL) for Reasoning",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Integration in LLMs",
+              "score": 3
+            },
+            {
+              "theme": "Agent-Based and Multi-Agent Systems",
+              "score": 2
+            },
+            {
+              "theme": "Large Language Models (LLMs) and Training",
+              "score": 9
+            },
+            {
+              "theme": "Data Synthesis and Dataset Enhancement",
+              "score": 0
+            },
+            {
+              "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality in Reasoning Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+              "score": 7
+            },
+            {
+              "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+              "score": 4
+            },
+            {
+              "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+              "score": 4
+            },
+            {
+              "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+              "score": 2
+            },
+            {
+              "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "score": -12.5
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Advancing Mathematical Reasoning",
+            "description": "A significant portion of the explanations highlight that the target paper's primary goal is to advance mathematical reasoning. This is seen as the core purpose of the DeepMath-103K dataset, and many cited papers are relevant because they also focus on improving AI's ability to perform complex reasoning, particularly in mathematical contexts."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) for Reasoning",
+            "description": "Many explanations point to the relevance of Reinforcement Learning (RL) techniques for training AI agents to perform mathematical reasoning. Papers discussing policy optimization, agentic RL, reward signals, and specific RL algorithms like PPO are seen as crucial for developing models that can effectively utilize the dataset."
+          },
+          {
+            "theme": "Tool Use and Integration in LLMs",
+            "description": "Several explanations emphasize the importance of how LLMs can be trained to use tools for mathematical problem-solving. Papers focusing on 'strategic tool use,' 'executable code actions,' 'agent KB,' and 'self-taught tool use' are considered relevant because mathematical tasks often involve external calculators, symbolic solvers, or code execution."
+          },
+          {
+            "theme": "Agent-Based and Multi-Agent Systems",
+            "description": "The concept of AI agents, including 'Chain-of-Agents,' 'Agent RL,' 'multi-agent assistance,' and 'multi-agent collaboration,' appears in several explanations. This suggests that the dataset might be intended for training or evaluating individual agents or collaborative multi-agent systems to tackle mathematical problems."
+          },
+          {
+            "theme": "Large Language Models (LLMs) and Training",
+            "description": "The relevance of general LLMs and their training methodologies is frequently mentioned. Technical reports on LLMs like Qwen3, as well as discussions on training paradigms and optimization methods, are considered important because LLMs are the primary tools for complex reasoning and will likely be trained on the DeepMath-103K dataset."
+          },
+          {
+            "theme": "Data Synthesis and Dataset Enhancement",
+            "description": "A few explanations connect the target paper's dataset creation to methods for synthesizing or validating data. Papers discussing data synthesis, information-seeking formalization, or decontamination are relevant if similar techniques were employed in creating or improving the quality and reliability of the DeepMath-103K dataset."
+          },
+          {
+            "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+            "description": "Explanations also highlight specific frameworks for enhancing LLM reasoning capabilities, such as 'ReAct' (Reasoning and Acting) and 'Self-Refine.' These are deemed relevant as they offer structured approaches to complex problem-solving, which is directly applicable to mathematical tasks that involve multiple steps and refinement."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity vs. Generality in Reasoning Tasks",
+            "description": "A recurring contrast is the difference between general reasoning or task automation and the specific domain of mathematical reasoning. Papers focusing on broad tool integration, general agent capabilities, or real-world task automation are deemed less relevant if their methods are not specifically tailored or applicable to the abstract and rigorous nature of mathematics."
+          },
+          {
+            "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+            "description": "Several contrastive explanations argue that the highly specialized knowledge required for advanced mathematics makes papers focusing on general cross-domain experience less relevant. The rigor of mathematical reasoning may not benefit from broad, unfocused knowledge transfer compared to deep, domain-specific expertise."
+          },
+          {
+            "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+            "description": "While data synthesis is related, contrastive explanations point out that methods focused on general web data or task-oriented agents might not be suitable for creating specialized, decontaminated, and verifiable mathematical datasets. The unique requirements for mathematical correctness and rigor are often not met by generic data synthesis techniques."
+          },
+          {
+            "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+            "description": "Some contrastive explanations suggest that while tool use is relevant, the target dataset might prioritize intrinsic reasoning abilities of LLMs that are independent of external tools. Papers focusing heavily on specific tool-use strategies or code execution might not align with datasets designed to test core logical and symbolic manipulation."
+          },
+          {
+            "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+            "description": "Contrastive explanations highlight that highly specific or general RL algorithms or training paradigms might not be the most suitable for the unique challenges of mathematical reasoning. Papers focusing on 'Group Sequence Policy Optimization' or critiquing specific training methods might not directly advance the goal of using a new mathematical dataset."
+          },
+          {
+            "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+            "description": "Papers focusing on web traversal, GUI agents, or mobile device operation are often contrasted with the target paper's focus on abstract mathematical reasoning. The skills required for navigating interfaces or the web are fundamentally different from the logical deduction, symbolic manipulation, and theorem proving central to advanced mathematics."
+          },
+          {
+            "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+            "description": "General technical reports about LLMs, even capable ones, are sometimes contrasted with the specific evaluation needs of a mathematical reasoning dataset. Such reports might cover a broader range of capabilities without detailing the specific methodologies or benchmarks crucial for advancing mathematical reasoning as intended by the target paper."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Advancing Mathematical Reasoning",
+            "weight": 5,
+            "explanation": "The target paper's core objective is to advance mathematical reasoning, making this theme extremely relevant. Papers focusing on improving AI's mathematical reasoning capabilities directly align with the dataset's purpose."
+          },
+          {
+            "theme": "Reinforcement Learning (RL) for Reasoning",
+            "weight": 4.5,
+            "explanation": "Reinforcement learning is frequently mentioned as a key technique for training AI to perform mathematical reasoning. Many relevant papers discuss RL algorithms and their application to complex problem-solving, which is directly applicable to utilizing the DeepMath-103K dataset."
+          },
+          {
+            "theme": "Tool Use and Integration in LLMs",
+            "weight": 4,
+            "explanation": "Mathematical tasks often require the use of external tools (calculators, solvers, code execution). Papers discussing how LLMs can be trained to use tools strategically are highly relevant as they address a practical aspect of mathematical problem-solving that the dataset likely aims to support."
+          },
+          {
+            "theme": "Agent-Based and Multi-Agent Systems",
+            "weight": 3.5,
+            "explanation": "The dataset might be used to train or evaluate AI agents, both individually and collaboratively, for mathematical tasks. Concepts like 'Chain-of-Agents' and 'multi-agent assistance' suggest a potential application in developing sophisticated AI systems for complex mathematical reasoning."
+          },
+          {
+            "theme": "Large Language Models (LLMs) and Training",
+            "weight": 4.5,
+            "explanation": "LLMs are the foundational technology for advanced reasoning tasks, and the dataset is intended for training or evaluating them. Papers on LLM architectures, training methodologies, and specific LLM models are crucial for understanding how the dataset will be used and advanced."
+          },
+          {
+            "theme": "Data Synthesis and Dataset Enhancement",
+            "weight": 3,
+            "explanation": "The creation and quality of the DeepMath-103K dataset itself rely on data synthesis and validation methods. Papers discussing these techniques are relevant, especially if they focus on creating rigorous and verifiable datasets, which is a stated goal of the target paper."
+          },
+          {
+            "theme": "Reasoning Frameworks (e.g., ReAct, Self-Refine)",
+            "weight": 4,
+            "explanation": "Frameworks like ReAct and Self-Refine offer structured approaches to enhance LLM reasoning. These are highly relevant as they provide methods for tackling multi-step and complex problem-solving, directly applicable to the domain of mathematical reasoning."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity vs. Generality in Reasoning Tasks",
+            "weight": 3,
+            "explanation": "While general reasoning is a precursor, the target paper is highly specific to *mathematical* reasoning. Papers focused broadly on task automation or general tool integration without a mathematical slant are less directly relevant."
+          },
+          {
+            "theme": "Domain-Specific Knowledge vs. Cross-Domain Transfer",
+            "weight": 3.5,
+            "explanation": "Mathematics requires deep, specific knowledge. Papers emphasizing general cross-domain experience or transfer learning might be less impactful for advancing the specialized domain of advanced mathematical reasoning compared to papers focusing on deep mathematical understanding."
+          },
+          {
+            "theme": "Data Synthesis Methods for General vs. Mathematical Data",
+            "weight": 3.5,
+            "explanation": "The unique requirements for mathematical data (verifiability, decontamination, rigor) mean that generic data synthesis techniques might not be suitable. Papers focused on synthesizing complex mathematical datasets are more relevant than those for general web or task data."
+          },
+          {
+            "theme": "Tool Use Focus vs. Intrinsic Reasoning Emphasis",
+            "weight": 2.5,
+            "explanation": "While tool use is important, some papers might focus too heavily on external tools rather than the intrinsic reasoning capabilities that the dataset aims to develop. The emphasis on core mathematical logic might be greater than on tool orchestration."
+          },
+          {
+            "theme": "Specific RL/Training Paradigms vs. Broader Needs",
+            "weight": 2,
+            "explanation": "Highly specific or niche RL/training paradigms, or those critiquing general methods without addressing mathematical reasoning challenges, may not be the most relevant. The focus should be on methods that specifically advance mathematical problem-solving."
+          },
+          {
+            "theme": "Web Traversal/GUI Interaction vs. Abstract Reasoning",
+            "weight": 4.5,
+            "explanation": "The skills for web traversal or GUI interaction are fundamentally different from abstract mathematical reasoning. Papers focused on these areas are largely irrelevant to the core goals of the DeepMath-103K dataset."
+          },
+          {
+            "theme": "General LLM Reports vs. Specific Dataset Evaluation",
+            "weight": 3.5,
+            "explanation": "General reports on LLM capabilities, without specific implications for mathematical reasoning or dataset evaluation, are less useful. The target paper is focused on advancing mathematical reasoning through a specific dataset, so papers addressing those precise aspects are more valuable."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 2,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.33891613538272336
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.5739970116230086
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5749106259892258
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.5943267414302412
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.5989706688291752
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6133190673008322
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.6215216117061781
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6226658546736281
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6335537297945554
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6337340220943928
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.6447236517072563
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.6479472533098145
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6480277587381296
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.6661360679221755
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.6873812832127792
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6883385627245848
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6973351835671939
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.7002441317337756
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7026612791035929
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.705669736413941
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.7102292409406263
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.7113567688074452
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.7115522992945907
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.7237012614313137
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.7393915112126588
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.7578318239666264
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.7243308802516473
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.8057996414881217
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.8299744357748989
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8552538491445338
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.8775426000273925
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8832159811583349
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.9120237603716227
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9129912112844017
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.929102362184499
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9327779030523817
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.9393031956235808
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.9423783306407411
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.944380859154164
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.9522940735466151
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.9658366156627283
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9751804598319954
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 1.0170826041824017
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 1.031530498994477
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 1.057793469112944
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 1.0604776958386624
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.0651618768870263
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.068148796939905
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.1094546600965827
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.1248684042256665
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 1.1392002531924426
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1938753508296145
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2505.07773",
+      "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+    },
+    "target": {
+      "arxivId": "2504.11456",
+      "title": "DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning"
+    }
+  }
+}

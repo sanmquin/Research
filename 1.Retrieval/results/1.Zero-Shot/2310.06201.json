@@ -1,0 +1,1888 @@
+{
+  "references": {
+    "seed": {
+      "arxivId": "2509.25140",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory"
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation"
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process"
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents"
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks"
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models"
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks"
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks"
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code"
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini"
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation"
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents"
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory"
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling"
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
+      },
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models"
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research"
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge"
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory"
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning"
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory"
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities"
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model"
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs"
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents"
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents"
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents"
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes"
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems"
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents"
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners"
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents"
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control"
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web"
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2507.02259",
+      "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"
+    },
+    "target": {
+      "arxivId": "2310.06201",
+      "title": "Compressing Context to Enhance Inference Efficiency of Large Language Models"
+    }
+  },
+  "embeddings": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "distance": 0.33698181961125784
+      },
+      {
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "distance": 0.33957087781148765
+      },
+      {
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "distance": 0.42812510733011755
+      },
+      {
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "distance": 0.42827847513499995
+      },
+      {
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "distance": 0.42921263912378327
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "distance": 0.44783556821392567
+      },
+      {
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "distance": 0.4618750711730828
+      },
+      {
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "distance": 0.4634084221077984
+      },
+      {
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "distance": 0.4875607993324683
+      },
+      {
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "distance": 0.5208369209789139
+      },
+      {
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "distance": 0.5254084626711569
+      },
+      {
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "distance": 0.535424785691172
+      },
+      {
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "distance": 0.5430856120278735
+      },
+      {
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "distance": 0.5484916241472456
+      },
+      {
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "distance": 0.5643837829083163
+      },
+      {
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "distance": 0.5717126153303401
+      },
+      {
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "distance": 0.5747305971875756
+      },
+      {
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "distance": 0.5802394114394294
+      },
+      {
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "distance": 0.5833850240760874
+      },
+      {
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "distance": 0.5931355344145071
+      },
+      {
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "distance": 0.5975295138719243
+      },
+      {
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "distance": 0.5985217426981407
+      },
+      {
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "distance": 0.600157057803798
+      },
+      {
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "distance": 0.6012335855493671
+      },
+      {
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "distance": 0.6064517738641202
+      },
+      {
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "distance": 0.613425099015437
+      },
+      {
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "distance": 0.6159971182346636
+      },
+      {
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "distance": 0.6164584842502772
+      },
+      {
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "distance": 0.6217968260936618
+      },
+      {
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "distance": 0.6224821703509575
+      },
+      {
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "distance": 0.6251599362482877
+      },
+      {
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "distance": 0.6293151279352492
+      },
+      {
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "distance": 0.6304799029762713
+      },
+      {
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "distance": 0.6334293237843057
+      },
+      {
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "distance": 0.6406128667761017
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "distance": 0.6514168274040525
+      },
+      {
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "distance": 0.6536987183678078
+      },
+      {
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "distance": 0.6612265646959008
+      },
+      {
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "distance": 0.6642923437639192
+      },
+      {
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "distance": 0.6670035091761785
+      },
+      {
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "distance": 0.6678753924683135
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "distance": 0.6689394346219247
+      },
+      {
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "distance": 0.6724505958799267
+      },
+      {
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "distance": 0.6731498178683888
+      },
+      {
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "distance": 0.6778027510189282
+      },
+      {
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "distance": 0.6788786430286771
+      },
+      {
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "distance": 0.6827800316033182
+      },
+      {
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "distance": 0.6838381811753517
+      },
+      {
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "distance": 0.6877929708517916
+      },
+      {
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "distance": 0.6919400084072822
+      },
+      {
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "distance": 0.6970800069104253
+      },
+      {
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "distance": 0.7019323660684889
+      },
+      {
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "distance": 0.7103192218691503
+      },
+      {
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "distance": 0.7211109933067554
+      },
+      {
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "distance": 0.7311840678188644
+      },
+      {
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "distance": 0.7336336959328609
+      },
+      {
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "distance": 0.7342403983125685
+      },
+      {
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "distance": 0.7349875521740616
+      },
+      {
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "distance": 0.7456547501156175
+      },
+      {
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "distance": 0.7607697277729526
+      },
+      {
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "distance": 0.7629900827356352
+      },
+      {
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "distance": 0.784457739306297
+      }
+    ]
+  },
+  "llm": {
+    "rank": 12,
+    "ordered": [
+      {
+        "index": 1,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 7,
+        "reason": "Discusses hierarchical reasoning and reinforcement learning in LLMs, which aligns with the target's focus on enhancing inference efficiency through context compression."
+      },
+      {
+        "index": 2,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 6,
+        "reason": "Focuses on learning from errors and promoting continual learning, which could be related to optimizing inference by identifying and correcting inefficiencies, similar to compressing context."
+      },
+      {
+        "index": 3,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 6,
+        "reason": "Explores procedural memory in agents, which could involve techniques for efficient memory management and retrieval, relevant to context compression for inference."
+      },
+      {
+        "index": 4,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 5,
+        "reason": "Involves self-evolving agents and learning from experience, which might incorporate optimization strategies for efficiency, a broad connection to context compression."
+      },
+      {
+        "index": 5,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 5,
+        "reason": "Focuses on memory-augmented planning and task automation, suggesting an interest in efficient processing of information, which context compression aims to achieve."
+      },
+      {
+        "index": 6,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 7,
+        "reason": "Directly addresses optimizing memory management for LLM agents, which is highly relevant to enhancing inference efficiency through compression techniques."
+      },
+      {
+        "index": 7,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 4,
+        "reason": "A survey on self-evolving agents might touch upon efficiency as a goal, but it's too broad to be a direct link."
+      },
+      {
+        "index": 8,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 5,
+        "reason": "Leveraging experience for problem-solving might involve efficient information representation, relating to context compression."
+      },
+      {
+        "index": 9,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 6,
+        "reason": "Highlights advancements in long context and agentic capabilities, suggesting improvements in handling and processing extensive information, relevant to inference efficiency."
+      },
+      {
+        "index": 10,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 6,
+        "reason": "Focuses on evaluating memory in LLM agents, which is a precursor to optimizing memory and thus inference efficiency through techniques like compression."
+      },
+      {
+        "index": 11,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 5,
+        "reason": "Involves dual-memory systems and thought processes, which could lead to more efficient information processing and reasoning, indirectly related to context compression."
+      },
+      {
+        "index": 12,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 7,
+        "reason": "Directly tackles reshaping LLMs for long contexts using memory agents, implying techniques to manage and process this context efficiently, aligning with compression goals."
+      },
+      {
+        "index": 13,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 7,
+        "reason": "Focuses on synergizing memory and reasoning for efficient agents, a core aspect of improving inference speed and capability, which context compression supports."
+      },
+      {
+        "index": 14,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 8,
+        "reason": "Directly relates to improving inference efficiency ('test-time compute') for LLM agents, which context compression is a key method for achieving."
+      },
+      {
+        "index": 15,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 6,
+        "reason": "Discusses reasoning and scaling test-time interaction, suggesting methods to make agent operations more efficient, relevant to context compression."
+      },
+      {
+        "index": 16,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 6,
+        "reason": "Focuses on improving language agents through experience replay, which can involve efficient context utilization and learning, related to compression."
+      },
+      {
+        "index": 17,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 4,
+        "reason": "Focuses on evaluation of web browsing agents, less directly related to inference efficiency or context compression methods."
+      },
+      {
+        "index": 18,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 7,
+        "reason": "An OS for memory-augmented generation implies sophisticated memory management and efficient processing of information, which context compression aids."
+      },
+      {
+        "index": 19,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Training retrievers for reasoning tasks might involve optimizing the retrieval process for efficiency, a related concept to context compression."
+      },
+      {
+        "index": 20,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 6,
+        "reason": "Focuses on scalable long-term memory for AI agents, which requires efficient ways to manage and access information, aligning with compression goals."
+      },
+      {
+        "index": 21,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 5,
+        "reason": "Investigates reasoning capacity, and while not directly about compression, efficient reasoning often relies on efficient context handling."
+      },
+      {
+        "index": 22,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 7,
+        "reason": "Discusses test-time scaling and collaborative reasoning, suggesting optimizations for agent performance during inference, directly relevant to context compression."
+      },
+      {
+        "index": 23,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 4,
+        "reason": "Focuses on programmatic skills, less directly related to inference efficiency or context compression for LLMs."
+      },
+      {
+        "index": 24,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 8,
+        "reason": "Directly addresses efficient test-time scaling, a primary goal that context compression helps achieve in LLM inference."
+      },
+      {
+        "index": 25,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 4,
+        "reason": "A broad survey of foundation agents, likely to mention efficiency but not specifically focus on context compression techniques."
+      },
+      {
+        "index": 26,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 6,
+        "reason": "Focuses on memory management for dialogue agents, implying efficient handling of conversational history, which is a form of context."
+      },
+      {
+        "index": 27,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 5,
+        "reason": "Embeddings are a form of representation, and better embeddings could lead to more efficient processing, indirectly related to context compression."
+      },
+      {
+        "index": 28,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 8,
+        "reason": "Focuses on test-time scaling for a specific task (code generation), directly aligning with the goal of improving inference efficiency."
+      },
+      {
+        "index": 29,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 7,
+        "reason": "Investigates agentic memory for LLM agents, implying methods for efficient storage and retrieval of information, relevant to context compression."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 7,
+        "reason": "Discusses scaling test-time compute and its optimality, directly related to inference efficiency and methods like context compression."
+      },
+      {
+        "index": 31,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 6,
+        "reason": "Focuses on scalable long-term memory, which necessitates efficient context management and processing, akin to compression."
+      },
+      {
+        "index": 32,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 8,
+        "reason": "Directly addresses test-time scaling, which is a primary application area for context compression techniques to improve inference."
+      },
+      {
+        "index": 33,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 5,
+        "reason": "Focuses on learning and adaptation in agents, which could lead to more efficient processing strategies over time."
+      },
+      {
+        "index": 34,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 7,
+        "reason": "Directly addresses inference-aware fine-tuning, suggesting optimizations for the inference process itself, relevant to context compression."
+      },
+      {
+        "index": 35,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "Focuses on a specific environment for web agents, less directly related to general inference efficiency or context compression methods."
+      },
+      {
+        "index": 36,
+        "arxivId": "2411.15594",
+        "title": "A Survey on LLM-as-a-Judge",
+        "score": 3,
+        "reason": "Focuses on using LLMs for evaluation, which is a different application area than inference efficiency."
+      },
+      {
+        "index": 37,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 6,
+        "reason": "Benchmarks long-term memory, which implies evaluating how well LLMs can handle and process extended context, relevant to compression."
+      },
+      {
+        "index": 38,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 5,
+        "reason": "Focuses on exploration strategies, which might indirectly benefit from efficient context processing."
+      },
+      {
+        "index": 39,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 6,
+        "reason": "Deals with memory in agent workflows, suggesting a need for efficient management of information to optimize task completion, relevant to context compression."
+      },
+      {
+        "index": 40,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 5,
+        "reason": "Self-evolving agents with memory augmentation might develop more efficient processing methods, indirectly related to context compression."
+      },
+      {
+        "index": 41,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 7,
+        "reason": "Focuses on hierarchical memory management for long-horizon tasks, implying efficient use of context, directly relevant to compression for inference."
+      },
+      {
+        "index": 42,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 6,
+        "reason": "Proposes episodic memory for LLMs, suggesting methods to better utilize and manage large contexts, relevant to inference efficiency."
+      },
+      {
+        "index": 43,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 5,
+        "reason": "Benchmarking continuous improvement might involve efficiency gains, but is not directly about context compression."
+      },
+      {
+        "index": 44,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 4,
+        "reason": "Focuses on automated software engineering, a specific application area, less about general inference efficiency."
+      },
+      {
+        "index": 45,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 7,
+        "reason": "A survey on memory mechanisms is highly relevant as efficient memory usage is key to compressing context and enhancing inference."
+      },
+      {
+        "index": 46,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 4,
+        "reason": "Focuses on benchmarking multimodal agents in specific environments, not directly on inference efficiency."
+      },
+      {
+        "index": 47,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 5,
+        "reason": "Focuses on agent evaluation and refinement, which could lead to more efficient agents, but not directly on context compression."
+      },
+      {
+        "index": 48,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 6,
+        "reason": "Evaluating long-term memory is crucial for understanding how to manage large contexts efficiently, a prerequisite for compression."
+      },
+      {
+        "index": 49,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 6,
+        "reason": "Learning principles from mistakes in context could lead to more efficient reasoning and potentially less need for excessive context, related to compression."
+      },
+      {
+        "index": 50,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 6,
+        "reason": "Uses contextual memory for planning, suggesting efficient use of information to improve agent performance, related to compression."
+      },
+      {
+        "index": 51,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 5,
+        "reason": "Self-evolution strategies might involve optimizing information processing for efficiency, indirectly linking to context compression."
+      },
+      {
+        "index": 52,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 7,
+        "reason": "Treating LLMs as operating systems implies advanced memory management and efficient handling of information, directly relevant to context compression."
+      },
+      {
+        "index": 53,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 4,
+        "reason": "A broad survey of autonomous agents may discuss efficiency, but not specifically focus on context compression techniques."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 5,
+        "reason": "Focuses on experiential learning, which can lead to more efficient agent behavior and processing over time."
+      },
+      {
+        "index": 55,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 4,
+        "reason": "Focuses on a specific environment for web agents, less directly related to inference efficiency or context compression methods."
+      },
+      {
+        "index": 56,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 6,
+        "reason": "Mentions long context understanding for a web agent, which implies efforts to efficiently process extended information, relevant to compression."
+      },
+      {
+        "index": 57,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 5,
+        "reason": "Uses memory for computer control, suggesting methods for efficient information recall and application, related to context management."
+      },
+      {
+        "index": 58,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 4,
+        "reason": "Focuses on building a generalist agent for the web, not directly on inference efficiency techniques like context compression."
+      },
+      {
+        "index": 59,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 7,
+        "reason": "Focuses on enhancing LLMs with long-term memory, which directly implies efficient management and processing of large amounts of information, key for context compression."
+      },
+      {
+        "index": 60,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Iterative refinement could lead to more efficient outputs by reducing the need for extensive initial context, indirectly related."
+      },
+      {
+        "index": 61,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 5,
+        "reason": "Synergizing reasoning and acting might lead to more efficient processes, but doesn't specifically target context compression."
+      },
+      {
+        "index": 62,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 2,
+        "reason": "This paper is about visual representations and contrastive learning, with no apparent connection to LLM inference efficiency or context compression."
+      }
+    ]
+  },
+  "verifier": {
+    "rank": 36,
+    "ranked": [
+      {
+        "index": 1,
+        "arxivId": "2412.15287",
+        "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+        "score": 8,
+        "reason": "Directly relates to optimizing inference in LLMs, a key aspect of the target paper's goal of enhancing inference efficiency."
+      },
+      {
+        "index": 2,
+        "arxivId": "2305.10250",
+        "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+        "score": 8,
+        "reason": "Focuses on enhancing LLMs with memory, which is related to context management for efficient inference."
+      },
+      {
+        "index": 46,
+        "arxivId": "2310.08560",
+        "title": "MemGPT: Towards LLMs as Operating Systems",
+        "score": 8,
+        "reason": "Discusses LLMs as operating systems with memory management, relevant to efficient context handling for inference."
+      },
+      {
+        "index": 6,
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 7,
+        "reason": "Introduces a framework for reasoning and acting, which can be applied to optimize agent behavior and inference."
+      },
+      {
+        "index": 21,
+        "arxivId": "2506.07976",
+        "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+        "score": 7,
+        "reason": "Explores scaling test-time interaction for reasoning agents, relevant to improving inference efficiency through adaptive strategies."
+      },
+      {
+        "index": 29,
+        "arxivId": "2506.12928",
+        "title": "Scaling Test-time Compute for LLM Agents",
+        "score": 7,
+        "reason": "Addresses scaling test-time compute, a direct consideration for improving inference efficiency."
+      },
+      {
+        "index": 35,
+        "arxivId": "2502.12118",
+        "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+        "score": 7,
+        "reason": "Investigates scaling test-time compute, directly related to the target's focus on inference efficiency."
+      },
+      {
+        "index": 39,
+        "arxivId": "2501.19393",
+        "title": "s1: Simple test-time scaling",
+        "score": 7,
+        "reason": "Focuses on test-time scaling, a core concept for improving inference efficiency."
+      },
+      {
+        "index": 25,
+        "arxivId": "2502.14382",
+        "title": "S*: Test Time Scaling for Code Generation",
+        "score": 7,
+        "reason": "Proposes test-time scaling for a specific task (code generation), relevant to general inference efficiency improvements."
+      },
+      {
+        "index": 27,
+        "arxivId": "2504.00810",
+        "title": "Z1: Efficient Test-time Scaling with Code",
+        "score": 7,
+        "reason": "Focuses on efficient test-time scaling, directly aligning with the target's goal."
+      },
+      {
+        "index": 31,
+        "arxivId": "2504.09772",
+        "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+        "score": 7,
+        "reason": "Addresses test-time scaling in a multi-agent context, relevant to optimizing complex inference processes."
+      },
+      {
+        "index": 15,
+        "arxivId": "2307.12856",
+        "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+        "score": 6,
+        "reason": "Deals with long context understanding and program synthesis, which are related to efficient information processing during inference."
+      },
+      {
+        "index": 44,
+        "arxivId": "2306.06070",
+        "title": "Mind2Web: Towards a Generalist Agent for the Web",
+        "score": 6,
+        "reason": "Focuses on creating a generalist web agent, which requires efficient handling of context and inference."
+      },
+      {
+        "index": 48,
+        "arxivId": "2307.13854",
+        "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+        "score": 6,
+        "reason": "Provides a realistic environment for web agents, implying a need for efficient inference and context management."
+      },
+      {
+        "index": 45,
+        "arxivId": "2504.06821",
+        "title": "Inducing Programmatic Skills for Agentic Tasks",
+        "score": 6,
+        "reason": "Focuses on programmatic skills for agents, which could contribute to more efficient reasoning and inference."
+      },
+      {
+        "index": 57,
+        "arxivId": "2405.15793",
+        "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "score": 6,
+        "reason": "Develops an agent for automated software engineering, requiring efficient inference and understanding of complex tasks."
+      },
+      {
+        "index": 49,
+        "arxivId": "2306.07863",
+        "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+        "score": 5,
+        "reason": "Utilizes memory for computer control, which can be related to managing context for efficient inference."
+      },
+      {
+        "index": 36,
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 5,
+        "reason": "Iterative refinement can lead to more efficient and accurate final outputs, touching on inference optimization."
+      },
+      {
+        "index": 22,
+        "arxivId": "2402.05403",
+        "title": "In-Context Principle Learning from Mistakes",
+        "score": 5,
+        "reason": "Learning from mistakes can improve the efficiency and accuracy of future inferences."
+      },
+      {
+        "index": 16,
+        "arxivId": "2504.20595",
+        "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+        "score": 5,
+        "reason": "Focuses on training retrievers for reasoning, which can impact the efficiency of information access during inference."
+      },
+      {
+        "index": 17,
+        "arxivId": "2504.13837",
+        "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+        "score": 5,
+        "reason": "Investigates RL for reasoning capacity, which could indirectly relate to optimizing inference processes."
+      },
+      {
+        "index": 24,
+        "arxivId": "2509.03646",
+        "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+        "score": 5,
+        "reason": "Explores hierarchical reasoning via RL, which may lead to more structured and efficient inference."
+      },
+      {
+        "index": 55,
+        "arxivId": "2401.13996",
+        "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+        "score": 5,
+        "reason": "Self-evolution strategies can lead to more optimized agent performance, potentially including inference efficiency."
+      },
+      {
+        "index": 59,
+        "arxivId": "2508.04700",
+        "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+        "score": 5,
+        "reason": "Self-evolving agents with learning from experience could lead to improved inference strategies."
+      },
+      {
+        "index": 60,
+        "arxivId": "2504.01990",
+        "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+        "score": 5,
+        "reason": "A broad survey of foundation agents, likely touching upon efficiency and advanced capabilities relevant to inference."
+      },
+      {
+        "index": 61,
+        "arxivId": "2507.21046",
+        "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+        "score": 5,
+        "reason": "Covers self-evolving agents, which implies optimization of agent capabilities, including inference."
+      },
+      {
+        "index": 62,
+        "arxivId": "2409.00872",
+        "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+        "score": 5,
+        "reason": "Focuses on self-evolving agents with memory, relevant to optimizing agent performance and inference."
+      },
+      {
+        "index": 5,
+        "arxivId": "2404.13501",
+        "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+        "score": 5,
+        "reason": "Surveys memory mechanisms, relevant to how context is managed, impacting inference efficiency."
+      },
+      {
+        "index": 8,
+        "arxivId": "2308.11432",
+        "title": "A Survey on Large Language Model based Autonomous Agents",
+        "score": 5,
+        "reason": "A general survey of autonomous agents, likely covering aspects related to efficiency and capabilities."
+      },
+      {
+        "index": 41,
+        "arxivId": "2404.06474",
+        "title": "Autonomous Evaluation and Refinement of Digital Agents",
+        "score": 5,
+        "reason": "Autonomous refinement can lead to optimized agent performance, indirectly affecting inference efficiency."
+      },
+      {
+        "index": 53,
+        "arxivId": "2410.02052",
+        "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+        "score": 5,
+        "reason": "Focuses on exploration and learning in agents, which may involve optimizing decision-making and inference."
+      },
+      {
+        "index": 54,
+        "arxivId": "2308.10144",
+        "title": "ExpeL: LLM Agents Are Experiential Learners",
+        "score": 5,
+        "reason": "Experiential learning in agents can lead to more efficient strategies over time, relevant to inference."
+      },
+      {
+        "index": 40,
+        "arxivId": "2506.01952",
+        "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+        "score": 4,
+        "reason": "Focuses on evaluating web browsing agents, which require efficient task execution and inference."
+      },
+      {
+        "index": 43,
+        "arxivId": "2412.05467",
+        "title": "The BrowserGym Ecosystem for Web Agent Research",
+        "score": 4,
+        "reason": "A research environment for web agents, implying a need for efficient agent operations and inference."
+      },
+      {
+        "index": 52,
+        "arxivId": "2501.10893",
+        "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+        "score": 4,
+        "reason": "Self-adaptive agents in realistic environments imply a need for efficient and responsive inference."
+      },
+      {
+        "index": 3,
+        "arxivId": "2507.02259",
+        "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+        "score": 4,
+        "reason": "Deals with long context and memory agents, relevant to managing information for inference."
+      },
+      {
+        "index": 4,
+        "arxivId": "2507.04607",
+        "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+        "score": 4,
+        "reason": "Introduces dual-memory and thought processes, potentially impacting how information is processed and inferred."
+      },
+      {
+        "index": 7,
+        "arxivId": "2505.22101",
+        "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+        "score": 4,
+        "reason": "Memory-augmented generation relates to how LLMs process information, impacting inference."
+      },
+      {
+        "index": 9,
+        "arxivId": "2407.09450",
+        "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+        "score": 4,
+        "reason": "Episodic memory for infinite context LLMs is relevant to managing large amounts of information for inference."
+      },
+      {
+        "index": 10,
+        "arxivId": "2408.09559",
+        "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+        "score": 4,
+        "reason": "Hierarchical memory management for long-horizon tasks is relevant to efficient information processing during inference."
+      },
+      {
+        "index": 11,
+        "arxivId": "2506.06698",
+        "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+        "score": 4,
+        "reason": "Self-improvement through experience replay can lead to more efficient agents, potentially impacting inference."
+      },
+      {
+        "index": 12,
+        "arxivId": "2402.17753",
+        "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+        "score": 4,
+        "reason": "Evaluating long-term memory is related to context management, which affects inference efficiency."
+      },
+      {
+        "index": 13,
+        "arxivId": "2502.00592",
+        "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "Extending long-term memory is relevant to managing context for efficient inference."
+      },
+      {
+        "index": 14,
+        "arxivId": "2406.08747",
+        "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+        "score": 4,
+        "reason": "Benchmarking continuous improvement implies optimization of agent capabilities, including inference."
+      },
+      {
+        "index": 18,
+        "arxivId": "2507.21428",
+        "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+        "score": 4,
+        "reason": "Optimizing memory management relates to how information is used, impacting inference."
+      },
+      {
+        "index": 19,
+        "arxivId": "2410.10813",
+        "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+        "score": 4,
+        "reason": "Benchmarking long-term memory is related to context management for inference."
+      },
+      {
+        "index": 20,
+        "arxivId": "2506.15841",
+        "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+        "score": 4,
+        "reason": "Synergizing memory and reasoning for efficiency is directly relevant to inference optimization."
+      },
+      {
+        "index": 23,
+        "arxivId": "2503.08026",
+        "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+        "score": 4,
+        "reason": "Reflective memory management is related to efficient information processing and inference."
+      },
+      {
+        "index": 26,
+        "arxivId": "2508.12031",
+        "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+        "score": 4,
+        "reason": "Learning from errors can improve LLM performance, potentially making inferences more efficient and accurate."
+      },
+      {
+        "index": 28,
+        "arxivId": "2504.19413",
+        "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+        "score": 4,
+        "reason": "Scalable long-term memory is relevant to managing context for efficient inference in production agents."
+      },
+      {
+        "index": 30,
+        "arxivId": "2502.12110",
+        "title": "A-MEM: Agentic Memory for LLM Agents",
+        "score": 4,
+        "reason": "Agentic memory is relevant to how agents manage information for tasks, impacting inference."
+      },
+      {
+        "index": 32,
+        "arxivId": "2402.03610",
+        "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+        "score": 4,
+        "reason": "Contextual memory in planning agents is related to efficient information retrieval and inference."
+      },
+      {
+        "index": 33,
+        "arxivId": "2507.05257",
+        "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+        "score": 4,
+        "reason": "Evaluating memory in agents relates to context management and its impact on inference."
+      },
+      {
+        "index": 34,
+        "arxivId": "2507.06261",
+        "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+        "score": 4,
+        "reason": "Mentions advanced reasoning and long context, which are relevant to inference efficiency."
+      },
+      {
+        "index": 37,
+        "arxivId": "2508.06433",
+        "title": "Memp: Exploring Agent Procedural Memory",
+        "score": 4,
+        "reason": "Procedural memory in agents can affect how tasks are performed, influencing inference."
+      },
+      {
+        "index": 56,
+        "arxivId": "2507.21953",
+        "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+        "score": 4,
+        "reason": "Memory-augmented planning for task automation is related to efficient task execution and inference."
+      },
+      {
+        "index": 42,
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 3,
+        "reason": "Leveraging experience for problem-solving can lead to more efficient inference strategies."
+      },
+      {
+        "index": 50,
+        "arxivId": "2404.07972",
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "score": 3,
+        "reason": "Benchmarking agents in complex environments implies a need for efficient inference and adaptation."
+      },
+      {
+        "index": 51,
+        "arxivId": "2409.07429",
+        "title": "Agent Workflow Memory",
+        "score": 3,
+        "reason": "Workflow memory in agents relates to task execution and information management, impacting inference."
+      },
+      {
+        "index": 47,
+        "arxivId": "2503.07891",
+        "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+        "score": 2,
+        "reason": "Focuses on embeddings, which are fundamental but less directly related to inference efficiency compared to memory or scaling."
+      },
+      {
+        "index": 38,
+        "arxivId": "2002.05709",
+        "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+        "score": 1,
+        "reason": "Focuses on visual representations, which is outside the direct scope of text-based inference efficiency for LLMs."
+      }
+    ],
+    "metrics": {
+      "completeness": 0.9838709677419355,
+      "semanticCorrelation": 0.24005668686621132,
+      "correctness": 1
+    },
+    "raw": {
+      "ranked": [
+        {
+          "index": 1,
+          "arxivId": "2412.15287",
+          "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+          "score": 8,
+          "reason": "Directly relates to optimizing inference in LLMs, a key aspect of the target paper's goal of enhancing inference efficiency."
+        },
+        {
+          "index": 2,
+          "arxivId": "2305.10250",
+          "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+          "score": 8,
+          "reason": "Focuses on enhancing LLMs with memory, which is related to context management for efficient inference."
+        },
+        {
+          "index": 46,
+          "arxivId": "2310.08560",
+          "title": "MemGPT: Towards LLMs as Operating Systems",
+          "score": 8,
+          "reason": "Discusses LLMs as operating systems with memory management, relevant to efficient context handling for inference."
+        },
+        {
+          "index": 6,
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "score": 7,
+          "reason": "Introduces a framework for reasoning and acting, which can be applied to optimize agent behavior and inference."
+        },
+        {
+          "index": 21,
+          "arxivId": "2506.07976",
+          "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+          "score": 7,
+          "reason": "Explores scaling test-time interaction for reasoning agents, relevant to improving inference efficiency through adaptive strategies."
+        },
+        {
+          "index": 29,
+          "arxivId": "2506.12928",
+          "title": "Scaling Test-time Compute for LLM Agents",
+          "score": 7,
+          "reason": "Addresses scaling test-time compute, a direct consideration for improving inference efficiency."
+        },
+        {
+          "index": 35,
+          "arxivId": "2502.12118",
+          "title": "Scaling Test-Time Compute Without Verification or RL is Suboptimal",
+          "score": 7,
+          "reason": "Investigates scaling test-time compute, directly related to the target's focus on inference efficiency."
+        },
+        {
+          "index": 39,
+          "arxivId": "2501.19393",
+          "title": "s1: Simple test-time scaling",
+          "score": 7,
+          "reason": "Focuses on test-time scaling, a core concept for improving inference efficiency."
+        },
+        {
+          "index": 25,
+          "arxivId": "2502.14382",
+          "title": "S*: Test Time Scaling for Code Generation",
+          "score": 7,
+          "reason": "Proposes test-time scaling for a specific task (code generation), relevant to general inference efficiency improvements."
+        },
+        {
+          "index": 27,
+          "arxivId": "2504.00810",
+          "title": "Z1: Efficient Test-time Scaling with Code",
+          "score": 7,
+          "reason": "Focuses on efficient test-time scaling, directly aligning with the target's goal."
+        },
+        {
+          "index": 31,
+          "arxivId": "2504.09772",
+          "title": "Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning",
+          "score": 7,
+          "reason": "Addresses test-time scaling in a multi-agent context, relevant to optimizing complex inference processes."
+        },
+        {
+          "index": 15,
+          "arxivId": "2307.12856",
+          "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+          "score": 6,
+          "reason": "Deals with long context understanding and program synthesis, which are related to efficient information processing during inference."
+        },
+        {
+          "index": 44,
+          "arxivId": "2306.06070",
+          "title": "Mind2Web: Towards a Generalist Agent for the Web",
+          "score": 6,
+          "reason": "Focuses on creating a generalist web agent, which requires efficient handling of context and inference."
+        },
+        {
+          "index": 48,
+          "arxivId": "2307.13854",
+          "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "score": 6,
+          "reason": "Provides a realistic environment for web agents, implying a need for efficient inference and context management."
+        },
+        {
+          "index": 45,
+          "arxivId": "2504.06821",
+          "title": "Inducing Programmatic Skills for Agentic Tasks",
+          "score": 6,
+          "reason": "Focuses on programmatic skills for agents, which could contribute to more efficient reasoning and inference."
+        },
+        {
+          "index": 57,
+          "arxivId": "2405.15793",
+          "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "score": 6,
+          "reason": "Develops an agent for automated software engineering, requiring efficient inference and understanding of complex tasks."
+        },
+        {
+          "index": 49,
+          "arxivId": "2306.07863",
+          "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+          "score": 5,
+          "reason": "Utilizes memory for computer control, which can be related to managing context for efficient inference."
+        },
+        {
+          "index": 36,
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "score": 5,
+          "reason": "Iterative refinement can lead to more efficient and accurate final outputs, touching on inference optimization."
+        },
+        {
+          "index": 22,
+          "arxivId": "2402.05403",
+          "title": "In-Context Principle Learning from Mistakes",
+          "score": 5,
+          "reason": "Learning from mistakes can improve the efficiency and accuracy of future inferences."
+        },
+        {
+          "index": 16,
+          "arxivId": "2504.20595",
+          "title": "ReasonIR: Training Retrievers for Reasoning Tasks",
+          "score": 5,
+          "reason": "Focuses on training retrievers for reasoning, which can impact the efficiency of information access during inference."
+        },
+        {
+          "index": 17,
+          "arxivId": "2504.13837",
+          "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+          "score": 5,
+          "reason": "Investigates RL for reasoning capacity, which could indirectly relate to optimizing inference processes."
+        },
+        {
+          "index": 24,
+          "arxivId": "2509.03646",
+          "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+          "score": 5,
+          "reason": "Explores hierarchical reasoning via RL, which may lead to more structured and efficient inference."
+        },
+        {
+          "index": 55,
+          "arxivId": "2401.13996",
+          "title": "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution",
+          "score": 5,
+          "reason": "Self-evolution strategies can lead to more optimized agent performance, potentially including inference efficiency."
+        },
+        {
+          "index": 59,
+          "arxivId": "2508.04700",
+          "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+          "score": 5,
+          "reason": "Self-evolving agents with learning from experience could lead to improved inference strategies."
+        },
+        {
+          "index": 60,
+          "arxivId": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "score": 5,
+          "reason": "A broad survey of foundation agents, likely touching upon efficiency and advanced capabilities relevant to inference."
+        },
+        {
+          "index": 61,
+          "arxivId": "2507.21046",
+          "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence",
+          "score": 5,
+          "reason": "Covers self-evolving agents, which implies optimization of agent capabilities, including inference."
+        },
+        {
+          "index": 62,
+          "arxivId": "2409.00872",
+          "title": "Self-evolving Agents with reflective and memory-augmented abilities",
+          "score": 5,
+          "reason": "Focuses on self-evolving agents with memory, relevant to optimizing agent performance and inference."
+        },
+        {
+          "index": 5,
+          "arxivId": "2404.13501",
+          "title": "A Survey on the Memory Mechanism of Large Language Model-based Agents",
+          "score": 5,
+          "reason": "Surveys memory mechanisms, relevant to how context is managed, impacting inference efficiency."
+        },
+        {
+          "index": 8,
+          "arxivId": "2308.11432",
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 5,
+          "reason": "A general survey of autonomous agents, likely covering aspects related to efficiency and capabilities."
+        },
+        {
+          "index": 41,
+          "arxivId": "2404.06474",
+          "title": "Autonomous Evaluation and Refinement of Digital Agents",
+          "score": 5,
+          "reason": "Autonomous refinement can lead to optimized agent performance, indirectly affecting inference efficiency."
+        },
+        {
+          "index": 53,
+          "arxivId": "2410.02052",
+          "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+          "score": 5,
+          "reason": "Focuses on exploration and learning in agents, which may involve optimizing decision-making and inference."
+        },
+        {
+          "index": 54,
+          "arxivId": "2308.10144",
+          "title": "ExpeL: LLM Agents Are Experiential Learners",
+          "score": 5,
+          "reason": "Experiential learning in agents can lead to more efficient strategies over time, relevant to inference."
+        },
+        {
+          "index": 40,
+          "arxivId": "2506.01952",
+          "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+          "score": 4,
+          "reason": "Focuses on evaluating web browsing agents, which require efficient task execution and inference."
+        },
+        {
+          "index": 43,
+          "arxivId": "2412.05467",
+          "title": "The BrowserGym Ecosystem for Web Agent Research",
+          "score": 4,
+          "reason": "A research environment for web agents, implying a need for efficient agent operations and inference."
+        },
+        {
+          "index": 52,
+          "arxivId": "2501.10893",
+          "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+          "score": 4,
+          "reason": "Self-adaptive agents in realistic environments imply a need for efficient and responsive inference."
+        },
+        {
+          "index": 3,
+          "arxivId": "2507.02259",
+          "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+          "score": 4,
+          "reason": "Deals with long context and memory agents, relevant to managing information for inference."
+        },
+        {
+          "index": 4,
+          "arxivId": "2507.04607",
+          "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+          "score": 4,
+          "reason": "Introduces dual-memory and thought processes, potentially impacting how information is processed and inferred."
+        },
+        {
+          "index": 7,
+          "arxivId": "2505.22101",
+          "title": "MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models",
+          "score": 4,
+          "reason": "Memory-augmented generation relates to how LLMs process information, impacting inference."
+        },
+        {
+          "index": 9,
+          "arxivId": "2407.09450",
+          "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
+          "score": 4,
+          "reason": "Episodic memory for infinite context LLMs is relevant to managing large amounts of information for inference."
+        },
+        {
+          "index": 10,
+          "arxivId": "2408.09559",
+          "title": "HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model",
+          "score": 4,
+          "reason": "Hierarchical memory management for long-horizon tasks is relevant to efficient information processing during inference."
+        },
+        {
+          "index": 11,
+          "arxivId": "2506.06698",
+          "title": "Contextual Experience Replay for Self-Improvement of Language Agents",
+          "score": 4,
+          "reason": "Self-improvement through experience replay can lead to more efficient agents, potentially impacting inference."
+        },
+        {
+          "index": 12,
+          "arxivId": "2402.17753",
+          "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+          "score": 4,
+          "reason": "Evaluating long-term memory is related to context management, which affects inference efficiency."
+        },
+        {
+          "index": 13,
+          "arxivId": "2502.00592",
+          "title": "M+: Extending MemoryLLM with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "Extending long-term memory is relevant to managing context for efficient inference."
+        },
+        {
+          "index": 14,
+          "arxivId": "2406.08747",
+          "title": "StreamBench: Towards Benchmarking Continuous Improvement of Language Agents",
+          "score": 4,
+          "reason": "Benchmarking continuous improvement implies optimization of agent capabilities, including inference."
+        },
+        {
+          "index": 18,
+          "arxivId": "2507.21428",
+          "title": "MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations",
+          "score": 4,
+          "reason": "Optimizing memory management relates to how information is used, impacting inference."
+        },
+        {
+          "index": 19,
+          "arxivId": "2410.10813",
+          "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+          "score": 4,
+          "reason": "Benchmarking long-term memory is related to context management for inference."
+        },
+        {
+          "index": 20,
+          "arxivId": "2506.15841",
+          "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents",
+          "score": 4,
+          "reason": "Synergizing memory and reasoning for efficiency is directly relevant to inference optimization."
+        },
+        {
+          "index": 23,
+          "arxivId": "2503.08026",
+          "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+          "score": 4,
+          "reason": "Reflective memory management is related to efficient information processing and inference."
+        },
+        {
+          "index": 26,
+          "arxivId": "2508.12031",
+          "title": "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases",
+          "score": 4,
+          "reason": "Learning from errors can improve LLM performance, potentially making inferences more efficient and accurate."
+        },
+        {
+          "index": 28,
+          "arxivId": "2504.19413",
+          "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+          "score": 4,
+          "reason": "Scalable long-term memory is relevant to managing context for efficient inference in production agents."
+        },
+        {
+          "index": 30,
+          "arxivId": "2502.12110",
+          "title": "A-MEM: Agentic Memory for LLM Agents",
+          "score": 4,
+          "reason": "Agentic memory is relevant to how agents manage information for tasks, impacting inference."
+        },
+        {
+          "index": 32,
+          "arxivId": "2402.03610",
+          "title": "RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents",
+          "score": 4,
+          "reason": "Contextual memory in planning agents is related to efficient information retrieval and inference."
+        },
+        {
+          "index": 33,
+          "arxivId": "2507.05257",
+          "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+          "score": 4,
+          "reason": "Evaluating memory in agents relates to context management and its impact on inference."
+        },
+        {
+          "index": 34,
+          "arxivId": "2507.06261",
+          "title": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+          "score": 4,
+          "reason": "Mentions advanced reasoning and long context, which are relevant to inference efficiency."
+        },
+        {
+          "index": 37,
+          "arxivId": "2508.06433",
+          "title": "Memp: Exploring Agent Procedural Memory",
+          "score": 4,
+          "reason": "Procedural memory in agents can affect how tasks are performed, influencing inference."
+        },
+        {
+          "index": 56,
+          "arxivId": "2507.21953",
+          "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+          "score": 4,
+          "reason": "Memory-augmented planning for task automation is related to efficient task execution and inference."
+        },
+        {
+          "index": 42,
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "score": 3,
+          "reason": "Leveraging experience for problem-solving can lead to more efficient inference strategies."
+        },
+        {
+          "index": 50,
+          "arxivId": "2404.07972",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "score": 3,
+          "reason": "Benchmarking agents in complex environments implies a need for efficient inference and adaptation."
+        },
+        {
+          "index": 51,
+          "arxivId": "2409.07429",
+          "title": "Agent Workflow Memory",
+          "score": 3,
+          "reason": "Workflow memory in agents relates to task execution and information management, impacting inference."
+        },
+        {
+          "index": 47,
+          "arxivId": "2503.07891",
+          "title": "Gemini Embedding: Generalizable Embeddings from Gemini",
+          "score": 2,
+          "reason": "Focuses on embeddings, which are fundamental but less directly related to inference efficiency compared to memory or scaling."
+        },
+        {
+          "index": 38,
+          "arxivId": "2002.05709",
+          "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "score": 1,
+          "reason": "Focuses on visual representations, which is outside the direct scope of text-based inference efficiency for LLMs."
+        }
+      ]
+    }
+  }
+}

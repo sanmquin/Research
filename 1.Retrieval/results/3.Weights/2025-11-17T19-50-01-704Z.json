@@ -1,0 +1,1945 @@
+{
+  "selectedSource": {
+    "arxivId": "2505.22648",
+    "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+  },
+  "target": {
+    "arxivId": "2201.11903",
+    "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+  },
+  "scores": {
+    "rank": 13,
+    "ordered": [
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 5
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 5
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 4
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 3
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 5
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 4
+            }
+          ]
+        },
+        "score": -134.5
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 7
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 8
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 6
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 5
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -170.5
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 6
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 10
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 9
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 2
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 8
+            }
+          ]
+        },
+        "score": -175.5
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 10
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 9
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 2
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 8
+            }
+          ]
+        },
+        "score": -175.5
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 10
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 9
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 2
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 8
+            }
+          ]
+        },
+        "score": -175.5
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 9
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 6
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 8
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 9
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 9
+            }
+          ]
+        },
+        "score": -189.5
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 8
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 7
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 10
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 2
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 6
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 8
+            }
+          ]
+        },
+        "score": -197
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 5
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 9
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 8
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 4
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 8
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 3
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": -198.5
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 5
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 6
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 4
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 5
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 9
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": -201.5
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 5
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 9
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": -205
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 5
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 8
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 2
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 9
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 5
+            }
+          ]
+        },
+        "score": -205.5
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 9
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 5
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 5
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 7
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": -206.5
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 7
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 10
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 6
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 6
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": -208
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 9
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 7
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 8
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 7
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 6
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -212.5
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 8
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 6
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 9
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 8
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 4
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 9
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 4
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": -212.5
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 10
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 9
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 8
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 6
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -214
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 9
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 5
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 4
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 7
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": -215
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 10
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 5
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 5
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 8
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -220.5
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 8
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 9
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 6
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 4
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 6
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -222
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 9
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 5
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 5
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 9
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 3
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 6
+            }
+          ]
+        },
+        "score": -222.5
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 9
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 9
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 7
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 5
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 5
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -223.5
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 9
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 10
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 7
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 6
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 9
+            }
+          ]
+        },
+        "score": -226
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 9
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 10
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 8
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 3
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 6
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 9
+            }
+          ]
+        },
+        "score": -226
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 10
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 7
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 8
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 7
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 9
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 5
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 5
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -233
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 5
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 4
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 6
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 9
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -234.5
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 5
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 4
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 6
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 9
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -234.5
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Enhancing and Eliciting Reasoning in LLMs: A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities.",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Development: Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence.",
+              "score": 8
+            },
+            {
+              "theme": "Evaluation and Benchmarking of Reasoning: A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance.",
+              "score": 5
+            },
+            {
+              "theme": "Foundational Techniques for Advanced AI: The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks.",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+              "score": 6
+            },
+            {
+              "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+              "score": 9
+            },
+            {
+              "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+              "score": 4
+            },
+            {
+              "theme": "Agent System Design vs. Component Capability",
+              "score": 7
+            },
+            {
+              "theme": "Scope of Reasoning (General vs. Specialized)",
+              "score": 7
+            }
+          ]
+        },
+        "score": -234.5
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Enhancing and Eliciting Reasoning in LLMs",
+            "description": "A significant theme across many explanations is the focus on improving or revealing the reasoning capabilities of Large Language Models. The target paper's 'Chain of Thought' prompting is consistently identified as a method to achieve this, and related papers are linked because they either aim to enhance reasoning, utilize reasoning for specific tasks, or evaluate models based on their reasoning abilities."
+          },
+          {
+            "theme": "Agent Capabilities and Development",
+            "description": "Several explanations highlight the connection between reasoning and the development of autonomous agents. The target paper's method for eliciting reasoning is seen as foundational or complementary to building agents that require strong reasoning skills for tasks like information seeking, web navigation, research, and general intelligence."
+          },
+          {
+            "theme": "Evaluation and Benchmarking of Reasoning",
+            "description": "A recurring theme is the application of 'Chain of Thought' prompting as a tool for evaluating or benchmarking the reasoning abilities of LLMs. This includes assessing performance in tasks such as web browsing, retrieval-augmented generation, and general AI assistance."
+          },
+          {
+            "theme": "Foundational Techniques for Advanced AI",
+            "description": "The target paper's 'Chain of Thought' prompting is often described as a fundamental technique. Other papers are linked if they build upon, extend, or leverage this foundational capability for more complex AI systems, such as scientific AI agents or models capable of long-horizon tasks."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+            "description": "A key contrast is between papers focusing on specific applications (e.g., web browsing, research structuring, mathematical reasoning) or benchmarks, and the target paper's contribution, which is a general method ('Chain of Thought') for eliciting reasoning applicable across various tasks and LLMs."
+          },
+          {
+            "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+            "description": "Many contrastive explanations differentiate between papers that propose architectural improvements, scaling strategies (like continual pre-training or environment scaling), or training paradigms (like reinforcement learning), and the target paper's focus on a specific prompting technique to elicit reasoning from pre-trained models."
+          },
+          {
+            "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+            "description": "Some papers are contrasted because their primary innovation lies in structuring information, summarization, or evidence retrieval for research purposes, rather than directly addressing the fundamental mechanism of step-by-step reasoning within LLMs, which is the focus of 'Chain of Thought'."
+          },
+          {
+            "theme": "Agent System Design vs. Component Capability",
+            "description": "A distinction is made between papers that focus on the overall design and architecture of autonomous agents (including their interaction loops or action capabilities) and the target paper, which provides a method for eliciting a specific internal capability – reasoning – that can be a component within such agents."
+          },
+          {
+            "theme": "Scope of Reasoning (General vs. Specialized)",
+            "description": "While both might involve reasoning, some papers are contrasted due to a potentially different scope or type of reasoning. For instance, 'long-horizon agents' or 'web traversal' might imply specialized reasoning needs distinct from the general elicitation of reasoning steps through 'Chain of Thought'."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Enhancing and Eliciting Reasoning in LLMs",
+            "weight": 9.5,
+            "explanation": "This theme directly aligns with the core contribution of the target paper, which is about eliciting reasoning in LLMs. Papers focusing on enhancing or eliciting reasoning are highly likely to reference the target paper."
+          },
+          {
+            "theme": "Agent Capabilities and Development",
+            "weight": 8,
+            "explanation": "The target paper's technique is often seen as foundational for developing agents that require strong reasoning. Therefore, papers on agent capabilities that can leverage or build upon this reasoning elicitation are strong candidates for referencing."
+          },
+          {
+            "theme": "Evaluation and Benchmarking of Reasoning",
+            "weight": 7.5,
+            "explanation": "Chain of Thought prompting is a key method for evaluating LLM reasoning. Papers that use or propose benchmarks for reasoning will likely reference the target paper as a foundational technique for such evaluations."
+          },
+          {
+            "theme": "Foundational Techniques for Advanced AI",
+            "weight": 8.5,
+            "explanation": "The 'Chain of Thought' prompting is presented as a fundamental technique. Papers that extend, build upon, or utilize this foundation for more advanced AI systems are very likely to reference the target paper."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specific Task Focus vs. General Reasoning Elicitation",
+            "weight": 7,
+            "explanation": "While the target paper's technique is general, papers with a very specific task focus might only tangentially relate, or might be contrasted if they don't leverage the general reasoning elicitation aspect. However, the general nature makes it applicable, so the weight is not extremely high."
+          },
+          {
+            "theme": "Architectural/Training Strategies vs. Prompting Techniques",
+            "weight": 8,
+            "explanation": "This theme highlights a clear distinction: papers focusing on architectural changes or different training methods are less likely to be direct references to a paper focused purely on prompting techniques, unless they are specifically comparing prompting methods or using prompting to evaluate their architecture."
+          },
+          {
+            "theme": "Information Organization/Retrieval vs. Core Reasoning Mechanism",
+            "weight": 6.5,
+            "explanation": "Papers primarily focused on information organization or retrieval, without a strong emphasis on the core reasoning mechanism itself, are less likely to be direct references. The target paper is about eliciting *how* the model reasons, not just what information it retrieves or organizes."
+          },
+          {
+            "theme": "Agent System Design vs. Component Capability",
+            "weight": 7.5,
+            "explanation": "This theme differentiates between the overall agent system and a specific capability. Papers focused on the broader agent system design might reference the target paper as a component, but if their main contribution is system-level, the direct link might be weaker than papers focused on the reasoning capability itself."
+          },
+          {
+            "theme": "Scope of Reasoning (General vs. Specialized)",
+            "weight": 6,
+            "explanation": "If a paper involves highly specialized reasoning (e.g., for very long horizons or specific navigation tasks) that is distinct from the general step-by-step reasoning elicited by CoT, it might be less of a direct reference. The target paper is more about the general mechanism."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 23,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.32644146061331614
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.40916682071625576
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.4195296825436533
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.4757367933771164
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.4764647846114838
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.4882411625209171
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.5178857386583248
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.5282361280630254
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.5465014303972695
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.5805877808129283
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.584399025660161
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.5875483706500344
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.5915726553537595
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5931880775897606
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.6017219625683095
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.6076729680770356
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.6271980309143406
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6410089693650485
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6476236688435352
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.6577663787915473
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.6593751125363136
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.6630527157040643
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.6975584676526468
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.7259095545278873
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.7374822944680297
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.7385157520073408
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7448479520757079
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 23,
+    "ordered": [
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6332015487648428
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.6520764490726787
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.6789692045137371
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.7418122342621375
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.7835463332737068
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.7882786579261265
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8235553459353983
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.8542360254325374
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.8564826448054719
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.880390169818991
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.8883438745168423
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.9051044145043496
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.9066803650112825
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.9202739361589897
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.928316816835901
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9284004874571259
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.955280341367599
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.9579066227898726
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.9594255437136369
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.9664471081135868
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.9754387036272235
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.9883670144782709
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 1.0034608155624316
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 1.0327743088058017
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 1.0828503740542084
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2251692196256907
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3401393618096884
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2505.22648",
+      "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+    },
+    "target": {
+      "arxivId": "2201.11903",
+      "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+    }
+  }
+}

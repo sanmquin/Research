@@ -1,0 +1,2062 @@
+{
+  "selectedSource": {
+    "arxivId": "2509.13313",
+    "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+  },
+  "target": {
+    "arxivId": "2308.11432",
+    "title": "A survey on large language model based autonomous agents"
+  },
+  "scores": {
+    "rank": 19,
+    "ordered": [
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 10
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 6
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 3
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 240.5
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 5
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 8
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 229
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 168.5
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 10
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 6
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 6
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 5
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 168
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 8
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 164
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 163.5
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 10
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 4
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 4
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 153.5
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 10
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 6
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 4
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 151.5
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 146
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 5
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 4
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 2
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 1
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 143
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 138
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 6
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 4
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 135.5
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 5
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 10
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 3
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 7
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 132.5
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 9
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 10
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 5
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 4
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 2
+            }
+          ]
+        },
+        "score": 128
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 10
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 9
+            }
+          ]
+        },
+        "score": 122.5
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 6
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 10
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 4
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 4
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 6
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 5
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 117.5
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 4
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 5
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 117
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 10
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 9
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 5
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 8
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 9
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 2
+            }
+          ]
+        },
+        "score": 117
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 8
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 6
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 6
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 8
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 1
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 1
+            }
+          ]
+        },
+        "score": 113
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 9
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 4
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 10
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 2
+            }
+          ]
+        },
+        "score": 105
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 8
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 5
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 7
+            }
+          ]
+        },
+        "score": 89.5
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 7
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 5
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 10
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 9
+            }
+          ]
+        },
+        "score": 71.5
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 6
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 5
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 10
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 9
+            }
+          ]
+        },
+        "score": 57
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 6
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 10
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 2
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 2
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 3
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 9
+            }
+          ]
+        },
+        "score": 56.5
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 7
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 2
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 6
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 8
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 6
+            }
+          ]
+        },
+        "score": 46
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 8
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 4
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 3
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 9
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 3
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 3
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 2
+            }
+          ]
+        },
+        "score": 28.5
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Autonomous Agents Core Concepts",
+              "score": 5
+            },
+            {
+              "theme": "LLM Capabilities for Agents",
+              "score": 4
+            },
+            {
+              "theme": "Agent Training and Development",
+              "score": 3
+            },
+            {
+              "theme": "Agent Applications and Benchmarks",
+              "score": 7
+            },
+            {
+              "theme": "Underlying Technologies",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Specificity vs. Generality",
+              "score": 7
+            },
+            {
+              "theme": "Focus on Underlying Tech vs. Agent Behavior",
+              "score": 8
+            },
+            {
+              "theme": "Specific Methodologies or Frameworks",
+              "score": 4
+            },
+            {
+              "theme": "Niche or Contrasting Viewpoints",
+              "score": 2
+            },
+            {
+              "theme": "Benchmarks vs. Agent Review",
+              "score": 7
+            }
+          ]
+        },
+        "score": 27
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Autonomous Agents Core Concepts",
+            "description": "Several papers directly discuss core concepts of autonomous agents, including agentic capabilities, reasoning, acting, long-horizon tasks, general intelligence, and agent environments. These are fundamental to the target survey."
+          },
+          {
+            "theme": "LLM Capabilities for Agents",
+            "description": "Many explanations highlight how specific LLM capabilities, such as reasoning, information-seeking, data synthesizing, and deep research capabilities, are crucial for autonomous agents. This aligns with a survey on LLM-based agents."
+          },
+          {
+            "theme": "Agent Training and Development",
+            "description": "Papers focusing on training methodologies like Reinforcement Learning (RL), continual pre-training, and scaling agents are relevant as they discuss how to build and improve autonomous agents."
+          },
+          {
+            "theme": "Agent Applications and Benchmarks",
+            "description": "Thematic areas include specific agent applications like GUI agents, web agents, and scientific AI agents, as well as benchmarks for web browsing, web traversal, and general AI assistants. These provide concrete examples and evaluation contexts."
+          },
+          {
+            "theme": "Underlying Technologies",
+            "description": "Technologies like Retrieval-Augmented Generation (RAG) and long-context LLMs are identified as foundational for many advanced autonomous agents, suggesting their importance as supporting themes."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Specificity vs. Generality",
+            "description": "Many contrastive explanations point out that papers are too specific, focusing on a single agent, a narrow application (e.g., web browsing, mathematical reasoning), a particular model, or a niche technique, whereas the target survey is a broad overview of LLM-based autonomous agents."
+          },
+          {
+            "theme": "Focus on Underlying Tech vs. Agent Behavior",
+            "description": "Some papers are described as focusing too much on underlying LLM capabilities (like RAG, context summarization, or specific model training) rather than the broader agentic behavior and architecture, which is the target survey's focus."
+          },
+          {
+            "theme": "Specific Methodologies or Frameworks",
+            "description": "While frameworks like ReAct or specific RL systems are mentioned, they are sometimes deemed too specific if the survey aims to cover a wider range of methodologies and architectures, not just individual systems."
+          },
+          {
+            "theme": "Niche or Contrasting Viewpoints",
+            "description": "Papers that focus on specialized domains (e.g., scientific AI agents) or present contrasting ideas (e.g., focusing on small language models when the survey is about large ones) are considered less central to a general survey."
+          },
+          {
+            "theme": "Benchmarks vs. Agent Review",
+            "description": "While benchmarks are relevant, some papers are flagged as being primarily about a specific benchmark (e.g., GAIA, web traversal benchmarks) rather than a comprehensive review of autonomous agents themselves."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Autonomous Agents Core Concepts",
+            "weight": 9.5,
+            "explanation": "This theme directly addresses the core subject matter of the target paper, which is a survey on autonomous agents. Concepts like agentic capabilities, reasoning, acting, and environments are foundational to understanding the field."
+          },
+          {
+            "theme": "LLM Capabilities for Agents",
+            "weight": 9,
+            "explanation": "The target paper specifically focuses on LLM-based autonomous agents. Therefore, themes highlighting how LLM capabilities (reasoning, information-seeking, etc.) enable these agents are highly relevant."
+          },
+          {
+            "theme": "Agent Training and Development",
+            "weight": 7,
+            "explanation": "A survey on autonomous agents would likely cover how these agents are built and improved. Methodologies like RL and continual pre-training are important aspects of agent development, making this theme relevant."
+          },
+          {
+            "theme": "Agent Applications and Benchmarks",
+            "weight": 7.5,
+            "explanation": "Understanding the applications and benchmarks provides context and demonstrates the practical relevance and evaluation of autonomous agents. This is crucial for a comprehensive survey."
+          },
+          {
+            "theme": "Underlying Technologies",
+            "weight": 6,
+            "explanation": "Technologies like RAG and long-context LLMs are enabling factors for many advanced autonomous agents. While not the primary focus, their importance as foundational elements makes this a relevant supporting theme for a survey."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Specificity vs. Generality",
+            "weight": 8,
+            "explanation": "The target paper is a survey, implying generality. Papers that are too specific (single agent, narrow application, niche technique) would likely not be core references but rather examples discussed within the broader survey. Thus, specificity is a negative indicator for direct referencing."
+          },
+          {
+            "theme": "Focus on Underlying Tech vs. Agent Behavior",
+            "weight": 7,
+            "explanation": "While LLMs are key, a survey on agents would likely prioritize agent behavior and architecture over deep dives into only LLM capabilities. Papers focused solely on the latter might be too narrow."
+          },
+          {
+            "theme": "Specific Methodologies or Frameworks",
+            "weight": 6.5,
+            "explanation": "Similar to specificity, a survey might mention frameworks like ReAct, but papers dedicated solely to a single framework might not be as relevant as papers covering a broader range of agentic approaches."
+          },
+          {
+            "theme": "Niche or Contrasting Viewpoints",
+            "weight": 5,
+            "explanation": "Papers focusing on highly specialized domains or offering contrasting views (e.g., small LMs when the survey is about large ones) are less likely to be directly referenced in a general survey on LLM-based autonomous agents."
+          },
+          {
+            "theme": "Benchmarks vs. Agent Review",
+            "weight": 6,
+            "explanation": "While benchmarks are discussed in surveys, papers that are primarily about a specific benchmark, rather than the agents and systems evaluated by them, are less likely to be directly relevant to a comprehensive review of agents."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 19,
+    "ordered": [
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.30637649525989186
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.4085167374076847
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.4203009551832939
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.43722622434013014
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.4475954899086356
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.4564762175367745
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.45944412607574037
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.4641846773064323
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.4648755556262063
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.4724731629463734
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.4745029783069459
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.48109549579052535
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.49516324819412705
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.49850809253090467
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.498704236883195
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.5094603939063723
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.5117674416922756
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.5149808979932846
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.5278982447921317
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.539672826786801
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.5411472630590024
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.5458519175568588
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.5607465296715917
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.6290584834205035
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.670302819785541
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6889089286520317
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7932719616073778
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 17,
+    "ordered": [
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.6134580439221149
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.6220928436067967
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.7121808081011751
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7277100147231524
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.7402853200597617
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.7439863124916568
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.7481159899669823
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.7503795465363825
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.759340474233514
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.7804053262167306
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.781569825489757
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.7839457766828483
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.7968519119984497
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.8040835908273378
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.8156287862973035
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.8250132869662653
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.8277006337981944
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.8401104743553197
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.8465227894414769
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.8571193576811642
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.8603489775794633
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.8698485438642326
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.8702734624735246
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.9972999657050583
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.0678076661155842
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1695624848833446
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3885633713413583
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2509.13313",
+      "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+    },
+    "target": {
+      "arxivId": "2308.11432",
+      "title": "A survey on large language model based autonomous agents"
+    }
+  }
+}

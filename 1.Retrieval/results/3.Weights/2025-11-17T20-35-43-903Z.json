@@ -1,0 +1,1991 @@
+{
+  "selectedSource": {
+    "arxivId": "1707.06347",
+    "title": "Proximal Policy Optimization Algorithms"
+  },
+  "target": {
+    "arxivId": "1602.01783",
+    "title": "Asynchronous Methods for Deep Reinforcement Learning"
+  },
+  "scores": {
+    "rank": 17,
+    "ordered": [
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "positiveScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 10
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.10978",
+          "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 3
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 4
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 103
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 8
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 10
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 4
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 6
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 103
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "positiveScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 7
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.02479",
+          "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 4
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 91
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "positiveScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 7
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 9
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.07773",
+          "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 5
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 86
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "positiveScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 10
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 8
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.11366",
+          "title": "Reflexion: language agents with verbal reinforcement learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 7
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 8
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 83
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "positiveScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 6
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 10
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 2
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 3
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 81
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "positiveScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 7
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.11536",
+          "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 5
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 80
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "positiveScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 7
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.06303",
+          "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 3
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 7
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 2
+            }
+          ]
+        },
+        "score": 79
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "positiveScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 9
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 10
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 7
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.13167",
+          "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 6
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 77
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 10
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 7
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.09516",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 5
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 77
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "positiveScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 5
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2411.04890",
+          "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 3
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 3
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 9
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 67
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "positiveScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 6
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2401.07339",
+          "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 5
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 64
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "positiveScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 5
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2302.04761",
+          "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 5
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 7
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 63
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "positiveScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 7
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 7
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.23885",
+          "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 7
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 6
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 61
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 8
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 6
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 8
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 60
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 5
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 5
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 4
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 7
+            }
+          ]
+        },
+        "score": 59
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "positiveScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 10
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 8
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "1707.06347",
+          "title": "Proximal Policy Optimization Algorithms",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 9
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 3
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 2
+            }
+          ]
+        },
+        "score": 59
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "positiveScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 9
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 5
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.06229",
+          "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 6
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 5
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 57
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "positiveScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 7
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 6
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2303.17651",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 4
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 7
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 5
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 53
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "positiveScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 6
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 5
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 5
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.01030",
+          "title": "Executable Code Actions Elicit Better LLM Agents",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 5
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 6
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 4
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 52
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "positiveScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 8
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 6
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 6
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2406.01014",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 8
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 5
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 0
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 6
+            }
+          ]
+        },
+        "score": 50
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 7
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 4
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 3
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 2
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 9
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 5
+            }
+          ]
+        },
+        "score": 37
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 4
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 3
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 2
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 3
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 5
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 24
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "positiveScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 5
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 5
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.20783",
+          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 2
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 5
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 3
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 22
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 5
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 4
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 3
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 4
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 7
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 4
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 2
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 3
+            }
+          ]
+        },
+        "score": 14
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "positiveScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL) Applications in LLMs",
+              "score": 4
+            },
+            {
+              "theme": "Agentic Systems and Decision Making",
+              "score": 3
+            },
+            {
+              "theme": "Policy Optimization and Training Efficiency",
+              "score": 3
+            },
+            {
+              "theme": "Scalability in Deep Reinforcement Learning",
+              "score": 3
+            },
+            {
+              "theme": "Tool Use and Integration in Agents",
+              "score": 2
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2005.14165",
+          "title": "Language Models are Few-Shot Learners",
+          "scores": [
+            {
+              "theme": "Focus on Specific Applications vs. General Methods",
+              "score": 2
+            },
+            {
+              "theme": "Novelty in Model Architecture or Framework Design",
+              "score": 3
+            },
+            {
+              "theme": "Different Optimization or Training Paradigms",
+              "score": 1
+            },
+            {
+              "theme": "Emphasis on Benchmarking or Surveying",
+              "score": 7
+            },
+            {
+              "theme": "RL as a Component, Not the Core Focus",
+              "score": 4
+            }
+          ]
+        },
+        "score": 6
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL) Applications in LLMs",
+            "description": "Many papers explore using RL to train or enhance Large Language Models (LLMs) for various tasks like reasoning, tool use, code generation, and problem-solving. This aligns with the target paper's focus on Deep Reinforcement Learning methods."
+          },
+          {
+            "theme": "Agentic Systems and Decision Making",
+            "description": "A significant theme is the development and training of agents that can reason, act, and learn. RL is often the underlying mechanism for these agents, and asynchronous methods can be crucial for scaling their training and improving efficiency in complex, interactive environments."
+          },
+          {
+            "theme": "Policy Optimization and Training Efficiency",
+            "description": "Several papers directly mention 'policy optimization' or related concepts, a core area within RL. Asynchronous methods are highlighted as key techniques for improving the efficiency, scalability, and speed of training these policies, especially in large-scale or complex settings."
+          },
+          {
+            "theme": "Scalability in Deep Reinforcement Learning",
+            "description": "The concept of 'scaling' RL algorithms and systems is frequently discussed. Asynchronous methods are presented as a fundamental approach to achieve this scalability, particularly for large models and complex tasks, making them highly relevant to the target paper."
+          },
+          {
+            "theme": "Tool Use and Integration in Agents",
+            "description": "The ability of agents, especially LLM-based ones, to effectively use and integrate external tools (like search engines or code execution) is a recurring topic. RL is often employed for training agents in these tool-use scenarios, where asynchronous methods can accelerate the learning process."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Focus on Specific Applications vs. General Methods",
+            "description": "Many contrastive explanations highlight that while RL is used, the papers' primary contributions are in domain-specific applications (e.g., tool-integrated reasoning, multi-agent distillation, mathematical reasoning) rather than the general asynchronous optimization techniques for RL itself."
+          },
+          {
+            "theme": "Novelty in Model Architecture or Framework Design",
+            "description": "Some papers introduce new LLM architectures, agent frameworks (e.g., ReAct), or training paradigms (e.g., verbal RL, emergent in-context RL) where the core innovation is not necessarily the RL optimization algorithm, but rather how the model learns or interacts. Asynchronous methods might be secondary or not the primary focus."
+          },
+          {
+            "theme": "Different Optimization or Training Paradigms",
+            "description": "Contrastive explanations suggest that some papers might employ synchronous RL training, different optimization strategies, or focus on theoretical aspects of scaling rather than the specific implementation of asynchronous parallelism. The need for asynchronous methods is not always direct or central."
+          },
+          {
+            "theme": "Emphasis on Benchmarking or Surveying",
+            "description": "Papers focused on creating benchmarks, surveying the field, or analyzing model capabilities (e.g., few-shot learning) use RL as a tool or a component, but their main contribution lies elsewhere. The specifics of asynchronous RL training are often peripheral to their core objectives."
+          },
+          {
+            "theme": "RL as a Component, Not the Core Focus",
+            "description": "In several cases, RL is mentioned as a part of the methodology but not the central theme. The papers might focus more on data synthesis, knowledge representation, prompt engineering, or specific task performance, making the general asynchronous RL methods from the target paper less directly relevant unless used for implicit scaling."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL) Applications in LLMs",
+            "weight": 4,
+            "explanation": "The target paper is about Deep Reinforcement Learning methods, which are broadly applied in LLMs. This theme is highly relevant."
+          },
+          {
+            "theme": "Agentic Systems and Decision Making",
+            "weight": 4,
+            "explanation": "Agent training often relies on RL, and asynchronous methods are crucial for efficiency in complex agent systems. This aligns well with the target paper."
+          },
+          {
+            "theme": "Policy Optimization and Training Efficiency",
+            "weight": 5,
+            "explanation": "This theme directly addresses 'policy optimization' and 'efficiency' using asynchronous methods, which are core concepts in the target paper."
+          },
+          {
+            "theme": "Scalability in Deep Reinforcement Learning",
+            "weight": 5,
+            "explanation": "The target paper's focus on asynchronous methods directly relates to achieving scalability in Deep Reinforcement Learning, making this theme extremely important."
+          },
+          {
+            "theme": "Tool Use and Integration in Agents",
+            "weight": 3,
+            "explanation": "While RL is used in tool-use scenarios, and asynchronous methods can accelerate training, the primary focus of the target paper is the methods themselves, not the specific application of tool use."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Focus on Specific Applications vs. General Methods",
+            "weight": 4,
+            "explanation": "This theme directly contrasts with the target paper's focus on general asynchronous optimization techniques, indicating a lower likelihood of direct referencing if the paper is application-specific."
+          },
+          {
+            "theme": "Novelty in Model Architecture or Framework Design",
+            "weight": 3,
+            "explanation": "If a paper's novelty lies in architecture or framework design rather than RL optimization methods, the target paper may be less relevant unless its asynchronous methods are integral to that novel design."
+          },
+          {
+            "theme": "Different Optimization or Training Paradigms",
+            "weight": 4,
+            "explanation": "Papers using synchronous RL or other optimization strategies, or focusing on theoretical scaling without implementing asynchronous parallelism, are less likely to directly reference the target paper."
+          },
+          {
+            "theme": "Emphasis on Benchmarking or Surveying",
+            "weight": 3,
+            "explanation": "Papers focused on benchmarking or surveying might use RL but not delve into the specific asynchronous methods presented in the target paper. Relevance is likely peripheral."
+          },
+          {
+            "theme": "RL as a Component, Not the Core Focus",
+            "weight": 4,
+            "explanation": "If RL is just a minor component in a paper with a different core focus (data synthesis, prompt engineering, etc.), the specific asynchronous methods from the target paper are unlikely to be central or directly referenced."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 7,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.44631146489480333
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.509248258462945
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.5200805329996665
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.5317845644028187
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.5381672643050032
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.5509394207091025
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.5586007974066731
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.562146417916213
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.5646503578191384
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.5836730578657572
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.58445859022651
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.5879431733349891
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.6062333635982612
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 0.6070808169450109
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.6078121887693073
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.6357352031427803
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.6418215948363809
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.6442032515195222
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 0.6579897203654841
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.6620316430242789
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.6682511957861512
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6875210716838545
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.6927196958734242
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 0.7107909031493405
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 0.72925354245412
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.75102459854845
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 15,
+    "ordered": [
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.6788994593657091
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners",
+        "score": 0.7533849858833334
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+        "score": 0.757768393368049
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning",
+        "score": 0.7684264809228066
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving",
+        "score": 0.7760579571515568
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+        "score": 0.8252003644785344
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+        "score": 0.825394136837477
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents",
+        "score": 0.86788844916656
+      },
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning",
+        "score": 0.8729557129882475
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+        "score": 0.9070363620271337
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+        "score": 0.9073026151775903
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.9354073471263499
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
+        "score": 0.9514670543833025
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners",
+        "score": 0.9533376044072905
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms",
+        "score": 0.9584095393864569
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "score": 0.9739241884047164
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+        "score": 0.9752162353219007
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+        "score": 0.9828883619588418
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.9916481084671851
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+        "score": 1.0024372558740753
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization",
+        "score": 1.0051787082341483
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 1.0146737727777202
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 1.0475276552981456
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+        "score": 1.0778274834083805
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+        "score": 1.08418617840052
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.2475647658108704
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.08191",
+      "title": "Training-Free Group Relative Policy Optimization"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.02479",
+        "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
+      },
+      {
+        "arxivId": "2508.13167",
+        "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"
+      },
+      {
+        "arxivId": "2507.18071",
+        "title": "Group Sequence Policy Optimization"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.06229",
+        "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"
+      },
+      {
+        "arxivId": "2505.23885",
+        "title": "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "arxivId": "2506.06303",
+        "title": "Reward Is Enough: LLMs Are In-Context Reinforcement Learners"
+      },
+      {
+        "arxivId": "2505.10978",
+        "title": "Group-in-Group Policy Optimization for LLM Agent Training"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2505.07773",
+        "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving"
+      },
+      {
+        "arxivId": "2504.11536",
+        "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+      },
+      {
+        "arxivId": "2503.20783",
+        "title": "Understanding R1-Zero-Like Training: A Critical Perspective"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2503.09516",
+        "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2411.04890",
+        "title": "GUI Agents with Foundation Models: A Comprehensive Survey"
+      },
+      {
+        "arxivId": "2406.01014",
+        "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2402.01030",
+        "title": "Executable Code Actions Elicit Better LLM Agents"
+      },
+      {
+        "arxivId": "2401.07339",
+        "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges"
+      },
+      {
+        "arxivId": "2303.17651",
+        "title": "Self-Refine: Iterative Refinement with Self-Feedback"
+      },
+      {
+        "arxivId": "2303.11366",
+        "title": "Reflexion: language agents with verbal reinforcement learning"
+      },
+      {
+        "arxivId": "2302.04761",
+        "title": "Toolformer: Language Models Can Teach Themselves to Use Tools"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      },
+      {
+        "arxivId": "2005.14165",
+        "title": "Language Models are Few-Shot Learners"
+      },
+      {
+        "arxivId": "1707.06347",
+        "title": "Proximal Policy Optimization Algorithms"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "1707.06347",
+      "title": "Proximal Policy Optimization Algorithms"
+    },
+    "target": {
+      "arxivId": "1602.01783",
+      "title": "Asynchronous Methods for Deep Reinforcement Learning"
+    }
+  }
+}

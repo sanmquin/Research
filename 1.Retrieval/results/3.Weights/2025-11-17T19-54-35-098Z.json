@@ -1,0 +1,2153 @@
+{
+  "selectedSource": {
+    "arxivId": "2504.21776",
+    "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+  },
+  "target": {
+    "arxivId": "2504.11536",
+    "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+  },
+  "scores": {
+    "rank": 3,
+    "ordered": [
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.02544",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 6
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "score": 352
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "positiveScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 10
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2508.06471",
+          "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 4
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 9
+            }
+          ]
+        },
+        "score": 243
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "positiveScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.21776",
+          "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 223
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "positiveScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 10
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2210.03629",
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 7
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 208
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "positiveScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13309",
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 205
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "positiveScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 9
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 10
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13312",
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 201
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 9
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 200
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "positiveScores": {
+          "arxivId": "2507.02592",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 6
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.02592",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 6
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 194
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "positiveScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.01600",
+          "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 7
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 8
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 191
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "positiveScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 2
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13313",
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 190
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "positiveScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 9
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 8
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 7
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13305",
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 6
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 189
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "positiveScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 8
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 7
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.22648",
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 189
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "positiveScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 8
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 9
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 7
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.15061",
+          "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 182
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "positiveScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 9
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 8
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 7
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2507.05241",
+          "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 9
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 179
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "positiveScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 10
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 8
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 6
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 5
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2503.14476",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 5
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 171
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "positiveScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 8
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 10
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 9
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 159
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "positiveScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 10
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 8
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 6
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13311",
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 8
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 7
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 7
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 157
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "positiveScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 10
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 7
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2509.13310",
+          "title": "Scaling Agents via Continual Pre-training",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 4
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 3
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 9
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 149
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "positiveScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 5
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 8
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 7
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 8
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 8
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 8
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 139
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "positiveScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 7
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 8
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 9
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2409.12941",
+          "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 6
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 136
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "positiveScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 7
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 6
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.12516",
+          "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 6
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 127
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "positiveScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 8
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 8
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 9
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 8
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.14249",
+          "title": "Humanity's Last Exam",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 7
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 8
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 7
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 3
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 120
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "positiveScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 8
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 6
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 6
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 4
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2506.02153",
+          "title": "Small Language Models are the Future of Agentic AI",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 6
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 5
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 8
+            }
+          ]
+        },
+        "score": 117
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "positiveScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 7
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 5
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2501.07572",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 6
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 112
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "positiveScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 6
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 7
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2502.09977",
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 6
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 109
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "positiveScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 4
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 6
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 5
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 6
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 10
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2504.19314",
+          "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 9
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 6
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 4
+            }
+          ]
+        },
+        "score": 104
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "positiveScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Reinforcement Learning (RL)",
+              "score": 3
+            },
+            {
+              "theme": "Agent Capabilities and Enhancement",
+              "score": 7
+            },
+            {
+              "theme": "Strategic Tool Use",
+              "score": 5
+            },
+            {
+              "theme": "Reasoning and Long-Horizon Tasks",
+              "score": 6
+            },
+            {
+              "theme": "LLM Enhancement for Complex Tasks",
+              "score": 7
+            },
+            {
+              "theme": "Benchmarking and Evaluation",
+              "score": 3
+            }
+          ]
+        },
+        "negativeScores": {
+          "arxivId": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "scores": [
+            {
+              "theme": "Focus on Specific Method vs. General Capability",
+              "score": 3
+            },
+            {
+              "theme": "Benchmark Contribution vs. Methodological Contribution",
+              "score": 2
+            },
+            {
+              "theme": "Scope of Application",
+              "score": 4
+            },
+            {
+              "theme": "Core Technique Difference",
+              "score": 2
+            },
+            {
+              "theme": "Emphasis on Model vs. Mechanism",
+              "score": 9
+            }
+          ]
+        },
+        "score": 102
+      }
+    ],
+    "reflection": {
+      "summaryResults": {
+        "explanation_themes": [
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "description": "Many explanations highlight the direct mention or strong relevance of Reinforcement Learning as a core component of both the target paper and the related works, indicating its importance in training agents for strategic tasks."
+          },
+          {
+            "theme": "Agent Capabilities and Enhancement",
+            "description": "A recurring theme is the enhancement of agent capabilities, particularly in Large Language Models (LLMs), through methods like strategic tool use, reasoning, and scaling. The papers explore how to make agents more intelligent and capable."
+          },
+          {
+            "theme": "Strategic Tool Use",
+            "description": "The concept of strategic tool use by LLMs is central. Explanations frequently connect the target paper's focus on this to related works that discuss enhancing agents for complex tasks, reasoning, or information seeking, where tool use is implied or explicit."
+          },
+          {
+            "theme": "Reasoning and Long-Horizon Tasks",
+            "description": "Several explanations link the target paper to research on agents with advanced reasoning abilities, especially for long-horizon tasks. Strategic tool use is identified as a critical method for achieving such complex reasoning and task completion."
+          },
+          {
+            "theme": "LLM Enhancement for Complex Tasks",
+            "description": "The explanations frequently discuss how the target paper's methods can improve LLMs for difficult tasks, including research, coding, web navigation, and mathematical problem-solving, by enabling them to use tools strategically."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "description": "Some explanations mention benchmarks for agent performance, particularly in web browsing or general assistance. The target paper's focus on strategic tool use is seen as relevant for developing and evaluating agents within these benchmarks."
+          }
+        ],
+        "contrastive_themes": [
+          {
+            "theme": "Focus on Specific Method vs. General Capability",
+            "description": "Many contrastive explanations differentiate papers by highlighting that the target paper focuses on a specific methodology (RL for strategic tool use), while related works might focus on broader concepts like general agentic intelligence, environment scaling, or specific model architectures."
+          },
+          {
+            "theme": "Benchmark Contribution vs. Methodological Contribution",
+            "description": "Several papers are contrasted because their primary contribution is a benchmark or evaluation framework (e.g., for browsing agents, RAG, or general AI assistants), whereas the target paper contributes a specific learning method for strategic tool use."
+          },
+          {
+            "theme": "Scope of Application",
+            "description": "Contrastive themes emerge regarding the scope of application, with some related papers focusing on specialized domains (e.g., scientific AI, GUI agents, mathematical reasoning, web browsing) or specific tasks (e.g., summarization, data synthesis), while the target paper's approach to strategic tool use is presented as more general for LLMs."
+          },
+          {
+            "theme": "Core Technique Difference",
+            "description": "The contrast often lies in the core technique discussed. For instance, some papers focus on continual pre-training, synthetic data generation, or environment scaling as primary methods, which differ from the target paper's emphasis on Reinforcement Learning for strategic tool use."
+          },
+          {
+            "theme": "Emphasis on Model vs. Mechanism",
+            "description": "Some papers are contrasted because they introduce or evaluate a specific LLM or foundation model (e.g., Qwen3, GLM-4.5), whereas the target paper focuses on a mechanism (RL for tool use) that can enhance various models."
+          }
+        ]
+      },
+      "weights": {
+        "positive_weights": [
+          {
+            "theme": "Reinforcement Learning (RL)",
+            "weight": 9,
+            "explanation": "The target paper's title explicitly mentions Reinforcement Learning as a core component for strategic tool use, making this theme highly relevant."
+          },
+          {
+            "theme": "Agent Capabilities and Enhancement",
+            "weight": 8,
+            "explanation": "The paper focuses on enhancing LLM agent capabilities through strategic tool use, which aligns directly with this theme."
+          },
+          {
+            "theme": "Strategic Tool Use",
+            "weight": 10,
+            "explanation": "This is the central theme of the target paper, as indicated by its title and description, making it the most important positive predictor."
+          },
+          {
+            "theme": "Reasoning and Long-Horizon Tasks",
+            "weight": 7,
+            "explanation": "Strategic tool use is a key enabler for agents to perform complex reasoning and tackle long-horizon tasks, making this theme a strong positive indicator."
+          },
+          {
+            "theme": "LLM Enhancement for Complex Tasks",
+            "weight": 8,
+            "explanation": "The paper aims to enhance LLMs for complex tasks by teaching them strategic tool use, directly supporting this theme."
+          },
+          {
+            "theme": "Benchmarking and Evaluation",
+            "weight": 6,
+            "explanation": "While not the primary focus, the developed method for strategic tool use is likely to be evaluated or used within benchmarks for agent performance, giving this theme moderate importance."
+          }
+        ],
+        "negative_weights": [
+          {
+            "theme": "Focus on Specific Method vs. General Capability",
+            "weight": 7,
+            "explanation": "The target paper's specific methodology (RL for tool use) is distinct from broader research on general agentic intelligence or architectural improvements, making this a significant distinguishing factor."
+          },
+          {
+            "theme": "Benchmark Contribution vs. Methodological Contribution",
+            "weight": 8,
+            "explanation": "The target paper's core contribution is a learning method (RL), rather than a new benchmark or evaluation framework, which is a frequent point of contrast."
+          },
+          {
+            "theme": "Scope of Application",
+            "weight": 5,
+            "explanation": "While the target paper aims for general LLM enhancement, many related works focus on narrower domains. This difference in scope makes it a moderately negative predictor."
+          },
+          {
+            "theme": "Core Technique Difference",
+            "weight": 9,
+            "explanation": "The focus on Reinforcement Learning for strategic tool use is a very specific technical approach that differentiates it from other papers focusing on continual pre-training, synthetic data, or environment scaling."
+          },
+          {
+            "theme": "Emphasis on Model vs. Mechanism",
+            "weight": 8,
+            "explanation": "The target paper is about a mechanism (RL for tool use) applicable to various models, contrasting with papers that introduce or focus on specific LLM architectures themselves."
+          }
+        ]
+      }
+    }
+  },
+  "ranking": {
+    "rank": 10,
+    "ordered": [
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.232172340294599
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.2401393768847475
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.34794762754819153
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.41284667386408114
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.4264341637480158
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.47414580728210554
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.4998318183394457
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.5020916900603909
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.5089812017164662
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.5308673019476644
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.5374230247585289
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.5429437771229481
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.5698658652571482
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.5727770777221752
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.5795273489266701
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.5851564310025377
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.5972333236483928
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.6003626445629346
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.6008521000907372
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.6019278361840438
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.610301811409438
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.6215163047349975
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.6221842598175011
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.6224587589655858
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 0.6335531010279514
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 0.6420725928752941
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 0.7817307107658911
+      }
+    ]
+  },
+  "semanticRanking": {
+    "rank": 8,
+    "ordered": [
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+        "score": 0.5019747240920803
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+        "score": 0.5352951738118292
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+        "score": 0.6955550008387549
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+        "score": 0.7092195018736537
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+        "score": 0.7214510597570744
+      },
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+        "score": 0.7225573079155783
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing",
+        "score": 0.755135444553246
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+        "score": 0.7634140684766898
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+        "score": 0.8088517782119176
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+        "score": 0.8304324540261693
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+        "score": 0.8372254137645916
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+        "score": 0.8421398720917916
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants",
+        "score": 0.8477722488471573
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI",
+        "score": 0.8500253257851711
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+        "score": 0.9091273644963879
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization",
+        "score": 0.9098502770576632
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+        "score": 0.9157748615334584
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+        "score": 0.9162041593192227
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "score": 0.927345901484952
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+        "score": 0.9290742221782776
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+        "score": 0.9472959157702224
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling",
+        "score": 0.9499992946011895
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training",
+        "score": 0.9534179838699559
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation",
+        "score": 0.969093582375292
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+        "score": 1.0124518384915038
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report",
+        "score": 1.1413322579730976
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam",
+        "score": 1.3770221204998716
+      }
+    ]
+  },
+  "refs": {
+    "seed": {
+      "arxivId": "2510.24701",
+      "title": "Tongyi DeepResearch Technical Report"
+    },
+    "sources": [
+      {
+        "arxivId": "2509.13309",
+        "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents"
+      },
+      {
+        "arxivId": "2509.13305",
+        "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning"
+      },
+      {
+        "arxivId": "2509.13312",
+        "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research"
+      },
+      {
+        "arxivId": "2509.13310",
+        "title": "Scaling Agents via Continual Pre-training"
+      },
+      {
+        "arxivId": "2509.13313",
+        "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"
+      },
+      {
+        "arxivId": "2509.13311",
+        "title": "Towards General Agentic Intelligence via Environment Scaling"
+      },
+      {
+        "arxivId": "2509.02544",
+        "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning"
+      },
+      {
+        "arxivId": "2508.06471",
+        "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+      },
+      {
+        "arxivId": "2507.15061",
+        "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization"
+      },
+      {
+        "arxivId": "2507.05241",
+        "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?"
+      },
+      {
+        "arxivId": "2507.02592",
+        "title": "WebSailor: Navigating Super-human Reasoning for Web Agent"
+      },
+      {
+        "arxivId": "2506.02153",
+        "title": "Small Language Models are the Future of Agentic AI"
+      },
+      {
+        "arxivId": "2505.22648",
+        "title": "WebDancer: Towards Autonomous Information Seeking Agency"
+      },
+      {
+        "arxivId": "2505.09388",
+        "title": "Qwen3 Technical Report"
+      },
+      {
+        "arxivId": "2504.21776",
+        "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+      },
+      {
+        "arxivId": "2504.19314",
+        "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese"
+      },
+      {
+        "arxivId": "2504.12516",
+        "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+      },
+      {
+        "arxivId": "2503.14476",
+        "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale"
+      },
+      {
+        "arxivId": "2502.09977",
+        "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing"
+      },
+      {
+        "arxivId": "2502.01600",
+        "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents"
+      },
+      {
+        "arxivId": "2501.14249",
+        "title": "Humanity's Last Exam"
+      },
+      {
+        "arxivId": "2501.12948",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      },
+      {
+        "arxivId": "2501.07572",
+        "title": "WebWalker: Benchmarking LLMs in Web Traversal"
+      },
+      {
+        "arxivId": "2409.12941",
+        "title": "Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation"
+      },
+      {
+        "arxivId": "2402.03300",
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+      },
+      {
+        "arxivId": "2311.12983",
+        "title": "GAIA: a benchmark for General AI Assistants"
+      },
+      {
+        "arxivId": "2210.03629",
+        "title": "ReAct: Synergizing Reasoning and Acting in Language Models"
+      }
+    ],
+    "selectedSource": {
+      "arxivId": "2504.21776",
+      "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability"
+    },
+    "target": {
+      "arxivId": "2504.11536",
+      "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"
+    }
+  }
+}
