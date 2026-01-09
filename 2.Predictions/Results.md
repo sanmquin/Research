@@ -1,10 +1,15 @@
 # Results
 
-Channels: 25
+
 Baseline: 1.17x (1.07x training)
+
 Embeddings: 0.92x (0.78x)
+
 LLM: 1.01x (0.85x)
+
 Reflexion: 1.05x (0.82x)
+
+Channels: 25
 
 							
 Full results:
